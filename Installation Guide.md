@@ -117,14 +117,14 @@ ReShade comes with the collection once you have finished downloading it will be 
 
 1) Click on Reshade in the top corner.
 
-![](https://s11.gifyu.com/images/Reshade994ca6dfeae6e8e5.jpg)
+![]()
 
-2) Select browse and find the **"*Cyberpunk2077.exe*"** and select it. **(Locations below)**
+2) Select browse and find the **"*Starfield.exe *"** and select it. **(Locations below)**
 
 ```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk2077.exe
-GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk2077.exe
-Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe  
+Steam> Drive Letter\SteamLibrary\steamapps\common\CStarfield.exe 
+GOG>   Drive Letter\GOGLibrary\Games\Starfield.exe 
+Epic>  Drive Letter\EpicLibrary\Starfield.exe  
 ```
 
 3) Select Directx 10/11/12
@@ -134,12 +134,10 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk2077.exe
 
 I have added these reshades below.
 
-- Constellation Reshade by [v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
+- Constellation Reshade by [v2]()
 
 ### **Reshade controls**
 
 **End** key to toggle main effects
 **Home** key to open GUI
 
-
-![](https://s12.gifyu.com/images/SuG0u.png)

@@ -1,4 +1,4 @@
-![img](https://s11.gifyu.com/images/Cuty-od-Dreams-Logo-YellowUP.png)
+
 [CURRENT UPDATE]
 
 [HEY GUYS Rev 1 is here](https://)
