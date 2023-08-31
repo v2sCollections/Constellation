@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 2 is HERE](https://)
+## [HEY GUYS Rev 3 is HERE](https://)
 
 ## NOTES
 
@@ -16,7 +16,8 @@ N/A
 
 ## NEW MODS ADDED
 
-
+- [Splash Screens](https://www.nexusmods.com/starfield/mods/167)
+- [No-Intro Videos Fix](https://www.nexusmods.com/starfield/mods/88)
 
 ## BUGS
 
