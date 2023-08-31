@@ -1,10 +1,16 @@
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation)
+
+
+# DO NOT DOWNLOAD THIS YET
+
+### Updated & Compatible with
+
+### Collection Rev 2  &#x20;
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hours spent building, configuring, modding and testing to create the best Starfield experience possible.
 
-This is a  Mod Collection it is the largest and most comprehensive mod list for **Starfield.**&#x20;
+This Mod Collection is the most comprehensive mod list for **Starfield.**&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -21,20 +27,28 @@ This collection is extensively tested with every new version that is released. I
 - Easy to follow step-by-step installation guide.
 - Only-1GB in download size for mods.
 - Mods specifically created for the collection.
-- Setup Video-[HERE](https://)
-- Dedicated Youtube Channel-[HERE](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
+- Setup Video- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
-- [Youtube Channel](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)-with Guides and Videos.
+- Youtube Channel-with Guides and Videos. (COMING SOON)
 - Continuous Support in Comments and on Discord.
 - Live voice support.
 - Nexus Premium Giveaways (Every Week).
 - and much much more Join our Discord for more information.
 
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow chooms every day.
+![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow players every day.
 
-[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)Follow us on [Youtube](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA) for guides and videos.
+![](https://s12.gifyu.com/images/SuqD4.png)Follow us on YouTube for guides and videos.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
+
+- 20+ Splash Screens.
+- Gameplay Mods & Tweaks.
+- Bug Fixes.
+- Quality-of-life-Improvements.
+- Input Mods.
+- Improved UI.
+- In-game Mod Menus.
+- Support for other Modular Expansion Packs.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
 
@@ -76,20 +90,20 @@ C:\Users\Your username\Saved Games\
 
 ## ![](https://s11.gifyu.com/images/SgdAq.png)[READ](https://)
 
-- ⛔ It Is important that you \*\*READ \*\*the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+- ⛔ It Is important that you READ the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
 
 ## [Install time](https://)
 
 This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. And you can just cancel the subscription after the installation if you wish.
 
-**Premium Users**: Takes 1.5 hours + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 2 to 2.5 hours + Semi-automatic. You will have to click on download for each mod one by one.
+**Premium Users**: Takes 10 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 20 Min + Semi-automatic. You will have to click on download for each mod one by one.
 
 ***
 
 ## [PC  Updates](https://)
 
-- Make sure that you have the latest version of Microsoft visual studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 - Make sure that you have the latest Graphics driver update.
 
@@ -103,40 +117,34 @@ This is a large collection I recommend purchasing a Nexus premium account even j
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\
-GOG>   Drive Letter\GOGLibrary\Games\
-Epic>  Drive Letter\EpicLibrary
 ```
 
 ***
 
 ## [Vortex](https://)
 
-1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed you can find it from the link below. If you already have Vortex skip this step.
+1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
 ***
 
-## [Vortex & Cyberpunk](https://)
+## [Vortex & Starfield](https://)
 
 1. Open Vortex and click on "Select a game to manage".
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
 
-6 ) On the next screen scroll down to the **"Cyberpunk 2077"** icon and click on **"Manage".**
+6 ) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
 
-![](https://s12.gifyu.com/images/Untitled99ac613c165d0e14.jpg)
-
-7 ) On the popup that appears click on **"Download"** on the bottom right, vortex will restart.
+![](https://s11.gifyu.com/images/SgCKR.jpg)7 ) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
 8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-9 ) A window will now pop up where you can choose the folder where  **"Cyberpunk 2077"** is installed. **(Locations below)**.
+9 ) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
 
 ```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Cyberpunk 2077
-GOG>   Drive Letter\GOGLibrary\Games\Cyberpunk 2077
-Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
+Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 ```
 
 11 ) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
@@ -152,7 +160,7 @@ Epic>  Drive Letter\EpicLibrary\Cyberpunk 2077
 
 1. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s12.gifyu.com/images/Screenshot-2023-04-17-115745.png)
+![](https://s11.gifyu.com/images/SgCKJ.jpg)
 
 1. Click "Add to Vortex"(choose your newly created profile).
 
@@ -180,26 +188,25 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ***
 
-## NOW!!! [Wake the f\*\*k up, Samurai. We have a city to burn.](https://)
+##
 
-## ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY5NGNiZGQzY2Q1ZmNiNWMxNTYyODliMjA5YmVlNDIwOGI4NDM3NyZjdD1n/ww8JvNyaRDQu0pMhYQ/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
+## Please Endorse and Vote for the Collection.
 
 ***
 
 ## [Reshade](https://)
 
+<details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
 1. Click on Reshade in the top corner.
 
-![](https://s11.gifyu.com/images/Reshade994ca6dfeae6e8e5.jpg)
+![](https://s11.gifyu.com/images/SgFLM.jpg)
 
 1. Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
 
 ```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield.exe  
-GOG>   Drive Letter\GOGLibrary\Games\Starfield.exe  
-Epic>  Drive Letter\EpicLibrary\Starfield.exe  
+Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 ```
 
 1. Select Directx 10/11/12
@@ -207,7 +214,7 @@ Epic>  Drive Letter\EpicLibrary\Starfield.exe
 3. Select next and finish the installation.
 4. Run the game
 
-I have added these reshades below.
+I have added the Reshade below.
 
 - Constellation Reshade by[v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
 
@@ -215,6 +222,7 @@ I have added these reshades below.
 
 **End** key to toggle main effects\
 **Home** key to open GUI
+</details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -222,17 +230,95 @@ I have added these reshades below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
+You can find the full Troubleshooting list on our Discord and here Troubleshooting/FAQ&#x20;
 
-You can find all our guides on our Discord and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
+You can find all our guides on our Discord and here Guides
 
 ## FAQ
 
+<details><summary>COMMON FAQS</summary>
+
+</details>
+
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
 
+## ⛔[WARNINGS](https://)⛔
+
+If you see this> ⛔ then you need to read and follow the directions.
+
+⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see the optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want.
+
+⛔ It Is important that you read the following guide to fully understand everything clearly.
+
+You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+
+
+![](https://s11.gifyu.com/images/SgFM7.png)
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFpk.png)
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFpq.png)
+
+- Reshade included.
+- Reshade Preset.
+- 20+ Splash Screens.
+
+
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFpm.png)
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFpI.png)
+
+- Skip the intro.
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFph.png)
+
+
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFp7.png)
+
+
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFpv.png)
+
+
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFpE.png)
+
+
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFp9.png)
+
+
+
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgFpd.png)
+
+
+
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
-
-
 
 ## ![](https://s11.gifyu.com/images/SgdAI.png)
 
@@ -244,8 +330,7 @@ Please do not forget that when you install any extra collections, it's your resp
 
 Recommended In-game settings These settings will give a slight performance boost without sacrificing quality.
 
-
-
+<details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
 ### YOUTUBE GUIDES TO IMPROVE GAMING PERFORMANCE.
 
 - [Ultimate Windows 10 Gaming Performance Optimization Guide](https://www.youtube.com/watchv=PYKFQu3Vr4A)
@@ -258,6 +343,7 @@ Recommended In-game settings These settings will give a slight performance boost
 - [QUICK CPU](https://coderbag.com/product/quickcpu)
 - [ISLC](https://www.wagnardsoft.com/forums/viewtopic.php?t=1256)
 - [NVIDIA PROFILE INSPECTOR](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
+</details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -268,7 +354,7 @@ Recommended In-game settings These settings will give a slight performance boost
 - 1080p> RTX 3060 or RX 6700 XT
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
-- CPU> R5 3600 or i5 9600K
+- CPU> R5 3600x or i5 10600K
 - STORAGE> 1GB
 - STORAGE TYPE> SSD
 
@@ -287,22 +373,19 @@ Please let us know if you have any issues with this collection I'm sure we can f
 
 If you enjoy this collection, **PLEASE** endorse the mod authors and Support me to help me build the best collection we can for this game.
 
-Special thanks to these chooms who helped make this collection preem. And everyone on the Nexus & The Starfield modding Discords.
+Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
 
 - [canliberk](https://www.nexusmods.com/users/5027009)
+- [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 - Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
 - Fenrir
-- The Magnificent Doctor Presto
 - Starfox
-- Jeridlee
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 
 If you would like to support me click the button below. Can't donate? I understand a simple thank you and endorsement is much appreciated.
-
-
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -312,11 +395,8 @@ If you would like to support me click the button below. Can't donate? I understa
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-
-
 ## [Disclaimer](https://)
 
 - I will not be responsible for any possibility of save corruption.
--
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
