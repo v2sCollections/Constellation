@@ -1,16 +1,16 @@
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
 
+### Updated & Compatible with the first Release of Starfield on Steam.
 
-# DO NOT DOWNLOAD THIS YET
-
-### Updated & Compatible with
-
-### Collection Rev 2  &#x20;
+### Collection Rev 6&#x20;
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
-This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hours spent building, configuring, modding and testing to create the best Starfield experience possible.
+If you haven't seen me before that's because this is my first entry into the world of Bethesda but don't let that fool you I have a passion for everything Gaming/Modding. I have been modding and curating collections for other games such as [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) which I currently have the most endorsed and downloaded collection on [Nexus](https://). I've also curated the largest and most comprehensive mod collection for [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) with 800+Mods. And my latest collection for [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection). I'm eager to get started on a whole new chapter and I would love for you to come along for the ride. See you soon.
 
-This Mod Collection is the most comprehensive mod list for **Starfield.**&#x20;
+This isn't just a mod list we have slapped together this will be a whole new world of Starfield. I have already spent hours and hours on this collection and I have only just started. I want to create the best Starfield experience possible.
+
+This Mod Collection will be the most comprehensive mod list for **Starfield.**&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -32,7 +32,7 @@ This collection is extensively tested with every new version that is released. I
 - Youtube Channel-with Guides and Videos. (COMING SOON)
 - Continuous Support in Comments and on Discord.
 - Live voice support.
-- Nexus Premium Giveaways (Every Week).
+- Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
 ![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow players every day.
@@ -47,17 +47,17 @@ This collection is extensively tested with every new version that is released. I
 - Quality-of-life-Improvements.
 - Input Mods.
 - Improved UI.
-- In-game Mod Menus.
+- DLSS Support
 - Support for other Modular Expansion Packs.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
 
 ## [Make a Backup Save](https://)
 
-- Mods for Starfield are pretty reliable but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
+- Mods for Starfield are WELL I DON'T KNOW but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
 ```
-C:\Users\Your username\Saved Games\
+C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
@@ -109,15 +109,10 @@ This is a large collection I recommend purchasing a Nexus premium account even j
 
 ***
 
-## [Cyberpunk2077](https://)
+## [Starfield](https://)
 
 1. Start with a fresh install of Starfield.
 2. Make sure the game is installed on an SSD.
-3. You need to create a mod folder go to the following location (Locations below) and create a folder named mod. When done should look as follows.
-
-```
-Steam> Drive Letter\SteamLibrary\steamapps\common\
-```
 
 ***
 
@@ -164,11 +159,27 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 1. Click "Add to Vortex"(choose your newly created profile).
 
-![](https://s12.gifyu.com/images/Untitled1.png)
+## ![](https://s12.gifyu.com/images/Untitled1.png)
 
-## [POPUPS](https://)
+***
 
-1. These may pop up in Vortex as you are downloading the collection.
+## [ENABLING STARFIELD MODDING](https://)
+
+1\. After you have downloaded the collection you need to go to the following location
+
+```
+SteamLibrary\steamapps\common\Starfield\Constallation Readme\
+```
+
+2\. Here you will find a file called \[StarfieldCustom.ini] copy this file and place it into the following location.
+
+```
+ C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+```
+
+3\. Once done should look as follows.
+
+![](https://s11.gifyu.com/images/SgFGr.png)
 
 ***
 
@@ -186,11 +197,24 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
+### DLSS Support
+
+If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
+
+1\. Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
+![](https://s11.gifyu.com/images/SgFWA.png)2. To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
+
+3\. Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
+
+\
+⛔(This mod can be buggy with a Reshade installed and Overlays) I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.\
+
+
 ***
 
-##
+## NOW JOIN CONSTELLATION!!!
 
-## Please Endorse and Vote for the Collection.
+## ![](<\<iframe src="https://giphy.com/embed/6yG1e2cnStpgpEDDId" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="https://giphy.com/gifs/xbox-xbox-series-x-starfield-e3-6yG1e2cnStpgpEDDId"\>via GIPHY\</a\>\</p\>>)![](https://media.giphy.com/media/6yG1e2cnStpgpEDDId/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
 
 ***
 
@@ -206,7 +230,7 @@ ReShade is included with the collection once you have finished downloading it wi
 1. Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
 
 ```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
+Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
 ```
 
 1. Select Directx 10/11/12
@@ -230,9 +254,9 @@ I have added the Reshade below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our Discord and here Troubleshooting/FAQ&#x20;
+You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
-You can find all our guides on our Discord and here Guides
+You can find all our guides on our Discord and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
 
 ## FAQ
 
@@ -254,8 +278,6 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-
-
 ![](https://s11.gifyu.com/images/SgFM7.png)
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -269,8 +291,8 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Reshade included.
 - Reshade Preset.
 - 20+ Splash Screens.
-
-
+- Adds DLSS support into the game. (This mod can be buggy with a Reshade installed and Overlays)
+- Smaller HUD elements.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -281,42 +303,31 @@ You can check out the gallery at the top of this page for videos by some of the 
 ![](https://s11.gifyu.com/images/SgFpI.png)
 
 - Skip the intro.
+- PS5 Controller Support. Playstations Icons Instead of Xbox.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFph.png)
 
-
-
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFp7.png)
-
-
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpv.png)
 
-
-
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpE.png)
-
-
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFp9.png)
 
-
-
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpd.png)
-
-
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -385,7 +396,7 @@ Special thanks to these guys who helped make this collection what it is. And eve
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 
-If you would like to support me click the button below. Can't donate? I understand a simple thank you and endorsement is much appreciated.
+If you would like to support me so I can afford a new ship click the button below. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -398,5 +409,6 @@ If you would like to support me click the button below. Can't donate? I understa
 ## [Disclaimer](https://)
 
 - I will not be responsible for any possibility of save corruption.
+- © 2023 Bethesda Softworks LLC, a ZeniMax Media company. Trademarks belong to their respective owners.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
