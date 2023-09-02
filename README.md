@@ -1,16 +1,15 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
+
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
-### Collection Rev 7
+### Collection Rev 9
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
 If you haven't seen me before that's because this is my first entry into the world of Bethesda but don't let that fool you I have a passion for everything Gaming/Modding. I have been modding and curating collections for other games such as [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) which I currently have the most endorsed and downloaded collection on [Nexus](https://). I've also curated the largest and most comprehensive mod collection for [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) with 800+Mods. And my latest collection for [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection). I'm eager to get started on a whole new chapter and I would love for you to come along for the ride. See you soon.
 
 This isn't just a mod list we have slapped together this will be a whole new world of Starfield. I have already spent hours and hours on this collection and I have only just started. I want to create the best Starfield experience possible.
-
-This Mod Collection will be the most comprehensive mod list for **Starfield.**&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -93,8 +92,6 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 - ⛔ It Is important that you READ the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
 
 ## [Install time](https://)
-
-This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. And you can just cancel the subscription after the installation if you wish.
 
 **Premium Users**: Takes 10 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
 **Free Users:** Takes 20 Min + Semi-automatic. You will have to click on download for each mod one by one.
@@ -197,10 +194,64 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
+1. To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods
+
+<details><summary>CLICK FOR A FULL LIST OF CONSOLE COMMANDS</summary>
+![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
+
+- To apply the tweaks, run **"bat builderTweak"**
+- To uninstall the mod / revert the settings, simply run **"bat builderReset"**
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tolerance Tweaks
+
+- To increase the tolerance run **"bat toleranceBig"**, or **"bat toleranceHuge"** (Huge basically disables any overlapping checks, letting you build some cursed things)
+- To uninstall the mod / revert the settings, simply run **"bat toleranceReset"**
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)In-Game FOV Changer
+
+- For First Person FOV: Run **"bat fpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat fpp95")
+- For Third Person FOV: Run **"bat tpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat tpp95")
+- To uninstall the mod / revert the settings, simply set FPP to 85 and TPP to 70 (Those are the vanilla values)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+</details>
+
+1. Keybinds You will find the key bind list on our Discord Or here [Keybinds](https://github.com/2077v2/Constellation/blob/main/Keybinds.md)
+
+<details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
+![](https://s11.gifyu.com/images/SgafS.png)
+
+These are setup for a full size KB.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+### RESHADE
+
+- HOME>  UI
+- END> Toggle Reshade
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+### CONSOLE
+
+- \~> Console
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+### DLSS
+
+- END> Toggle DLSS UI
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+</details>
+
 ### DLSS Support
 
+<details><summary>CLICK HERE FOR OPTIONAL DLSS GUIDE</summary>
 If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
 ⛔ If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
+
+⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
 
 1\. Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
 ![](https://s11.gifyu.com/images/SgFWA.png)2. To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
@@ -209,6 +260,7 @@ If you choose to use the DLSS Support (OPTIONAL) you will need to do the followi
 
 \
 ⛔(This mod can be buggy with a Reshade installed and Overlays) I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
+</details>
 
 ***
 
@@ -267,6 +319,32 @@ You can find all our guides on our Discord and here [Guides](https://github.com/
 
 \
 If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
+
+## [Some Mods not working❓](https://)
+
+After installation, you will need to place the INI File into your Documents folder.
+
+Depending on what new mods are added in each update you may be required to do this again for certain updates.
+
+You will be notified in the changelog if this needs to be done on each update.
+
+ENABLING STARFIELD MODDING
+
+1\. After you have downloaded the collection you need to go to the following location
+
+```
+SteamLibrary\steamapps\common\Starfield\Constallation Readme\
+```
+
+2\. Here you will find a file called \[StarfieldCustom.ini] copy this file and place it into the following location.
+
+```
+C:\Users[YOUR USERNAME\Documents\My Games\Starfield
+```
+
+3\. Once done should look as follows.
+
+![](https://s11.gifyu.com/images/SgFGr.png)
 </details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
@@ -299,6 +377,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Reshade Preset.
 - New Animated Main Menu Screens.
 - 20+ Splash Screens.
+- Change the FOV.
 
 You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
 
@@ -348,6 +427,9 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfie
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpd.png)
+
+- A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance and more floors.
+- Increases the overlap tolerance in the ship-builder, allowing for more tight and varied builds with slightly overlapping modules.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
