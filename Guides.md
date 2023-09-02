@@ -77,7 +77,7 @@ To open the console press ~ on your keyboard and enter the codes you would like.
 <details>
 <summary>Live Voice chat support and Remote connection</summary>
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 I can help you if you are stuck with LIVE Voice chat support and screenshare in the ⁠🔧︱Live VC Support channel in discord
 
@@ -86,14 +86,14 @@ If you are really stuck i can connect to your Pc via a remote connection all you
 To download Teamviewer click [HERE](https://www.teamviewer.com/en-us/download/windows/?utm_source=google&utm_medium=cpc&utm_campaign=au|b|pr|22|jun|tv-core-download-sn|free|t0|0&utm_content=Download&utm_term=teamviewer%20download&gad=1&gclid=CjwKCAjw9pGjBhB-EiwAa5jl3JtSMlwskHVNVTH2fzvXvtj6wTBD_uhieVL3zYhh38ZYQBQscEv3KRoCZGsQAvD_BwE)
 🔧︱Live VC Support in discord
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 </details>
 
 <details>
 <summary>PC Optimizations</summary>
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 I've been building Pcs for a few years now and have picked up a few tips and tricks along the way. You can also check out my builds on our Discord.
 
@@ -187,7 +187,7 @@ I can overclock and stress test your **GPU**.
 
 [GEEK Uninstaller](https://geekuninstaller.com/)
 
-![img](https://i.imgur.com/wAJUpeU.png)
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 </details>
 
