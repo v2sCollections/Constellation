@@ -69,16 +69,6 @@ If you want to use the Reshade Make sure to install and configure the Reshade be
 
 ## Other Questions
 
-<details>
-<summary>Pirated Games</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
 
 
 <details>
@@ -93,6 +83,38 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield.exe
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 </details>
+
+<details>
+<summary>How do i update the Collection</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Updating the collection is as easy as clicking the "Update" button.
+When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
+
+- ⛔ **DO NOT** update any of the mods in this collection individually in **Vortex** when a mod gets updated we will update the collection.
+- Notes will be in the changelog
+
+Updating
+
+1)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+<details>
+<summary>Pirated Games</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+</details>
+
+
+
 
 
 
