@@ -43,8 +43,16 @@
 
 ## Troubleshooting
 
+<details>
+<summary>DLSS and Reshade not working together</summary>
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
 
