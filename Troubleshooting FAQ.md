@@ -74,8 +74,6 @@ DO NOT use a pirated game. It is against Nexus rules and is illegal and I will n
 </details>
 
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
 <details>
 <summary>Where is the game located</summary>
 
