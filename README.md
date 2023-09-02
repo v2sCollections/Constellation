@@ -1,8 +1,8 @@
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
+![img](https://s11.gifyu.com/images/SgCoI.png)
 
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
-### Collection Rev 6&#x20;
+### Collection Rev 7
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -200,6 +200,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 ### DLSS Support
 
 If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
+⛔ If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
 
 1\. Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
 ![](https://s11.gifyu.com/images/SgFWA.png)2. To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
@@ -207,8 +208,7 @@ If you choose to use the DLSS Support (OPTIONAL) you will need to do the followi
 3\. Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
 
 \
-⛔(This mod can be buggy with a Reshade installed and Overlays) I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.\
-
+⛔(This mod can be buggy with a Reshade installed and Overlays) I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
 
 ***
 
@@ -258,10 +258,15 @@ You can find the full Troubleshooting list on our Discord and here [Troubleshoot
 
 You can find all our guides on our Discord and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
 
-## FAQ
+## FAQ&#x20;
+
+##
 
 <details><summary>COMMON FAQS</summary>
+## [DLSS and Reshade not working together❓](https://)
 
+\
+If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
 </details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
@@ -280,6 +285,8 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ![](https://s11.gifyu.com/images/SgFM7.png)
 
+- Enemies have more health.
+
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpk.png)
@@ -290,9 +297,20 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 - Reshade included.
 - Reshade Preset.
+- New Animated Main Menu Screens.
 - 20+ Splash Screens.
-- Adds DLSS support into the game. (This mod can be buggy with a Reshade installed and Overlays)
-- Smaller HUD elements.
+
+You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
+
+***
+
+## Starfield Upscaler - Replacing FSR2 with DLSS or XeSS
+
+![](https://s11.gifyu.com/images/SgZAe.png)[Starfield Upscaler - Replacing FSR2 with DLSS or XeSS](https://www.nexusmods.com/starfield/mods/111) by [PureDark](https://www.nexusmods.com/starfield/users/2984000)
+
+### Features
+
+> Adds DLSS support into the game. (This mod can be buggy with a Reshade installed and Overlays)
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -304,6 +322,8 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 - Skip the intro.
 - PS5 Controller Support. Playstations Icons Instead of Xbox.
+- Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
+- Smaller and moved **Location Text** and **XP Indicator**.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -335,13 +355,25 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
 
+You can use my 4k add-on graphics pack HERE **(This is for high-end** systems only)
+
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ![](https://s11.gifyu.com/images/SgdAn.png)
 
+<details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
+## High-End Settings
+
 Recommended In-game settings These settings will give a slight performance boost without sacrificing quality.
 
-<details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
+![](https://s11.gifyu.com/images/SgVs9.jpg)
+
+***
+
+## Low-End Settings
+
+Recommended In-game settings These settings will give a big increase to performance while sacrificing quality.
+
 ### YOUTUBE GUIDES TO IMPROVE GAMING PERFORMANCE.
 
 - [Ultimate Windows 10 Gaming Performance Optimization Guide](https://www.youtube.com/watchv=PYKFQu3Vr4A)
