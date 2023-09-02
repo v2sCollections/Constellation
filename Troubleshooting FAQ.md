@@ -1,7 +1,7 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
+**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield or the collection when you see errors on Vortex.
 
 # Frequently Asked Questions
 
@@ -70,7 +70,7 @@ DO NOT use a pirated game. It is against Nexus rules and is illegal and I will n
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 <details>
-<summary>Where is the game located></summary>
+<summary>Where is the game located</summary>
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -83,4 +83,4 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield.exe
 </details>
 
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
