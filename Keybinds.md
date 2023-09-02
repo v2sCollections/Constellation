@@ -1,6 +1,8 @@
+![img](https://s11.gifyu.com/images/SgafS.png)
+
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-These can be configured in game but ive configured them to get you started. These are setup for a full size KB.
+These are setup for a full size KB.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
