@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 7 is COMING SOON](https://)
+## [HEY GUYS Rev 7 is HERE](https://)
 
 ## NOTES
 
