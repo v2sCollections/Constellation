@@ -66,7 +66,7 @@ To open the console press ~ on your keyboard and enter the codes you would like.
 
 </details>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
 
 
 

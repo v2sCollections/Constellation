@@ -37,7 +37,6 @@
 
 </details>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 
 
@@ -59,13 +58,13 @@ If you want to use the Reshade Make sure to install and configure the Reshade be
 ## Gameplay Questions
 
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
 
 
 ## Bugs
 
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
 
 
 ## Other Questions
