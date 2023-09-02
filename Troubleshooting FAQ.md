@@ -54,6 +54,36 @@ If you want to use the Reshade Make sure to install and configure the Reshade be
 </details>
 
 
+<details>
+<summary>Some Mods not working</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+After installation, you will need to place the **INI** File into your **Documents** folder.
+
+Depending on what new mods are added in each update you may be required to do this again for certain updates.
+
+You will be notified in the **changelog** if this needs to be done on each update.
+
+## ENABLING STARFIELD MODDING
+**1**) After you have downloaded the collection you need to go to the following location
+
+SteamLibrary\steamapps\common\Starfield\Constallation Readme\
+
+**2**) Here you will find a file called [StarfieldCustom.ini] copy this file and place it into the following location.
+
+ C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+
+**3**) Once done should look as follows.
+
+![img](https://s11.gifyu.com/images/SgFGr.png)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+
 
 ## Gameplay Questions
 
