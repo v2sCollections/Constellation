@@ -1,38 +1,27 @@
-
+![img](https://s11.gifyu.com/images/SgCoI.png)
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Cyberpunk2077, or the collection when you see errors on Vortex.
 
-## FAQ
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-## Contents
-1) 
-2) 
-3) 
-4) 
-5) 
-6) 
-7) 
-8) 
-9) 
-10) 
+# Frequently Asked Questions
 
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-## Where is the game located❓
-
-```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield.exe
-GOG>   Drive Letter\GOGLibrary\Games\Starfield.exe
-Epic>  Drive Letter\EpicLibrary\Starfield.exe  
-```
+- [Crashes](#crashes)
+- [Troubleshooting](#troubleshooting)
+- [Gameplay Questions](#gameplay-questions)
+- [Bugs](#bugs)
+- [Other Questions](#other-questions)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 
-## My game is crashing on startup❓
+
+## Crashes
+
+<details>
+<summary>My game is crashing on startup</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 1) Check the install guide and make sure you follow the instructions.
 
@@ -44,12 +33,9 @@ Epic>  Drive Letter\EpicLibrary\Starfield.exe
 ⁠Unknown
 ⁠Unknown
 
-
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-
-## 
-
+</details>
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -66,8 +52,35 @@ Epic>  Drive Letter\EpicLibrary\Starfield.exe
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 
-## Pirated Games
+
+## Other Questions
+
+<details>
+<summary>Pirated Games</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+<details>
+<summary>Where is the game located></summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+```
+Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield.exe
+```
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
