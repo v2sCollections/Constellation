@@ -27,7 +27,7 @@
 
 2) Make sure the game is installed on a SSD.
 
-3) Check your Graphics Driver> ⁠Unknown and reinstall it.
+3) Check your Graphics Driver is up to date or reinstall it.
 
 4) Make sure these are up to date>
 ⁠Unknown
@@ -40,17 +40,24 @@
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 
-##
+
+## Troubleshooting
 
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 
-## 
+
+## Gameplay Questions
 
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
+
+## Bugs
+
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 
 ## Other Questions
