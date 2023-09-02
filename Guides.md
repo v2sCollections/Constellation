@@ -4,6 +4,13 @@
 # Guides
 
 - [Console Commands](#console-commands)
+- [First Launch With The Collection](#first-launch-with-the-collection)
+- [Gameplay](#gameplay)
+- [Learning to Troubleshoot](#learning-to-troubleshoot)
+- [Troubleshooting](#troubleshooting)
+- [Backups](#backups)
+- [Other Support](#other-support)
+- [Other Guides](#other-guides)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
