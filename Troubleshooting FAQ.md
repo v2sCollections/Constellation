@@ -146,9 +146,33 @@ Updating
 DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
 </details>
 
+<details>
+<summary>Where are the optional mods</summary>
 
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+1) Open **Vortex**
+
+2) Select **"Collections"**
+
+3) Select **"View"** on the collection.
+
+![img](https://s11.gifyu.com/images/Sguez.png)
+
+4) Select **"Mods"**
+
+![img](https://s11.gifyu.com/images/Sgueb.png)
+
+5) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
+
+![img](https://s11.gifyu.com/images/SgueM.jpg)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
 
