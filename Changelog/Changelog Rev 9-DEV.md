@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 7 is HERE](https://)
+## [HEY GUYS Rev 9 is COMING SOON](https://)
 
 ## NOTES
 
@@ -18,7 +18,9 @@ N/A
 
 ## NEW MODS ADDED
 
-N/A
+- [Ship Builder Tweaks](https://www.nexusmods.com/starfield/mods/415?tab=description)
+- [Ship Builder Tolerance Tweaks](https://www.nexusmods.com/starfield/mods/388)
+- [In-Game FOV Changer](https://www.nexusmods.com/starfield/mods/302?tab=description)
 
 ## BUGS
 
