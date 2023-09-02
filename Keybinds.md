@@ -18,15 +18,11 @@ These can be configured in game but ive configured them to get you started. Thes
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
+### DLSS
+
+- END> Toggle DLSS UI
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
