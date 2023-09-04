@@ -32,7 +32,7 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 
 - [IconSortingTags - Starfield Edition](https://www.nexusmods.com/starfield/mods/312?tab=description)
 - [Cleanfield - A No-Intro Videos And Clean Menu Fix](https://www.nexusmods.com/starfield/mods/88?tab=description)
-- [
+- [Compact Inventory UI](https://www.nexusmods.com/starfield/mods/185?tab=description)
 
 ## REMOVED
 
@@ -45,8 +45,8 @@ N/A
 - [Neutral LUTs - No Color Filters](https://www.nexusmods.com/starfield/mods/323?tab=description)
 - [Favorites Menu - No Vignette](https://www.nexusmods.com/starfield/mods/598?tab=description)
 - [Natural and Realisitic Eyes Textures](https://www.nexusmods.com/starfield/mods/580?tab=description)
+- [Enemy Friendly Fire](https://www.nexusmods.com/starfield/mods/614?tab=description)
 - [
-
 
 ## BUGS
 

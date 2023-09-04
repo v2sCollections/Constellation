@@ -1,9 +1,13 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
 
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
+
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
-### Collection Rev 9
+**⛔**Not Compatible with the Gampass Edition
+
+### Collection Rev 10
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -19,16 +23,32 @@ I hope you enjoy this collection and the game as much as I do. It's time for me 
 
 This collection is extensively tested with every new version that is released. If it's not working for you there's a good chance you have missed a step. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Contents:](https://)
+
+1. Why This Collection❓
+2. What Is Included❓
+3. Read before installing❗
+4. Warnings❗
+5. Installation.
+6. Troubleshooting.
+7. Mod Settings and Overview.
+8. Modding The Collection.
+9. Compatible Collections & Pack Installation Guide.
+10. Performance Guide for Starfield by[v2](https://www.nexusmods.com/users/123334373).
+11. System Requirements.
+12. Permissions.
+13. Support The Curators and Modders.
+
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA0.png)
 
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-1GB in download size for mods.
+- Only-[500Mb](https://) in download size for [20](https://)+ mods.
 - Mods specifically created for the collection.
-- Setup Video- (COMING SOON)
+- [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
-- Youtube Channel-with Guides and Videos. (COMING SOON)
+- [Youtube Channel](https://www.youtube.com/@Constellation-2077)-with Guides and Videos.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
@@ -36,13 +56,15 @@ This collection is extensively tested with every new version that is released. I
 
 ![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow players every day.
 
-![](https://s12.gifyu.com/images/SuqD4.png)Follow us on YouTube for guides and videos.
+[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/@Constellation-2077)Follow us on [YouTube](https://www.youtube.com/@Constellation-2077) for guides and videos.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
 
 - 20+ Splash Screens.
+- Script Extender.
 - Gameplay Mods & Tweaks.
 - Bug Fixes.
+- Graphics and Texture Mods.
 - Quality-of-life-Improvements.
 - Input Mods.
 - Improved UI.
@@ -58,12 +80,6 @@ This collection is extensively tested with every new version that is released. I
 ```
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
-
-![](https://s11.gifyu.com/images/Sgd38.jpg)
-
-![](https://s11.gifyu.com/images/SgdAl.png)
-
-⛔ I recommend **NOT** installing extra mods that are not part of the collection but we have a dedicated channel in Discord for Altered Collections.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAj.png)
 
@@ -83,7 +99,10 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 
 ## [Launching Starfield](https://)
 
+- Make sure Steam is open.
 - Use Vortex to launch the game.
+
+![](https://s11.gifyu.com/images/Sgrxn.jpg)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -108,8 +127,9 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 
 ## [Starfield](https://)
 
-1. Start with a fresh install of Starfield.
-2. Make sure the game is installed on an SSD.
+- ⛔This Collection only supports the Steam Version of Starfield.
+- Start with a fresh install of Starfield.
+- Make sure the game is installed on an SSD.
 
 ***
 
@@ -125,24 +145,23 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 
 1. Open Vortex and click on "Select a game to manage".
 
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)2. On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
 
-6 ) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
+![](https://s11.gifyu.com/images/SgCKR.jpg)3. On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
-![](https://s11.gifyu.com/images/SgCKR.jpg)7 ) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
+4\. Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
-
-9 ) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
+5\. A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 ```
 
-11 ) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
+6\. On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
 
-1. Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
-2. On the same window select "hard link deployment" and check "apply".
+7\. Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+
+8\. On the same window select "hard link deployment" and check "apply".
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -150,11 +169,11 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [INSTALLING THE COLLECTION](https://)
 
-1. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+1\. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
 ![](https://s11.gifyu.com/images/SgCKJ.jpg)
 
-1. Click "Add to Vortex"(choose your newly created profile).
+2\. Click "Add to Vortex"(choose your newly created profile).
 
 ## ![](https://s12.gifyu.com/images/Untitled1.png)
 
@@ -178,6 +197,14 @@ SteamLibrary\steamapps\common\Starfield\Constallation Readme\
 
 ![](https://s11.gifyu.com/images/SgFGr.png)
 
+<details><summary>CLICK FOR YOUTUBE GUIDE</summary>
+
+
+https://www.youtube.com/watch?v=1fKnhH52Da0
+</details>
+
+
+
 ***
 
 ## [OPTIONAL MODS](https://)
@@ -194,7 +221,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-1. To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods
+- To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods
 
 <details><summary>CLICK FOR A FULL LIST OF CONSOLE COMMANDS</summary>
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
@@ -216,7 +243,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
-1. Keybinds You will find the key bind list on our Discord Or here [Keybinds](https://github.com/2077v2/Constellation/blob/main/Keybinds.md)
+- Keybinds You will find the key bind list on our Discord Or here [Keybinds](https://github.com/2077v2/Constellation/blob/main/Keybinds.md)
 
 <details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
 ![](https://s11.gifyu.com/images/SgafS.png)
@@ -315,12 +342,27 @@ You can find all our guides on our Discord and here [Guides](https://github.com/
 ##
 
 <details><summary>COMMON FAQS</summary>
-## [DLSS and Reshade not working together❓](https://)
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[DLSS and Reshade not working together❓](https://)
 
-\
 If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
 
-## [Some Mods not working❓](https://)
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[When I install Reshade I get the error message dxgi.dll already exists.❓](https://)
+
+This will be because you have Enabled the DLSS Mod before running the Reshade setup to fix this issue follow the steps below.
+
+1\. Purge the Mods in Vortex
+
+2\. Go here and delete this file \SteamLibrary\steamapps\common\Starfield\dxgi.dll
+
+3\. Verify the game files via Steam
+
+4\. Make sure the 2 files for the DLSS Mod are disabled in Vortex.&#x20;
+
+5\. Deploy the Mods in Vortex
+
+6\. Run the Reshade setup.
+
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Some Mods not working❓](https://)
 
 After installation, you will need to place the INI File into your Documents folder.
 
@@ -344,7 +386,7 @@ C:\Users[YOUR USERNAME\Documents\My Games\Starfield
 
 3\. Once done should look as follows.
 
-![](https://s11.gifyu.com/images/SgFGr.png)
+![](https://s11.gifyu.com/images/SgFGr.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
@@ -378,6 +420,13 @@ You can check out the gallery at the top of this page for videos by some of the 
 - New Animated Main Menu Screens.
 - 20+ Splash Screens.
 - Change the FOV.
+- Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks.
+- Remove the vignette filter from your quick (favorites) menu.
+
+## Upscaled Textures
+
+- Eyes.
+- Blood.
 
 You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
 
@@ -402,11 +451,60 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfie
 - Skip the intro.
 - PS5 Controller Support. Playstations Icons Instead of Xbox.
 - Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
+- Swaps the helmet torch light out for a different clearer version.
+- Jetpacks now work with pressing and holding buttons, instead of being single press.
+- Grabbing objects and Bodies is now quicker with no delay.
+
+## UI Improvements Include
+
 - Smaller and moved **Location Text** and **XP Indicator**.
+- Add a small icon in front of lootable items in the world and inventory,, so it's easier to see what is what It also help for inventory management.
+- The player's health bar dynamically changes colour at 75%, 50% and 25%.
+- Changes the player's boost bar colour to blue and flashes cyan when fully recharged.
+- Modifies the inventory so more items can be seen at once.
+- Changes the inventory, container, and barter menus.
+- Option to sort items by Value: Mass.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFph.png)
+
+***
+
+## Lazy Cheats- Credits Mass Digipicks and XP
+
+![](https://s11.gifyu.com/images/SgYsk.md.jpg)[Lazy Cheats- Credits Mass Digipicks and XP](https://www.nexusmods.com/starfield/mods/183?tab=description) by [RockJB](https://www.nexusmods.com/starfield/users/24139914)
+
+### Features
+
+> Bat files for EASY CHEATS. 15 files in total to give you Credits, Mass, Digipicks, and XP.
+
+<details><summary>CLICK HERE FOR MORE INFOMATION</summary>
+Open the console (with the ~ key) and type bat \<cheat> to get credits, digipicks, more mass, or more XP.
+For example, typing:\
+`bat lowmoney1`\
+Would give you 1000 credits.\
+\
+**Cheat Table**
+
+```
+
+Credits Cheat | Credits Granted | Digipicks Cheat | Digipicks Granted
+--------------|-----------------|-----------------|-------------------
+lowmoney1     | 1000            | digi1           | 10
+lowmoney10    | 10,000          | digi10          | 100
+lowmoney100   | 100,000         | digi100         | 1,000
+money1        | 1,000,000       |                 |
+money10       | 10,000,000      |                 |
+money100      | 100,000,000     |                 |
+--------------|-----------------|-----------------|-------------------
+Mass Cheat    | Mass Granted    | XP Cheat        | XP Granted
+--------------|-----------------|-----------------|-------------------
+smallmass     | 500             | xp1             | 1,000
+mass          | 1,000           | xp10            | 10,000
+bigmass       | 10,000          | xp100           | 100,000
+```
+</details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -415,6 +513,8 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfie
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpv.png)
+
+- Friendly fire enabled among allied NPCs.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -433,11 +533,17 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfie
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
+![](https://s11.gifyu.com/images/SgdAl.png)
+
+⛔ I recommend **NOT** installing extra mods that are not part of the collection but we have a dedicated channel in Discord for Altered Collections.
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 ## ![](https://s11.gifyu.com/images/SgdAI.png)
 
 Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
 
-You can use my 4k add-on graphics pack HERE **(This is for high-end** systems only)
+You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
