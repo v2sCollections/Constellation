@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 11 is COMING SOON](https://)
+## [HEY GUYS Rev 11 is HERE](https://)
 
 ## NOTES
 
@@ -47,6 +47,7 @@ N/A
 - [Favorites Menu - No Vignette](https://www.nexusmods.com/starfield/mods/598?tab=description)
 - [Natural and Realisitic Eyes Textures](https://www.nexusmods.com/starfield/mods/580?tab=description)
 - [Enemy Friendly Fire](https://www.nexusmods.com/starfield/mods/614?tab=description)
+- [More Custom Landing Sites](https://www.nexusmods.com/starfield/mods/297?tab=description)
 
 ## BUGS
 

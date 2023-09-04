@@ -1,13 +1,12 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
 
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
 
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition
 
-### Collection Rev 10
+### Collection Rev 11
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -28,16 +27,14 @@ This collection is extensively tested with every new version that is released. I
 1. Why This Collection❓
 2. What Is Included❓
 3. Read before installing❗
-4. Warnings❗
-5. Installation.
-6. Troubleshooting.
-7. Mod Settings and Overview.
-8. Modding The Collection.
-9. Compatible Collections & Pack Installation Guide.
-10. Performance Guide for Starfield by[v2](https://www.nexusmods.com/users/123334373).
-11. System Requirements.
-12. Permissions.
-13. Support The Curators and Modders.
+4. Installation.
+5. Troubleshooting.
+6. Mod Settings and Overview.
+7. Modding The Collection.
+8. Compatible Collections & Pack Installation Guide.
+9. Performance Guide for Starfield by[v2](https://www.nexusmods.com/users/123334373).
+10. System Requirements.
+11. Support The Curators and Modders.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA0.png)
 
@@ -81,13 +78,9 @@ This collection is extensively tested with every new version that is released. I
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAj.png)
-
 ## ⛔[WARNINGS](https://)⛔
 
-- If you see this> ⛔ then you need to read and follow the directions.
-
-## [READ](https://)
+If you see this> ⛔ then you need to read and follow the directions.
 
 - ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
@@ -100,9 +93,9 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ## [Launching Starfield](https://)
 
 - Make sure Steam is open.
-- Use Vortex to launch the game.
+- Use Vortex to launch the game. (You cannot Launch from Steam)
 
-![](https://s11.gifyu.com/images/Sgrxn.jpg)
+![](https://s11.gifyu.com/images/Sgry4.jpg)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -198,12 +191,8 @@ SteamLibrary\steamapps\common\Starfield\Constallation Readme\
 ![](https://s11.gifyu.com/images/SgFGr.png)
 
 <details><summary>CLICK FOR YOUTUBE GUIDE</summary>
-
-
 https://www.youtube.com/watch?v=1fKnhH52Da0
 </details>
-
-
 
 ***
 
@@ -417,11 +406,19 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 - Reshade included.
 - Reshade Preset.
-- New Animated Main Menu Screens.
+- 8 + Animated Main Menu Screens.
 - 20+ Splash Screens.
-- Change the FOV.
 - Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks.
-- Remove the vignette filter from your quick (favorites) menu.
+- Remove the vignette filter from your quick (favourites) menu.
+- Change the FOV.
+
+<details><summary>CLICK FOR CONSOLE COMMANDS</summary>
+### In-Game FOV Changer
+
+- For First Person FOV: Run "bat fpp100" to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat fpp95")
+- For Third Person FOV: Run "bat tpp100" to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat tpp95")
+- To uninstall the mod / revert the settings, simply set FPP to 85 and TPP to 70 (Those are the vanilla values)
+</details>
 
 ## Upscaled Textures
 
@@ -429,6 +426,18 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Blood.
 
 You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
+
+***
+
+### Menu Backgrounds
+
+https://www.youtube.com/watch?v=Ti79tays4dc
+
+[Menu Backgrounds](https://www.nexusmods.com/starfield/mods/222) by [2077v2](https://www.nexusmods.com/starfield/users/123334373)
+
+### Features
+
+> This mod was made especially for my collection users. Amazing community animated wallpapers i have upscaled to 4k 60Fps. You can choose from up to 8 diffrent Main Menu Screens.
 
 ***
 
@@ -479,7 +488,9 @@ You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfie
 
 > Bat files for EASY CHEATS. 15 files in total to give you Credits, Mass, Digipicks, and XP.
 
-<details><summary>CLICK HERE FOR MORE INFOMATION</summary>
+<details><summary>CLICK FOR CONSOLE COMMANDS</summary>
+### Lazy Cheats- Credits Mass Digipicks and XP
+
 Open the console (with the ~ key) and type bat \<cheat> to get credits, digipicks, more mass, or more XP.
 For example, typing:\
 `bat lowmoney1`\
@@ -514,7 +525,7 @@ bigmass       | 10,000          | xp100           | 100,000
 
 ![](https://s11.gifyu.com/images/SgFpv.png)
 
-- Friendly fire enabled among allied NPCs.
+- Friendly fire is enabled among allied NPCs.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -529,7 +540,32 @@ bigmass       | 10,000          | xp100           | 100,000
 ![](https://s11.gifyu.com/images/SgFpd.png)
 
 - A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance and more floors.
+
+<details><summary>cLICK FOR CONSOLE COMMANDS</summary>
+### Ship Builder Tweaks
+
+- To apply the tweaks, run "bat builderTweak"
+- To uninstall the mod / revert the settings, simply run "bat builderReset"
+</details>
+
 - Increases the overlap tolerance in the ship-builder, allowing for more tight and varied builds with slightly overlapping modules.
+
+<details><summary>CLICK FOR CONSOLE COMMANDS</summary>
+### Ship Builder Tolerance Tweaks
+
+- To increase the tolerance run "bat toleranceBig", or "bat toleranceHuge" (Huge basically disables any overlapping checks, letting you build some cursed things)
+- To uninstall the mod / revert the settings, simply run "bat toleranceReset"
+</details>
+
+- You increase the number of custom landing sites you can have saved simultaneously, increasing it from the vanilla 3 sites.
+
+<details><summary>CLICK FOR CONSOLE COMMANDS</summary>
+### More Custom Landing Sites
+
+- Now run "bat lz5", to set the amount of maximum custom landing zones to 5
+- The mod offers the following options: 3 (Vanilla), 5, 7, 9, 11, 13, 15, 20, 30, 50
+- Simply run "bat lzX" to use any of those
+</details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -591,13 +627,6 @@ Recommended In-game settings These settings will give a big increase to performa
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAc.png)
-
-- ⛔ Please don't use a similar name to this collection.
-- ⛔ I do not allow you to copy or clone this collection in any way.
-
-![](https://s11.gifyu.com/images/Sgd38.jpg)
-
 ![](https://s11.gifyu.com/images/SgdAQ.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
@@ -618,17 +647,11 @@ And all the teams and modders behind all the tools that make Starfield modding p
 
 If you would like to support me so I can afford a new ship click the button below. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Disclaimer](https://)
 
-![](https://s12.gifyu.com/images/Follow-me.png)![](https://s12.gifyu.com/images/cropped.jpg)
-
-## -[YOUTUBE](https://www.youtube.com/@2077_v2)-----[TWITCH](https://www.twitch.tv/2077v2)-----[TIKTOK](https://www.tiktok.com/@2077v2?is_from_webapp=1\&sender_device=pc)-----[TWITTER](https://twitter.com/2077V2)-----[FACEBOOK](https://www.facebook.com/MRGHIA88V2/)-----[RANKONE](https://www.rankone.global/2077v2)-----[DISCORD](https://discord.gg/xZNztPjA2u)-
-
-![](https://s11.gifyu.com/images/Sgd38.jpg)
-
-## [Disclaimer](https://)
-
-- I will not be responsible for any possibility of save corruption.
+- ⛔ I will not be responsible for any possibility of save corruption.
+- ⛔ Please don't use a similar name to this collection.
+- ⛔ I do not allow you to copy or clone this collection in any way.
 - © 2023 Bethesda Softworks LLC, a ZeniMax Media company. Trademarks belong to their respective owners.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
