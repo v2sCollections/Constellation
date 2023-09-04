@@ -30,7 +30,9 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 
 ## UPDATED
 
-N/A
+- [IconSortingTags - Starfield Edition](https://www.nexusmods.com/starfield/mods/312?tab=description)
+- [Cleanfield - A No-Intro Videos And Clean Menu Fix](https://www.nexusmods.com/starfield/mods/88?tab=description)
+- [
 
 ## REMOVED
 
@@ -40,6 +42,9 @@ N/A
 
 - [Enhanced Player Boostbar](https://www.nexusmods.com/starfield/mods/537?tab=description)
 - [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106?tab=description)
+- [Neutral LUTs - No Color Filters](https://www.nexusmods.com/starfield/mods/323?tab=description)
+- [Favorites Menu - No Vignette](https://www.nexusmods.com/starfield/mods/598?tab=description)
+- [Natural and Realisitic Eyes Textures](https://www.nexusmods.com/starfield/mods/580?tab=description)
 - [
 
 
