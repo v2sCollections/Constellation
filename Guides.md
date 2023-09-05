@@ -67,6 +67,42 @@ To open the console press ~ on your keyboard and enter the codes you would like.
 </details>
 
 
+<details>
+<summary>Lazy Cheats Console Commands</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Open the console (with the **~** key) and type bat <cheat> to get credits, digipicks, more mass, or more XP.
+For example, typing:
+```
+bat lowmoney1
+```
+Would give you 1000 credits.
+
+Cheat Table below
+
+```
+Credits Cheat | Credits Granted | Digipicks Cheat | Digipicks Granted
+--------------|-----------------|-----------------|-------------------
+lowmoney1     | 1000            | digi1           | 10
+lowmoney10    | 10,000          | digi10          | 100
+lowmoney100   | 100,000         | digi100         | 1,000
+money1        | 1,000,000       |                 |
+money10       | 10,000,000      |                 |
+money100      | 100,000,000     |                 |
+--------------|-----------------|-----------------|-------------------
+Mass Cheat    | Mass Granted    | XP Cheat        | XP Granted
+--------------|-----------------|-----------------|-------------------
+smallmass     | 500             | xp1             | 1,000
+mass          | 1,000           | xp10            | 10,000
+bigmass       | 10,000          | xp100           | 100,000
+```
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
 
 
 
@@ -91,6 +127,27 @@ To open the console press ~ on your keyboard and enter the codes you would like.
 
 
 ## Backups
+
+
+<details>
+<summary>Make a Backup Save</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Mods for Starfield are (WELL WE DON'T KNOW YET) but it's always good to make a backup of your save file. 
+
+The save file location can be found below.
+
+```
+C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
+```
+
+Just copy the contents of this file and place it somewhere on your PC.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
 
 
 
