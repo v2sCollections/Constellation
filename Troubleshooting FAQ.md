@@ -88,11 +88,53 @@ SteamLibrary\steamapps\common\Starfield\Constallation Readme\
 </details>
 
 
+<details>
+<summary>When i install Reshade i get error message dxgi.dll already exists</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+This will be because you have Enabled the DLSS Mod before running the Reshade setup to fix this issue follow the steps below.
+
+1) Purge the Mods in Vortex
+2) Go here and delete this file \SteamLibrary\steamapps\common\Starfield\dxgi.dll
+3) Verify the game files via Steam
+4) Make sure the 2 files for the DLSS Mod are disabled in Vortex. 
+5) Deploy the Mods in Vortex
+6) Run the Reshade setup.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+
 
 
 ## Gameplay Questions
 
+<details>
+<summary>I see dots instead of icons next time my items</summary>
 
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+This is because you didn't put the INI file in your Documents folder. 
+
+
+**1**) After you have downloaded the collection you need to go to the following location
+
+```
+SteamLibrary\steamapps\common\Starfield\Constallation Readme\
+```
+
+**2**) Here you will find a file called [StarfieldCustom.ini] copy this file and place it into the following location.
+
+```
+C:\Users[YOUR USERNAME\Documents\My Games\Starfield
+```
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
 
