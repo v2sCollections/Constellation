@@ -38,6 +38,24 @@
 </details>
 
 
+<details>
+<summary>My game is crashing when loading a save</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+This will be because you have Enabled the DLSS Mod and you havent Downloaded the required dlss file.
+
+You will need to do the following.
+
+- You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx_dlss_2.5.1.zip)
+- You need to place the nvngx_dlss.dll into ```mods/UpscalerBasePlugin``` 
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+
 
 
 ## Troubleshooting
