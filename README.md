@@ -4,9 +4,9 @@
 
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
-**⛔**Not Compatible with the Gampass Edition
+**⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 11
+### Collection Rev 14
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -22,26 +22,16 @@ I hope you enjoy this collection and the game as much as I do. It's time for me 
 
 This collection is extensively tested with every new version that is released. If it's not working for you there's a good chance you have missed a step. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Contents:](https://)
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-1. Why This Collection❓
-2. What Is Included❓
-3. Read before installing❗
-4. Installation.
-5. Troubleshooting.
-6. Mod Settings and Overview.
-7. Modding The Collection.
-8. Compatible Collections & Pack Installation Guide.
-9. Performance Guide for Starfield by[v2](https://www.nexusmods.com/users/123334373).
-10. System Requirements.
-11. Support The Curators and Modders.
+![](https://s11.gifyu.com/images/SgDLJ.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA0.png)
+![](https://s11.gifyu.com/images/SgdA0.png)
 
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[500Mb](https://) in download size for [20](https://)+ mods.
+- Only-[2GB](https://) in download size for [25+](https://) Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -72,7 +62,7 @@ This collection is extensively tested with every new version that is released. I
 
 ## [Make a Backup Save](https://)
 
-- Mods for Starfield are WELL I DON'T KNOW but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
+- Mods for Starfield are (WELL WE DON'T KNOW YET) but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
 ```
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
@@ -177,10 +167,18 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 1\. After you have downloaded the collection you need to go to the following location
 
 ```
-SteamLibrary\steamapps\common\Starfield\Constallation Readme\
+SteamLibrary\steamapps\common\Starfield\
 ```
 
-2\. Here you will find a file called \[StarfieldCustom.ini] copy this file and place it into the following location.
+2\. Locate this file and extract it.
+
+```
+Constallation Readme.7z
+```
+
+3\. Now you will have a folder called. Constellation Readme open this folder.
+
+2In the folder will find a file called \[StarfieldCustom.ini] copy this file and place it into the following location.
 
 ```
  C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
@@ -191,7 +189,7 @@ SteamLibrary\steamapps\common\Starfield\Constallation Readme\
 ![](https://s11.gifyu.com/images/SgFGr.png)
 
 <details><summary>CLICK FOR YOUTUBE GUIDE</summary>
-https://www.youtube.com/watch?v=1fKnhH52Da0
+
 </details>
 
 ***
@@ -269,6 +267,8 @@ If you choose to use the DLSS Support (OPTIONAL) you will need to do the followi
 
 ⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
 
+⛔ You need to place the nvngx\_dlss.dll into mods/UpscalerBasePlugin folder.
+
 1\. Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
 ![](https://s11.gifyu.com/images/SgFWA.png)2. To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
 
@@ -322,15 +322,28 @@ I have added the Reshade below.
 
 **⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
+You can find the full Troubleshooting list on our [Discord](https://discord.gg/xZNztPjA2u) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
-You can find all our guides on our Discord and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
+You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
 
 ## FAQ&#x20;
 
 ##
 
 <details><summary>COMMON FAQS</summary>
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[My game is crashing when loading a save❓](https://)
+
+This will be because you have Enabled the DLSS Mod and you haven't downloaded the required DLSS file.
+
+You will need to do the following.
+
+- You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
+- You need to place the nvngx\_dlss.dll into
+
+```
+mods/UpscalerBasePlugin
+```
+
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[DLSS and Reshade not working together❓](https://)
 
 If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
@@ -341,7 +354,11 @@ This will be because you have Enabled the DLSS Mod before running the Reshade se
 
 1\. Purge the Mods in Vortex
 
-2\. Go here and delete this file \SteamLibrary\steamapps\common\Starfield\dxgi.dll
+2\. Go here and delete this file&#x20;
+
+```
+\SteamLibrary\steamapps\common\Starfield\dxgi.dll
+```
 
 3\. Verify the game files via Steam
 
@@ -353,24 +370,24 @@ This will be because you have Enabled the DLSS Mod before running the Reshade se
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Some Mods not working❓](https://)
 
-After installation, you will need to place the INI File into your Documents folder.
-
-Depending on what new mods are added in each update you may be required to do this again for certain updates.
-
-You will be notified in the changelog if this needs to be done on each update.
-
-ENABLING STARFIELD MODDING
-
 1\. After you have downloaded the collection you need to go to the following location
 
 ```
-SteamLibrary\steamapps\common\Starfield\Constallation Readme\
+SteamLibrary\steamapps\common\Starfield\
 ```
 
-2\. Here you will find a file called \[StarfieldCustom.ini] copy this file and place it into the following location.
+2\. Locate this file and extract it.
 
 ```
-C:\Users[YOUR USERNAME\Documents\My Games\Starfield
+Constallation Readme.7z
+```
+
+3\. Now you will have a folder called. Constellation Readme open this folder.
+
+2In the folder will find a file called \[StarfieldCustom.ini] Copy this file and place it into the following location.
+
+```
+ C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
 ```
 
 3\. Once done should look as follows.
@@ -463,6 +480,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Swaps the helmet torch light out for a different clearer version.
 - Jetpacks now work with pressing and holding buttons, instead of being single press.
 - Grabbing objects and Bodies is now quicker with no delay.
+- Removes the warning when opening the console for the first time in a session.
 
 ## UI Improvements Include
 
@@ -471,18 +489,48 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - The player's health bar dynamically changes colour at 75%, 50% and 25%.
 - Changes the player's boost bar colour to blue and flashes cyan when fully recharged.
 - Modifies the inventory so more items can be seen at once.
+- Modifies the mission menu so more items can be seen at once. Increases viewable items by 50%.
 - Changes the inventory, container, and barter menus.
 - Option to sort items by Value: Mass.
+
+## StarUI Inventory
+
+![](https://s11.gifyu.com/images/Sg11q.png)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
+
+### Features
+
+> StarUI Inventory improves all inventory screens for the usage on PC. Compacter display style. More details in sort-able columns. Item category icons. Category as left sidebar. Many Quality-of-Life features!
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Much compacter overview of the category list and item list.
+- Properties like mass, value, value/mass, mass of stack, damage, damage resistance and ammo are always available as column - completely configurable via INI!.
+- Sort the list to any of the columns by simply clicking on the column header (toggle asc/desc by another click).
+- Category icons before the item name, so you can directly see what an item is.
+- Show category summarized mass.
+- List navigation keys Page-Up, Page-Down, Home and End for fast navigation.
+- Mass transfer of a single category from/to container, from/to ship or buy/sell for trading.
+- Bigger scrollbar, so it's easier to grab it.
+- Change the font or font size (If you don't like the ALL UPPERCASE style. I recommend font number 3!)
+- Configurable mouse wheel scroll amount of lists.
+- Option to make \<TAB> go direkt back to the game instead of the character screen.
+- Multi-language ready with easy translate-able files in the standard format.
+- Has no plugins and no quests - Absolutely safe to install and uninstall at any time.
+- You can configure all options in the **Data\Interface\StarUI Inventory.ini**. (Will move to MCM as soon as one is available :) )
+</details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFph.png)
 
+- Prevents achievements from being disabled with mods or when using the console.
+
 ***
 
 ## Lazy Cheats- Credits Mass Digipicks and XP
 
-![](https://s11.gifyu.com/images/SgYsk.md.jpg)[Lazy Cheats- Credits Mass Digipicks and XP](https://www.nexusmods.com/starfield/mods/183?tab=description) by [RockJB](https://www.nexusmods.com/starfield/users/24139914)
+![](https://s11.gifyu.com/images/Sgttx.md.jpg)
+
+[Lazy Cheats- Credits Mass Digipicks and XP](https://www.nexusmods.com/starfield/mods/183?tab=description) by [RockJB](https://www.nexusmods.com/starfield/users/24139914)
 
 ### Features
 

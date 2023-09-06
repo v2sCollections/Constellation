@@ -7,7 +7,8 @@
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 
-
+- Testing Vortex erros from the latest Vortex exstension update
+- After the install you will see a Constellation Readme ZIP file in your main game directory. Unzip this folder then open the folder and you will find the StarfieldCustom.ini file place this in your Documents folder located in  C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
 
 ## UPDATED
 
@@ -16,11 +17,11 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 ## REMOVED
 
 - [Compact Mission UI](https://www.nexusmods.com/starfield/mods/682?tab=description)
+- [Icon Sorting Tags - Starfield Edition](https://www.nexusmods.com/starfield/mods/312?tab=description)
 
 ## NEW MODS ADDED
 
-
-
+N/A
 
 ## BUGS
 
