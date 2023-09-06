@@ -23,13 +23,13 @@
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-1) Check the install guide and make sure you follow the instructions.
+**1**) Check the install guide and make sure you follow the instructions.
 
-2) Make sure the game is installed on a SSD.
+**2**) Make sure the game is installed on a SSD.
 
-3) Check your Graphics Driver is up to date or reinstall it.
+**3**) Check your Graphics Driver is up to date or reinstall it.
 
-4) Make sure these are up to date>
+**4**) Make sure these are up to date>
 ⁠Unknown
 ⁠Unknown
 
@@ -102,7 +102,7 @@ Constallation Readme.7z
  C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
 ```
 
-**3**) Once done should look as follows.
+**4**) Once done should look as follows.
 
 ![](https://s11.gifyu.com/images/SgFGr.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -118,12 +118,12 @@ Constallation Readme.7z
 
 This will be because you have Enabled the DLSS Mod before running the Reshade setup to fix this issue follow the steps below.
 
-1) Purge the Mods in Vortex
-2) Go here and delete this file \SteamLibrary\steamapps\common\Starfield\dxgi.dll
-3) Verify the game files via Steam
-4) Make sure the 2 files for the DLSS Mod are disabled in Vortex. 
-5) Deploy the Mods in Vortex
-6) Run the Reshade setup.
+**1**) Purge the Mods in Vortex
+**2**) Go here and delete this file \SteamLibrary\steamapps\common\Starfield\dxgi.dll
+**3**) Verify the game files via Steam
+**4**) Make sure the 2 files for the DLSS Mod are disabled in Vortex. 
+**5**) Deploy the Mods in Vortex
+**6**) Run the Reshade setup.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -197,7 +197,7 @@ When prompted to "Remove mods from old revision" make sure to click the "Remove 
 
 Updating
 
-1)
+**1**)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -219,19 +219,19 @@ DO NOT use a pirated game. It is against Nexus rules and is illegal and I will n
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-1) Open **Vortex**
+**1**) Open **Vortex**
 
-2) Select **"Collections"**
+**2**) Select **"Collections"**
 
-3) Select **"View"** on the collection.
+**3**) Select **"View"** on the collection.
 
 ![img](https://s11.gifyu.com/images/Sguez.png)
 
-4) Select **"Mods"**
+**4**) Select **"Mods"**
 
 ![img](https://s11.gifyu.com/images/Sgueb.png)
 
-5) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
+**5**) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
 
 ![img](https://s11.gifyu.com/images/SgueM.jpg)
 
