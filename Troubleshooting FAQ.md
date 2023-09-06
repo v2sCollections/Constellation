@@ -165,6 +165,26 @@ C:\Users[YOUR USERNAME\Documents\My Games\Starfield
 </details>
 
 
+<details>
+<summary>How do i change the menu Backgrounds</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+On the first installation, you will be able to choose your background from the installer if you would like to change this at any time follow the steps below.
+
+**1**) Open **Vortex** and locate the **Menu Backgrounds-v2** mod.
+
+**2**) Right-click the Mod and select **Reinstall**
+
+**3**) Now you will be able to choose another background.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+
+
 
 ## Bugs
 
