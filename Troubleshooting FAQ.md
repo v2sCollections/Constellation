@@ -119,10 +119,15 @@ Constallation Readme.7z
 This will be because you have Enabled the DLSS Mod before running the Reshade setup to fix this issue follow the steps below.
 
 **1**) Purge the Mods in Vortex
+
 **2**) Go here and delete this file \SteamLibrary\steamapps\common\Starfield\dxgi.dll
+
 **3**) Verify the game files via Steam
+
 **4**) Make sure the 2 files for the DLSS Mod are disabled in Vortex. 
+
 **5**) Deploy the Mods in Vortex
+
 **6**) Run the Reshade setup.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
