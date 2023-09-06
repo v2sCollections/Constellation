@@ -245,5 +245,22 @@ DO NOT use a pirated game. It is against Nexus rules and is illegal and I will n
 </details>
 
 
+<details>
+<summary>How do i add the 4k Collection</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+The 4k Collection can be added to our main Collection.
+
+**1**) Select **ADD TO VORTEX** on Nexus
+
+**2**) Create a new Profile and call it what ever you want.
+
+*Note*
+All our graphics packs come with **Reshade** and our **Constellation Reshade Preset** but these are included in our main Collection so you won't need to enable them in **Vortex**.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
