@@ -2,11 +2,13 @@
 
 
 
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
+
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 14
+### Collection Rev 16
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -31,7 +33,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[2GB](https://) in download size for [25+](https://) Mods.
+- Only-[3](https://)GB in download size for [35](https://)+ Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -47,8 +49,9 @@ This collection is extensively tested with every new version that is released. I
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
 
-- 20+ Splash Screens.
-- Script Extender.
+- (SFSE) Script Extender.
+- Bethini Pie (Performance INI Editor).
+- Reshade.
 - Gameplay Mods & Tweaks.
 - Bug Fixes.
 - Graphics and Texture Mods.
@@ -56,6 +59,8 @@ This collection is extensively tested with every new version that is released. I
 - Input Mods.
 - Improved UI.
 - DLSS Support
+- 20+ Splash Screens.
+- 10+ Animated Menu Backgrounds.
 - Support for other Modular Expansion Packs.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
@@ -67,6 +72,10 @@ This collection is extensively tested with every new version that is released. I
 ```
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
+
+## [Make a Backup of your Game Files (OPTIONAL)](https://)
+
+- If you would like to backup your unmodded game files you can use my tool [HERE](https://www.nexusmods.com/starfield/mods/1064). Note you will need an extra 120gb of space on the drive where Starfield is installed.
 
 ## ⛔[WARNINGS](https://)⛔
 
@@ -85,7 +94,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 - Make sure Steam is open.
 - Use Vortex to launch the game. (You cannot Launch from Steam)
 
-![](https://s11.gifyu.com/images/Sgry4.jpg)
+![](https://s11.gifyu.com/images/SgO30.jpg)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -176,9 +185,7 @@ SteamLibrary\steamapps\common\Starfield\
 Constallation Readme.7z
 ```
 
-3\. Now you will have a folder called. Constellation Readme open this folder.
-
-2In the folder will find a file called \[StarfieldCustom.ini] copy this file and place it into the following location.
+3\. Now you will have a folder called. Constellation Readme open this folder. In the folder will find a file called \[StarfieldCustom.ini] copy this file and place it into the following location.
 
 ```
  C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
@@ -188,9 +195,27 @@ Constallation Readme.7z
 
 ![](https://s11.gifyu.com/images/SgFGr.png)
 
-<details><summary>CLICK FOR YOUTUBE GUIDE</summary>
+***
 
-</details>
+## [Enabling Texture Mods](https://)
+
+1\. After you have downloaded the collection you need to go to the following location
+
+```
+SteamLibrary\steamapps\common\Starfield\Data\
+```
+
+2\. Locate this Folder
+
+```
+Textures
+```
+
+3\. Copy the Folder and place it into the following location.
+
+```
+C:\Users\[YOUR USERNAME\Documents\My Games\Starfield\Data
+```
 
 ***
 
@@ -198,9 +223,9 @@ Constallation Readme.7z
 
 \***Note** If you don't want the optional mods skip this step.
 
-1. Select **"show"** optional mods then select **"no thanks"**
+1. Select **"show"** optional mods then select **"No thanks" or "View optional mods"**
 
-![](https://s11.gifyu.com/images/Optinal.jpg)
+![](https://s11.gifyu.com/images/SgGTE.jpg)
 
 Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
 
@@ -293,7 +318,7 @@ ReShade is included with the collection once you have finished downloading it wi
 
 1. Click on Reshade in the top corner.
 
-![](https://s11.gifyu.com/images/SgFLM.jpg)
+![](https://s11.gifyu.com/images/SgO3F.jpg)
 
 1. Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
 
@@ -423,11 +448,13 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 - Reshade included.
 - Reshade Preset.
-- 8 + Animated Main Menu Screens.
+- 10+ Animated Main Menu Screens.
 - 20+ Splash Screens.
 - Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks.
 - Remove the vignette filter from your quick (favourites) menu.
 - Change the FOV.
+- Cropped and upscaled loading screens for ultrawide monitors
+- Removes photo mode boundaries, and enhances sliders - for ultimate space screenarchery!
 
 <details><summary>CLICK FOR CONSOLE COMMANDS</summary>
 ### In-Game FOV Changer
@@ -460,7 +487,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ## Starfield Upscaler - Replacing FSR2 with DLSS or XeSS
 
-![](https://s11.gifyu.com/images/SgZAe.png)[Starfield Upscaler - Replacing FSR2 with DLSS or XeSS](https://www.nexusmods.com/starfield/mods/111) by [PureDark](https://www.nexusmods.com/starfield/users/2984000)
+![](https://s11.gifyu.com/images/SgBg6.jpg)[Starfield Upscaler - Replacing FSR2 with DLSS or XeSS](https://www.nexusmods.com/starfield/mods/111) by [PureDark](https://www.nexusmods.com/starfield/users/2984000)
 
 ### Features
 
@@ -469,6 +496,9 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpm.png)
+
+- Decreased enemy hearing accuracy when you're hidden behind obstacles, improving your stealth by reducing their ability to detect you out of sight.
+- Always loot armour from NPCs wearing it.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -480,7 +510,8 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Swaps the helmet torch light out for a different clearer version.
 - Jetpacks now work with pressing and holding buttons, instead of being single press.
 - Grabbing objects and Bodies is now quicker with no delay.
-- Removes the warning when opening the console for the first time in a session.
+- Increases the distance at which the map marker is visible.
+- Increases the distance at which objects can be scanned.
 
 ## UI Improvements Include
 
@@ -488,14 +519,12 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Add a small icon in front of lootable items in the world and inventory,, so it's easier to see what is what It also help for inventory management.
 - The player's health bar dynamically changes colour at 75%, 50% and 25%.
 - Changes the player's boost bar colour to blue and flashes cyan when fully recharged.
-- Modifies the inventory so more items can be seen at once.
-- Modifies the mission menu so more items can be seen at once. Increases viewable items by 50%.
-- Changes the inventory, container, and barter menus.
-- Option to sort items by Value: Mass.
+- Enhance your dialogue experience with a wider, refined and centered text area, improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
+- Removes the warning when opening the console for the first time in a session.
 
 ## StarUI Inventory
 
-![](https://s11.gifyu.com/images/Sg11q.png)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
+![](https://s11.gifyu.com/images/SgBgR.jpg)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
 
 ### Features
 
@@ -528,9 +557,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ## Lazy Cheats- Credits Mass Digipicks and XP
 
-![](https://s11.gifyu.com/images/Sgttx.md.jpg)
-
-[Lazy Cheats- Credits Mass Digipicks and XP](https://www.nexusmods.com/starfield/mods/183?tab=description) by [RockJB](https://www.nexusmods.com/starfield/users/24139914)
+![](https://s11.gifyu.com/images/SgBg8.jpg)[Lazy Cheats- Credits Mass Digipicks and XP](https://www.nexusmods.com/starfield/mods/183?tab=description) by [RockJB](https://www.nexusmods.com/starfield/users/24139914)
 
 ### Features
 
@@ -567,7 +594,7 @@ bigmass       | 10,000          | xp100           | 100,000
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFp7.png)
+![](https://s11.gifyu.com/images/SgFp7.png)&#x20;
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -615,6 +642,35 @@ bigmass       | 10,000          | xp100           | 100,000
 - Simply run "bat lzX" to use any of those
 </details>
 
+![](https://s11.gifyu.com/images/SgFMA.jpg)
+
+![](https://s11.gifyu.com/images/SgOIh.png)
+
+***
+
+## Bethini Pie (Performance INI Editor)
+
+![](https://s11.gifyu.com/images/SgOuq.png)[Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631/?tab=description) by [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
+
+### Features
+
+> Bethini Pie (Performance INI Editor) is a universal tool to make editing INI configuration files simple via a graphical user interface.
+
+<details><summary>CLICK FOR DETAILS</summary>
+Automatic backup of INI files.
+
+- Easy restoration of backups via a simple dropdown menu.
+- The preset system allows settings to be configured to apply multiple configuration changes at the touch of a button.
+- Themes
+- Tooltips
+- The preview system allows the user to right-click on settings to retrieve additional information or even images about any setting so configured.
+- Extensible to be able to add support for multiple games/applications through simple JSON files.
+</details>
+
+[Official Support Forum](https://stepmodifications.org/forum/forum/200-bethini-support/)
+
+***
+
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ![](https://s11.gifyu.com/images/SgdAl.png)
@@ -625,9 +681,9 @@ bigmass       | 10,000          | xp100           | 100,000
 
 ## ![](https://s11.gifyu.com/images/SgdAI.png)
 
-Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by me.
+Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by us.
 
-You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
+You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -683,6 +739,7 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support me 
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
 
+- [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
