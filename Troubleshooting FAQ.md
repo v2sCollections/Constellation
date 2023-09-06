@@ -86,20 +86,27 @@ You will be notified in the **changelog** if this needs to be done on each updat
 **ENABLING STARFIELD MODDING**
 
 **1**) After you have downloaded the collection you need to go to the following location
+```
+SteamLibrary\steamapps\common\Starfield\
+```
+
+2\. Locate this file and extract it.
 
 ```
-SteamLibrary\steamapps\common\Starfield\Constallation Readme\
+Constallation Readme.7z
 ```
 
-**2**) Here you will find a file called [StarfieldCustom.ini] copy this file and place it into the following location.
+3\. Now you will have a folder called. Constellation Readme open this folder.
+
+2In the folder will find a file called \[StarfieldCustom.ini] Copy this file and place it into the following location.
 
 ```
  C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
 ```
 
-**3**) Once done should look as follows.
+3\. Once done should look as follows.
 
-![img](https://s11.gifyu.com/images/SgFGr.png)
+![](https://s11.gifyu.com/images/SgFGr.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
