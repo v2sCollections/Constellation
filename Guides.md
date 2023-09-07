@@ -312,3 +312,73 @@ mods/UpscalerBasePlugin folder.
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 </details>
+
+
+<details>
+<summary>Enabling Texture Mods</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+**1**) After you have downloaded the collection you need to go to the following location
+
+```
+SteamLibrary\steamapps\common\Starfield\Data\
+```
+
+**2**) Locate this Folder
+
+```
+Textures
+```
+
+**3**) Copy the Folder and place it into the following location.
+
+```
+C:\Users\[YOUR USERNAME\Documents\My Games\Starfield\Data
+```
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>Some Mods not working</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+After installation, you will need to place the **INI** File into your **Documents** folder.
+
+Depending on what new mods are added in each update you may be required to do this again for certain updates.
+
+You will be notified in the **changelog** if this needs to be done on each update.
+
+**ENABLING STARFIELD MODDING**
+
+**1**) After you have downloaded the collection you need to go to the following location
+```
+SteamLibrary\steamapps\common\Starfield\
+```
+
+**2**) Locate this file and extract it.
+
+```
+Constallation Readme.7z
+```
+
+**3**) Now you will have a folder called. Constellation Readme open this folder.In the folder will find a file called \[StarfieldCustom.ini] Copy this file and place it into the following location.
+
+```
+ C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+```
+
+**4**) Once done should look as follows.
+
+![](https://s11.gifyu.com/images/SgFGr.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
