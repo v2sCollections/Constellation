@@ -272,4 +272,40 @@ I can overclock and stress test your **GPU**.
 
 </details>
 
+
+
+
 ## Other Guides
+
+<details>
+<summary>DLSS Setup</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
+
+⛔ If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
+
+⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
+
+1) Enable these 2 Mods in Vortex
+
+![](https://s11.gifyu.com/images/SgP0C.png)2) 
+
+2) You need to place the nvngx\_dlss.dll file you downloaded into.
+
+```
+mods/UpscalerBasePlugin folder.
+```
+
+3) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
+![](https://s11.gifyu.com/images/SgFWA.png)4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
+
+5) Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
+
+
+⛔This mod can be buggy with a Reshade installed and Overlays. I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
