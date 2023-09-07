@@ -191,9 +191,9 @@ All of this I offer free of charge. The only thing I ask is for you to **Endorse
 
 This is an overclocking tool but it does much more. With this tool, I can set the following.
 
-1) Custom fan curve this will help with **GPU** temps.
+- Custom fan curve this will help with **GPU** temps.
 
-2) Unlock the voltage control on the **GPU** this helps maintain higher clock speeds for the **GPU**.
+- Unlock the voltage control on the **GPU** this helps maintain higher clock speeds for the **GPU**.
 
 
 
@@ -232,13 +232,13 @@ As well as the tools i can install and configure there are also some optimizatio
 
 These include.
 
-1) Nvidia control panel optimizations
+- Nvidia control panel optimizations
 
-2) Bios optimizations.
+- Bios optimizations.
 
-3) Power management optimizations.
+- Power management optimizations.
 
-4) Game-specific optimizations.
+- Game-specific optimizations.
 
 
 
@@ -250,9 +250,9 @@ I can overclock and stress test your **GPU**.
 
 ### As well as all of the above I can.
 
-1) Clear out old unused Windows files taking up space on your System.
+- Clear out old unused Windows files taking up space on your System.
 
-2) Run system scans to ensure everything is running as it should be and repair errors.
+- Run system scans to ensure everything is running as it should be and repair errors.
 
 [MSI afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 
@@ -288,23 +288,23 @@ If you choose to use the DLSS Support (OPTIONAL) you will need to do the followi
 
 ⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
 
-1) Enable these 2 Mods in Vortex
+**1**) Enable these 2 Mods in Vortex
 
 ![](https://s11.gifyu.com/images/SgP0C.png)2) 
 
-2) You need to place the nvngx\_dlss.dll file you downloaded into.
+**2**) You need to place the nvngx\_dlss.dll file you downloaded into.
 
 ```
 mods/UpscalerBasePlugin folder.
 ```
 
-3) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.
+**3**) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.
 
 ![](https://s11.gifyu.com/images/SgFWA.png) 
 
-4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
+**4**) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
 
-5) Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
+**5**) Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
 
 
 ⛔This mod can be buggy with a Reshade installed and Overlays. I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
