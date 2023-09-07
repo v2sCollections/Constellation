@@ -343,7 +343,7 @@ C:\Users\[YOUR USERNAME\Documents\My Games\Starfield\Data
 
 
 <details>
-<summary>Some Mods not working</summary>
+<summary>Enabling Starfield Modding</summary>
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -379,6 +379,3 @@ Constallation Readme.7z
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 </details>
-
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
