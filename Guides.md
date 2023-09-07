@@ -298,8 +298,11 @@ If you choose to use the DLSS Support (OPTIONAL) you will need to do the followi
 mods/UpscalerBasePlugin folder.
 ```
 
-3) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
-![](https://s11.gifyu.com/images/SgFWA.png)4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
+3) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.
+
+![](https://s11.gifyu.com/images/SgFWA.png)4) 
+
+4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
 
 5) Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
 
