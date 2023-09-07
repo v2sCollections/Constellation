@@ -300,7 +300,7 @@ mods/UpscalerBasePlugin folder.
 
 3) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.
 
-![](https://s11.gifyu.com/images/SgFWA.png)4) 
+![](https://s11.gifyu.com/images/SgFWA.png) 
 
 4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
 
