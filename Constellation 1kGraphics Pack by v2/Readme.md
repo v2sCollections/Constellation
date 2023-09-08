@@ -7,7 +7,11 @@
 
 ### Collection Rev 3
 
-![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
+![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is The Constellation Performance Texture Pack for **Starfield**.
+
+### Note&#x20;
+
+Texture Packs have been made Optional so once you have the Collection added to Vortex you can choose to install the Pack you would like. So you don't have to Download the entire 24GB.
 
 ## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
 
@@ -18,12 +22,10 @@ That said, there's a ton of work to do on the textures so I am also incredibly e
 \
 You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collections-1076179431195955290).
 
-Note this is for high-end systems only.
-
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
 
 - Easy to follow step-by-step installation guide.
-- Graphics mods to enhance Starfield.
+- Graphics mods to enhance Starfield on low-end systems.
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
 - [Youtube Channe](https://www.youtube.com/@Constellation-2077)l-with Guides and Videos.
 - [Github Repository](https://github.com/2077v2/Constellation)-with Guides/FAQs and much more.
@@ -40,8 +42,6 @@ Note this is for high-end systems only.
 
 ![](https://s11.gifyu.com/images/SgdAu.png)
 
-## ⛔[WARNINGS](https://)⛔
-
 If you see this> ⛔ then you need to read and follow the directions.
 
 - ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
@@ -52,13 +52,6 @@ If you see this> ⛔ then you need to read and follow the directions.
 - ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 - Notes will be in the changelog.
 
-## [Launching Starfield](https://)
-
-- Make sure Steam is open.
-- Use Vortex to launch the game. (You cannot Launch from Steam)
-
-![](https://s11.gifyu.com/images/SgO30.jpg)
-
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ## ![](https://s11.gifyu.com/images/SgdAq.png)[READ](https://)
@@ -67,14 +60,8 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Install time](https://)
 
-**Premium Users**: Takes 10 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 20 Min + Semi-automatic. You will have to click on download for each mod one by one.
-
-***
-
-## [Starfield](https://)
-
-1. Make sure the game is installed on an SSD.
+**Premium Users**: Takes 20 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 40 Min + Semi-automatic. You will have to click on download for each mod one by one.
 
 ***
 
@@ -131,47 +118,13 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 1. Select **"show"** optional mods then select **"no thanks"**
 
-![](https://s11.gifyu.com/images/SgGTE.jpg)
-
-Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+![](https://s11.gifyu.com/images/SgGTE.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
 
 ***
 
 ## NOW JOIN CONSTELLATION!!!
 
 ## ![](<\<iframe src="https://giphy.com/embed/6yG1e2cnStpgpEDDId" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="https://giphy.com/gifs/xbox-xbox-series-x-starfield-e3-6yG1e2cnStpgpEDDId"\>via GIPHY\</a\>\</p\>>)![](https://media.giphy.com/media/6yG1e2cnStpgpEDDId/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
-
-***
-
-## [Reshade](https://)
-
-<details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
-ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
-
-1. Click on Reshade in the top corner.
-
-![](https://s11.gifyu.com/images/SgO3F.jpg)
-
-1. Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
-
-```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
-```
-
-1. Select Directx 10/11/12
-2. On the **"select preset to install"** select next
-3. Select next and finish the installation.
-4. Run the game
-
-I have added the Reshade below.
-
-- Constellation Reshade by[v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
-
-### **Reshade controls**
-
-**End** key to toggle main effects\
-**Home** key to open GUI
-</details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -186,7 +139,28 @@ You can find all our guides on our Discord and here [Guides](https://github.com/
 ## FAQ
 
 <details><summary>COMMON FAQS</summary>
+### COMMON FAQS
 
+**Which pack should I choose?**\
+Completely depends on your system. My guess is that if you have a 2080 or better the 1K pack will probably be enough. If you have a 1060 or below you might need the Quarter Resolution Pack.\
+\
+**Why loose files?**\
+I am sticking with loose files until Stage 4 of this project. This will allow files to be more easily overwritten by both other mods and by any fixes or updates.\
+\
+**Why is it SO large?**\
+This mod contains over 41,000 texture files, with an original uncompressed size of 64GB.\
+\
+**Why won't you update the AIO pack at each stage?**\
+The files are too large, I want to verify that there aren't issues at every stage of the process, and you can always overwrite this mod with the new releases.\
+\
+**I'm having a bug or other problem with this mod, what do I do?**\
+Please report it on the 'Bugs' tab on this mod page. I may not be able to keep up with all the comments on the 'Posts' tab.\
+\
+**Why did you downscale color maps?**\
+For Skyrim I often will leave color/diffuse maps in higher resolution than other texture types. I've found that with Starfield (like CP77), the quality of the normal maps can have as much effect on the image quality as the color maps. Ultimately this is something that really depends on the type of object the texture is of. For example, skins often have minimal detail on their color maps and the minute texturing of the normals can bring the color to life far more. Much of my attention for upscaling this game will be on the normal maps.\
+\
+**How does this differ from *****x***** mod?**\
+Read everything above and if it isn't clear, ask a friend or post in the comments. Likely answers are that it downscales more textures or is packaged differently.
 </details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
@@ -199,15 +173,22 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
-You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
+## ![](https://s11.gifyu.com/images/SgFMA.jpg)Upscaled Animations
 
-## ![](https://s11.gifyu.com/images/SgFMA.jpg)**Reshade**
+- [UHD4k 60 FPS FMVs](https://www.nexusmods.com/starfield/mods/337/?tab=description) (These have no negative Performance Impact)
 
-- [Constellation Reshade](https://www.nexusmods.com/starfield/mods/103)
+## Downscaled Textures
 
-## **Upscaled Animations**
+You will be able to choose from 3 different Presets. Think of these as High Medium And low.
 
-- [UHD4k 60 FPS FMVs](https://www.nexusmods.com/starfield/mods/337/?tab=description)
+- (HIGH) HOT POTATO-1k Texture Resolution
+- (MEDIUM) WARM POTATO-512 Texture Resolution
+- (LOW) COLD POTATO-256 Texture Resolution
+
+Downscaled Textures Include
+
+- [Clothing](https://www.nexusmods.com/starfield/mods/1147)
+- [Cities](https://www.nexusmods.com/starfield/mods/936)
 
 ##
 
@@ -221,7 +202,7 @@ If you enjoy this collection, **PLEASE** endorse our mods and collections.
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
 
-- [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
+- [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)&#x20;
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
