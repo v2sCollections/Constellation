@@ -7,10 +7,11 @@
 4) [Vortex](#vortex)
 5) [Vortex and Starfield](#vortex-and-starfield)
 6) [Installing the collection](#installing-the-collection)
-7) [Pop Ups](#pop-ups)
-8) [Optional Mods](#optional-mods)
-9) [In game settings](#in-game-settings)
-10) [Reshade](#reshade)
+7) [Enabling Starfield Modding](#enabling-starfield-modding)
+8) [Enabling Texture Mods](#enabling-texture-mods)
+9) [Optional Mods](#optional-mods)
+10) [In game settings](#in-game-settings)
+11) [Reshade](#reshade)
 
 - ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
 
@@ -79,7 +80,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ---
 
-## [ENABLING STARFIELD MODDING](https://)
+## Enabling Starfield Modding
 
 1\. After you have downloaded the collection you need to go to the following location
 
@@ -105,7 +106,7 @@ Constallation Readme.7z
 
 ***
 
-## [Enabling Texture Mods](https://)
+## Enabling Texture Mods
 
 1\. After you have downloaded the collection you need to go to the following location
 
@@ -127,7 +128,7 @@ C:\Users\[YOUR USERNAME\Documents\My Games\Starfield\Data
 
 ***
 
-## [OPTIONAL MODS](https://)
+## OPTIONAL MODS
 
 \***Note** If you don't want the optional mods skip this step.
 
@@ -139,7 +140,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ***
 
-## [In-game settings](https://)
+## In-game settings
 
 - To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods
 
@@ -225,7 +226,7 @@ mods/UpscalerBasePlugin folder.
 
 ***
 
-## [Reshade](https://)
+## Reshade
 
 <details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
