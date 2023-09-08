@@ -258,5 +258,4 @@ I have added the Reshade below.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAd.png)
 
