@@ -182,6 +182,20 @@ On the first installation, you will be able to choose your background from the i
 
 </details>
 
+<details>
+<summary>My Controller doesnt work</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+**1**) Open Steam.
+
+**2**) Locate **"Starfield"** and select **"Properties"**.
+
+**3**) Select **"Controller Settings"** and disable Steam Input.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
 
