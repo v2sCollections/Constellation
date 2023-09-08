@@ -2,19 +2,17 @@
 
 
 
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
-
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 16
+### Collection Rev 17
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
 If you haven't seen me before that's because this is my first entry into the world of Bethesda but don't let that fool you I have a passion for everything Gaming/Modding. I have been modding and curating collections for other games such as [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) which I currently have the most endorsed and downloaded collection on [Nexus](https://). I've also curated the largest and most comprehensive mod collection for [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) with 800+Mods. And my latest collection for [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection). I'm eager to get started on a whole new chapter and I would love for you to come along for the ride. See you soon.
 
-This isn't just a mod list we have slapped together this will be a whole new world of Starfield. I have already spent hours and hours on this collection and I have only just started. I want to create the best Starfield experience possible.
+This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding and testing to create the best **Starfield** experience possible.
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -33,7 +31,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [35](https://)+ Mods.
+- Only-[3](https://)GB in download size for [40](https://)+ Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -59,6 +57,7 @@ This collection is extensively tested with every new version that is released. I
 - Input Mods.
 - Improved UI.
 - DLSS Support
+- Console Command List with over 60+ Easy to use Commands+Cheats.
 - 20+ Splash Screens.
 - 10+ Animated Menu Backgrounds.
 - Support for other Modular Expansion Packs.
@@ -288,19 +287,25 @@ These are setup for a full size KB.
 
 <details><summary>CLICK HERE FOR OPTIONAL DLSS GUIDE</summary>
 If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
-⛔ If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
+⛔  If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
 
 ⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
 
-⛔ You need to place the nvngx\_dlss.dll into mods/UpscalerBasePlugin folder.
+1\) Enable these 2 Mods in Vortex
 
-1\. Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
-![](https://s11.gifyu.com/images/SgFWA.png)2. To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
+![](https://s11.gifyu.com/images/SgP0C.png)2) You need to place the nvngx\_dlss.dll file you downloaded into.
 
-3\. Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
+```
+mods/UpscalerBasePlugin folder.
+```
+
+3\) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
+![](https://s11.gifyu.com/images/SgFWA.png)4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
+
+5\) Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
 
 \
-⛔(This mod can be buggy with a Reshade installed and Overlays) I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
+⛔This mod can be buggy with a Reshade installed and Overlays. I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
 </details>
 
 ***
@@ -452,9 +457,10 @@ You can check out the gallery at the top of this page for videos by some of the 
 - 20+ Splash Screens.
 - Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks.
 - Remove the vignette filter from your quick (favourites) menu.
+- Remove Vignette From Scanner.
 - Change the FOV.
 - Cropped and upscaled loading screens for ultrawide monitors
-- Removes photo mode boundaries, and enhances sliders - for ultimate space screenarchery!
+- Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
 
 <details><summary>CLICK FOR CONSOLE COMMANDS</summary>
 ### In-Game FOV Changer
@@ -512,6 +518,8 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Grabbing objects and Bodies is now quicker with no delay.
 - Increases the distance at which the map marker is visible.
 - Increases the distance at which objects can be scanned.
+- Decrease jogging movement speed.
+- Better FOV when in dialogue.
 
 ## UI Improvements Include
 
@@ -552,6 +560,77 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 ![](https://s11.gifyu.com/images/SgFph.png)
 
 - Prevents achievements from being disabled with mods or when using the console.
+
+***
+
+## Console commands cheat list
+
+![](https://s11.gifyu.com/images/SgetX.jpg)[Console Commands Cheat List](https://www.nexusmods.com/starfield/mods/607) by [xRichyx](https://www.nexusmods.com/starfield/users/130875433)
+
+### Features
+
+> Console Command List with over 60+ Easy to use Commands+Cheats. You can access this from the Tools bar in Vortex. You just have to copy and paste the commands you want from the Text document in Vortex into your console in the game. You can open the console (with the ~ key)
+
+<details><summary>CLICK FOR DETAILS</summary>
+This is a list of the types of cheats you can use.
+
+- God Mode
+- Immortal Mode
+- Instant kill
+- Add money
+- Sets your character to the specified level
+- Add XP
+- XP Multiplier
+- Add skill points
+- Movement speed multiplier
+- Digipicks
+- Carryweight
+- Unlocks the targeted door or container
+- Unlocks all 24 powers
+- Total power
+- Power recovery speed
+- Power recovery rate
+- No Clip
+- Starts all main story and side missions
+- Completes all main story and side missions
+- Applies the specified weapon mods to your weapon
+- Removes the specified weapon mods from your weapon
+- Kills all hostile NPCs in the vicinity
+- NPCs will no longer target and attack you
+- All speech challenges automatically succeed
+- Passes the specified number of hours
+- Opens the wait/pass time menu
+- Opens the character creator
+- Suicide
+- No fall damage
+- Reload speed
+- Aim stability increase
+- Change max ownable ships
+- Increase max scan range
+- Instant scan
+- Disables enemy health gain per level
+- Camera FOV
+- More custom landing sites
+- Pickpocket 100% chance
+- Get companions unstuck
+- Pay Off Bounties for a specific Faction
+- Resources
+- Powers
+- Perks
+- Backpacks
+- Backpack mods
+- Spacesuits
+- Armor mods
+- Clothes
+- Helmets
+- Weapons
+- Weapon modifiers
+- Weapon upgrades
+- Ammo
+- Shipyard parts
+- Teleport to ship services
+- Easy Lockpicking
+</details>
 
 ***
 
@@ -596,11 +675,19 @@ bigmass       | 10,000          | xp100           | 100,000
 
 ![](https://s11.gifyu.com/images/SgFp7.png)&#x20;
 
+- Guns will now leave behind more than the vanilla 10-shell casings.
+
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpv.png)
 
 - Friendly fire is enabled among allied NPCs.
+- Reduced overall NPC detection in regards to player sound.
+- Reduced sound players produce when they are out of line of sight.
+- Reduced multiplier for how much light affects stealth.
+- Reduced stealth penalty for running.
+- Reduced detection of sleeping NPCs.
+- Reduced enemy detection in exteriors slightly.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -669,6 +756,8 @@ Automatic backup of INI files.
 
 [Official Support Forum](https://stepmodifications.org/forum/forum/200-bethini-support/)
 
+Note At this stage Bethine Pie will have to be manually Downloaded [HERE](https://www.nexusmods.com/site/mods/631/?tab=description)
+
 ***
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
@@ -683,7 +772,9 @@ Automatic backup of INI files.
 
 Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by us.
 
-You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
+You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end systems only**)
+
+You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems**)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -698,7 +789,7 @@ Recommended In-game settings These settings will give a slight performance boost
 
 ***
 
-## Low-End Settings
+## Low-End Settings (COMING SOON)
 
 Recommended In-game settings These settings will give a big increase to performance while sacrificing quality.
 
@@ -726,7 +817,7 @@ Recommended In-game settings These settings will give a big increase to performa
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600x or i5 10600K
-- STORAGE> 1GB
+- STORAGE> 3GB
 - STORAGE TYPE> SSD
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
@@ -735,7 +826,7 @@ Recommended In-game settings These settings will give a big increase to performa
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 
-If you enjoy this collection, **PLEASE** endorse the mod authors and Support me to help me build the best collection we can for this game.
+If you enjoy this collection, **PLEASE** endorse the mod authors and Support us to help us build the best collection we for Starfield.
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
 
@@ -750,7 +841,9 @@ Special thanks to these guys who helped make this collection what it is. And eve
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 
-If you would like to support me so I can afford a new ship click the button below. Can't donate? I understand a simple thank you and endorsement is much appreciated.
+If you would like to support me so I can afford a new ship so I can store more sandwiches click the button below. Can't donate? I understand a simple thank you and endorsement is much appreciated.
+
+[![](https://s11.gifyu.com/images/SgG7r.png)](https://www.buymeacoffee.com/2077v2)
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Disclaimer](https://)
 
