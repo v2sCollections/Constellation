@@ -286,6 +286,18 @@ If you choose to use the DLSS Support (OPTIONAL) you will need to do the followi
 
 ⛔ If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
 
+**1**) After you have run the Reshade setup go to your main Starfield directory.
+
+**2**) Locate the file
+```
+dxgi.dll
+```
+
+**3**) Right-click this file and change the name to 
+```
+d3d12.dll
+```
+
 ⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
 
 **1**) Enable these 2 Mods in Vortex
