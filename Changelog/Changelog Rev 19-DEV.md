@@ -4,7 +4,7 @@
 
 ## NOTES
 
-REMOVE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
+MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
 ## UPDATED
 
@@ -32,6 +32,7 @@ REMOVE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 - [No Galaxy Map Vignette](https://www.nexusmods.com/starfield/mods/1268?tab=description)
 - [No Data Menu Flicker](https://www.nexusmods.com/starfield/mods/1425?tab=description)
 - [Faster Favorites Menu](https://www.nexusmods.com/starfield/mods/1581?tab=files)
+- [Baka Kill My Games](https://www.nexusmods.com/starfield/mods/1599?tab=description)
 
 ## BUGS
 
