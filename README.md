@@ -2,11 +2,12 @@
 
 
 
+
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 19
+### Collection Rev 18
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -387,6 +388,24 @@ You will need to do the following.
 ```
 mods/UpscalerBasePlugin
 ```
+
+## ![img](https://s11.gifyu.com/images/Sgd38.jpg)[When I launch the game a window appears like this ❓](https://)
+
+![img](https://s11.gifyu.com/images/S4pEh.png)This is because you didn't delete the Data folder follow the steps below.
+
+**1**) Go to the following location
+
+```
+C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+```
+
+**2**). Delete this Folder
+
+```
+Data
+```
+
+**3**) Launch your Game
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[DLSS and Reshade not working together❓](https://)
 

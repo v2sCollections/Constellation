@@ -10,6 +10,7 @@
 - [Troubleshooting](#troubleshooting)
 - [Gameplay Questions](#gameplay-questions)
 - [Bugs](#bugs)
+- [Vortex Questions](#vortex-questions)
 - [Other Questions](#other-questions)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
@@ -202,6 +203,35 @@ On the first installation, you will be able to choose your background from the i
 
 ## Bugs
 
+
+
+
+## Vortex Questions
+
+
+
+<details>
+<summary>When i launch the game a window appears like this</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+![img](https://s11.gifyu.com/images/S4pEh.png)
+
+This is because you didn't delete the Data folder follow the steps below.
+
+**1**) Go to the following location
+```
+C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+```
+**2**). Delete this Folder
+```
+Data
+```
+**3**) Launch your Game
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
 
