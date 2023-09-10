@@ -1,10 +1,17 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 19 is COMING SOON](https://)
+## [HEY GUYS Rev 19 is HERE](https://)
 
 ## NOTES
 
 MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
+
+- Texture Mods will now be automatically loaded. 
+- You will be required to go to the following location and delete the Data folder
+
+```
+ C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+```
 
 ## UPDATED
 
@@ -16,6 +23,8 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 - [Enhanced Dialogue Interface](https://www.nexusmods.com/starfield/mods/871?tab=description)
 - [Console commands cheat list](https://www.nexusmods.com/starfield/mods/607?tab=description)
 - [Lazy Cheats - Ammo Credits Digipicks Mass and XP](https://www.nexusmods.com/starfield/mods/183?tab=description)
+- [Icon Sorting Tags - Starfield Edition](https://www.nexusmods.com/starfield/mods/312?tab=description)
+- [
 
 ## REMOVED
 
@@ -33,6 +42,9 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 - [No Data Menu Flicker](https://www.nexusmods.com/starfield/mods/1425?tab=description)
 - [Faster Favorites Menu](https://www.nexusmods.com/starfield/mods/1581?tab=files)
 - [Baka Kill My Games](https://www.nexusmods.com/starfield/mods/1599?tab=description)
+- [Baka Quit Game Fix](https://www.nexusmods.com/starfield/mods/1662?tab=description)
+- [Dark Mode for Terminals](https://www.nexusmods.com/starfield/mods/861?tab=description)
+- [Sprint Stuttering Fix](https://www.nexusmods.com/starfield/mods/884?tab=description)
 
 ## BUGS
 

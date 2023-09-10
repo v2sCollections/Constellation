@@ -6,7 +6,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 17
+### Collection Rev 19
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -201,19 +201,13 @@ Constallation Readme.7z
 1\. After you have downloaded the collection you need to go to the following location
 
 ```
-SteamLibrary\steamapps\common\Starfield\Data\
+C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
 ```
 
-2\. Locate this Folder
+2\. Delete this Folder
 
 ```
-Textures
-```
-
-3\. Copy the Folder and place it into the following location.
-
-```
-C:\Users\[YOUR USERNAME\Documents\My Games\Starfield\Data
+Data
 ```
 
 ***
@@ -288,6 +282,26 @@ These are setup for a full size KB.
 <details><summary>CLICK HERE FOR OPTIONAL DLSS GUIDE</summary>
 If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
 ⛔  If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
+
+### [Reshade](https://)
+
+**1**) After you have run the Reshade setup go to your main Starfield directory.
+
+**2**) Locate the file
+
+```
+dxgi.dll
+```
+
+**3**) Right-click this file and change the name to
+
+```
+d3d12.dll
+```
+
+***
+
+### [DLSS](https://)
 
 ⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
 
@@ -400,29 +414,37 @@ This will be because you have Enabled the DLSS Mod before running the Reshade se
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Some Mods not working❓](https://)
 
-1\. After you have downloaded the collection you need to go to the following location
+**1**) After you have downloaded the collection you need to go to the following location
 
 ```
 SteamLibrary\steamapps\common\Starfield\
 ```
 
-2\. Locate this file and extract it.
+**2**) Locate this file and extract it.
 
 ```
 Constallation Readme.7z
 ```
 
-3\. Now you will have a folder called. Constellation Readme open this folder.
+**3**) Now you will have a folder called. Constellation Readme open this folder.
 
-2In the folder will find a file called \[StarfieldCustom.ini] Copy this file and place it into the following location.
+&#x20;In the folder will find a file called \[StarfieldCustom.ini] Copy this file and place it into the following location.
 
 ```
  C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
 ```
 
-3\. Once done should look as follows.
+**4**) Once done should look as follows.
 
-![](https://s11.gifyu.com/images/SgFGr.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
+## ![](https://s11.gifyu.com/images/SgFGr.png)![](https://s11.gifyu.com/images/Sgd38.jpg)[My controller doesn't work❓](https://)
+
+**1**) Open Steam.
+
+**2**) Locate **"Starfield"** and select **"Properties"**.
+
+**3**) Select **"Controller Settings"** and disable Steam Input.
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
@@ -447,6 +469,8 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ![](https://s11.gifyu.com/images/SgFpk.png)
 
+- Fixed twitching/stuttering when sprinting in first person.
+
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpq.png)
@@ -457,7 +481,9 @@ You can check out the gallery at the top of this page for videos by some of the 
 - 20+ Splash Screens.
 - Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks.
 - Remove the vignette filter from your quick (favourites) menu.
+- Removes the vignette background with obvious color banding from the galaxy map.
 - Remove Vignette From Scanner.
+- Remove the flicker from the data menu open/close animation.
 - Change the FOV.
 - Cropped and upscaled loading screens for ultrawide monitors
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
@@ -475,7 +501,9 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Eyes.
 - Blood.
 
-You can use my 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
+You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
+
+You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems to help you gain some performance**)
 
 ***
 
@@ -503,8 +531,8 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ![](https://s11.gifyu.com/images/SgFpm.png)
 
-- Decreased enemy hearing accuracy when you're hidden behind obstacles, improving your stealth by reducing their ability to detect you out of sight.
-- Always loot armour from NPCs wearing it.
+- Reduced sound players produce when they are out of line of sight.
+- Increases the travel distance of the horizontal boost.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -527,8 +555,9 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Add a small icon in front of lootable items in the world and inventory,, so it's easier to see what is what It also help for inventory management.
 - The player's health bar dynamically changes colour at 75%, 50% and 25%.
 - Changes the player's boost bar colour to blue and flashes cyan when fully recharged.
-- Enhance your dialogue experience with a wider, refined and centered text area, improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
+- Enhance your dialogue experience with a wider, refined and centred text area, and improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
 - Removes the warning when opening the console for the first time in a session.
+- Gives terminals and kiosks a darker theme, and makes the terminal startup less bright.
 
 ## StarUI Inventory
 
@@ -676,18 +705,22 @@ bigmass       | 10,000          | xp100           | 100,000
 ![](https://s11.gifyu.com/images/SgFp7.png)&#x20;
 
 - Guns will now leave behind more than the vanilla 10-shell casings.
+- Always loot armour from NPCs wearing it.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpv.png)
 
 - Friendly fire is enabled among allied NPCs.
-- Reduced overall NPC detection in regards to player sound.
-- Reduced sound players produce when they are out of line of sight.
 - Reduced multiplier for how much light affects stealth.
 - Reduced stealth penalty for running.
+- Reduced NPC reaction and idle times.
 - Reduced detection of sleeping NPCs.
 - Reduced enemy detection in exteriors slightly.
+- NPCs are more inclined to shoot their weapons.
+- They'll fire from cover and change their positions more frequently.
+- NPCs' accuracy gets a slight but noticeable upgrade.
+- Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -701,6 +734,7 @@ bigmass       | 10,000          | xp100           | 100,000
 
 ![](https://s11.gifyu.com/images/SgFpd.png)
 
+- Increases the maximum number of ships you can own x5.
 - A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance and more floors.
 
 <details><summary>cLICK FOR CONSOLE COMMANDS</summary>
@@ -774,7 +808,37 @@ Please do not forget that when you install any extra collections, it's your resp
 
 You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end systems only**)
 
-You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems**)
+<details><summary>CLICK FOR 4K INSTALL GUIDE</summary>
+Install guide for our Graphics Collections
+
+**1**) Select **ADD TO VORTEX** on Nexus
+
+**2**) Create a new Profile and call it whatever you want.
+
+**3**) Then load your original Constellation Profile and enable the  **v2\_UHD4k-60FPS-FMVs**.
+</details>
+
+You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems to help you gain some performance**)
+
+<details><summary>CLICK FOR 1K INSTALL GUIDE</summary>
+Install guide for our Graphics Collections
+
+**1**) Select **ADD TO VORTEX** on Nexus
+
+**2**) Create a new Profile and call it whatever you want.
+
+**3**) Once downloaded you can choose your Preset.
+
+- Hot Potato
+- Warm Potato
+- Cold Potato
+
+**4**) Choosing your preset is as easy as Enabling either of the above-mentioned Presets.
+
+**5**) Then load your original Constellation Profile and enable the texture pack you want.
+</details>
+
+![](https://s11.gifyu.com/images/S42vc.png)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -785,13 +849,13 @@ You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfi
 
 Recommended In-game settings These settings will give a slight performance boost without sacrificing quality.
 
-![](https://s11.gifyu.com/images/SgVs9.jpg)
-
-***
-
-## Low-End Settings (COMING SOON)
+## ![](https://s11.gifyu.com/images/SgVs9.jpg)Low-End Settings
 
 Recommended In-game settings These settings will give a big increase to performance while sacrificing quality.
+
+![](https://s11.gifyu.com/images/S42HR.jpg)
+
+***
 
 ### YOUTUBE GUIDES TO IMPROVE GAMING PERFORMANCE.
 
