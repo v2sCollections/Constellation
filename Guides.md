@@ -327,32 +327,24 @@ mods/UpscalerBasePlugin folder.
 
 
 <details>
-<summary>Enabling Texture Mods</summary>
+<summary>Enabling Texture Modding</summary>
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-**1**) After you have downloaded the collection you need to go to the following location
+
+After you have downloaded the collection you need to go to the following location
 
 ```
-SteamLibrary\steamapps\common\Starfield\Data\
+C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
 ```
-
-**2**) Locate this Folder
-
+**1**). Delete this Folder
 ```
-Textures
-```
-
-**3**) Copy the Folder and place it into the following location.
-
-```
-C:\Users\[YOUR USERNAME\Documents\My Games\Starfield\Data
+Data
 ```
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 </details>
-
 
 <details>
 <summary>Enabling Starfield Modding</summary>
