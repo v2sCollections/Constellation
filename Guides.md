@@ -367,7 +367,7 @@ After installation, you will need to setup Starfield Modding
 
 **5**) Select **Bethini** a window will now pop up.
 
-**5**) Select **Starfield.
+**5**) Select **Starfield**.
 
 ![img](https://s11.gifyu.com/images/S4xFV.jpg)
 
@@ -377,7 +377,7 @@ After installation, you will need to setup Starfield Modding
 
 ![img](https://s11.gifyu.com/images/S4xFf.png)
 
-**8**) Enter this into the "Starting Console Command" window   "bat ConstellationLoader"
+**8**) Enter this into the following into the **Starting Console Command window**   "bat ConstellationLoader"
 
 **9**) Now exit the program and select **Save**
 
