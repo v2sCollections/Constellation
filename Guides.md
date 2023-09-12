@@ -351,34 +351,31 @@ Data
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-After installation, you will need to place the **INI** File into your **Documents** folder.
+Enabling Starfield Modding
 
-Depending on what new mods are added in each update you may be required to do this again for certain updates.
+After installation, you will need to setup Starfield Modding
 
-You will be notified in the **changelog** if this needs to be done on each update.
+**1**) Open **Vortex**
 
-**ENABLING STARFIELD MODDING**
+**2**) In the top left hand corner you will see some tools.
+![img](https://s11.gifyu.com/images/S4xFa.jpg)
 
-**1**) After you have downloaded the collection you need to go to the following location
-```
-SteamLibrary\steamapps\common\Starfield\
-```
+**3**) If you dont see Bethini select the "Dashboard tab and "enable tools"
+![img](https://s11.gifyu.com/images/S4xFZ.jpg
 
-**2**) Locate this file and extract it.
+**5**) Select **Bethini** a window will now pop up.
 
-```
-Constallation Readme.7z
-```
+**5**) Select **Starfield.
+![img](https://s11.gifyu.com/images/S4xFV.jpg)
 
-**3**) Now you will have a folder called. Constellation Readme open this folder.In the folder will find a file called \[StarfieldCustom.ini] Copy this file and place it into the following location.
+**6**) Select ok.
 
-```
- C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
-```
+**7**) Check **Load Loose Files** Uncheck **Message of the Day**.
+![img](https://s11.gifyu.com/images/S4xFf.png)
 
-**4**) Once done should look as follows.
+**8**) Enter this into the "Starting Console Command" window   "bat ConstellationLoader"
 
-![](https://s11.gifyu.com/images/SgFGr.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
+**9**) Now exit the program and select **Save**
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
