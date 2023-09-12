@@ -363,7 +363,7 @@ After installation, you will need to setup Starfield Modding
 
 **3**) If you dont see Bethini select the "Dashboard tab and "enable tools"
 
-![img](https://s11.gifyu.com/images/S4xFZ.jpg
+![img](https://s11.gifyu.com/images/S4xFZ.jpg)
 
 **5**) Select **Bethini** a window will now pop up.
 
