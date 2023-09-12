@@ -11,6 +11,7 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 - Huge shoutout to the Creator of Bethini [DoubleYouC](https://www.nexusmods.com/site/users/5045901) who worked on this with me all morning. To make the installlation process for the Collection much easier. Please click on his name ENDORSE his Mods and give him Kudos. Without people like this in the community we wouldnt be able to have these great tools.
 
 - Achievements should now be tracked correctly.
+- Fixed incorrect commands in Constellation Loader.
 
 ## UPDATED
 
@@ -31,7 +32,13 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 ## NEW MODS ADDED
 
 - [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750?tab=description)
+- [Less Spongy Enemies](https://www.nexusmods.com/starfield/mods/344) Now balanced.
+- [Better Mines](https://www.nexusmods.com/starfield/mods/1185?tab=description)
+- [No XP Kill Steal Fix](https://www.nexusmods.com/starfield/mods/1018?tab=description)
+- [Less Spongy Player - Adjustable Player Health](https://www.nexusmods.com/starfield/mods/1160?tab=description)
+- [Power Attack Cost Reduction](https://www.nexusmods.com/starfield/mods/1245?tab=description)
 - [
+
 
 ## BUGS
 
