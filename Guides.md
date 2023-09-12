@@ -377,7 +377,7 @@ After installation, you will need to setup Starfield Modding
 
 ![img](https://s11.gifyu.com/images/S4xFf.png)
 
-**8**) Enter this into the following into the **Starting Console Command window**   "bat ConstellationLoader"
+**8**) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
 
 **9**) Now exit the program and select **Save**
 
