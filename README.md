@@ -3,8 +3,6 @@
 
 
 
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
-
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
@@ -85,18 +83,19 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 
 If you see this> ⛔ then you need to read and follow the directions.
 
-- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+- ⛔It Is important that you read the following guide to fully understand everything clearly.
+- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
-- **⛔**Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
+- Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
 - ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 - Notes will be in the changelog.
 
 ## [Launching Starfield](https://)
 
 - Make sure Steam is open.
-- Use Vortex to launch the game. (You cannot Launch from Steam)
+- ⛔Use Vortex to launch the game. **DO NOT** Launch through Steam.
 
 ![](https://s11.gifyu.com/images/SgO30.jpg)
 
@@ -164,17 +163,35 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ***
 
-## [INSTALLING THE COLLECTION](https://)
+## [Installing The Collection](https://)
 
 1\. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
 ![](https://s11.gifyu.com/images/SgCKJ.jpg)2. Click "Add to Vortex"(choose your newly created profile).
 
-## ![](https://s12.gifyu.com/images/Untitled1.png)
+![](https://s12.gifyu.com/images/Untitled1.png)3. After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
+
+![](https://s11.gifyu.com/images/SgGTE.jpg)
 
 ***
 
-## ENABLING STARFIELD MODDING
+## [Enabling Texture Mods](https://)
+
+1\. After you have downloaded the collection you need to go to the following location
+
+```
+C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+```
+
+2\. Delete this Folder
+
+```
+Data
+```
+
+***
+
+## [Enabling Starfield Modding](https://)
 
 https://www.youtube.com/watch?v=0DGLEjs-1IQ
 
@@ -204,31 +221,88 @@ If you cant get Bethini to work for whatever reason you can still use the old me
 
 ***
 
-## [Enabling Texture Mods](https://)
+## [OPTIONAL MODS](https://)
 
-1\. After you have downloaded the collection you need to go to the following location
+Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(Make sure to read these messages)**.
+
+### OPTIONAL RESHADE & DLSS INSTALLATION.&#x20;
+
+⛔ These can be tricky to get working properly together if you don't need the extra performance from DLSS I recommend **NOT** installing DLSS.
+
+## Reshade
+
+<details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
+ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
+
+1. Click on Reshade in the top corner.
+
+![](https://s11.gifyu.com/images/SgO3F.jpg)
+
+1. Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
 
 ```
-C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
 ```
 
-2\. Delete this Folder
+1. Select Directx 10/11/12
+2. On the **"select preset to install"** select next
+3. Select next and finish the installation.
+4. Run the game
+
+I have added the Reshade below.
+
+- Constellation Reshade by[v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
+
+### **Reshade controls**
+
+**End** key to toggle main effects\
+**Home** key to open GUI
+</details>
+
+### DLSS Support
+
+<details><summary>CLICK HERE FOR OPTIONAL DLSS INSTALLATION</summary>
+If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
+⛔  If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
+
+### [Reshade](https://)
+
+**1**) After you have run the Reshade setup go to your main Starfield directory.
+
+**2**) Locate the file
 
 ```
-Data
+dxgi.dll
+```
+
+**3**) Right-click this file and change the name to
+
+```
+d3d12.dll
 ```
 
 ***
 
-## [OPTIONAL MODS](https://)
+### [DLSS](https://)
 
-\***Note** If you don't want the optional mods skip this step.
+⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
 
-1. Select **"show"** optional mods then select **"No thanks" or "View optional mods"**
+1\) Enable these 2 Mods in Vortex
 
-![](https://s11.gifyu.com/images/SgGTE.jpg)
+![](https://s11.gifyu.com/images/SgP0C.png)2) You need to place the nvngx\_dlss.dll file you downloaded into.
 
-Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+```
+mods/UpscalerBasePlugin folder.
+```
+
+3\) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
+![](https://s11.gifyu.com/images/SgFWA.png)4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
+
+5\) Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
+
+\
+⛔This mod can be buggy with a Reshade installed and Overlays. I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
+</details>
 
 ***
 
@@ -285,94 +359,15 @@ These are setup for a full size KB.
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
-### DLSS Support
-
-<details><summary>CLICK HERE FOR OPTIONAL DLSS GUIDE</summary>
-If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
-⛔  If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
-
-### [Reshade](https://)
-
-**1**) After you have run the Reshade setup go to your main Starfield directory.
-
-**2**) Locate the file
-
-```
-dxgi.dll
-```
-
-**3**) Right-click this file and change the name to
-
-```
-d3d12.dll
-```
-
 ***
 
-### [DLSS](https://)
-
-⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
-
-1\) Enable these 2 Mods in Vortex
-
-![](https://s11.gifyu.com/images/SgP0C.png)2) You need to place the nvngx\_dlss.dll file you downloaded into.
-
-```
-mods/UpscalerBasePlugin folder.
-```
-
-3\) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
-![](https://s11.gifyu.com/images/SgFWA.png)4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
-
-5\) Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
-
-\
-⛔This mod can be buggy with a Reshade installed and Overlays. I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
-</details>
-
-***
-
-## NOW JOIN CONSTELLATION!!!
+# NOW JOIN CONSTELLATION!!!
 
 ## ![](<\<iframe src="https://giphy.com/embed/6yG1e2cnStpgpEDDId" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="https://giphy.com/gifs/xbox-xbox-series-x-starfield-e3-6yG1e2cnStpgpEDDId"\>via GIPHY\</a\>\</p\>>)![](https://media.giphy.com/media/6yG1e2cnStpgpEDDId/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
 
-***
-
-## [Reshade](https://)
-
-<details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
-ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
-
-1. Click on Reshade in the top corner.
-
-![](https://s11.gifyu.com/images/SgO3F.jpg)
-
-1. Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
-
-```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
-```
-
-1. Select Directx 10/11/12
-2. On the **"select preset to install"** select next
-3. Select next and finish the installation.
-4. Run the game
-
-I have added the Reshade below.
-
-- Constellation Reshade by[v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
-
-### **Reshade controls**
-
-**End** key to toggle main effects\
-**Home** key to open GUI
-</details>
-
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAd.png)
-
-**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
+![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
 You can find the full Troubleshooting list on our [Discord](https://discord.gg/xZNztPjA2u) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
@@ -473,13 +468,7 @@ Constallation Readme.7z
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
-
-## ⛔[WARNINGS](https://)⛔
-
-If you see this> ⛔ then you need to read and follow the directions.
-
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see the optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want.
+### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)[⛔WARNINGS⛔](https://)
 
 ⛔ It Is important that you read the following guide to fully understand everything clearly.
 
@@ -827,13 +816,9 @@ Automatic backup of INI files.
 
 [Official Support Forum](https://stepmodifications.org/forum/forum/200-bethini-support/)
 
-***
-
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAl.png)
-
-⛔ I recommend **NOT** installing extra mods that are not part of the collection but we have a dedicated channel in Discord for Altered Collections.
+![](https://s11.gifyu.com/images/SgdAl.png)⛔ I recommend **NOT** installing extra mods that are not part of the collection but we have a dedicated channel in Discord for Altered Collections.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
