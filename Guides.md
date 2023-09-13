@@ -347,7 +347,7 @@ Data
 </details>
 
 <details>
-<summary>Enabling Starfield Modding</summary>
+<summary>Enabling Starfield Modding BETHINI</summary>
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -380,6 +380,39 @@ After installation, you will need to setup Starfield Modding
 **8**) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
 
 **9**) Now exit the program and select **Save**
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+<details>
+<summary>Enabling Starfield Modding OLD METHOD</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+**1**) After you have downloaded the collection you need to go to the following location
+
+```
+SteamLibrary\steamapps\common\Starfield\
+```
+
+**2** Locate this file and extract it.
+
+```
+Constellation Readme.7z
+```
+
+**3**) Now you will have a folder called. Constellation Readme open this folder.
+
+In the folder will find a file called **\[StarfieldCustom.ini]** Copy this file and place it into the following location.
+
+```
+ C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+```
+
+**3**)Once done should look as follows.
+
+![](https://s11.gifyu.com/images/SgFGr.png)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
