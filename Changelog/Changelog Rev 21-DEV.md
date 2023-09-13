@@ -12,6 +12,11 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
 - Achievements should now be tracked correctly.
 - Fixed incorrect commands in Constellation Loader.
+- Fixed an error that caused the Reshade to not locate the preset automatically.
+- Fixed an error that caused Reshade to not be added to the tools bar in Vortex.
+- Made some adjustments to the Gameplay you can check them out [HERE](https://www.nexusmods.com/starfield/mods/2204)
+
+Big shoutout to all the Beta Testers for this Revision.
 
 ## UPDATED
 
@@ -24,10 +29,12 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 - [Icon Sorting Tags - Starfield Edition](https://www.nexusmods.com/starfield/mods/312)
 - [Jetpack Overhaul](https://www.nexusmods.com/starfield/mods/569?tab=description)
 - [Cleanfield - A No-Intro Videos And Clean Menu Fix](https://www.nexusmods.com/starfield/mods/88)
+- [Constellation Reshade](https://www.nexusmods.com/starfield/mods/103?tab=description)
 
 ## REMOVED
 
 - [Horizontal Boost Tweak](https://www.nexusmods.com/starfield/mods/1546) Now included in another mod we have.
+- [Richer Merchants](https://www.nexusmods.com/starfield/mods/1143) Can cause issues with saves.
 
 ## NEW MODS ADDED
 
@@ -37,8 +44,8 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 - [No XP Kill Steal Fix](https://www.nexusmods.com/starfield/mods/1018?tab=description)
 - [Less Spongy Player - Adjustable Player Health](https://www.nexusmods.com/starfield/mods/1160?tab=description)
 - [Power Attack Cost Reduction](https://www.nexusmods.com/starfield/mods/1245?tab=description)
-- [
-
+- [SFSE - Weapon Model FOV setter](https://www.nexusmods.com/starfield/mods/1331?tab=description)
+- [Constellation Tweaks](https://www.nexusmods.com/starfield/mods/2204?tab=description)
 
 ## BUGS
 

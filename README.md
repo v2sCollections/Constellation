@@ -3,13 +3,11 @@
 
 
 
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
-
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 19
+### Collection Rev 21
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -34,7 +32,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [40](https://)+ Mods.
+- Only-[3](https://)GB in download size for [50](https://)+ Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -51,6 +49,8 @@ This collection is extensively tested with every new version that is released. I
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
 
 - (SFSE) Script Extender.
+- Custom Collection Loader.
+- Achievement Enabler.
 - Bethini Pie (Performance INI Editor).
 - Reshade.
 - Gameplay Mods & Tweaks.
@@ -165,37 +165,37 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 1\. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s11.gifyu.com/images/SgCKJ.jpg)
-
-2\. Click "Add to Vortex"(choose your newly created profile).
+![](https://s11.gifyu.com/images/SgCKJ.jpg)2. Click "Add to Vortex"(choose your newly created profile).
 
 ## ![](https://s12.gifyu.com/images/Untitled1.png)
 
 ***
 
-## [ENABLING STARFIELD MODDING](https://)
+## ENABLING STARFIELD MODDING
 
-1\. After you have downloaded the collection you need to go to the following location
+https://www.youtube.com/watch?v=0DGLEjs-1IQ
 
-```
-SteamLibrary\steamapps\common\Starfield\
-```
+### [Command Line for Bethini=](https://) bat ConstellationLoader
 
-2\. Locate this file and extract it.
+<details><summary>CLICK FOR THE MANUAL GUIDE</summary>
+**1**) Open **Vortex**
 
-```
-Constallation Readme.7z
-```
+**2**) In the top left-hand corner you will see some tools.
 
-3\. Now you will have a folder called. Constellation Readme open this folder. In the folder will find a file called \[StarfieldCustom.ini] copy this file and place it into the following location.
+![img](https://s11.gifyu.com/images/S4xFa.jpg)**3**) If you don't see Bethini select the "Dashboard tab and "Enable tools"
 
-```
- C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
-```
+![img](https://s11.gifyu.com/images/S4xFZ.jpg)4) Select **Bethini** a window will now pop up.
 
-3\. Once done should look as follows.
+**5**) Select **Starfield**.
 
-![](https://s11.gifyu.com/images/SgFGr.png)
+![img](https://s11.gifyu.com/images/S4xFV.jpg)6) Select OK.
+
+**7**) Check **Load Loose Files** Uncheck **Message of the Day**.
+
+![img](https://s11.gifyu.com/images/S4xFf.png)8) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
+
+**9**) Now exit the program and select **Save**
+</details>
 
 ***
 
@@ -485,12 +485,16 @@ You can check out the gallery at the top of this page for videos by some of the 
 ![](https://s11.gifyu.com/images/SgFM7.png)
 
 - Enemies have more health.
+- Prevent the player becoming a bullet sponge on the higher levels.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFpk.png)
 
-- Fixed twitching/stuttering when sprinting in first person.
+- Fixes twitching/stuttering when sprinting in first person.
+- Fixes mine explosions being to quick.
+- Fixes an issue, where companions and other NPCs can steal your kill and you get no XP for it.
+- Fixes an issue with NPCs taking to long to blink.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -554,6 +558,9 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 - Reduced sound players produce when they are out of line of sight.
 - Increases the travel distance of the horizontal boost.
+- 25% Cost Reduction for Melee stamina.
+- Disables aim assist on controller.
+- Refill your CO2 quicker.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -569,6 +576,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increases the distance at which objects can be scanned.
 - Decrease jogging movement speed.
 - Better FOV when in dialogue.
+- Vendors will now refresh their inventory every day instead of every 2 days.
 
 ## UI Improvements Include
 
@@ -579,6 +587,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Enhance your dialogue experience with a wider, refined and centred text area, and improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
 - Removes the warning when opening the console for the first time in a session.
 - Gives terminals and kiosks a darker theme, and makes the terminal startup less bright.
+- Increased the speed of the sleep/wait Menus.
 
 ## StarUI Inventory
 
@@ -727,6 +736,7 @@ bigmass       | 10,000          | xp100           | 100,000
 
 - Guns will now leave behind more than the vanilla 10-shell casings.
 - Always loot armour from NPCs wearing it.
+- NPCs will stay angry at you for 7 days instead of 3 after committing a crime.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -742,6 +752,7 @@ bigmass       | 10,000          | xp100           | 100,000
 - They'll fire from cover and change their positions more frequently.
 - NPCs' accuracy gets a slight but noticeable upgrade.
 - Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
+- Increase weapon reload speed by 25 percent.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -810,8 +821,6 @@ Automatic backup of INI files.
 </details>
 
 [Official Support Forum](https://stepmodifications.org/forum/forum/200-bethini-support/)
-
-Note At this stage Bethine Pie will have to be manually Downloaded [HERE](https://www.nexusmods.com/site/mods/631/?tab=description)
 
 ***
 
@@ -918,17 +927,25 @@ Special thanks to these guys who helped make this collection what it is. And eve
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 - Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
 - Fenrir
+- Donavan
 - Starfox
+- [IxionXVII](https://www.nexusmods.com/users/6922776)
+- [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 
+- [ElminsterAU](https://www.nexusmods.com/enderalspecialedition/users/167469) and the xEdit Team
+- [ianpatt](https://www.nexusmods.com/starfield/users/2166624) and the SFSE Team
+- [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
+
 If you would like to support me so I can afford a new ship so I can store more sandwiches click the button below. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
-[![](https://s11.gifyu.com/images/SgG7r.png)](https://www.buymeacoffee.com/2077v2)
+[![](https://s11.gifyu.com/images/S4peN.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
+
+Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Disclaimer](https://)
 
