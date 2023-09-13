@@ -3,6 +3,8 @@
 
 
 
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
+
 ### Updated & Compatible with the first Release of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
@@ -124,6 +126,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 - ⛔This Collection only supports the Steam Version of Starfield.
 - Start with a fresh install of Starfield.
 - Make sure the game is installed on an SSD.
+- If you have never launched the game or you have reinstalled the game launch the game at least once to generate the required files.&#x20;
 
 ***
 
@@ -177,7 +180,7 @@ https://www.youtube.com/watch?v=0DGLEjs-1IQ
 
 ### [Command Line for Bethini=](https://) bat ConstellationLoader
 
-<details><summary>CLICK FOR THE MANUAL GUIDE</summary>
+<details><summary>CLICK FOR THE written GUIDE</summary>
 **1**) Open **Vortex**
 
 **2**) In the top left-hand corner you will see some tools.
@@ -196,6 +199,8 @@ https://www.youtube.com/watch?v=0DGLEjs-1IQ
 
 **9**) Now exit the program and select **Save**
 </details>
+
+If you cant get Bethini to work for whatever reason you can still use the old method to Enable Starfield Modding [HERE](https://github.com/2077v2/Constellation/blob/main/Guides.md)
 
 ***
 
