@@ -78,34 +78,33 @@ If you want to use the Reshade Make sure to install and configure the Reshade be
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-After installation, you will need to place the **INI** File into your **Documents** folder.
+After installation, you will need to setup Starfield Modding
 
-Depending on what new mods are added in each update you may be required to do this again for certain updates.
+**1**) Open **Vortex**
 
-You will be notified in the **changelog** if this needs to be done on each update.
+**2**) In the top left hand corner you will see some tools.
 
-**ENABLING STARFIELD MODDING**
+![img](https://s11.gifyu.com/images/S4xFa.jpg)
 
-**1**) After you have downloaded the collection you need to go to the following location
-```
-SteamLibrary\steamapps\common\Starfield\
-```
+**3**) If you dont see Bethini select the "Dashboard tab and "enable tools"
 
-**2**) Locate this file and extract it.
+![img](https://s11.gifyu.com/images/S4xFZ.jpg)
 
-```
-Constallation Readme.7z
-```
+**5**) Select **Bethini** a window will now pop up.
 
-**3**) Now you will have a folder called. Constellation Readme open this folder.In the folder will find a file called \[StarfieldCustom.ini] Copy this file and place it into the following location.
+**5**) Select **Starfield**.
 
-```
- C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
-```
+![img](https://s11.gifyu.com/images/S4xFV.jpg)
 
-**4**) Once done should look as follows.
+**6**) Select ok.
 
-![](https://s11.gifyu.com/images/SgFGr.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
+**7**) Check **Load Loose Files** Uncheck **Message of the Day**.
+
+![img](https://s11.gifyu.com/images/S4xFf.png)
+
+**8**) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
+
+**9**) Now exit the program and select **Save**
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
