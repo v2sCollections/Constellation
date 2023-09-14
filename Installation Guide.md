@@ -7,11 +7,11 @@
 4) [Vortex](#vortex)
 5) [Vortex and Starfield](#vortex-and-starfield)
 6) [Installing the collection](#installing-the-collection)
-7) [Enabling Starfield Modding](#enabling-starfield-modding)
-8) [Enabling Texture Mods](#enabling-texture-mods)
+7) [Enabling Texture Mods](#enabling-texture-mods)
+8) [Enabling Starfield Modding](#enabling-starfield-modding)
 9) [Optional Mods](#optional-mods)
-10) [In game settings](#in-game-settings)
-11) [Reshade](#reshade)
+10) [Optional Reshade and DLSS Installation](#optional-reshade-and-dlss-installation)
+11) [In game settings](#in-game-settings)
 
 - ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
 
@@ -135,7 +135,7 @@ If you cant get Bethini to work for whatever reason you can still use the old me
 
 Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(Make sure to read these messages)**.
 
-### OPTIONAL RESHADE & DLSS INSTALLATION.&#x20;
+### Optional Reshade and DLSS Installation.&#x20;
 
 ⛔ These can be tricky to get working properly together if you don't need the extra performance from DLSS I recommend **NOT** installing DLSS.
 
