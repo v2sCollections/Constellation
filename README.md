@@ -3,11 +3,11 @@
 
 
 
-### Updated & Compatible with the first Release of Starfield on Steam.
+### Updated & Compatible 1.7.29 of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 21
+### Collection Rev 22
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -555,6 +555,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - 25% Cost Reduction for Melee stamina.
 - Disables aim assist on controller.
 - Refill your CO2 quicker.
+- You can now "Hold To Equip" for food, books and ingredients.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -582,6 +583,9 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Removes the warning when opening the console for the first time in a session.
 - Gives terminals and kiosks a darker theme, and makes the terminal startup less bright.
 - Increased the speed of the sleep/wait Menus.
+- Increases viewable ship component items by 33%.
+- Removes the visual clutter from the vanilla hit marker, making it much easier to see what you're shooting at.
+- Modifies the mission menu so more items can be seen at once. Increases viewable items by 50%.
 
 ## StarUI Inventory
 
@@ -731,6 +735,7 @@ bigmass       | 10,000          | xp100           | 100,000
 - Guns will now leave behind more than the vanilla 10-shell casings.
 - Always loot armour from NPCs wearing it.
 - NPCs will stay angry at you for 7 days instead of 3 after committing a crime.
+- Followers will stay closer to you.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -792,6 +797,11 @@ bigmass       | 10,000          | xp100           | 100,000
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgOIh.png)
+
+- SFSE plugin that turns Quick Saves into normal Saves.
+- SFSE plugin that adds a small delay when using the QuitGame function so that the "Bye." text is visible.
+- SFSE plugin that disables the Documents\My Games\Starfield\Data folder and moves the MOTD and Photo Mode files and folder paths to the game's root Data folder.
+- SFSE plugin that prevents achievements from being disabled with mods or when using the console.
 
 ***
 
