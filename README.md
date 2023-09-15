@@ -17,7 +17,7 @@ If you haven't seen me before that's because this is my first entry into the wor
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding and testing to create the best **Starfield** experience possible.
 
-This is a [60+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
+This is a [70+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -36,7 +36,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [60](https://)+ Mods.
+- Only-[3](https://)GB in download size for [70+](https://) Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -66,6 +66,7 @@ This collection is extensively tested with every new version that is released. I
 - Console Command List with over 80+ Easy to use Commands+Cheats.
 - 20+ Splash Screens.
 - 10+ Animated Menu Backgrounds.
+- Optional Star Wars Theme.
 - Support for other Modular Expansion Packs.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
@@ -413,7 +414,12 @@ You can check out the gallery at the top of this page for videos by some of the 
 > Below are some Star Wars mods they are all optional you can enable them if you want the full Star Wars theme.
 
 <details><summary>CLICK HERE TO SEE WHAT STAR WARS MODS COME WITH THE COLLECTION</summary>
-CLICK HERE TO SEE WHAT STAR WARS MODS COME WITH THE COLLECTION
+- [Star Wars A Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description)
+- [Star Wars Jango Fett Blaster Sound Replacement For Solstice](https://www.nexusmods.com/starfield/mods/2216)
+- [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)
+- [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)
+- [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)
+- [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
