@@ -39,38 +39,10 @@
 </details>
 
 
-<details>
-<summary>My game is crashing when loading a save</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-This will be because you have Enabled the DLSS Mod and you havent Downloaded the required dlss file.
-
-You will need to do the following.
-
-- You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx_dlss_2.5.1.zip)
-- You need to place the nvngx_dlss.dll into ```mods/UpscalerBasePlugin``` 
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
-
-
 
 
 
 ## Troubleshooting
-
-<details>
-<summary>DLSS and Reshade not working together</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
 
 
 <details>
@@ -105,30 +77,6 @@ After installation, you will need to setup Starfield Modding
 **8**) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
 
 **9**) Now exit the program and select **Save**
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
-
-
-<details>
-<summary>When i install Reshade i get error message dxgi.dll already exists</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-This will be because you have Enabled the DLSS Mod before running the Reshade setup to fix this issue follow the steps below.
-
-**1**) Purge the Mods in Vortex
-
-**2**) Go here and delete this file \SteamLibrary\steamapps\common\Starfield\dxgi.dll
-
-**3**) Verify the game files via Steam
-
-**4**) Make sure the 2 files for the DLSS Mod are disabled in Vortex. 
-
-**5**) Deploy the Mods in Vortex
-
-**6**) Run the Reshade setup.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 

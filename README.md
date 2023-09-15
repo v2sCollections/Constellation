@@ -3,17 +3,21 @@
 
 
 
-### Updated & Compatible 1.7.29 of Starfield on Steam.
+### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 22
+### Collection Rev 23
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
+<details><summary>ABOUT ME</summary>
 If you haven't seen me before that's because this is my first entry into the world of Bethesda but don't let that fool you I have a passion for everything Gaming/Modding. I have been modding and curating collections for other games such as [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) which I currently have the most endorsed and downloaded collection on [Nexus](https://). I've also curated the largest and most comprehensive mod collection for [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) with 800+Mods. And my latest collection for [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection). I'm eager to get started on a whole new chapter and I would love for you to come along for the ride. See you soon.
+</details>
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding and testing to create the best **Starfield** experience possible.
+
+This is a [60+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -32,7 +36,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [50](https://)+ Mods.
+- Only-[3](https://)GB in download size for [60](https://)+ Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -59,8 +63,7 @@ This collection is extensively tested with every new version that is released. I
 - Quality-of-life-Improvements.
 - Input Mods.
 - Improved UI.
-- DLSS Support
-- Console Command List with over 60+ Easy to use Commands+Cheats.
+- Console Command List with over 80+ Easy to use Commands+Cheats.
 - 20+ Splash Screens.
 - 10+ Animated Menu Backgrounds.
 - Support for other Modular Expansion Packs.
@@ -225,11 +228,7 @@ If you cant get Bethini to work for whatever reason you can still use the old me
 
 Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(Make sure to read these messages)**.
 
-### OPTIONAL RESHADE & DLSS INSTALLATION.&#x20;
-
-⛔ These can be tricky to get working properly together if you don't need the extra performance from DLSS I recommend **NOT** installing DLSS.
-
-## Reshade
+## [Reshade](https://)
 
 <details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
@@ -259,50 +258,7 @@ I have added the Reshade below.
 **Home** key to open GUI
 </details>
 
-### DLSS Support
-
-<details><summary>CLICK HERE FOR OPTIONAL DLSS INSTALLATION</summary>
-If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
-⛔  If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
-
-### [Reshade](https://)
-
-**1**) After you have run the Reshade setup go to your main Starfield directory.
-
-**2**) Locate the file
-
-```
-dxgi.dll
-```
-
-**3**) Right-click this file and change the name to
-
-```
-d3d12.dll
-```
-
-***
-
-### [DLSS](https://)
-
-⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
-
-1\) Enable these 2 Mods in Vortex
-
-![](https://s11.gifyu.com/images/SgP0C.png)2) You need to place the nvngx\_dlss.dll file you downloaded into.
-
-```
-mods/UpscalerBasePlugin folder.
-```
-
-3\) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
-![](https://s11.gifyu.com/images/SgFWA.png)4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
-
-5\) Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
-
-\
-⛔This mod can be buggy with a Reshade installed and Overlays. I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
-</details>
+###
 
 ***
 
@@ -409,31 +365,9 @@ Data
 
 **3**) Launch your Game
 
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)[DLSS and Reshade not working together❓](https://)
+##
 
-If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
-
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)[When I install Reshade I get the error message dxgi.dll already exists.❓](https://)
-
-This will be because you have Enabled the DLSS Mod before running the Reshade setup to fix this issue follow the steps below.
-
-1\. Purge the Mods in Vortex
-
-2\. Go here and delete this file&#x20;
-
-```
-\SteamLibrary\steamapps\common\Starfield\dxgi.dll
-```
-
-3\. Verify the game files via Steam
-
-4\. Make sure the 2 files for the DLSS Mod are disabled in Vortex.&#x20;
-
-5\. Deploy the Mods in Vortex
-
-6\. Run the Reshade setup.
-
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Some Mods not working❓](https://)
+## [Some Mods not working❓](https://)
 
 **1**) After you have downloaded the collection you need to go to the following location
 
@@ -474,6 +408,14 @@ Constallation Readme.7z
 
 You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
+### ![](https://s11.gifyu.com/images/SgFMA.jpg)![](https://s11.gifyu.com/images/S4kKF.png)Features
+
+> Below are some Star Wars mods they are all optional you can enable them if you want the full Star Wars theme.
+
+<details><summary>CLICK HERE TO SEE WHAT STAR WARS MODS COME WITH THE COLLECTION</summary>
+CLICK HERE TO SEE WHAT STAR WARS MODS COME WITH THE COLLECTION
+</details>
+
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s11.gifyu.com/images/SgFM7.png)
@@ -500,8 +442,8 @@ You can check out the gallery at the top of this page for videos by some of the 
 - 20+ Splash Screens.
 - Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks.
 - Remove the vignette filter from your quick (favourites) menu.
-- Removes the vignette background with obvious color banding from the galaxy map.
-- Remove Vignette From Scanner.
+- Removes the vignette background with obvious colour banding from the galaxy map.
+- Remove the Vignette From the Scanner.
 - Remove the flicker from the data menu open/close animation.
 - Change the FOV.
 - Cropped and upscaled loading screens for ultrawide monitors
@@ -538,15 +480,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ***
 
-## Starfield Upscaler - Replacing FSR2 with DLSS or XeSS
-
-![](https://s11.gifyu.com/images/SgBg6.jpg)[Starfield Upscaler - Replacing FSR2 with DLSS or XeSS](https://www.nexusmods.com/starfield/mods/111) by [PureDark](https://www.nexusmods.com/starfield/users/2984000)
-
-### Features
-
-> Adds DLSS support into the game. (This mod can be buggy with a Reshade installed and Overlays)
-
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+##
 
 ![](https://s11.gifyu.com/images/SgFpm.png)
 
