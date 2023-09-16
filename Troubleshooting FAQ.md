@@ -155,7 +155,56 @@ On the first installation, you will be able to choose your background from the i
 
 ## Vortex Questions
 
+<details>
+<summary>How do i update the Collection</summary>
 
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+:no_entry:Updating the collection is as easy as clicking the "Update" button in Vortex. When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
+
+:no_entry:DO NOT update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+
+Notes will be in the changelog.
+
+Updating
+
+**1**) In Vortex select "Collections"
+
+**2**) You will see an "Update" button select this.
+
+![img](https://s11.gifyu.com/images/SgXNN.jpg)
+
+**3)** When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>Where are the optional mods</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+**1**) Open **Vortex**
+
+**2**) Select **"Collections"**
+
+**3**) Select **"View"** on the collection.
+
+![img](https://s11.gifyu.com/images/Sguez.png)
+
+**4**) Select **"Mods"**
+
+![img](https://s11.gifyu.com/images/Sgueb.png)
+
+**5**) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
+
+![img](https://s11.gifyu.com/images/SgueM.jpg)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 <details>
 <summary>When i launch the game a window appears like this</summary>
@@ -200,30 +249,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield.exe
 
 </details>
 
-<details>
-<summary>How do i update the Collection</summary>
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-:no_entry:Updating the collection is as easy as clicking the "Update" button in Vortex. When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
-
-:no_entry:DO NOT update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-
-Notes will be in the changelog.
-
-Updating
-
-**1**) In Vortex select "Collections"
-
-**2**) You will see an "Update" button select this.
-
-![img](https://s11.gifyu.com/images/SgXNN.jpg)
-
-**3)** When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
 
 <details>
 <summary>Pirated Games</summary>
@@ -231,31 +257,6 @@ Updating
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
-
-<details>
-<summary>Where are the optional mods</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-**1**) Open **Vortex**
-
-**2**) Select **"Collections"**
-
-**3**) Select **"View"** on the collection.
-
-![img](https://s11.gifyu.com/images/Sguez.png)
-
-**4**) Select **"Mods"**
-
-![img](https://s11.gifyu.com/images/Sgueb.png)
-
-**5**) Now you can filter between **"Required"** and **"Recommended"** Recommended being the optional Mods.
-
-![img](https://s11.gifyu.com/images/SgueM.jpg)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -281,3 +282,14 @@ All our graphics packs come with **Reshade** and our **Constellation Reshade Pre
 </details>
 
 
+<details>
+<summary>How do i import my Saves</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+- [Steam to Xbox](https://youtu.be/PCLqHSGTF8w?si=l4YRV19dZTKZXqnM)
+- [Xbox to Steam](https://youtu.be/W1URw2fnqcU?si=coKQj9aFI3U-ZaC6)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
