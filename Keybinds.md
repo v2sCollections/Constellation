@@ -20,11 +20,6 @@ These are setup for a full size KB.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-### DLSS
-
-- END> Toggle DLSS UI
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 
 
