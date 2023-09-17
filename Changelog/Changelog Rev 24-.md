@@ -18,7 +18,6 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 - [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750)
 - [Baka Quit Game Fix](https://www.nexusmods.com/starfield/mods/1662)
 - [Faster Favorites Menu](https://www.nexusmods.com/starfield/mods/1581)
-- [
 
 ## REMOVED
 

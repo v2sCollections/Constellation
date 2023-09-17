@@ -9,7 +9,7 @@ IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellat
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 24
+### Collection Rev 25
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -19,7 +19,7 @@ If you haven't seen me before that's because this is my first entry into the wor
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding and testing to create the best **Starfield** experience possible.
 
-This is a [70+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
+This is a [80+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -36,7 +36,7 @@ This collection is extensively tested with every new version that is released. I
 - ![](https://s11.gifyu.com/images/SgdA0.png)These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [70+](https://) Mods.
+- Only-[3](https://)GB in download size for [80+](https://) Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -54,6 +54,8 @@ This collection is extensively tested with every new version that is released. I
 - Custom Collection Loader.
 - Achievement Enabler.
 - Bethini Pie (Performance INI Editor).
+- DLSS + Frame Generation.
+- Discord Presence Intergration.
 - Reshade.
 - Gameplay Mods & Tweaks.
 - Bug Fixes.
@@ -425,15 +427,19 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ### ![](https://s11.gifyu.com/images/SgFMA.jpg)![](https://s11.gifyu.com/images/S4kKF.png)Features
 
-> This theme is completely optional the mods will not be installed on first installation. But if you would like them you just have to enable them in Vortex.
+> This theme is completely (OPTIONAL) the mods will not be installed on first installation. But if you would like them you just have to enable them in Vortex.
 
 <details><summary>CLICK HERE TO SEE WHAT STAR WARS MODS COME WITH THE COLLECTION</summary>
-- [Star Wars A Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description) (OPTIONAL)
-- [Star Wars Jango Fett Blaster Sound Replacement For Solstice](https://www.nexusmods.com/starfield/mods/2216) (OPTIONAL)
-- [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193) (OPTIONAL)
-- [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description) (OPTIONAL)
-- [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154) (OPTIONAL)
-- [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679) (OPTIONAL)
+- [Star Wars A Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description)&#x20;
+- [Star Wars Jango Fett Blaster Sound Replacement For Solstice](https://www.nexusmods.com/starfield/mods/2216)&#x20;
+- [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)&#x20;
+- [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)&#x20;
+- [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)&#x20;
+- [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)&#x20;
+- [The Mandalorian - Boba Fett - Jango Fett ( STAR WARS Starborn Retextures and Mantis Replacer )](https://www.nexusmods.com/starfield/mods/2848?tab=description)&#x20;
+- [Galactic Civil War Conversion](https://www.nexusmods.com/starfield/mods/1659?tab=description)&#x20;
+- [Galactic Stormtrooper Voice Lines For UC Security](https://www.nexusmods.com/starfield/mods/2176?tab=description)
+- [Galactic Empire Era Name Replacement](https://www.nexusmods.com/starfield/mods/2307?tab=description)
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
