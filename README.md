@@ -3,7 +3,6 @@
 
 
 
-IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
 
 ### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
 
@@ -266,7 +265,7 @@ Remember this is experimental you may see crashes here and there but it is well 
 
 **1**) Open Vortex and select "Collections".\
 **2**) Select "View".\
-**3**) Select the optional Mods and Install and Enable the DLSS Mos below.\
+**3**) Select the optional Mods and Install and Enable the DLSS Mod below.\
 ![](https://s11.gifyu.com/images/S4IK7.png)4) Now you need to download the 2 files below.\
 [nvngx\_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/)
 
@@ -357,19 +356,6 @@ You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and 
 ##
 
 <details><summary>COMMON FAQS</summary>
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)[My game is crashing when loading a save❓](https://)
-
-This will be because you have Enabled the DLSS Mod and you haven't downloaded the required DLSS file.
-
-You will need to do the following.
-
-- You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
-- You need to place the nvngx\_dlss.dll into
-
-```
-mods/UpscalerBasePlugin
-```
-
 ## ![img](https://s11.gifyu.com/images/Sgd38.jpg)[When I launch the game a window appears like this ❓](https://)
 
 ![img](https://s11.gifyu.com/images/S4pEh.png)This is because you didn't delete the Data folder follow the steps below.
