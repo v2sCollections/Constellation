@@ -3,11 +3,13 @@
 
 
 
+IF THE DESCRIPTION DOESNT LOAD CLICK [HERE](https://github.com/2077v2/Constellation) &#x20;
+
 ### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 23
+### Collection Rev 24
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -31,9 +33,7 @@ This collection is extensively tested with every new version that is released. I
 
 ![](https://s11.gifyu.com/images/SgDLJ.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdA0.png)
-
-- These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
+- ![](https://s11.gifyu.com/images/SgdA0.png)These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
 - Only-[3](https://)GB in download size for [70+](https://) Mods.
@@ -50,9 +50,7 @@ This collection is extensively tested with every new version that is released. I
 
 [![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/@Constellation-2077)Follow us on [YouTube](https://www.youtube.com/@Constellation-2077) for guides and videos.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
-
-- (SFSE) Script Extender.
+- ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
 - Custom Collection Loader.
 - Achievement Enabler.
 - Bethini Pie (Performance INI Editor).
@@ -73,13 +71,13 @@ This collection is extensively tested with every new version that is released. I
 
 ## [Make a Backup Save](https://)
 
-- Mods for Starfield are (WELL WE DON'T KNOW YET) but it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
+- Mods for Bethesda games can be unreliable at times it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
 
 ```
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
 
-## [Make a Backup of your Game Files (OPTIONAL)](https://)
+## [Make a Backup of your Game Files](https://) (OPTIONAL)
 
 - If you would like to backup your unmodded game files you can use my tool [HERE](https://www.nexusmods.com/starfield/mods/1064). Note you will need an extra 120gb of space on the drive where Starfield is installed.
 
@@ -135,7 +133,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Vortex](https://)
 
-1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+**1**) You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -143,25 +141,25 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Vortex & Starfield](https://)
 
-1. Open Vortex and click on "Select a game to manage".
+**1**) Open Vortex and click on "Select a game to manage".
 
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)2. On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
 
-![](https://s11.gifyu.com/images/SgCKR.jpg)3. On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
+![](https://s11.gifyu.com/images/SgCKR.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
-4\. Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
+**4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-5\. A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
+**5**) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 ```
 
-6\. On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
+**6**) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
 
-7\. Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+**7**) Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
 
-8\. On the same window select "hard link deployment" and check "apply".
+**8**) On the same window select "hard link deployment" and check "apply".
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -169,11 +167,11 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [Installing The Collection](https://)
 
-1\. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s11.gifyu.com/images/SgCKJ.jpg)2. Click "Add to Vortex"(choose your newly created profile).
+![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
 
-![](https://s12.gifyu.com/images/Untitled1.png)3. After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
+![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
 ![](https://s11.gifyu.com/images/SgGTE.jpg)
 
@@ -181,13 +179,13 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [Enabling Texture Mods](https://)
 
-1\. After you have downloaded the collection you need to go to the following location
+**1**) After you have downloaded the collection you need to go to the following location
 
 ```
 C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
 ```
 
-2\. Delete this Folder
+**2**) Delete this Folder
 
 ```
 Data
@@ -234,20 +232,20 @@ Now you can choose which ***(OPTIONAL)***  Mods you would like to install these 
 <details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
-1. Click on Reshade in the top corner.
+**1**) Click on Reshade in the top corner.
 
 ![](https://s11.gifyu.com/images/SgO3F.jpg)
 
-1. Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
+**2**) Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
 ```
 
-1. Select Directx 10/11/12
-2. On the **"select preset to install"** select next
-3. Select next and finish the installation.
-4. Run the game
+**3**) Select Directx 10/11/12\
+**4**) On the **"select preset to install"** select next\
+**5**) Select next and finish the installation.\
+**6**) Run the game
 
 I have added the Reshade below.
 
@@ -259,7 +257,29 @@ I have added the Reshade below.
 **Home** key to open GUI
 </details>
 
-###
+### [DLSS + Frame Generation](https://)
+
+<details><summary>CLICK HERE FOR OPTIONAL DLSS + FRAME GENERATION INSTALLATION</summary>
+Remember this is experimental you may see crashes here and there but it is well worth it.
+
+**1**) Open Vortex and select "Collections".\
+**2**) Select "View".\
+**3**) Select the optional Mods and Install and Enable the DLSS Mos below.\
+![](https://s11.gifyu.com/images/S4IK7.png)4) Now you need to download the 2 files below.\
+[nvngx\_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/)
+
+[nvngx\_dlssg.dll](https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/)
+
+**5**) Place these 2 files in the following location.
+
+```
+steamapps\common\Starfield\Data\SFSE\Plugins\nv-streamline
+```
+
+**6**) Once done should look as follows.
+
+![](https://s11.gifyu.com/images/S4ITQ.jpg)**7**) Once in the game you will see all the new options added to the Display Settings Menu.
+</details>
 
 ***
 
@@ -366,33 +386,27 @@ Data
 
 **3**) Launch your Game
 
-##
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Some Mods not working❓](https://)
 
-## [Some Mods not working❓](https://)
+**1**) Open **Vortex**
 
-**1**) After you have downloaded the collection you need to go to the following location
+**2**) In the top left-hand corner you will see some tools.
 
-```
-SteamLibrary\steamapps\common\Starfield\
-```
+![img](https://s11.gifyu.com/images/S4xFa.jpg)**3**) If you don't see Bethini select the "Dashboard tab and "Enable tools"
 
-**2**) Locate this file and extract it.
+![img](https://s11.gifyu.com/images/S4xFZ.jpg)4) Select **Bethini** a window will now pop up.
 
-```
-Constallation Readme.7z
-```
+**5**) Select **Starfield**.
 
-**3**) Now you will have a folder called. Constellation Readme open this folder.
+![img](https://s11.gifyu.com/images/S4xFV.jpg)6) Select OK.
 
-&#x20;In the folder will find a file called \[StarfieldCustom.ini] Copy this file and place it into the following location.
+**7**) Check **Load Loose Files** Uncheck **Message of the Day**.
 
-```
- C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
-```
+![img](https://s11.gifyu.com/images/S4xFf.png)8) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
 
-**4**) Once done should look as follows.
+**9**) Now exit the program and select **Save**
 
-## ![](https://s11.gifyu.com/images/SgFGr.png)![](https://s11.gifyu.com/images/Sgd38.jpg)[My controller doesn't work❓](https://)
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[My controller doesn't work❓](https://)
 
 **1**) Open Steam.
 
@@ -411,39 +425,36 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ### ![](https://s11.gifyu.com/images/SgFMA.jpg)![](https://s11.gifyu.com/images/S4kKF.png)Features
 
-> Below are some Star Wars mods they are all optional you can enable them if you want the full Star Wars theme.
+> This theme is completely optional the mods will not be installed on first installation. But if you would like them you just have to enable them in Vortex.
 
 <details><summary>CLICK HERE TO SEE WHAT STAR WARS MODS COME WITH THE COLLECTION</summary>
-- [Star Wars A Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description)
-- [Star Wars Jango Fett Blaster Sound Replacement For Solstice](https://www.nexusmods.com/starfield/mods/2216)
-- [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)
-- [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)
-- [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)
-- [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)
+- [Star Wars A Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description) (OPTIONAL)
+- [Star Wars Jango Fett Blaster Sound Replacement For Solstice](https://www.nexusmods.com/starfield/mods/2216) (OPTIONAL)
+- [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193) (OPTIONAL)
+- [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description) (OPTIONAL)
+- [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154) (OPTIONAL)
+- [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679) (OPTIONAL)
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFM7.png)
-
-- Enemies have more health.
-- Prevent the player becoming a bullet sponge on the higher levels.
+- ![](https://s11.gifyu.com/images/SgFM7.png)Enemies have more health.
+- Prevent the player from becoming a bullet sponge on the higher levels.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpk.png)
-
-- Fixes twitching/stuttering when sprinting in first person.
-- Fixes mine explosions being to quick.
+- ![](https://s11.gifyu.com/images/SgFpk.png)Fixes twitching/stuttering when sprinting in first person.
+- Fixed stuttering when changing weapons.
+- Fixes mine explosions being too quick.
 - Fixes an issue, where companions and other NPCs can steal your kill and you get no XP for it.
-- Fixes an issue with NPCs taking to long to blink.
+- Fixes an issue with NPCs taking too long to blink.
+- Fixes the mantling animation.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpq.png)
-
-- Reshade included.
+- ![](https://s11.gifyu.com/images/SgFpq.png)Reshade included.
 - Reshade Preset.
+- Constellation Tweaks Performance Boost.
 - 10+ Animated Main Menu Screens.
 - 20+ Splash Screens.
 - Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks.
@@ -484,24 +495,19 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 > This mod was made especially for my collection users. Amazing community animated wallpapers i have upscaled to 4k 60Fps. You can choose from up to 8 diffrent Main Menu Screens.
 
-***
+![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-##
-
-![](https://s11.gifyu.com/images/SgFpm.png)
-
-- Reduced sound players produce when they are out of line of sight.
+- ![](https://s11.gifyu.com/images/SgFpm.png)Reduced sound players produce when they are out of line of sight.
 - Increases the travel distance of the horizontal boost.
 - 25% Cost Reduction for Melee stamina.
 - Disables aim assist on controller.
 - Refill your CO2 quicker.
 - You can now "Hold To Equip" for food, books and ingredients.
+- Tweak how fast you can climb on ladders and other objects (mantle) to your preference.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpI.png)
-
-- Skip the intro.
+- ![](https://s11.gifyu.com/images/SgFpI.png)Skip the intro.
 - PS5 Controller Support. Playstations Icons Instead of Xbox.
 - Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
 - Swaps the helmet torch light out for a different clearer version.
@@ -512,6 +518,8 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Decrease jogging movement speed.
 - Better FOV when in dialogue.
 - Vendors will now refresh their inventory every day instead of every 2 days.
+- Speed up Air Lock Animations. It comes with various speed multipliers for you to choose from.
+- Speed up Furniture animations. It comes with various speed multipliers for you to choose from.
 
 ## UI Improvements Include
 
@@ -526,6 +534,8 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increases viewable ship component items by 33%.
 - Removes the visual clutter from the vanilla hit marker, making it much easier to see what you're shooting at.
 - Modifies the mission menu so more items can be seen at once. Increases viewable items by 50%.
+
+***
 
 ## StarUI Inventory
 
@@ -554,9 +564,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFph.png)
-
-- Prevents achievements from being disabled with mods or when using the console.
+- ![](https://s11.gifyu.com/images/SgFph.png)Prevents achievements from being disabled with mods or when using the console.
 
 ***
 
@@ -670,18 +678,18 @@ bigmass       | 10,000          | xp100           | 100,000
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFp7.png)&#x20;
-
-- Guns will now leave behind more than the vanilla 10-shell casings.
+- ![](https://s11.gifyu.com/images/SgFp7.png) Guns will now leave behind more than the vanilla 10-shell casings.
 - Always loot armour from NPCs wearing it.
 - NPCs will stay angry at you for 7 days instead of 3 after committing a crime.
 - Followers will stay closer to you.
+- Increased the density of highly populated planets by about 25%.
+- Reduced the density of medium-populated planets by about 15%.
+- Reduced the density of low-populated planets by about 60%.
+- Reduced the possible distance between spawned objects/NPCs.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpv.png)
-
-- Friendly fire is enabled among allied NPCs.
+- ![](https://s11.gifyu.com/images/SgFpv.png)Friendly fire is enabled among allied NPCs.
 - Reduced multiplier for how much light affects stealth.
 - Reduced stealth penalty for running.
 - Reduced NPC reaction and idle times.
@@ -703,10 +711,9 @@ bigmass       | 10,000          | xp100           | 100,000
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpd.png)
-
-- Increases the maximum number of ships you can own x5.
-- A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance and more floors.
+- ![](https://s11.gifyu.com/images/SgFpd.png)Increases the maximum number of ships you can own x5.
+- Speed up Ship Landing Animations. It comes with various speed multipliers for you to choose from.
+- A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance, and more floors.
 
 <details><summary>cLICK FOR CONSOLE COMMANDS</summary>
 ### Ship Builder Tweaks
@@ -736,9 +743,7 @@ bigmass       | 10,000          | xp100           | 100,000
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgOIh.png)
-
-- SFSE plugin that turns Quick Saves into normal Saves.
+- ![](https://s11.gifyu.com/images/SgOIh.png)SFSE plugin that turns Quick Saves into normal Saves.
 - SFSE plugin that adds a small delay when using the QuitGame function so that the "Bye." text is visible.
 - SFSE plugin that disables the Documents\My Games\Starfield\Data folder and moves the MOTD and Photo Mode files and folder paths to the game's root Data folder.
 - SFSE plugin that prevents achievements from being disabled with mods or when using the console.
@@ -772,9 +777,7 @@ Automatic backup of INI files.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-## ![](https://s11.gifyu.com/images/SgdAI.png)
-
-Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by us.
+![](https://s11.gifyu.com/images/SgdAI.png)Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by us.
 
 You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end systems only**)
 
@@ -812,7 +815,7 @@ Install guide for our Graphics Collections
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAn.png)
+- ![](https://s11.gifyu.com/images/SgdAn.png)[Constellation Tweaks Performance Boost](https://www.nexusmods.com/starfield/mods/2624/?tab=description). Will improve performance on most systems. When in-game go to "Settings" and on the "Display" tab change the "Graphics Preset" to "High".
 
 <details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
 ## High-End Settings
@@ -843,9 +846,7 @@ Recommended In-game settings These settings will give a big increase to performa
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAW.png)
-
-- VRAM> 8GB
+- ![](https://s11.gifyu.com/images/SgdAW.png)VRAM> 8GB
 - GPU>**(see below)**
 - 1080p> RTX 3060 or RX 6700 XT
 - 1440p> RTX 3080 or RX 6800 XT
