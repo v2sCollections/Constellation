@@ -8,7 +8,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 25
+### Collection Rev 26
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -18,7 +18,7 @@ If you haven't seen me before that's because this is my first entry into the wor
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding and testing to create the best **Starfield** experience possible.
 
-This is a [80+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
+This is a [90+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -35,7 +35,7 @@ This collection is extensively tested with every new version that is released. I
 - ![](https://s11.gifyu.com/images/SgdA0.png)These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [80+](https://) Mods.
+- Only-[3](https://)GB in download size for [90+](https://) Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -110,8 +110,8 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Install time](https://)
 
-**Premium Users**: Takes 10 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 20 Min + Semi-automatic. You will have to click on download for each mod one by one.
+**Premium Users**: Takes 15 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 30 Min + Semi-automatic. You will have to click on download for each mod one by one.
 
 ***
 
@@ -413,7 +413,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 ### ![](https://s11.gifyu.com/images/SgFMA.jpg)![](https://s11.gifyu.com/images/S4kKF.png)Features
 
-> This theme is completely (OPTIONAL) the mods will not be installed on first installation. But if you would like them you just have to enable them in Vortex.
+> This theme is completely (OPTIONAL) the mods will not be installed on first installation. But if you would like them you just have to enable them in Vortex. This Theme will end up being a total overhaul of Starfield into a Star Wars Universe.
 
 <details><summary>CLICK HERE TO SEE WHAT STAR WARS MODS COME WITH THE COLLECTION</summary>
 - [Star Wars A Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description)&#x20;
@@ -426,6 +426,9 @@ You can check out the gallery at the top of this page for videos by some of the 
 - [Galactic Civil War Conversion](https://www.nexusmods.com/starfield/mods/1659?tab=description)&#x20;
 - [Galactic Stormtrooper Voice Lines For UC Security](https://www.nexusmods.com/starfield/mods/2176?tab=description)
 - [Galactic Empire Era Name Replacement](https://www.nexusmods.com/starfield/mods/2307?tab=description)
+- [Star Wars-Yoda Prompts](https://www.nexusmods.com/starfield/mods/3098)
+- [Star Wars Concussion Missile Sound Replacement For Atlatl 270 And 280](https://www.nexusmods.com/starfield/mods/3002)
+- [Star Wars X Wing Sound Replacement For Singe 4MW Laser](https://www.nexusmods.com/starfield/mods/3078?tab=description)
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -449,9 +452,9 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Constellation Tweaks Performance Boost.
 - 10+ Animated Main Menu Screens.
 - 20+ Splash Screens.
-- Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks.
-- Remove the vignette filter from your quick (favourites) menu.
-- Removes the vignette background with obvious colour banding from the galaxy map.
+- Removes the color filters from the game, making the colors more uniformly neutral with deeper blacks.
+- Remove the vignette filter from your quick (favorites) menu.
+- Removes the vignette background with obvious color banding from the galaxy map.
 - Remove the Vignette From the Scanner.
 - Remove the flicker from the data menu open/close animation.
 - Change the FOV.
@@ -494,7 +497,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - 25% Cost Reduction for Melee stamina.
 - Disables aim assist on controller.
 - Refill your CO2 quicker.
-- You can now "Hold To Equip" for food, books and ingredients.
+- You can now "Hold To Equip" for food, books, and ingredients.
 - Tweak how fast you can climb on ladders and other objects (mantle) to your preference.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -517,15 +520,16 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 - Smaller and moved **Location Text** and **XP Indicator**.
 - Add a small icon in front of lootable items in the world and inventory,, so it's easier to see what is what It also help for inventory management.
-- The player's health bar dynamically changes colour at 75%, 50% and 25%.
-- Changes the player's boost bar colour to blue and flashes cyan when fully recharged.
-- Enhance your dialogue experience with a wider, refined and centred text area, and improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
+- The player's health bar dynamically changes color at 75%, 50%, and 25%.
+- Changes the player's boost bar color to blue and flashes cyan when fully recharged.
+- Enhance your dialogue experience with a wider, refined, and centered text area, and improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
 - Removes the warning when opening the console for the first time in a session.
 - Gives terminals and kiosks a darker theme, and makes the terminal startup less bright.
 - Increased the speed of the sleep/wait Menus.
-- Increases viewable ship component items by 33%.
 - Removes the visual clutter from the vanilla hit marker, making it much easier to see what you're shooting at.
+- Increases viewable ship component items by 33%.
 - Modifies the mission menu so more items can be seen at once. Increases viewable items by 50%.
+- Modifies the crew menu so more items can be seen at once. Increases viewable items by 50%.
 
 ***
 
@@ -566,14 +570,14 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ### Features
 
-> Console Command List with over 60+ Easy to use Commands+Cheats. You can access this from the Tools bar in Vortex. You just have to copy and paste the commands you want from the Text document in Vortex into your console in the game. You can open the console (with the ~ key)
+> Console Command List with over 80+ Easy to use Commands+Cheats. You can access this from the Tools bar in Vortex. You just have to copy and paste the commands you want from the Text document in Vortex into your console in the game. You can open the console (with the ~ key)
 
 <details><summary>CLICK FOR DETAILS</summary>
 This is a list of the types of cheats you can use.
 
 - God Mode
 - Immortal Mode
-- Instant kill
+- Damage multiplier
 - Add money
 - Sets your character to the specified level
 - Add XP
@@ -620,6 +624,7 @@ This is a list of the types of cheats you can use.
 - Armor mods
 - Clothes
 - Helmets
+- Helmet mods
 - Weapons
 - Weapon modifiers
 - Weapon upgrades
@@ -627,57 +632,47 @@ This is a list of the types of cheats you can use.
 - Shipyard parts
 - Teleport to ship services
 - Easy Lockpicking
-</details>
-
-***
-
-## Lazy Cheats- Credits Mass Digipicks and XP
-
-![](https://s11.gifyu.com/images/SgBg8.jpg)[Lazy Cheats- Credits Mass Digipicks and XP](https://www.nexusmods.com/starfield/mods/183?tab=description) by [RockJB](https://www.nexusmods.com/starfield/users/24139914)
-
-### Features
-
-> Bat files for EASY CHEATS. 15 files in total to give you Credits, Mass, Digipicks, and XP.
-
-<details><summary>CLICK FOR CONSOLE COMMANDS</summary>
-### Lazy Cheats- Credits Mass Digipicks and XP
-
-Open the console (with the ~ key) and type bat \<cheat> to get credits, digipicks, more mass, or more XP.
-For example, typing:\
-`bat lowmoney1`\
-Would give you 1000 credits.\
-\
-**Cheat Table**
-
-```
-
-Credits Cheat | Credits Granted | Digipicks Cheat | Digipicks Granted
---------------|-----------------|-----------------|-------------------
-lowmoney1     | 1000            | digi1           | 10
-lowmoney10    | 10,000          | digi10          | 100
-lowmoney100   | 100,000         | digi100         | 1,000
-money1        | 1,000,000       |                 |
-money10       | 10,000,000      |                 |
-money100      | 100,000,000     |                 |
---------------|-----------------|-----------------|-------------------
-Mass Cheat    | Mass Granted    | XP Cheat        | XP Granted
---------------|-----------------|-----------------|-------------------
-smallmass     | 500             | xp1             | 1,000
-mass          | 1,000           | xp10            | 10,000
-bigmass       | 10,000          | xp100           | 100,000
-```
+- Increased space loot distance
+- Increased highlight range
+- Show more points of interest
+- Chance for NPC to drop equipped armor
+- Max Docking Distance
+- NPC visual abilities (Stealth level)
+- NPC View Cone (How wide is their vision)
+- Distance from enemies impact on Stealth
+- Vendor selling price multiplier
+- Days to restock Vendor inventory
+- Increasing CO2 multiplier
+- Give max auto hack attempts
+- Earn auto attempts per hack
+- Auto-Aim Settings
+- Legendary enemy spawn chance multiplier
+- Ship modifiers
+- Increased melee damage
+- Lower incoming ship damage due to the dramatic damage scaling
+- Better borderless window support (keep game active when alt+tab)
+- Relax faster after aggro
+- Companion perks
+- Boostpack settings
+- Outpost settings
+- Distance to receive greeting missions
+- Toggles the UI on and off
+- Plushies
+- Artifacts
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 - ![](https://s11.gifyu.com/images/SgFp7.png) Guns will now leave behind more than the vanilla 10-shell casings.
-- Always loot armour from NPCs wearing it.
+- Always loot armor from NPCs wearing it.
 - NPCs will stay angry at you for 7 days instead of 3 after committing a crime.
 - Followers will stay closer to you.
+- Gravity now affects inventory/carry weight.
 - Increased the density of highly populated planets by about 25%.
 - Reduced the density of medium-populated planets by about 15%.
 - Reduced the density of low-populated planets by about 60%.
 - Reduced the possible distance between spawned objects/NPCs.
+- Bullet hole impacts are now much more realistic.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -736,7 +731,7 @@ bigmass       | 10,000          | xp100           | 100,000
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 - ![](https://s11.gifyu.com/images/SgOIh.png)SFSE plugin that turns Quick Saves into normal Saves.
-- SFSE plugin that adds a small delay when using the QuitGame function so that the "Bye." text is visible.
+- SFSE plugin adds a small delay when using the QuitGame function so that the "Bye." text is visible.
 - SFSE plugin that disables the Documents\My Games\Starfield\Data folder and moves the MOTD and Photo Mode files and folder paths to the game's root Data folder.
 - SFSE plugin that prevents achievements from being disabled with mods or when using the console.
 
