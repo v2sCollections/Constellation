@@ -7,7 +7,7 @@
 
 ### Collection Rev 4
 
-![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
+![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 4k Graphics Pack](https://) for **Starfield**.
 
 ## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
 
@@ -45,7 +45,8 @@ Note this is for high-end systems only.
 
 If you see this> ⛔ then you need to read and follow the directions.
 
-- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+- ⛔It Is important that you read the following guide to fully understand everything clearly.
+- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -75,13 +76,16 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Starfield](https://)
 
-1. Make sure the game is installed on an SSD.
+- ⛔This Collection only supports the Steam Version of Starfield.
+- Start with a fresh install of Starfield.
+- Make sure the game is installed on an SSD.
+- If you have never launched the game or you have reinstalled the game launch the game at least once to generate the required files.&#x20;
 
 ***
 
 ## [Vortex](https://)
 
-1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+**1**) You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -89,26 +93,25 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Vortex & Starfield](https://)
 
-1. Open Vortex and click on "Select a game to manage".
+**1**) Open Vortex and click on "Select a game to manage".
 
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
 
-6 ) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
+![](https://s11.gifyu.com/images/SgCKR.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
 
-![](https://s11.gifyu.com/images/SgCKR.jpg)7 ) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
+**4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
-
-9 ) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
+**5**) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 ```
 
-11 ) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
+**6**) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
 
-1. Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
-2. On the same window select "hard link deployment" and check "apply".
+**7**) Go to the settings and on the mods, tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+
+**8**) On the same window select "hard link deployment" and check "apply".
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -116,13 +119,20 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [INSTALLING THE COLLECTION](https://)
 
-1. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s11.gifyu.com/images/SgCKJ.jpg)
-
-1. Click "Add to Vortex"(choose your newly created profile).
+![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
 
 ## ![](https://s12.gifyu.com/images/Untitled1.png)
+
+***
+
+## [Required Mods](https://)
+
+If you aren't installing this Collection on top of our main [Constellation Collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) you will need to download the following Mods. Simply add them to Vortex.
+
+- [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106)
+- [Baka Disable My Games Folder](https://www.nexusmods.com/starfield/mods/1599)
 
 ***
 
@@ -130,11 +140,25 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 \***Note** If you don't want the optional mods skip this step.
 
-1. Select **"show"** optional mods then select **"no thanks"**
+**1**) Select **"show"** optional mods then select **"no thanks"**
 
-![](https://s11.gifyu.com/images/SgGTE.jpg)
+![](https://s11.gifyu.com/images/SgGTE.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
 
-Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+***
+
+## [Enabling Texture Mods](https://)
+
+**1**) After you have downloaded the collection you need to go to the following location
+
+```
+C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
+```
+
+**2**) Delete this Folder
+
+```
+Data
+```
 
 ***
 
@@ -176,9 +200,7 @@ I have added the Reshade below.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAd.png)
-
-**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
+![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
 You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
@@ -227,13 +249,19 @@ Special thanks to these guys who helped make this collection what it is. And eve
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 - Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
 - Fenrir
+- Donavan
 - Starfox
+- [IxionXVII](https://www.nexusmods.com/users/6922776)
+- [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
+
+- [ElminsterAU](https://www.nexusmods.com/enderalspecialedition/users/167469) and the xEdit Team
+- [ianpatt](https://www.nexusmods.com/starfield/users/2166624) and the SFSE Team
+- [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
 
 If you would like to support [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023) or Me so we can afford a new ship click the buttons below. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
