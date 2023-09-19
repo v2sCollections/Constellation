@@ -20,7 +20,7 @@ Update have addressed the following issues.
 ## NEW MODS ADDED
 
 - [Dark Mode for Mission Boards](https://www.nexusmods.com/starfield/mods/3162?tab=description)
-
+- [Compact Build Menu UI](https://www.nexusmods.com/starfield/mods/3063?tab=description)
 
 ## BUGS
 

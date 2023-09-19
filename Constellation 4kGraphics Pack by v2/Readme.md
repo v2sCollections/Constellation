@@ -1,11 +1,11 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
 
-### Updated & Compatible with the first Release of Starfield on Steam.
+### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 3
+### Collection Rev 4
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -24,6 +24,7 @@ Note this is for high-end systems only.
 
 - Easy to follow step-by-step installation guide.
 - Graphics mods to enhance Starfield.
+- Ultrawide support.
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
 - [Youtube Channe](https://www.youtube.com/@Constellation-2077)l-with Guides and Videos.
 - [Github Repository](https://github.com/2077v2/Constellation)-with Guides/FAQs and much more.
@@ -208,6 +209,8 @@ You can check out the gallery at the top of this page for videos by some of the 
 ## **Upscaled Animations**
 
 - [UHD4k 60 FPS FMVs](https://www.nexusmods.com/starfield/mods/337/?tab=description)
+- [Ultrawide 60FPS FMVs](https://www.nexusmods.com/starfield/mods/2838)
+- [21x9 Loading Screens](https://www.nexusmods.com/starfield/mods/562)
 
 ##
 
@@ -240,9 +243,11 @@ If you would like to support [Xilamonstrr](https://www.nexusmods.com/starfield/u
 
 # v2
 
-[![](https://s11.gifyu.com/images/SgG7r.png)](https://www.buymeacoffee.com/2077v2)
+[![](https://s11.gifyu.com/images/S4peN.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
 
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Disclaimer](https://)
+Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
+
+### ![](https://s11.gifyu.com/images/Sgd38.jpg)Disclaimer
 
 - ⛔ I will not be responsible for any possibility of save corruption.
 - ⛔ Please don't use a similar name to this collection.
