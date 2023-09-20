@@ -8,8 +8,6 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
 Big shoutout to [Fuzzlesz](https://www.nexusmods.com/starfield/users/16623) Who custom made his - [60 FPS - Smooth UI](https://www.nexusmods.com/starfield/mods/350?tab=description) To suit the Collection.
 
-Update have addressed the following issues.
-
 
 ## UPDATED
 
@@ -17,7 +15,8 @@ Update have addressed the following issues.
 - [Compact Crew Menu UI](https://www.nexusmods.com/starfield/mods/3014?tab=description)
 - [No Data Menu Flicker](https://www.nexusmods.com/starfield/mods/1425?tab=description)
 - [Enhanced Dialogue Interface](https://www.nexusmods.com/starfield/mods/871)
-- [
+- [Streamline Native (Frame Gen - DLSS - Reflex Integration)](https://www.nexusmods.com/starfield/mods/2751)
+- [Icon Sorting Tags - Starfield Edition](https://www.nexusmods.com/starfield/mods/312?tab=description)
 
 ## REMOVED
 
