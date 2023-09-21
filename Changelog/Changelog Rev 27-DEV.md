@@ -6,9 +6,11 @@
 
 MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
-Update have addressed the following issues.
-- Unable to open doors and hatches.
--
+- If you are unable to open doors and hatches Disable the following Mods Vortex
+- [Faster Airlock and Hatch Animations](https://www.nexusmods.com/starfield/mods/2489?tab=description)
+- [Faster Furniture Animations - Sitting - Workbenches - Cockpits](https://www.nexusmods.com/starfield/mods/2645)
+- [Faster Ship Animations - Taking Off - Landing - Docking](https://www.nexusmods.com/starfield/mods/2815)
+
 
 Big shoutout to [Fuzzlesz](https://www.nexusmods.com/starfield/users/16623) Who custom made his - [60 FPS - Smooth UI](https://www.nexusmods.com/starfield/mods/350?tab=description) To suit the Collection.
 
@@ -30,9 +32,6 @@ Big shoutout to [Fuzzlesz](https://www.nexusmods.com/starfield/users/16623) Who 
 ## REMOVED
 
 - [Clean Vanilla Hit Marker](https://www.nexusmods.com/starfield/mods/1689)
-- [Faster Airlock and Hatch Animations](https://www.nexusmods.com/starfield/mods/2489?tab=description)
-- [Faster Furniture Animations - Sitting - Workbenches - Cockpits](https://www.nexusmods.com/starfield/mods/2645)
-- [Faster Ship Animations - Taking Off - Landing - Docking](https://www.nexusmods.com/starfield/mods/2815)
 
 ## NEW MODS ADDED
 
@@ -59,8 +58,6 @@ STAR WARS
 
 ## MODS NOT WORKING AT THE MOMENT
 
-- [Faster Airlock and Hatch Animations](https://www.nexusmods.com/starfield/mods/2489?tab=description)
-- [Faster Furniture Animations - Sitting - Workbenches - Cockpits](https://www.nexusmods.com/starfield/mods/2645)
-- [Faster Ship Animations - Taking Off - Landing - Docking](https://www.nexusmods.com/starfield/mods/2815)
+N/A
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
