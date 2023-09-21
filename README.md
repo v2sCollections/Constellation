@@ -3,12 +3,11 @@
 
 
 
-
 ### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 26
+### Collection Rev 27
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -18,7 +17,7 @@ If you haven't seen me before that's because this is my first entry into the wor
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding and testing to create the best **Starfield** experience possible.
 
-This is a [90+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
+This is a [100+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -35,7 +34,7 @@ This collection is extensively tested with every new version that is released. I
 - ![](https://s11.gifyu.com/images/SgdA0.png)These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [90+](https://) Mods.
+- Only-[3](https://)GB in download size for [100+](https://) Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -98,7 +97,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 ## [Launching Starfield](https://)
 
 - Make sure Steam is open.
-- ⛔Use Vortex to launch the game. **DO NOT** Launch through Steam.
+- Use Vortex to launch the game. (You cannot Launch from Steam)
 
 ![](https://s11.gifyu.com/images/SgO30.jpg)
 
@@ -178,22 +177,6 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ***
 
-## [Enabling Texture Mods](https://)
-
-**1**) After you have downloaded the collection you need to go to the following location
-
-```
-C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
-```
-
-**2**) Delete this Folder
-
-```
-Data
-```
-
-***
-
 ## [Enabling Starfield Modding](https://)
 
 https://www.youtube.com/watch?v=0DGLEjs-1IQ
@@ -232,6 +215,8 @@ Now you can choose which ***(OPTIONAL)***  Mods you would like to install these 
 
 <details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
+
+NOTE If you use a Reshade make sure that HDR is disabled in Windows.
 
 **1**) Click on Reshade in the top corner.
 
@@ -356,24 +341,6 @@ You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and 
 ##
 
 <details><summary>COMMON FAQS</summary>
-## ![img](https://s11.gifyu.com/images/Sgd38.jpg)[When I launch the game a window appears like this ❓](https://)
-
-![img](https://s11.gifyu.com/images/S4pEh.png)This is because you didn't delete the Data folder follow the steps below.
-
-**1**) Go to the following location
-
-```
-C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
-```
-
-**2**). Delete this Folder
-
-```
-Data
-```
-
-**3**) Launch your Game
-
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Some Mods not working❓](https://)
 
 **1**) Open **Vortex**
@@ -732,7 +699,6 @@ This is a list of the types of cheats you can use.
 
 - ![](https://s11.gifyu.com/images/SgOIh.png)SFSE plugin that turns Quick Saves into normal Saves.
 - SFSE plugin adds a small delay when using the QuitGame function so that the "Bye." text is visible.
-- SFSE plugin that disables the Documents\My Games\Starfield\Data folder and moves the MOTD and Photo Mode files and folder paths to the game's root Data folder.
 - SFSE plugin that prevents achievements from being disabled with mods or when using the console.
 
 ***
@@ -775,7 +741,7 @@ Install guide for our Graphics Collections
 
 **2**) Create a new Profile and call it whatever you want.
 
-**3**) Then load your original Constellation Profile and enable the  **v2\_UHD4k-60FPS-FMVs**.
+**3**) Then load your original Constellation Profile and enable the 4k Mods you want.
 </details>
 
 You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems to help you gain some performance**)
@@ -848,9 +814,9 @@ Recommended In-game settings These settings will give a big increase to performa
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 
-If you enjoy this collection, **PLEASE** endorse the mod authors and Support us to help us build the best collection we for Starfield.
+If you enjoy this collection, **PLEASE** endorse the mod authors and Support us to help us build the best collection for Starfield.
 
-Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
+Special thanks to these guys who helped make this collection what it is. And everyone on the [Nexus](https://discord.gg/nexusmods) and the [Starfield](https://discord.gg/starfieldmodding) modding Discords.
 
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
 - [canliberk](https://www.nexusmods.com/users/5027009)

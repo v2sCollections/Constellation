@@ -31,6 +31,8 @@ Big shoutout to [Fuzzlesz](https://www.nexusmods.com/starfield/users/16623) Who 
 
 - [Clean Vanilla Hit Marker](https://www.nexusmods.com/starfield/mods/1689)
 - [Faster Airlock and Hatch Animations](https://www.nexusmods.com/starfield/mods/2489?tab=description)
+- [Faster Furniture Animations - Sitting - Workbenches - Cockpits](https://www.nexusmods.com/starfield/mods/2645)
+- [Faster Ship Animations - Taking Off - Landing - Docking](https://www.nexusmods.com/starfield/mods/2815)
 
 ## NEW MODS ADDED
 
@@ -58,5 +60,7 @@ STAR WARS
 ## MODS NOT WORKING AT THE MOMENT
 
 - [Faster Airlock and Hatch Animations](https://www.nexusmods.com/starfield/mods/2489?tab=description)
+- [Faster Furniture Animations - Sitting - Workbenches - Cockpits](https://www.nexusmods.com/starfield/mods/2645)
+- [Faster Ship Animations - Taking Off - Landing - Docking](https://www.nexusmods.com/starfield/mods/2815)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)

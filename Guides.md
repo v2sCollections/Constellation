@@ -242,25 +242,6 @@ I can overclock and stress test your **GPU**.
 
 
 
-<details>
-<summary>Enabling Texture Modding</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-
-After you have downloaded the collection you need to go to the following location
-
-```
-C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
-```
-**1**). Delete this Folder
-```
-Data
-```
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
 
 <details>
 <summary>Enabling Starfield Modding BETHINI</summary>
