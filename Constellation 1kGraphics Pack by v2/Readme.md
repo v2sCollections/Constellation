@@ -1,17 +1,13 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
 
-### Updated & Compatible with the first Release of Starfield on Steam.
+### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
 
-**⛔**Not Compatible with the Gampass Edition**⛔**
-
-### Collection Rev 3
+### Collection Rev 4
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is The Constellation Performance Texture Pack for **Starfield**.
 
-### Note&#x20;
-
-Texture Packs have been made Optional so once you have the Collection added to Vortex you can choose to install the Pack you would like. So you don't have to Download the entire 24GB.
+###
 
 ## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
 
@@ -33,10 +29,6 @@ You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collect
 - Live voice support.
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).
 - and much much more Join our Discord for more information.
-
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow players every day.
-
-[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/@Constellation-2077)Follow us on [YouTube](https://www.youtube.com/@Constellation-2077) for guides and videos.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -60,7 +52,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Install time](https://)
 
-**Premium Users**: Takes 20 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Premium Users**: Takes 20 Min + Semi-automatic. You can be AFK.\
 **Free Users:** Takes 40 Min + Semi-automatic. You will have to click on download for each mod one by one.
 
 ***
@@ -75,26 +67,25 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Vortex & Starfield](https://)
 
-1. Open Vortex and click on "Select a game to manage".
+**1**) Open Vortex and click on "Select a game to manage".
 
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
 
-6 ) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
+![](https://s11.gifyu.com/images/SgCKR.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
-![](https://s11.gifyu.com/images/SgCKR.jpg)7 ) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
+**4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-8 ) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
-
-9 ) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
+**5**) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 ```
 
-11 ) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
+**6**) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
 
-1. Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
-2. On the same window select "hard link deployment" and check "apply".
+**7**) Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+
+**8**) On the same window select "hard link deployment" and check "apply".
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -102,11 +93,9 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [INSTALLING THE COLLECTION](https://)
 
-1. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s11.gifyu.com/images/SgCKJ.jpg)
-
-1. Click "Add to Vortex"(choose your newly created profile).
+![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
 
 ## ![](https://s12.gifyu.com/images/Untitled1.png)
 
@@ -116,9 +105,11 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 \***Note** If you don't want the optional mods skip this step.
 
-1. Select **"show"** optional mods then select **"no thanks"**
+**1**) Select **"show"** optional mods then select **"no thanks"**
 
-![](https://s11.gifyu.com/images/SgGTE.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+![](https://s11.gifyu.com/images/SgGTE.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached ⛔ **(make sure to read these messages)**.
+
+After installation, the AIO texture pack will be enabled. If you don't see enough of a Performance boost then you can enable 1 or more of the optional Packs. These will reduce the Texture Resolution even more for less VRAM usage and better Performance.
 
 ***
 
@@ -165,32 +156,59 @@ Read everything above and if it isn't clear, ask a friend or post in the comment
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
 
-## ⛔[WARNINGS](https://)⛔
+## [Tweaks](https://www.nexusmods.com/starfield/mods/2624/?tab=description) by [v2](https://www.nexusmods.com/users/123334373)
 
-If you see this> ⛔ then you need to read and follow the directions.
+### Features
 
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see the optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want.
+> This will improve performance on most systems. You may see anywhere from 10 to 20 FPS just from this Tweak alone.
 
-⛔ It Is important that you read the following guide to fully understand everything clearly.
+**1**) When in-game go to the "Settings" tab.
 
-## ![](https://s11.gifyu.com/images/SgFMA.jpg)Upscaled Animations
+**2**) Select the "Display" tab and change the "Graphics Preset" to "High". &#x20;
 
-- [UHD4k 60 FPS FMVs](https://www.nexusmods.com/starfield/mods/337/?tab=description) (These have no negative Performance Impact)
+***
 
-## Downscaled Textures
+### [Downscaled Textures](https://www.nexusmods.com/starfield/mods/645) by [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
 
-You will be able to choose from 3 different Presets. Think of these as High Medium And low.
+### Features
 
-- (HIGH) HOT POTATO-1k Texture Resolution
-- (MEDIUM) WARM POTATO-512 Texture Resolution
-- (LOW) COLD POTATO-256 Texture Resolution
-
-Downscaled Textures Include
+> These will lower VRAM usage in turn Giving you less stuttering, more FPS and better Performance.
 
 - [Clothing](https://www.nexusmods.com/starfield/mods/1147)
 - [Cities](https://www.nexusmods.com/starfield/mods/936)
+- [Weapons](https://www.nexusmods.com/starfield/mods/3528)
+- [AIO Pack](https://www.nexusmods.com/starfield/mods/645)
 
-##
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
+![](https://s11.gifyu.com/images/SgdAn.png)
+
+<details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
+## High-End Settings
+
+Recommended In-game settings These settings will give a slight performance boost without sacrificing quality.
+
+## ![](https://s11.gifyu.com/images/SgVs9.jpg)Low-End Settings
+
+Recommended In-game settings These settings will give a big increase to performance while sacrificing quality.
+
+![](https://s11.gifyu.com/images/S42HR.jpg)
+
+***
+
+### YOUTUBE GUIDES TO IMPROVE GAMING PERFORMANCE.
+
+- [Ultimate Windows 10 Gaming Performance Optimization Guide](https://www.youtube.com/watchv=PYKFQu3Vr4A)
+- [Ultimate Windows 11 Gaming Performance Optimization Guide](https://www.youtube.com/watch?v=4o-SZSxygzY)
+- [NVIDIA USERS Force Resizable BAR in ANY GAME | Full Tweak Guide | 2023](https://www.youtube.com/watch?v=1zYjoLbrDF4)
+- [ISLC SETUP](https://www.youtube.com/watch?v=3TarmSPWtzc)
+
+### TOOLS TO IMPROVE GAMING PERFORMANCE.
+
+- [QUICK CPU](https://coderbag.com/product/quickcpu)
+- [ISLC](https://www.wagnardsoft.com/forums/viewtopic.php?t=1256)
+- [NVIDIA PROFILE INSPECTOR](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
+</details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -221,7 +239,9 @@ If you would like to support [Xilamonstrr](https://www.nexusmods.com/starfield/u
 
 # v2
 
-[![](https://s11.gifyu.com/images/SgG7r.png)](https://www.buymeacoffee.com/2077v2)
+[![](https://s11.gifyu.com/images/S4peN.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
+
+Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Disclaimer](https://)
 
