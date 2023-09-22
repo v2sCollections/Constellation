@@ -179,6 +179,8 @@ Read everything above and if it isn't clear, ask a friend or post in the comment
 - [Weapons](https://www.nexusmods.com/starfield/mods/3528)
 - [AIO Pack](https://www.nexusmods.com/starfield/mods/645)
 
+After installation, the AIO texture pack will be enabled. If you don't see enough of a Performance boost then you can enable 1 or more of the optional Packs. These will reduce the Texture Resolution even more for less VRAM usage and better Performance.
+
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ![](https://s11.gifyu.com/images/SgdAn.png)

@@ -16,7 +16,7 @@
 If you haven't seen me before that's because this is my first entry into the world of Bethesda but don't let that fool you I have a passion for everything Gaming/Modding. I have been modding and curating collections for other games such as [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) which I currently have the most endorsed and downloaded collection on [Nexus](https://). I've also curated the largest and most comprehensive mod collection for [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) with 800+Mods. And my latest collection for [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection). I'm eager to get started on a whole new chapter and I would love for you to come along for the ride. See you soon.
 </details>
 
-This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding and testing to create the best **Starfield** experience possible.
+This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Starfield** experience possible.
 
 This is a [100+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
@@ -45,9 +45,9 @@ This collection is extensively tested with every new version that is released. I
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow players every day.
+![](]https://i.imgur.com/VeCI8dy.png)[![](https://s11.gifyu.com/images/S4CqN.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow players every day.
 
-[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/@Constellation-2077)Follow us on [YouTube](https://www.youtube.com/@Constellation-2077) for guides and videos.
+[![](https://s11.gifyu.com/images/S4Cmy.png)](https://www.youtube.com/@Constellation-2077)Follow us on [YouTube](https://www.youtube.com/@Constellation-2077) for guides and videos.
 
 - ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
 - Custom Collection Loader.
@@ -110,6 +110,8 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Install time](https://)
 
+This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. And you can just cancel the subscription after the installation if you wish.
+
 **Premium Users**: Takes 15 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
 **Free Users:** Takes 30 Min + Semi-automatic. You will have to click on download for each mod one by one.
 
@@ -134,7 +136,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Vortex](https://)
 
-**1**) You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -242,20 +244,20 @@ steamapps\common\Starfield\Data\SFSE\Plugins\nv-streamline
 
 ## [In-game settings](https://)
 
-- To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods
+- To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods.
 
 <details><summary>CLICK FOR A FULL LIST OF CONSOLE COMMANDS</summary>
-![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
 
 - To apply the tweaks, run **"bat builderTweak"**
 - To uninstall the mod / revert the settings, simply run **"bat builderReset"**
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tolerance Tweaks
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tolerance Tweaks
 
 - To increase the tolerance run **"bat toleranceBig"**, or **"bat toleranceHuge"** (Huge basically disables any overlapping checks, letting you build some cursed things)
 - To uninstall the mod / revert the settings, simply run **"bat toleranceReset"**
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)In-Game FOV Changer
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)In-Game FOV Changer
 
 - For First Person FOV: Run **"bat fpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat fpp95")
 - For Third Person FOV: Run **"bat tpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat tpp95")
@@ -267,28 +269,16 @@ steamapps\common\Starfield\Data\SFSE\Plugins\nv-streamline
 - Keybinds You will find the key bind list on our Discord Or here [Keybinds](https://github.com/2077v2/Constellation/blob/main/Keybinds.md)
 
 <details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
-![](https://s11.gifyu.com/images/SgafS.png)
+![](https://s11.gifyu.com/images/SgafS.png)These are setup for a full-size KB.
 
-These are setup for a full size KB.
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-### RESHADE
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)RESHADE
 
 - HOME>  UI
 - END> Toggle Reshade
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-### CONSOLE
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONSOLE
 
 - \~> Console
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-### DLSS
-
-- END> Toggle DLSS UI
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
