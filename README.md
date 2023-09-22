@@ -3,14 +3,13 @@
 
 
 
-
 ### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 28
+### Collection Rev 29
 
-![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
+![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
 <details><summary>ABOUT ME</summary>
 If you haven't seen me before that's because this is my first entry into the world of Bethesda but don't let that fool you I have a passion for everything Gaming/Modding. I have been modding and curating collections for other games such as [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) which I currently have the most endorsed and downloaded collection on [Nexus](https://). I've also curated the largest and most comprehensive mod collection for [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) with 800+Mods. And my latest collection for [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection). I'm eager to get started on a whole new chapter and I would love for you to come along for the ride. See you soon.
@@ -180,6 +179,18 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ***
 
+## [ENABLING TEXTURE MODDING](https://)
+
+**1**) Go to the following location.
+
+```
+C:\Users\USERNAME\Documents\My Games\Starfield
+```
+
+**2**) Delete the Data folder.
+
+***
+
 ## [OPTIONAL MODS](https://)
 
 Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(Make sure to read these messages)**.
@@ -310,6 +321,18 @@ You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and 
 
 **3**) Select **"Controller Settings"** and disable Steam Input.
 
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[How do I change the Preset I chose in one of the installers❓](https://)
+
+The Collection comes with some Installers that pop up and let you choose some Presets these installers are called FOMod Installers.
+
+If you would like to change the preset you chose follow the guide below.
+
+**1**) Open Vortex and find the mod you would like to change.
+
+**2**) Right-click the Mod and select Reinstall.
+
+**3**) This will allow you to choose your Presets again.
+
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
@@ -352,6 +375,7 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Fixes an issue, where companions and other NPCs can steal your kill and you get no XP for it.
 - Fixes an issue with NPCs taking too long to blink.
 - Fixes the mantling animation.
+- Fixes NPCs staring at you from a distance.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -363,8 +387,8 @@ You can check out the gallery at the top of this page for videos by some of the 
 - Removes the color filters from the game, making the colors more uniformly neutral with deeper blacks.
 - Remove the vignette filter from your quick (favorites) menu.
 - Removes the vignette background with obvious color banding from the galaxy map.
-- Remove the Vignette From the Scanner.
-- Remove the flicker from the data menu open/close animation.
+- Removes the Vignette From the Scanner.
+- Removes the flicker from the data menu open/close animation.
 - Change the FOV.
 - Cropped and upscaled loading screens for ultrawide monitors
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
@@ -404,7 +428,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increases the travel distance of the horizontal boost.
 - 25% Cost Reduction for Melee stamina.
 - Disables aim assist on controller.
-- Refill your CO2 quicker.
+- Refills your CO2 quicker.
 - You can now "Hold To Equip" for food, books, and ingredients.
 - Tweak how fast you can climb on ladders and other objects (mantle) to your preference.
 
@@ -415,12 +439,12 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
 - Swaps the helmet torch light out for a different clearer version.
 - Jetpacks now work with pressing and holding buttons, instead of being single press.
-- Grabbing objects and Bodies is now quicker with no delay.
+- Better FOV when in dialogue.
+- Vendors will now refresh their inventory every day instead of every 2 days.
 - Increases the distance at which the map marker is visible.
 - Increases the distance at which objects can be scanned.
 - Decrease jogging movement speed.
-- Better FOV when in dialogue.
-- Vendors will now refresh their inventory every day instead of every 2 days.
+- Speed up Grabbing objects and Bodies with no delay.
 - Speed up Air Lock Animations. It comes with various speed multipliers for you to choose from.
 - Speed up Furniture animations. It comes with various speed multipliers for you to choose from.
 
@@ -431,39 +455,96 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - The player's health bar dynamically changes color at 75%, 50%, and 25%.
 - Changes the player's boost bar color to blue and flashes cyan when fully recharged.
 - Enhance your dialogue experience with a wider, refined, and centered text area, and improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
-- Removes the warning when opening the console for the first time in a session.
 - Gives terminals and kiosks a darker theme, and makes the terminal startup less bright.
-- Increased the speed of the sleep/wait Menus.
+- Removes the warning when opening the console for the first time in a session.
 - Removes the visual clutter from the vanilla hit marker, making it much easier to see what you're shooting at.
+- Increased the speed of the sleep/wait Menus.
 - Increases viewable ship component items by 33%.
 - Modifies the mission menu so more items can be seen at once. Increases viewable items by 50%.
 - Modifies the crew menu so more items can be seen at once. Increases viewable items by 50%.
 
 ***
 
-## StarUI Inventory
+## StarUI Inventory & StarUI HUD
 
-![](https://s11.gifyu.com/images/SgBgR.jpg)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
+![](https://s11.gifyu.com/images/S4CgB.jpg)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) & [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
 
 ### Features
 
-> StarUI Inventory improves all inventory screens for the usage on PC. Compacter display style. More details in sort-able columns. Item category icons. Category as left sidebar. Many Quality-of-Life features!
+> \*\*StarUI Inventory \*\*improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category and subcategories as left sidebar. Many quality of life features!
+>
+> **StarUI HUD** gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolour or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- Much compacter overview of the category list and item list.
-- Properties like mass, value, value/mass, mass of stack, damage, damage resistance and ammo are always available as column - completely configurable via INI!.
-- Sort the list to any of the columns by simply clicking on the column header (toggle asc/desc by another click).
-- Category icons before the item name, so you can directly see what an item is.
-- Show category summarized mass.
-- List navigation keys Page-Up, Page-Down, Home and End for fast navigation.
-- Mass transfer of a single category from/to container, from/to ship or buy/sell for trading.
+## [StarUI Inventory](https://)
+
+- Much compacter overview of category list and item list
+- Properties like mass, value, value/mass, mass of stack, value of stack, damage, DPS ("Burst DPS"), damage resistance, ammo type, ammo rounds, weapon type, item rarity and many more are available as column. Only a few are on by default - add as much as you like via INI!
+- Sort the list to any of the columns by simply clicking on the column header (toggle asc/desc by another click)
+- New special inventory-lookup column OWNED/SHIP/CARGO - See how many items you already have in your backpack/ship when buying or transferring.
+- You can temporarily add inactive columns to the interface (lasts until you leave the inventory screen)
+- You can fold in in the additional columns to take a look at your item in 3D
+- Category icons before the item name, so you can directly see what a item is
+- Automatic tagging and sub-categorizing of most important items to further filter your item list down
+- Show all inventories in the bottom panel, including mass and an indicator in which direction you are currently transferring
+- Show category summarized mass
+- List navigation keys Page-Up, Page-Down, Home and End for fast navigation
+- Mass-transfer of a single category from/to container, from/to ship or buy/sell for trading! (Includes options to skip equipped, favorites and specific items)
+- Press CTRL or SHIFT key and click to directly transfer/buy/sell one item or all items - without quantity popup!
 - Bigger scrollbar, so it's easier to grab it.
 - Change the font or font size (If you don't like the ALL UPPERCASE style. I recommend font number 3!)
-- Configurable mouse wheel scroll amount of lists.
-- Option to make \<TAB> go direkt back to the game instead of the character screen.
-- Multi-language ready with easy translate-able files in the standard format.
-- Has no plugins and no quests - Absolutely safe to install and uninstall at any time.
-- You can configure all options in the **Data\Interface\StarUI Inventory.ini**. (Will move to MCM as soon as one is available :) )
+- Configurable mouse wheel scroll amount of lists
+- Option to make \<TAB> go directly back to the game instead of the character screen.
+- Option to disable the starting and ending animation of inventories
+- Multi-language ready with easy translate-able files in the standard format
+- Option to show the FormID of an item in the item card in inventory.
+- Increases the interface framerate to 60 fps. Optional files for 30fps and 120fps are available in the installer or folder Optional for manual installation.
+- Has no plugins and no quests - Absolutely safe to install and uninstall at any time!
+- Doesn't affect the possibility to get Steam achievement
+- Full support for controller. Hold L1 in the item list to access all new StarUI Inventory functions.
+- Works with Steam and Game Pass (X-Box) version
+- You can configure all options in the **Data\Interface\StarUI Inventory.ini**. (Will move to MCM as soon as one is available.
+
+## [StarUI HUD](https://)
+
+- Change most widgets on the HUD to your liking:
+- - Change the position, the scale (size), the rotation and the color (color modifier or color overwrite available) individually per widget
+  - Hide it, if you don't want to see it!
+  - And for the special watch and player status widget: Adjust the 3D Position (only for 3D experts) or simply deactivate the 3D effect.
+- New widget: Tag Label
+- - Reduces the HUD's clutter level and let you focus on the important things.
+  - Displays the item name and item tag icon below your cross-hair. So you see what an item is without the need to look at the big item card (which is moved to top right screen as you don't really need it)
+  - For tagged, stolen or contraband items the appropriate icon will be added after the name
+  - Trash items are displayed slightly faded out, so those item draw even less attention
+  - Customizable and can be disabled if you don't like it
+- New widget: Loot-O-Meter
+- - Displays a bar below your cross-hair which fills up with the value per mass value of the item. So you can easily see what's worth to be taken!
+  - The bar can change the color from red to orange to green based on how much its filled
+  - Customizable and can be disabled if you don't like it
+- Upgraded loot list (quick container view)
+- - Dynamic size, more items visible (or less if you like)
+  - Automatic height adaption based on content
+  - Item tag icons for every item - See easily what type the item is!
+  - Additional configurable columns (Default adds a V/M column). The list can also be sorted by the column (And you can toggle through the columns it in-game with ALT key)
+  - Shows an item card for the highlighted item
+- Upgraded item cards
+- - Added item tag icon
+  - Added value V/M for all items with value and mass
+  - Added value DPS for weapon (Burst-DPS, reloading-time not accounted)
+  - Colorizable, relocatable and resizable: All item cards can be adjusted for every situations where they are visible
+- Quality of Life
+- - Accidental Steal Protection - Changes the button for taking, so you need to hold E key (or controller A button) to actually steal the item.
+  - Loot list and Tag Label widgets will change to RED when taking would be stealing.
+  - Take All function for most containers - Press and hold R (or X on controller) to take all (when the R (or X) HOLD button is visible)
+- Three presets you can choose: Author's Choice, Vanilla Extended and Vanilla. You can change that at any time and customize your choosen one as you like!
+- Safe to install/remove at any time! Doesn't affect your save game and won't prevent your abiliity to get achievements!
+- Integrated item sorting system for all Starfield items for the languages: EN, DE, ES, FR, IT, JA, PL, PTBR and ZHHANS.
+- You can control when the reticle circle and line are visible individually for different situations (the leader line going from the looked item to the item card/name box)
+- Reduce the button bars icon for key/controller button and slightly fade out the button bar
+- Shows a big door icon on doors which leads to other areas (e.g. the ones that trigger a loading screen)
+- Full translation support (See the translation section on this side if your translation is already available)
+- Many other smaller or bigger improvements
+- Completely customizable (see the well-documented INI file)
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)

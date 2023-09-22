@@ -15,10 +15,14 @@ First installation is now easier. Collection doesnt require inputting the "bat C
 
 - Fixed DLSS Mod that was set to required instead of optional.
 - Message for onedrive users. With the new Vortex extension you may have noticed onedrive is now trying to backup your Data folder in your Documents. I dont use onedrive so im unsure of a fix. If you dont use onedrive make sure to turn of syncing.
-
+- Bethini intergration in Vortex now makes it easier. To use the tool.
 
 ## UPDATED
 
+- [Enhanced Dialogue Interface](https://www.nexusmods.com/starfield/mods/871)
+- [Compact Crafting UI](https://www.nexusmods.com/starfield/mods/3274?tab=description)
+- [Faster Favorites Menu](https://www.nexusmods.com/starfield/mods/1581?tab=description)
+- [Compact Ship Builder UI](https://www.nexusmods.com/starfield/mods/1170?tab=description)
 
 
 ## REMOVED
