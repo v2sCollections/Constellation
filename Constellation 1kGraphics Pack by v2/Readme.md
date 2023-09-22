@@ -7,16 +7,7 @@
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is The Constellation Performance Texture Pack for **Starfield**.
 
-###
-
-## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
-
-**ABOUT ME**\
-I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years.
-I have been eagerly awaiting the release of Starfield FOR.EV.ER, and the main reason for the delayed release of this mod is because I am absolutely in love with this game and having trouble pulling away from playing it.
-That said, there's a ton of work to do on the textures so I am also incredibly excited to get to work on the vanilla game textures and improve user experiences with performance and visual quality. Please track my mods from my user page to stay tuned to new releases.\
-\
-You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collections-1076179431195955290).
+Reduces the resolution of all textures in the game, with an extra reduction on some areas that hit harder than others. This will lower VRAM usage and improve FPS beyond the standard Constellation Collection for users with lower-end systems.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
 
@@ -32,11 +23,7 @@ You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collect
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAu.png)
-
-If you see this> ⛔ then you need to read and follow the directions.
-
-- ⛔DO NOT use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+![](https://s11.gifyu.com/images/SgdAu.png)If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -59,7 +46,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Vortex](https://)
 
-1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+1. You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
@@ -111,15 +98,24 @@ After installation, the AIO texture pack will be enabled. If you don't see enoug
 
 ***
 
+## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
+
+**ABOUT ME**\
+I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years.
+I have been eagerly awaiting the release of Starfield FOR.EV.ER, and the main reason for the delayed release of this mod is because I am absolutely in love with this game and having trouble pulling away from playing it.
+That said, there's a ton of work to do on the textures so I am also incredibly excited to get to work on the vanilla game textures and improve user experiences with performance and visual quality. Please track my mods from my user page to stay tuned to new releases.\
+\
+You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collections-1076179431195955290).
+
+***
+
 ## NOW JOIN CONSTELLATION!!!
 
 ## ![](<\<iframe src="https://giphy.com/embed/6yG1e2cnStpgpEDDId" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="https://giphy.com/gifs/xbox-xbox-series-x-starfield-e3-6yG1e2cnStpgpEDDId"\>via GIPHY\</a\>\</p\>>)![](https://media.giphy.com/media/6yG1e2cnStpgpEDDId/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAd.png)
-
-**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
+![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
 You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
@@ -170,7 +166,7 @@ Read everything above and if it isn't clear, ask a friend or post in the comment
 
 ### Features
 
-> These will lower VRAM usage in turn Giving you less stuttering, more FPS and better Performance.
+> Reduces the resolution of all textures in the game, with an extra reduction on some areas that hit harder than others. This will lower VRAM usage and improve FPS beyond the standard Constellation Collection for users with lower-end systems.
 
 - [Clothing](https://www.nexusmods.com/starfield/mods/1147)
 - [Cities](https://www.nexusmods.com/starfield/mods/936)
@@ -178,6 +174,8 @@ Read everything above and if it isn't clear, ask a friend or post in the comment
 - [AIO Pack](https://www.nexusmods.com/starfield/mods/645)
 
 After installation, the AIO texture pack will be enabled. If you don't see enough of a Performance boost then you can enable 1 or more of the optional Packs. These will reduce the Texture Resolution even more for less VRAM usage and better Performance.
+
+##
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
