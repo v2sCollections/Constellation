@@ -3,11 +3,12 @@
 
 
 
+
 ### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 27
+### Collection Rev 28
 
 ![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -177,36 +178,6 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ***
 
-## [Enabling Starfield Modding](https://)
-
-https://www.youtube.com/watch?v=0DGLEjs-1IQ
-
-### [Command Line for Bethini=](https://) bat ConstellationLoader
-
-<details><summary>CLICK FOR THE written GUIDE</summary>
-**1**) Open **Vortex**
-
-**2**) In the top left-hand corner you will see some tools.
-
-![img](https://s11.gifyu.com/images/S4xFa.jpg)**3**) If you don't see Bethini select the "Dashboard tab and "Enable tools"
-
-![img](https://s11.gifyu.com/images/S4xFZ.jpg)4) Select **Bethini** a window will now pop up.
-
-**5**) Select **Starfield**.
-
-![img](https://s11.gifyu.com/images/S4xFV.jpg)6) Select OK.
-
-**7**) Check **Load Loose Files** Uncheck **Message of the Day**.
-
-![img](https://s11.gifyu.com/images/S4xFf.png)8) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
-
-**9**) Now exit the program and select **Save**
-</details>
-
-If you cant get Bethini to work for whatever reason you can still use the old method to Enable Starfield Modding [HERE](https://github.com/2077v2/Constellation/blob/main/Guides.md)
-
-***
-
 ## [OPTIONAL MODS](https://)
 
 Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(Make sure to read these messages)**.
@@ -341,26 +312,6 @@ You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and 
 ##
 
 <details><summary>COMMON FAQS</summary>
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Some Mods not working❓](https://)
-
-**1**) Open **Vortex**
-
-**2**) In the top left-hand corner you will see some tools.
-
-![img](https://s11.gifyu.com/images/S4xFa.jpg)**3**) If you don't see Bethini select the "Dashboard tab and "Enable tools"
-
-![img](https://s11.gifyu.com/images/S4xFZ.jpg)4) Select **Bethini** a window will now pop up.
-
-**5**) Select **Starfield**.
-
-![img](https://s11.gifyu.com/images/S4xFV.jpg)6) Select OK.
-
-**7**) Check **Load Loose Files** Uncheck **Message of the Day**.
-
-![img](https://s11.gifyu.com/images/S4xFf.png)8) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
-
-**9**) Now exit the program and select **Save**
-
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[My controller doesn't work❓](https://)
 
 **1**) Open Steam.
@@ -700,6 +651,7 @@ This is a list of the types of cheats you can use.
 - ![](https://s11.gifyu.com/images/SgOIh.png)SFSE plugin that turns Quick Saves into normal Saves.
 - SFSE plugin adds a small delay when using the QuitGame function so that the "Bye." text is visible.
 - SFSE plugin that prevents achievements from being disabled with mods or when using the console.
+- CCR Console Command Runner.
 
 ***
 
@@ -753,15 +705,7 @@ Install guide for our Graphics Collections
 
 **2**) Create a new Profile and call it whatever you want.
 
-**3**) Once downloaded you can choose your Preset.
-
-- Hot Potato
-- Warm Potato
-- Cold Potato
-
-**4**) Choosing your preset is as easy as Enabling either of the above-mentioned Presets.
-
-**5**) Then load your original Constellation Profile and enable the texture pack you want.
+**3**) Then load your original Constellation Profile and enable the texture pack you want.
 </details>
 
 ![](https://s11.gifyu.com/images/S42vc.png)

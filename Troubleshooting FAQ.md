@@ -45,45 +45,6 @@
 ## Troubleshooting
 
 
-<details>
-<summary>Some Mods not working</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-After installation, you will need to setup Starfield Modding
-
-**1**) Open **Vortex**
-
-**2**) In the top left hand corner you will see some tools.
-
-![img](https://s11.gifyu.com/images/S4xFa.jpg)
-
-**3**) If you dont see Bethini select the "Dashboard tab and "enable tools"
-
-![img](https://s11.gifyu.com/images/S4xFZ.jpg)
-
-**5**) Select **Bethini** a window will now pop up.
-
-**5**) Select **Starfield**.
-
-![img](https://s11.gifyu.com/images/S4xFV.jpg)
-
-**6**) Select ok.
-
-**7**) Check **Load Loose Files** Uncheck **Message of the Day**.
-
-![img](https://s11.gifyu.com/images/S4xFf.png)
-
-**8**) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
-
-**9**) Now exit the program and select **Save**
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
-
-
-
 
 
 ## Gameplay Questions
