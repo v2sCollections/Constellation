@@ -243,5 +243,3 @@ I can overclock and stress test your **GPU**.
 
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>

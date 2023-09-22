@@ -93,9 +93,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [INSTALLING THE COLLECTION](https://)
 
-**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
-
-![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
+**1**) Click "Add to Vortex"(choose your main profile you use).
 
 ## ![](https://s12.gifyu.com/images/Untitled1.png)
 

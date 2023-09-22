@@ -33,10 +33,6 @@ Note this is for high-end systems only.
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).
 - and much much more Join our Discord for more information.
 
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://i.imgur.com/VeCI8dy.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow players every day.
-
-[![](https://s12.gifyu.com/images/SuqD4.png)](https://www.youtube.com/@Constellation-2077)Follow us on [YouTube](https://www.youtube.com/@Constellation-2077) for guides and videos.
-
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ![](https://s11.gifyu.com/images/SgdAu.png)
@@ -119,9 +115,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [INSTALLING THE COLLECTION](https://)
 
-**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
-
-![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
+**1**) Click "Add to Vortex"(choose your main profile you use).
 
 ## ![](https://s12.gifyu.com/images/Untitled1.png)
 
@@ -129,10 +123,9 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [Required Mods](https://)
 
-If you aren't installing this Collection on top of our main [Constellation Collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) you will need to download the following Mods. Simply add them to Vortex.
+If you aren't installing this Collection on top of our main [Constellation Collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) you will need to download the following Mod. Simply add to Vortex.
 
 - [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106)
-- [Baka Disable My Games Folder](https://www.nexusmods.com/starfield/mods/1599)
 
 ***
 
@@ -143,22 +136,6 @@ If you aren't installing this Collection on top of our main [Constellation Colle
 **1**) Select **"show"** optional mods then select **"no thanks"**
 
 ![](https://s11.gifyu.com/images/SgGTE.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
-
-***
-
-## [Enabling Texture Mods](https://)
-
-**1**) After you have downloaded the collection you need to go to the following location
-
-```
-C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
-```
-
-**2**) Delete this Folder
-
-```
-Data
-```
 
 ***
 
@@ -173,20 +150,19 @@ Data
 <details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
-1. Click on Reshade in the top corner.
+**1**) Click on Reshade in the top corner.
 
-![](https://s11.gifyu.com/images/SgO3F.jpg)
-
-1. Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
+![](https://s11.gifyu.com/images/SgO3F.jpg)**2**) Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
 ```
 
-1. Select Directx 10/11/12
-2. On the **"select preset to install"** select next
-3. Select next and finish the installation.
-4. Run the game
+**3**) Select Directx 10/11/12
+
+**4**) On the **"select preset to install"** select next
+
+**5**) Select next and finish the installation.
 
 I have added the Reshade below.
 
