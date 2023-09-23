@@ -7,7 +7,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 30
+### Collection Rev 31
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -684,7 +684,9 @@ This is a list of the types of cheats you can use.
 - They'll fire from cover and change their positions more frequently.
 - NPCs' accuracy gets a slight but noticeable upgrade.
 - Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
-- Increase weapon reload speed by 25 percent.
+- Increased weapon reload speed by 25 percent.
+- Increased the speed of equpping weapons. It comes with various speed multipliers for you to choose from.
+- Increased the firing speed of the micro gun.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
