@@ -26,6 +26,7 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 - [BetterConsole - Console Replacer and MOD Menu](https://www.nexusmods.com/starfield/mods/3683?tab=description)
 - [KiLoader for Starfield](https://www.nexusmods.com/starfield/mods/3298?tab=description)
 - [Loose Root Data](https://www.nexusmods.com/starfield/mods/3424?tab=description)
+- [Firearm Tweaks - Tactical Sprint](https://www.nexusmods.com/starfield/mods/3670)
 
 ## BUGS
 
