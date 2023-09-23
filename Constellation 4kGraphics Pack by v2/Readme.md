@@ -1,22 +1,14 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
 
+
 ### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 4
+### Collection Rev 5
 
-![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 4k Graphics Pack](https://) for **Starfield**.
-
-## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
-
-**ABOUT ME**\
-I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years.
-I have been eagerly awaiting the release of Starfield FOR.EV.ER, and the main reason for the delayed release of this mod is because I am absolutely in love with this game and having trouble pulling away from playing it.
-That said, there's a ton of work to do on the textures so I am also incredibly excited to get to work on the vanilla game textures and improve user experiences with performance and visual quality. Please track my mods from my user page to stay tuned to new releases.\
-\
-You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collections-1076179431195955290).
+![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 4k Graphics Pack](https://) for **Starfield**.
 
 Note this is for high-end systems only.
 
@@ -123,9 +115,15 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [Required Mods](https://)
 
-If you aren't installing this Collection on top of our main [Constellation Collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) you will need to download the following Mod. Simply add to Vortex.
+**⛔**NOTE If you are installing this on top of our main Constellation collection disregard this section.
+
+**1**) You will need to install 3 additional Mods.
 
 - [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106)
+- [Loose Root Data](https://www.nexusmods.com/starfield/mods/3424)
+- [KiLoader for Starfield](https://www.nexusmods.com/starfield/mods/3298)
+
+**2**) Simply add these to Vortex.
 
 ***
 
@@ -136,6 +134,17 @@ If you aren't installing this Collection on top of our main [Constellation Colle
 **1**) Select **"show"** optional mods then select **"no thanks"**
 
 ![](https://s11.gifyu.com/images/SgGTE.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+
+***
+
+## A message from [XilaMonstrr](https://www.nexusmods.com/starfield/users/126616023)
+
+**ABOUT ME**\
+I have [released over 250 mods](https://www.nexusmods.com/users/126616023?tab=user+files), nearly all texture optimization or upscaling for Skyrim and Cyberpunk 2077, including [Performance Optimized Textures for all of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68055). My work has been featured in a number of gaming magazines over the past two years.
+I have been eagerly awaiting the release of Starfield FOR.EV.ER, and the main reason for the delayed release of this mod is because I am absolutely in love with this game and having trouble pulling away from playing it.
+That said, there's a ton of work to do on the textures so I am also incredibly excited to get to work on the vanilla game textures and improve user experiences with performance and visual quality. Please track my mods from my user page to stay tuned to new releases.\
+\
+You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collections-1076179431195955290).
 
 ***
 
@@ -209,6 +218,10 @@ You can check out the gallery at the top of this page for videos by some of the 
 - [UHD4k 60 FPS FMVs](https://www.nexusmods.com/starfield/mods/337/?tab=description)
 - [Ultrawide 60FPS FMVs](https://www.nexusmods.com/starfield/mods/2838)
 - [21x9 Loading Screens](https://www.nexusmods.com/starfield/mods/562)
+
+## **Upscaled Textures**
+
+- [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672/?tab=description)
 
 ##
 

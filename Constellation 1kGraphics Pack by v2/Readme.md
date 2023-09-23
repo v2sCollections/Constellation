@@ -5,7 +5,7 @@
 
 ### Collection Rev 4
 
-![](https://s11.gifyu.com/images/Sgdn9.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is The Constellation Performance Texture Pack for **Starfield**.
+![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is The Constellation Performance Texture Pack for **Starfield**.
 
 Reduces the resolution of all textures in the game, with an extra reduction on some areas that hit harder than others. This will lower VRAM usage and improve FPS beyond the standard Constellation Collection for users with lower-end systems.
 
@@ -82,7 +82,21 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 **1**) Click "Add to Vortex"(choose your main profile you use).
 
-## ![](https://s12.gifyu.com/images/Untitled1.png)
+![](https://s12.gifyu.com/images/Untitled1.png)
+
+***
+
+## [Required Mods](https://)
+
+**⛔**NOTE If you are installing this on top of our main Constellation collection disregard this section.
+
+**1**) You will need to install 3 additional Mods.
+
+- [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106)
+- [Loose Root Data](https://www.nexusmods.com/starfield/mods/3424)
+- [KiLoader for Starfield](https://www.nexusmods.com/starfield/mods/3298)
+
+**2**) Simply add these to Vortex.
 
 ***
 
@@ -182,11 +196,7 @@ After installation, the AIO texture pack will be enabled. If you don't see enoug
 ![](https://s11.gifyu.com/images/SgdAn.png)
 
 <details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
-## High-End Settings
-
-Recommended In-game settings These settings will give a slight performance boost without sacrificing quality.
-
-## ![](https://s11.gifyu.com/images/SgVs9.jpg)Low-End Settings
+## Low-End Settings
 
 Recommended In-game settings These settings will give a big increase to performance while sacrificing quality.
 
