@@ -7,7 +7,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 29
+### Collection Rev 30
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -179,15 +179,11 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ***
 
-## [ENABLING TEXTURE MODDING](https://)
+## [ENABLING MODDING](https://)
 
-**1**) Go to the following location.
+When you first launch the game from Vortex you will see a popup select [YES: Apply recommended changes.](https://)
 
-```
-C:\Users\USERNAME\Documents\My Games\Starfield
-```
-
-**2**) Delete the Data folder.
+![](https://s11.gifyu.com/images/S4U8u.jpg)
 
 ***
 
@@ -249,6 +245,8 @@ steamapps\common\Starfield\Data\SFSE\Plugins\nv-streamline
 **6**) Once done should look as follows.
 
 ![](https://s11.gifyu.com/images/S4ITQ.jpg)**7**) Once in the game you will see all the new options added to the Display Settings Menu.
+
+NOTE Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
 </details>
 
 ***
@@ -333,6 +331,10 @@ If you would like to change the preset you chose follow the guide below.
 
 **3**) This will allow you to choose your Presets again.
 
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[My Screen is flickering or going Black❓](https://)
+
+This is caused by the DLSS Mod. Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
+
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
@@ -385,15 +387,19 @@ You can check out the gallery at the top of this page for videos by some of the 
 - 10+ Animated Main Menu Screens.
 - 20+ Splash Screens.
 - Removes the color filters from the game, making the colors more uniformly neutral with deeper blacks.
-- Remove the vignette filter from your quick (favorites) menu.
-- Removes the vignette background with obvious color banding from the galaxy map.
-- Removes the Vignette From the Scanner.
-- Removes the flicker from the data menu open/close animation.
 - Change the FOV.
 - Cropped and upscaled loading screens for ultrawide monitors
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
 
-<details><summary>CLICK FOR CONSOLE COMMANDS</summary>
+## Remove the vignette from the following
+
+- Quick (favorites) menu.
+- Galaxy map.
+- Scanner.
+- Pause menu.
+- Data menu open/close animation.
+
+<details><summary>CLICK FOR FOV CONSOLE COMMANDS</summary>
 ### In-Game FOV Changer
 
 - For First Person FOV: Run "bat fpp100" to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat fpp95")
@@ -424,13 +430,17 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFpm.png)Reduced sound players produce when they are out of line of sight.
-- Increases the travel distance of the horizontal boost.
-- 25% Cost Reduction for Melee stamina.
-- Disables aim assist on controller.
-- Refills your CO2 quicker.
+- ![](https://s11.gifyu.com/images/SgFpm.png)Reduced the sound players produce when they are out of the line of sight.
+- Reduced the sound of footsteps.
+- Reduced the time it takes to refill your CO2.
+- Reduced the cost of Melee stamina by 25%.
+- Reduced the distance at which NPCs will talk to you.
+- Reduced the distance at which NPCs will stare at you.
+- Increased the travel distance of the horizontal boost.
 - You can now "Hold To Equip" for food, books, and ingredients.
-- Tweak how fast you can climb on ladders and other objects (mantle) to your preference.
+- You can now tweak how fast you can climb on ladders and other objects (mantle) to your preference.
+- You can now Tactical Sprint similar to Call of Duty.
+- You can now disable aim assist on controller.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -440,13 +450,13 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Swaps the helmet torch light out for a different clearer version.
 - Jetpacks now work with pressing and holding buttons, instead of being single press.
 - Better FOV when in dialogue.
-- Vendors will now refresh their inventory every day instead of every 2 days.
-- Increases the distance at which the map marker is visible.
-- Increases the distance at which objects can be scanned.
-- Decrease jogging movement speed.
-- Speed up Grabbing objects and Bodies with no delay.
-- Speed up Air Lock Animations. It comes with various speed multipliers for you to choose from.
-- Speed up Furniture animations. It comes with various speed multipliers for you to choose from.
+- Increased the distance at which the map marker is visible.
+- Increased the distance at which objects can be scanned.
+- Increased the speed of Grabbing objects and Bodies.
+- Increased the speed of Air Lock Animations. It comes with various speed multipliers for you to choose from.
+- Increased the speed of Furniture animations. It comes with various speed multipliers for you to choose from.
+- Reduced the time it takes for Vendors to refresh their inventory from 2 days to 1.
+- Reduced the jogging movement speed.
 
 ## UI Improvements Include
 
@@ -457,11 +467,10 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Enhance your dialogue experience with a wider, refined, and centered text area, and improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
 - Gives terminals and kiosks a darker theme, and makes the terminal startup less bright.
 - Removes the warning when opening the console for the first time in a session.
-- Removes the visual clutter from the vanilla hit marker, making it much easier to see what you're shooting at.
 - Increased the speed of the sleep/wait Menus.
-- Increases viewable ship component items by 33%.
-- Modifies the mission menu so more items can be seen at once. Increases viewable items by 50%.
-- Modifies the crew menu so more items can be seen at once. Increases viewable items by 50%.
+- Increased the viewable ship component items by 33%.
+- Increased the viewable mission menu so more items can be seen at once by 50%.
+- Increased the viewable crew menu so more items can be seen at once by 50%.
 
 ***
 
@@ -471,7 +480,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ### Features
 
-> \*\*StarUI Inventory \*\*improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category and subcategories as left sidebar. Many quality of life features!
+> **StarUI Inventory** improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category and subcategories as left sidebar. Many quality of life features!
 >
 > **StarUI HUD** gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolour or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
 
@@ -722,6 +731,7 @@ This is a list of the types of cheats you can use.
 - ![](https://s11.gifyu.com/images/SgOIh.png)SFSE plugin that turns Quick Saves into normal Saves.
 - SFSE plugin adds a small delay when using the QuitGame function so that the "Bye." text is visible.
 - SFSE plugin that prevents achievements from being disabled with mods or when using the console.
+- KiLoader plugin that allows loose file loading from the games root folder and more.
 - CCR Console Command Runner.
 
 ***
