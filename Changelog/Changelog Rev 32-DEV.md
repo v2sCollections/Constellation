@@ -19,6 +19,8 @@ This update has addressed the following isuues.
 - [Compact Mission UI](https://www.nexusmods.com/starfield/mods/682)
 - [Console Commands Master Cheat List](https://www.nexusmods.com/starfield/mods/607?tab=description)
 - [StarUI Inventory](https://www.nexusmods.com/starfield/mods/773)
+- [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672)
+- [
 
 ## REMOVED
 
