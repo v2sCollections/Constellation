@@ -24,7 +24,7 @@ This update has addressed the following isuues.
 Star Wars
 - [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
 - [E-11 Blaster (Stormtrooper Rifle) Sounds for Equinox laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3717?tab=description)
-- [E-11 Blaster (Stormtrooper Rifle) Sounds for Equinox laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3717?tab=description)
+- [ELG-3A Blaster (Padme's pistol) Sounds for Va'Ruun Starshard (Star Wars))](https://www.nexusmods.com/starfield/mods/3693?tab=description)
 
 ## REMOVED
 
