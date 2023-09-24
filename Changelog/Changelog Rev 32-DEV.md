@@ -20,11 +20,11 @@ This update has addressed the following isuues.
 - [Console Commands Master Cheat List](https://www.nexusmods.com/starfield/mods/607?tab=description)
 - [StarUI Inventory](https://www.nexusmods.com/starfield/mods/773)
 - [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672)
-- [
+
 Star Wars
 - [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
 - [E-11 Blaster (Stormtrooper Rifle) Sounds for Equinox laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3717?tab=description)
-- [
+- [E-11 Blaster (Stormtrooper Rifle) Sounds for Equinox laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3717?tab=description)
 
 ## REMOVED
 
@@ -32,6 +32,7 @@ N/A
 
 ## NEW MODS ADDED
 
+- [No Digipick Menu Background](https://www.nexusmods.com/starfield/mods/3744)
 
 
 
