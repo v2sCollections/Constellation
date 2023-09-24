@@ -21,6 +21,9 @@ This update has addressed the following isuues.
 - [StarUI Inventory](https://www.nexusmods.com/starfield/mods/773)
 - [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672)
 - [
+Star Wars
+- [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
+- 
 
 ## REMOVED
 
