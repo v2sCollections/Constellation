@@ -22,13 +22,14 @@ This update has addressed the following isuues.
 
 ## REMOVED
 
-N/A
+- [New Atlantis - Billboard Map](https://www.nexusmods.com/starfield/mods/2358)
 
 ## NEW MODS ADDED
 
 - [No Digipick Menu Background](https://www.nexusmods.com/starfield/mods/3744)
 - [Clean Reflex Sight Lenses](https://www.nexusmods.com/starfield/mods/3855?tab=description)
 - [Weapon Equip and Microgun Spin Up Animation Speed](https://www.nexusmods.com/starfield/mods/3532?tab=description)
+- [Immersive New Atlantis City Map](https://www.nexusmods.com/starfield/mods/3574?tab=description)
 
 Star Wars
 - [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
