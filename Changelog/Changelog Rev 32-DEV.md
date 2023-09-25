@@ -12,7 +12,6 @@ This update has addressed the following isuues.
 
 ## UPDATED
 
-- [Weapon Equip and Microgun Spin Up Animation Speed](https://www.nexusmods.com/starfield/mods/3532?tab=description)
 - [Faster Ship Animations - Taking Off - Landing - Docking](https://www.nexusmods.com/starfield/mods/2815)
 - [Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631?tab=description)
 - [Compact Ship Builder UI](https://www.nexusmods.com/starfield/mods/1170?tab=description)
@@ -20,12 +19,6 @@ This update has addressed the following isuues.
 - [Console Commands Master Cheat List](https://www.nexusmods.com/starfield/mods/607?tab=description)
 - [StarUI Inventory](https://www.nexusmods.com/starfield/mods/773)
 - [Compact Crew Menu UI](https://www.nexusmods.com/starfield/mods/3014)
-- [Clean Reflex Sight Lenses](https://www.nexusmods.com/starfield/mods/3855?tab=description)
-
-Star Wars
-- [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
-- [E-11 Blaster (Stormtrooper Rifle) Sounds for Equinox laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3717?tab=description)
-- [ELG-3A Blaster (Padme's pistol) Sounds for Va'Ruun Starshard (Star Wars))](https://www.nexusmods.com/starfield/mods/3693?tab=description)
 
 ## REMOVED
 
@@ -34,6 +27,13 @@ N/A
 ## NEW MODS ADDED
 
 - [No Digipick Menu Background](https://www.nexusmods.com/starfield/mods/3744)
+- [Clean Reflex Sight Lenses](https://www.nexusmods.com/starfield/mods/3855?tab=description)
+- [Weapon Equip and Microgun Spin Up Animation Speed](https://www.nexusmods.com/starfield/mods/3532?tab=description)
+
+Star Wars
+- [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
+- [E-11 Blaster (Stormtrooper Rifle) Sounds for Equinox laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3717?tab=description)
+- [ELG-3A Blaster (Padme's pistol) Sounds for Va'Ruun Starshard (Star Wars))](https://www.nexusmods.com/starfield/mods/3693?tab=description)
 
 
 
