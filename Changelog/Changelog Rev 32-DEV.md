@@ -7,8 +7,8 @@
 MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
 This update has addressed the following isuues.
-- Stealing bug.
-- 
+- Fixed the Stealing bug.
+- Fixed a bug which caused users to not be able to pick your intsaller presets in StarUI HUD nad StarUI Inventory.
 
 ## UPDATED
 
@@ -19,8 +19,8 @@ This update has addressed the following isuues.
 - [Compact Mission UI](https://www.nexusmods.com/starfield/mods/682)
 - [Console Commands Master Cheat List](https://www.nexusmods.com/starfield/mods/607?tab=description)
 - [StarUI Inventory](https://www.nexusmods.com/starfield/mods/773)
-- [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672)
 - [Compact Crew Menu UI](https://www.nexusmods.com/starfield/mods/3014)
+- [Clean Reflex Sight Lenses](https://www.nexusmods.com/starfield/mods/3855?tab=description)
 
 Star Wars
 - [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
