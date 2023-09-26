@@ -9,6 +9,7 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 This update has addressed the following isuues.
 - Fixed the Stealing bug.
 - Fixed a bug which caused users to not be able to pick your intsaller presets in StarUI HUD nad StarUI Inventory.
+- Dialogue camera zoom is now optional.
 
 ## UPDATED
 
