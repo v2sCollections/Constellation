@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 32 is COMING SOON](https://)
+## [HEY GUYS Rev 32 is HERE](https://)
 
 ## NOTES
 
@@ -28,11 +28,14 @@ This update has addressed the following isuues.
 - [Baka Quit Game Fix](https://www.nexusmods.com/starfield/mods/1662)
 - [Enemy Friendly Fire (SFSE)](https://www.nexusmods.com/starfield/mods/614)
 - [Gravity Affects Weight (SFSE)](https://www.nexusmods.com/starfield/mods/3048?tab=description)
-- [
+- [Hold To Equip Extended (SFSE)](https://www.nexusmods.com/starfield/mods/1956)
+- [Weapon Swap Stuttering Fix](https://www.nexusmods.com/starfield/mods/2830)
+- [Sprint Stuttering Fix](https://www.nexusmods.com/starfield/mods/884?tab=description)
 
 ## REMOVED
 
 - [New Atlantis - Billboard Map](https://www.nexusmods.com/starfield/mods/2358)
+- [Streamline Native (Frame Gen - DLSS - Reflex Integration)](https://www.nexusmods.com/starfield/mods/2751?tab=description)
 
 ## NEW MODS ADDED
 
@@ -56,6 +59,6 @@ Star Wars
 
 ## MODS NOT WORKING AT THE MOMENT
 
-N/A
+- [Streamline Native (Frame Gen - DLSS - Reflex Integration)](https://www.nexusmods.com/starfield/mods/2751?tab=description)
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)

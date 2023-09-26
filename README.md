@@ -3,11 +3,11 @@
 
 
 
-### Updated & Compatible With the latest 1.7.29 Version of Starfield on Steam.
+### Updated & Compatible With the latest 1.7.33 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 31
+### Collection Rev 32
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -17,7 +17,7 @@ If you haven't seen me before that's because this is my first entry into the wor
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Starfield** experience possible.
 
-This is a [100+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
+This is a [110+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -34,7 +34,7 @@ This collection is extensively tested with every new version that is released. I
 - ![](https://s11.gifyu.com/images/SgdA0.png)These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [100+](https://) Mods.
+- Only-[3](https://)GB in download size for [110+](https://) Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -90,7 +90,9 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ## [Updating Collection](https://)[   ](https://)
 
-- Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
+- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
+- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
+- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
 - ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 - Notes will be in the changelog.
 
@@ -159,9 +161,9 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 **6**) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
 
-**7**) Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+**7**) **⛔**Go to the settings and on the mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
-**8**) On the same window select "hard link deployment" and check "apply".
+**8**) **⛔**On the same window select **"hard link deployment"** and check **"apply"**.
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
@@ -181,7 +183,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## [ENABLING MODDING](https://)
 
-When you first launch the game from Vortex you will see a popup select [YES: Apply recommended changes.](https://)
+When you first launch the game from Vortex you may see a popup. Select [YES: Apply recommended changes.](https://)
 
 ![](https://s11.gifyu.com/images/S4U8u.jpg)
 
@@ -348,6 +350,17 @@ You can check out the gallery at the top of this page for videos by some of the 
 
 > This theme is completely (OPTIONAL) the mods will not be installed on first installation. But if you would like them you just have to enable them in Vortex. This Theme will end up being a total overhaul of Starfield into a Star Wars Universe.
 
+<details><summary>CLICK FOR FULL OVERVIEW</summary>
+### Features
+
+- Replaces firing sounds for most weapons with Star Wars weapon sounds.
+- Replaces firing sounds for some ships with Star Wars weapon sounds.
+- Replaces guards into Stormtroopers.
+- Replaces some outfits with Star Wars outfits.
+- Replaces on-screen messages with messages spoken by Yoda.
+- Replaces the jetpack sound with Boba Fett's jetpack.
+</details>
+
 <details><summary>CLICK HERE TO SEE WHAT STAR WARS MODS COME WITH THE COLLECTION</summary>
 - [Star Wars A Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description)&#x20;
 - [Star Wars Jango Fett Blaster Sound Replacement For Solstice](https://www.nexusmods.com/starfield/mods/2216)&#x20;
@@ -452,7 +465,6 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Better FOV when in dialogue.
 - Increased the distance at which the map marker is visible.
 - Increased the distance at which objects can be scanned.
-- Increased the speed of Grabbing objects and Bodies.
 - Increased the speed of Air Lock Animations. It comes with various speed multipliers for you to choose from.
 - Increased the speed of Furniture animations. It comes with various speed multipliers for you to choose from.
 - Reduced the time it takes for Vendors to refresh their inventory from 2 days to 1.
@@ -675,18 +687,19 @@ This is a list of the types of cheats you can use.
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 - ![](https://s11.gifyu.com/images/SgFpv.png)Friendly fire is enabled among allied NPCs.
+- Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
+- NPCs are more inclined to shoot their weapons.
+- NPCs fire from cover and change their positions more frequently.
+- NPCs accuracy gets a slight but noticeable upgrade.
 - Reduced multiplier for how much light affects stealth.
 - Reduced stealth penalty for running.
 - Reduced NPC reaction and idle times.
 - Reduced detection of sleeping NPCs.
 - Reduced enemy detection in exteriors slightly.
-- NPCs are more inclined to shoot their weapons.
-- They'll fire from cover and change their positions more frequently.
-- NPCs' accuracy gets a slight but noticeable upgrade.
-- Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
-- Increased weapon reload speed by 25 percent.
+- Increased weapon reload speed by 25%.
 - Increased the speed of equpping weapons. It comes with various speed multipliers for you to choose from.
 - Increased the firing speed of the micro gun.
+- Removes the tint, dirt, and glare from all reflex sights, making it easier to see your target.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -698,8 +711,8 @@ This is a list of the types of cheats you can use.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFpd.png)Increases the maximum number of ships you can own x5.
-- Speed up Ship Landing Animations. It comes with various speed multipliers for you to choose from.
+- ![](https://s11.gifyu.com/images/SgFpd.png)Increased the maximum number of ships you can own x5.
+- Increased the speed of Ship Landing Animations. It comes with various speed multipliers for you to choose from.
 - A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance, and more floors.
 
 <details><summary>cLICK FOR CONSOLE COMMANDS</summary>
@@ -735,6 +748,7 @@ This is a list of the types of cheats you can use.
 - SFSE plugin that prevents achievements from being disabled with mods or when using the console.
 - KiLoader plugin that allows loose file loading from the games root folder and more.
 - CCR Console Command Runner.
+- Custom Constellation Collection Loader.
 
 ***
 
@@ -770,25 +784,23 @@ Automatic backup of INI files.
 You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end systems only**)
 
 <details><summary>CLICK FOR 4K INSTALL GUIDE</summary>
-Install guide for our Graphics Collections
+Install guide for our 4kGraphics Collection.
 
 **1**) Select **ADD TO VORTEX** on Nexus
 
-**2**) Create a new Profile and call it whatever you want.
-
-**3**) Then load your original Constellation Profile and enable the 4k Mods you want.
+**2**) Add to your existing Constellation Collection Profile.
 </details>
 
 You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems to help you gain some performance**)
 
 <details><summary>CLICK FOR 1K INSTALL GUIDE</summary>
-Install guide for our Graphics Collections
+Install guide for our 1kGraphics Collection.
 
 **1**) Select **ADD TO VORTEX** on Nexus
 
-**2**) Create a new Profile and call it whatever you want.
+**2**) Add to your existing Constellation Collection Profile.
 
-**3**) Then load your original Constellation Profile and enable the texture pack you want.
+**3**) After installation, the AIO texture pack will be enabled. If you don't see enough of a Performance boost then you can enable 1 or more of the optional Packs. These will reduce the Texture Resolution even more for less VRAM usage and better Performance.
 </details>
 
 ![](https://s11.gifyu.com/images/S42vc.png)
