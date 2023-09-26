@@ -228,6 +228,8 @@ I have added the Reshade below.
 ### [DLSS + Frame Generation](https://)
 
 <details><summary>CLICK HERE FOR OPTIONAL DLSS + FRAME GENERATION INSTALLATION</summary>
+&#x20;⛔DLSS CURRENTLY NOT AVAILABLE
+
 Remember this is experimental you may see crashes here and there but it is well worth it.
 
 **1**) Open Vortex and select "Collections".\
