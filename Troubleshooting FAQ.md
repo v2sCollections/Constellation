@@ -49,6 +49,23 @@
 
 ## Gameplay Questions
 
+<details>
+<summary>My Achievements are not working</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+The mod we use to enable Achievements while playing the modded version of the game is called [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=description). This mod can sometimes stop working for some users. Below are some things you can try to fix this issue.
+
+**1**) Find the mod in **Vortex** right click the Mod and Select "Reinstall".
+
+**2**) Make sure **Steam** is always open before you launch the game from **Vortex**
+
+**3**) If all else fails Reinstall the Mod manually.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
 
 
 <details>
@@ -111,6 +128,17 @@ This is because you didn't select the right settings from the installation guide
 </details>
 
 
+<details>
+<summary>My Screen is flickering or going Black</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+This is caused by the DLSS Mod. Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
 
 
 
@@ -157,6 +185,26 @@ Updating
 ![img](https://s11.gifyu.com/images/SgXNN.jpg)
 
 **3)** When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>The Tools in Vortex are missing</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Sometimes you need to relink **Vortex** to a tool.
+
+**1**) Go to the **"dashboard"** tab in **Vortex**.
+
+**2**) Scroll down untill you see **"tools"**.
+
+**3**) Click the 3 dots next to the tool you need to relink ie Reshade. and select **"edit"**
+
+**4**) Now select **"target"** and browse to where you have the tool installed this will be in the main Starfield directory.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -244,6 +292,32 @@ The 4k Collection can be added to our main Collection.
 
 - [Steam to Xbox](https://youtu.be/PCLqHSGTF8w?si=l4YRV19dZTKZXqnM)
 - [Xbox to Steam](https://youtu.be/W1URw2fnqcU?si=coKQj9aFI3U-ZaC6)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>How do i use Bethini Pie</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+[Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631) is a universal tool to make editing INI configuration files simple via a graphical user interface.
+
+Check out the Bethini Pie Forum [HERE](https://stepmodifications.org/forum/forum/200-bethini-support/)
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>After installing the collection i have a warning in windows do i have a virus </summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+This can happen with some mods don't worry it will be a false positive select keep file and then perform actions in windows defender. Nexus mods scans and tests every mod that is uploaded to the site. You have nothing to be worried about
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
