@@ -1,17 +1,22 @@
 
 
 # Contents:
-1) [Install Time](#install-time)
-2) [PC Updates](#pc-Updates)
-3) [Starfield](#starfield)
-4) [Vortex](#vortex)
-5) [Vortex and Starfield](#vortex-and-starfield)
-6) [Installing the collection](#installing-the-collection)
-7) [Enabling Texture Mods](#enabling-texture-mods)
-8) [Enabling Starfield Modding](#enabling-starfield-modding)
-9) [Optional Mods](#optional-mods)
-10) [Optional Reshade and DLSS Installation](#optional-reshade-and-dlss-installation)
-11) [In game settings](#in-game-settings)
+1) [Make a Backup Save](#make-a-backup-save)
+2) [Make a Backup of your Game Files](#make-a-backup-of-your-game-files)
+3) [WARNINGS](#warnings)
+4) [Updating Collection](#updating-the-collection)
+5) [Launching Starfield](#launching-starfield)
+6) [Install Time](#install-time)
+7) [PC Updates](#pc-Updates)
+8) [Starfield](#starfield)
+9) [Vortex](#vortex)
+10) [Vortex and Starfield](#vortex-and-starfield)
+11) [Installing the collection](#installing-the-collection)
+12) [ENABLING MODDING](#enabling-modding)
+13) [Optional Mods](#optional-mods)
+14) [Reshade](#reshade)
+14) [DLSS + Frame Generation](#dlss-+-frame-generation)
+15) [In game settings](#in-game-settings)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
 
@@ -23,7 +28,7 @@
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
 
-## [Make a Backup of your Game Files](https://) (OPTIONAL)
+## Make a Backup of your Game Files
 
 - If you would like to backup your unmodded game files you can use my tool [HERE](https://www.nexusmods.com/starfield/mods/1064). Note you will need an extra 120gb of space on the drive where Starfield is installed.
 
