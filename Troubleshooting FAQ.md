@@ -49,29 +49,6 @@
 
 ## Gameplay Questions
 
-<details>
-<summary>I see dots instead of icons next time my items</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-This is because you didn't put the INI file in your Documents folder. 
-
-
-**1**) After you have downloaded the collection you need to go to the following location
-
-```
-SteamLibrary\steamapps\common\Starfield\Constallation Readme\
-```
-
-**2**) Here you will find a file called [StarfieldCustom.ini] copy this file and place it into the following location.
-
-```
-C:\Users[YOUR USERNAME\Documents\My Games\Starfield
-```
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
 
 
 <details>
