@@ -24,15 +24,14 @@
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-**1**) Check the install guide and make sure you follow the instructions.
+Known Causes of Crashes on Startup
 
-**2**) Make sure the game is installed on a SSD.
+- If you are using an **AMD GPU** and you accidentally enabled the **Streamline DLSS** Mod this will cause the game to crash on startup
 
-**3**) Check your Graphics Driver is up to date or reinstall it.
-
-**4**) Make sure these are up to date>
-⁠Unknown
-⁠Unknown
+- Outdated Graphics Driver.
+- Overclocked GPU.
+- Outdated Microsoft Visual Studio C++ Update>[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- Outdated Desktop Runtime Update>[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
