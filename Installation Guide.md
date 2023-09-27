@@ -13,16 +13,58 @@
 10) [Optional Reshade and DLSS Installation](#optional-reshade-and-dlss-installation)
 11) [In game settings](#in-game-settings)
 
-- ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly. It is a simple step by step guide.
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
 
-## [Install time](https://)
+## Make a Backup Save
 
-**Premium Users**: Takes 10 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 20 Min + Semi-automatic. You will have to click on download for each mod one by one.
+- Mods for Bethesda games can be unreliable at times it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
+
+```
+C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
+```
+
+## [Make a Backup of your Game Files](https://) (OPTIONAL)
+
+- If you would like to backup your unmodded game files you can use my tool [HERE](https://www.nexusmods.com/starfield/mods/1064). Note you will need an extra 120gb of space on the drive where Starfield is installed.
+
+## ⛔WARNINGS
+
+If you see this> ⛔ then you need to read and follow the directions.
+
+- ⛔It Is important that you read the following guide to fully understand everything clearly.
+- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+
+## Updating Collection
+
+- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
+- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
+- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
+- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+- Notes will be in the changelog.
+
+## Launching Starfield
+
+- Make sure Steam is open.
+- Use Vortex to launch the game. (You cannot Launch from Steam)
+
+![](https://s11.gifyu.com/images/SgO30.jpg)
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
+## ![](https://s11.gifyu.com/images/SgdAq.png)[READ](https://)
+
+- ⛔ It Is important that you READ the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+
+## Install time
+
+This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. And you can just cancel the subscription after the installation if you wish.
+
+**Premium Users**: Takes 15 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 30 Min + Semi-automatic. You will have to click on download for each mod one by one.
 
 ***
 
-## [PC  Updates](https://)
+## PC  Updates
 
 - Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
@@ -30,7 +72,7 @@
 
 ***
 
-## [Starfield](https://)
+## Starfield
 
 - ⛔This Collection only supports the Steam Version of Starfield.
 - Start with a fresh install of Starfield.
@@ -39,125 +81,85 @@
 
 ***
 
-## [Vortex](https://)
+## Vortex
 
-1. You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
 
 ***
 
-## [Vortex & Starfield](https://)
+## Vortex & Starfield
 
-1. Open Vortex and click on "Select a game to manage".
+**1**) Open Vortex and click on "Select a game to manage".
 
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)2. On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
 
-![](https://s11.gifyu.com/images/SgCKR.jpg)3. On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
+![](https://s11.gifyu.com/images/SgCKR.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
-4\. Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
+**4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
-5\. A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
+**5**) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 ```
 
-6\. On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
+**6**) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
 
-7\. Go to the settings and on the mods tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+**7**) **⛔**Go to the settings and on the mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
-8\. On the same window select "hard link deployment" and check "apply".
+**8**) **⛔**On the same window select **"hard link deployment"** and check **"apply"**.
 
 ![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
 
 ***
 
-## [Installing The Collection](https://)
+## Installing The Collection
 
-1\. Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s11.gifyu.com/images/SgCKJ.jpg)2. Click "Add to Vortex"(choose your newly created profile).
+![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
 
-![](https://s12.gifyu.com/images/Untitled1.png)3. After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
+![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
 ![](https://s11.gifyu.com/images/SgGTE.jpg)
 
 ***
 
-## [Enabling Texture Mods](https://)
+## ENABLING MODDING
 
-1\. After you have downloaded the collection you need to go to the following location
+When you first launch the game from Vortex you may see a popup. Select [YES: Apply recommended changes.](https://)
 
-```
-C:\Users\[YOUR USERNAME\Documents\My Games\Starfield
-```
-
-2\. Delete this Folder
-
-```
-Data
-```
+![](https://s11.gifyu.com/images/S4U8u.jpg)
 
 ***
 
-## [Enabling Starfield Modding](https://)
-
-https://www.youtube.com/watch?v=0DGLEjs-1IQ
-
-### [Command Line for Bethini=](https://) bat ConstellationLoader
-
-<details><summary>CLICK FOR THE written GUIDE</summary>
-**1**) Open **Vortex**
-
-**2**) In the top left-hand corner you will see some tools.
-
-![img](https://s11.gifyu.com/images/S4xFa.jpg)**3**) If you don't see Bethini select the "Dashboard tab and "Enable tools"
-
-![img](https://s11.gifyu.com/images/S4xFZ.jpg)4) Select **Bethini** a window will now pop up.
-
-**5**) Select **Starfield**.
-
-![img](https://s11.gifyu.com/images/S4xFV.jpg)6) Select OK.
-
-**7**) Check **Load Loose Files** Uncheck **Message of the Day**.
-
-![img](https://s11.gifyu.com/images/S4xFf.png)8) Enter the following into the **Starting Console Command window**   "bat ConstellationLoader"
-
-**9**) Now exit the program and select **Save**
-</details>
-
-If you cant get Bethini to work for whatever reason you can still use the old method to Enable Starfield Modding [HERE](https://github.com/2077v2/Constellation/blob/main/Guides.md)
-
-***
-
-## [OPTIONAL MODS](https://)
+## OPTIONAL MODS
 
 Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(Make sure to read these messages)**.
-
-### Optional Reshade and DLSS Installation.&#x20;
-
-⛔ These can be tricky to get working properly together if you don't need the extra performance from DLSS I recommend **NOT** installing DLSS.
 
 ## Reshade
 
 <details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
-1. Click on Reshade in the top corner.
+NOTE If you use a Reshade make sure that HDR is disabled in Windows.
+
+**1**) Click on Reshade in the top corner.
 
 ![](https://s11.gifyu.com/images/SgO3F.jpg)
 
-1. Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
+**2**) Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
 ```
 
-1. Select Directx 10/11/12
-2. On the **"select preset to install"** select next
-3. Select next and finish the installation.
-4. Run the game
+**3**) Select Directx 10/11/12\
+**4**) On the **"select preset to install"** select next\
+**5**) Select next and finish the installation.\
+**6**) Run the game
 
 I have added the Reshade below.
 
@@ -169,69 +171,52 @@ I have added the Reshade below.
 **Home** key to open GUI
 </details>
 
-### DLSS Support
+### DLSS + Frame Generation
 
-<details><summary>CLICK HERE FOR OPTIONAL DLSS INSTALLATION</summary>
-If you choose to use the DLSS Support (OPTIONAL) you will need to do the following.
-⛔  If you want to use the Reshade Make sure to install and configure the Reshade before enabling the optional DLSS Mod.
+<details><summary>CLICK HERE FOR OPTIONAL DLSS + FRAME GENERATION INSTALLATION</summary>
+&#x20;⛔DLSS CURRENTLY NOT AVAILABLE
 
-### [Reshade](https://)
+Remember this is experimental you may see crashes here and there but it is well worth it.
 
-**1**) After you have run the Reshade setup go to your main Starfield directory.
+**1**) Open Vortex and select "Collections".\
+**2**) Select "View".\
+**3**) Select the optional Mods and Install and Enable the DLSS Mod below.\
+![](https://s11.gifyu.com/images/S4IK7.png)4) Now you need to download the 2 files below.\
+[nvngx\_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/)
 
-**2**) Locate the file
+[nvngx\_dlssg.dll](https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/)
 
-```
-dxgi.dll
-```
-
-**3**) Right-click this file and change the name to
-
-```
-d3d12.dll
-```
-
-***
-
-### [DLSS](https://)
-
-⛔ You will need to download the DLSS update file linked [HERE](https://www.techpowerup.com/download/nvidia-dlss-dll/) (nvngx\_dlss\_2.5.1.zip)
-
-1\) Enable these 2 Mods in Vortex
-
-![](https://s11.gifyu.com/images/SgP0C.png)2) You need to place the nvngx\_dlss.dll file you downloaded into.
+**5**) Place these 2 files in the following location.
 
 ```
-mods/UpscalerBasePlugin folder.
+steamapps\common\Starfield\Data\SFSE\Plugins\nv-streamline
 ```
 
-3\) Go to the "SETTINGS" menu and on the DISPLAY tab enable "FSR2" as shown in the picture below.\
-![](https://s11.gifyu.com/images/SgFWA.png)4) To bring up the menu for DLSS hit the (END) key. Here you can choose from DLSS or XeSS.
+**6**) Once done should look as follows.
 
-5\) Go to the "SETTINGS" menu on the "DISPLAY" tab you can change the "RENDER RESOLUTION SCALE" the lower the setting the more FPS but Less visual quality.
+![](https://s11.gifyu.com/images/S4ITQ.jpg)**7**) Once in the game you will see all the new options added to the Display Settings Menu.
 
-\
-⛔This mod can be buggy with a Reshade installed and Overlays. I personally wouldn't use it but if you see a performance increase then go for it. If you have any bugs disable the 2 mods in Vortex.
+NOTE Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
 </details>
 
 ***
 
-## [In-game settings](https://)
+## In-game settings
 
-- To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods
+- To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods.
 
 <details><summary>CLICK FOR A FULL LIST OF CONSOLE COMMANDS</summary>
-![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
 
 - To apply the tweaks, run **"bat builderTweak"**
 - To uninstall the mod / revert the settings, simply run **"bat builderReset"**
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tolerance Tweaks
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tolerance Tweaks
 
 - To increase the tolerance run **"bat toleranceBig"**, or **"bat toleranceHuge"** (Huge basically disables any overlapping checks, letting you build some cursed things)
 - To uninstall the mod / revert the settings, simply run **"bat toleranceReset"**
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)In-Game FOV Changer
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)In-Game FOV Changer
 
 - For First Person FOV: Run **"bat fpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat fpp95")
 - For Third Person FOV: Run **"bat tpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat tpp95")
@@ -243,28 +228,16 @@ mods/UpscalerBasePlugin folder.
 - Keybinds You will find the key bind list on our Discord Or here [Keybinds](https://github.com/2077v2/Constellation/blob/main/Keybinds.md)
 
 <details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
-![](https://s11.gifyu.com/images/SgafS.png)
+![](https://s11.gifyu.com/images/SgafS.png)These are setup for a full-size KB.
 
-These are setup for a full size KB.
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-### RESHADE
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)RESHADE
 
 - HOME>  UI
 - END> Toggle Reshade
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-### CONSOLE
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONSOLE
 
 - \~> Console
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-### DLSS
-
-- END> Toggle DLSS UI
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
@@ -274,7 +247,5 @@ These are setup for a full size KB.
 # NOW JOIN CONSTELLATION!!!
 
 ## ![](<\<iframe src="https://giphy.com/embed/6yG1e2cnStpgpEDDId" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="https://giphy.com/gifs/xbox-xbox-series-x-starfield-e3-6yG1e2cnStpgpEDDId"\>via GIPHY\</a\>\</p\>>)![](https://media.giphy.com/media/6yG1e2cnStpgpEDDId/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
-
-![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 
