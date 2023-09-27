@@ -286,6 +286,22 @@ The 4k Collection can be added to our main Collection.
 
 
 <details>
+<summary>How to i add the 1k Graphics Collection</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Install guide for our [1K Graphics Collection](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
+
+**1**) Click "ADD TO VORTEX"(choose your main profile you use).
+
+**2**) After installation, the AIO texture pack will be enabled. If you don't see enough of a Performance boost then you can enable 1 or more of the optional Packs. These will reduce the Texture Resolution even more for less VRAM usage and better Performance.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
 <summary>How do i import my Saves</summary>
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
