@@ -315,6 +315,21 @@ You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and 
 ##
 
 <details><summary>COMMON FAQS</summary>
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[I am unable to open doors and hatches or have the Cockpitchair and T Posing Bug❓](https://)
+
+Or have any of the bugs below
+
+- Stuck in the cockpit chair?
+- NPCs' eyes black?
+- NPCs or your character T Posing?
+- Blood spatters texture issues?
+
+This is because you didn't select the right settings from the installation guide. See the picture below.
+
+**Hardlink Deployment** Requires the game to be on the same drive as the Mods this is **IMPORTANT**
+
+![img](https://s10.gifyu.com/images/S4aJv.png)
+
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[My controller doesn't work❓](https://)
 
 **1**) Open Steam.

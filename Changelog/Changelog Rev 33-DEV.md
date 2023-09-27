@@ -26,6 +26,8 @@ N/A
 
 - [Streamline Native (Frame Gen - DLSS - Reflex Integration)](https://www.nexusmods.com/starfield/mods/2751?tab=description)
 
+STAR WARS
+- [DLT-19X (BF2 Sniper) Sounds for Hard Target (Star Wars)](
 
 Star Wars
 
