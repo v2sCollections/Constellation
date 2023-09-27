@@ -116,6 +116,27 @@ This is because you didn't select the right settings from the installation guide
 
 ## Vortex Questions
 
+
+<details>
+<summary>Game Not Launching SFSE Not Found</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Anti Virus is giving some people a hard time when downloading the collection. Make exceptions in your antivirus. For the following folders.
+
+```
+C:\Users\USERNAME\Appdata\Roaming\Vortex
+```
+
+```
+DRIVE:\SteamLibrary\steamapps\common\Starfield
+```
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
 <details>
 <summary>How do i update the Collection</summary>
 
