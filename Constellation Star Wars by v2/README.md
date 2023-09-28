@@ -18,7 +18,7 @@ This collection is extensively tested with every new version that is released. I
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgDLJ.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
+![](https://s6.gifyu.com/images/S4OEU.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 - ![](https://s11.gifyu.com/images/SgdA0.png)The most exstensive Star Wars mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
@@ -272,6 +272,20 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 - Replaces on-screen messages with messages spoken by Yoda.
 - Replaces music and sounds with ones from our favorite galaxy far far away!
+
+
+
+***
+
+## Galactic Civil War Conversion
+
+![](https://s6.gifyu.com/images/S4O9u.jpg)[Galactic Civil War Conversion](https://www.nexusmods.com/starfield/mods/1659) by [kboykboy](https://www.nexusmods.com/starfield/users/38374220)
+
+### Features
+
+> Replaces UC Police with stormtroopers
+
+
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
