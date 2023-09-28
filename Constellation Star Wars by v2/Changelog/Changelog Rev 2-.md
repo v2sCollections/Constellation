@@ -23,7 +23,7 @@ CORE
 - [KiLoader for Starfield](https://www.nexusmods.com/starfield/mods/3298)
 - [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106)
 - [Address Library for SFSE Plugins](https://www.nexusmods.com/starfield/mods/3256)
-- [- [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157)](
+- [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157)
 
 STAR WARS
 - [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
@@ -49,7 +49,6 @@ STAR WARS
 - [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)
 - [Vasco says Gonk - Replace beeps with gonks - Optional Worker Bot (Star Wars)](https://www.nexusmods.com/starfield/mods/4164)
 - [Amban Phase Rifle (Din Djarin's rifle) Sounds for Lawgiver (Star Wars)](https://www.nexusmods.com/starfield/mods/4181?tab=description)
-- [
 
 ## BUGS
 

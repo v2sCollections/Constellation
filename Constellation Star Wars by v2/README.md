@@ -1,3 +1,5 @@
+### Updated & Compatible With the latest 1.7.33 Version of Starfield on Steam.
+
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
 ### Collection Rev 2
@@ -214,33 +216,43 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 <details><summary>CLICK HERE TO SEE THE FULL LIST OF MODS</summary>
 ### Visuals
 
-- [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)&#x20;
 - [Star Wars-Yoda Prompts](https://www.nexusmods.com/starfield/mods/3098)
-- [Galactic Civil War Conversion](https://www.nexusmods.com/starfield/mods/1659?tab=description)
 - [Galactic Empire Era Name Replacement](https://www.nexusmods.com/starfield/mods/2307?tab=description)
+- [Galactic Empire Flag](https://www.nexusmods.com/starfield/mods/2102)
+
+### Outfits/Armour
+
+- [Galactic Civil War Conversion](https://www.nexusmods.com/starfield/mods/1659?tab=description)
 - [The Mandalorian - Boba Fett - Jango Fett ( STAR WARS Starborn Retextures and Mantis Replacer )](https://www.nexusmods.com/starfield/mods/2848?tab=description)&#x20;
+- [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)&#x20;
 
 ### Audio Replacers: Other
 
 - [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)&#x20;
+- [Sounds From a Galaxy Far Far Away](https://www.nexusmods.com/starfield/mods/3169)
 
 ### Audio Replacers: Dialogue
 
 - [Galactic Stormtrooper Voice Lines For UC Security](https://www.nexusmods.com/starfield/mods/2176?tab=description)
+- [Vasco says Gonk - Replace beeps with gonks - Optional Worker Bot (Star Wars)](https://www.nexusmods.com/starfield/mods/4164)
 
 ### Audio Replacers: Weapons
 
 - [Star Wars Concussion Missile Sound Replacement For Atlatl 270 And 280](https://www.nexusmods.com/starfield/mods/3002)
+- [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)
 - [Star Wars A-Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description)&#x20;
 - [Star Wars Jango Fett Blaster Sound Replacement For Solstice](https://www.nexusmods.com/starfield/mods/2216)&#x20;
 - [Star Wars X Wing Sound Replacement For Singe 4MW Laser](https://www.nexusmods.com/starfield/mods/3078?tab=description)
+- [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)
 - [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
 - [E-11 Blaster (Stormtrooper Rifle) Sounds for Equinox laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3717?tab=description)
 - [ELG-3A Blaster (Padme's pistol) Sounds for Va'Ruun Starshard (Star Wars))](https://www.nexusmods.com/starfield/mods/3693?tab=description)
 - [TL-50 (BF2 Heavy Blaster) Sounds for AA99 Rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4003?tab=description)
 - [DC17m Blaster (Republic Commando rifle) Sounds for Drumbeat rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3217?tab=description)
 - [DC15s Blaster (Republic Commando pistol) Sounds for Sidestar Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3107?tab=description)
+- [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
 - [A180 blaster sounds for Eon pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/2932?tab=description)
+- [Amban Phase Rifle (Din Djarin's rifle) Sounds for Lawgiver (Star Wars)](https://)
 - [Westar-34 Blaster (Jango Fett's pistol) Sounds for Regulator Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3455?tab=description)
 - [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)&#x20;
 - [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)&#x20;
@@ -248,29 +260,43 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
-- ![](https://s6.gifyu.com/images/S4AHT.png)Replaces guards into Stormtroopers.
+![](https://s6.gifyu.com/images/S4AHT.png)
+
+- Replaces guards into Stormtroopers.
 - Replaces some outfits with Star Wars outfits.
+- Replaces the in-game flags around UC with Star Wars-themed flags with many variants to choose from.
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
-- ![](https://s6.gifyu.com/images/S4AHw.png)Replaces on-screen messages with messages spoken by Yoda.
+![](https://s6.gifyu.com/images/S4AHw.png)
+
+- Replaces on-screen messages with messages spoken by Yoda.
+- Replaces music and sounds with ones from our favorite galaxy far far away!
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
 ![](https://s6.gifyu.com/images/S4AH3.png)
 
-- Replaces firing sounds for most weapons with Star Wars weapon sounds.
+- Replaces firing sounds for 20+ weapons with Star Wars weapon sounds.
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
-- ![](https://s6.gifyu.com/images/S4AHK.png)Replaces firing sounds for some ships with Star Wars weapon sounds.
+![](https://s6.gifyu.com/images/S4AHK.png)
+
+- Replaces firing sounds for some ships with Star Wars weapon sounds.
 - Replaces the jetpack sound with Boba Fett's jetpack.
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
-- ![](https://s6.gifyu.com/images/S4AHN.png)KiLoader plugin that allows loose file loading from the game's root folder and more.
+![](https://s6.gifyu.com/images/S4AHN.png)
+
+- KiLoader plugin that allows loose file loading from the game's root folder and more.
+- Loose Root Data.
 - CCR Console Command Runner.
+- Starfield Script Extender (SFSE).
+- Address Library for SFSE Plugins.
 - Custom Constellation Star Wars Collection Loader.
+- Plugins.txt Enabler.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
