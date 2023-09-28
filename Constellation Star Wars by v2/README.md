@@ -1,10 +1,8 @@
-### Updated & Compatible With the latest 1.7.33 Version of Starfield on Steam.
-
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 1
+### Collection Rev 2
 
-![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
+![](https://s6.gifyu.com/images/S4ATa.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Star Wars** experience possible.
 
@@ -22,7 +20,7 @@ This collection is extensively tested with every new version that is released. I
 
 - ![](https://s11.gifyu.com/images/SgdA0.png)The most exstensive Star Wars mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only- [1](https://)GB in download size for [30](https://)+ Mods.
+- Only- [1](https://)GB in download size for [35+](https://) Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -38,7 +36,7 @@ This collection is extensively tested with every new version that is released. I
 
 - ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
 - Custom Collection Loader.
-- 10+ Animated Star Wars Menu Backgrounds.
+- 10+ Animated Star Wars Menu Backgrounds. (COMING SOON)
 - Support for other Modular Expansion Packs.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
@@ -207,7 +205,7 @@ If you would like to change the preset you chose follow the guide below.
 
 You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
-### ![](https://s6.gifyu.com/images/S4AHU.jpg)![](https://s11.gifyu.com/images/S4kKF.png)
+### ![](https://s6.gifyu.com/images/S4AHU.jpg)![](https://s6.gifyu.com/images/S4Ozq.jpg)
 
 A new constellation is taking shape in the cosmos, one that will awaken the inner Jedi or Sith within you. Prepare to leave the realm of **Starfield** behind as we introduce you to [Constellation Star Wars by v2](https://) a mod collection that will transport you from the unknown stars to the legendary galaxy of Star Wars!
 
@@ -248,24 +246,14 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)&#x20;
 </details>
 
-
-
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
 - ![](https://s6.gifyu.com/images/S4AHT.png)Replaces guards into Stormtroopers.
 - Replaces some outfits with Star Wars outfits.
 
-
-
-
-
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
 - ![](https://s6.gifyu.com/images/S4AHw.png)Replaces on-screen messages with messages spoken by Yoda.
-
-
-
-
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
@@ -273,16 +261,10 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 - Replaces firing sounds for most weapons with Star Wars weapon sounds.
 
-
-
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
 - ![](https://s6.gifyu.com/images/S4AHK.png)Replaces firing sounds for some ships with Star Wars weapon sounds.
 - Replaces the jetpack sound with Boba Fett's jetpack.
-
-
-
-
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 

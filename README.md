@@ -7,7 +7,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 32
+### Collection Rev 33
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -17,7 +17,7 @@ If you haven't seen me before that's because this is my first entry into the wor
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Starfield** experience possible.
 
-This is a [110+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
+This is a [100+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
 
 Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
@@ -363,36 +363,13 @@ This is caused by the DLSS Mod. Only use the "Quality" setting as other settings
 
 You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
-### ![](https://s11.gifyu.com/images/SgFMA.jpg)![](https://s11.gifyu.com/images/S4kKF.png)Features
+### ![](https://s11.gifyu.com/images/SgFMA.jpg)![](https://s6.gifyu.com/images/S4Ozq.jpg)Features
 
-> This theme is completely (OPTIONAL) the mods will not be installed on first installation. But if you would like them you just have to enable them in Vortex. This Theme will end up being a total overhaul of Starfield into a Star Wars Universe.
+> This theme is completely (OPTIONAL) Download the ADD-ON Pack [HERE](https://next.nexusmods.com/starfield/collections/smp1fz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)
 
-<details><summary>CLICK FOR FULL OVERVIEW</summary>
-### Features
+A new constellation is taking shape in the cosmos, one that will awaken the inner Jedi or Sith within you. Prepare to leave the realm of **Starfield** behind as we introduce you to [Constellation Star Wars by v2](https://) a mod collection that will transport you from the unknown stars to the legendary galaxy of Star Wars!
 
-- Replaces firing sounds for most weapons with Star Wars weapon sounds.
-- Replaces firing sounds for some ships with Star Wars weapon sounds.
-- Replaces guards into Stormtroopers.
-- Replaces some outfits with Star Wars outfits.
-- Replaces on-screen messages with messages spoken by Yoda.
-- Replaces the jetpack sound with Boba Fett's jetpack.
-</details>
-
-<details><summary>CLICK HERE TO SEE WHAT STAR WARS MODS COME WITH THE COLLECTION</summary>
-- [Star Wars A Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description)&#x20;
-- [Star Wars Jango Fett Blaster Sound Replacement For Solstice](https://www.nexusmods.com/starfield/mods/2216)&#x20;
-- [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)&#x20;
-- [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)&#x20;
-- [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)&#x20;
-- [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)&#x20;
-- [The Mandalorian - Boba Fett - Jango Fett ( STAR WARS Starborn Retextures and Mantis Replacer )](https://www.nexusmods.com/starfield/mods/2848?tab=description)&#x20;
-- [Galactic Civil War Conversion](https://www.nexusmods.com/starfield/mods/1659?tab=description)&#x20;
-- [Galactic Stormtrooper Voice Lines For UC Security](https://www.nexusmods.com/starfield/mods/2176?tab=description)
-- [Galactic Empire Era Name Replacement](https://www.nexusmods.com/starfield/mods/2307?tab=description)
-- [Star Wars-Yoda Prompts](https://www.nexusmods.com/starfield/mods/3098)
-- [Star Wars Concussion Missile Sound Replacement For Atlatl 270 And 280](https://www.nexusmods.com/starfield/mods/3002)
-- [Star Wars X Wing Sound Replacement For Singe 4MW Laser](https://www.nexusmods.com/starfield/mods/3078?tab=description)
-</details>
+Prepare for an adventure like no other, where the stars themselves rewrite their destinies to align with the Force. Welcome to [Constellation Star Wars by v2](https://) where the stars tell a tale of epic proportions in a galaxy far, far away...
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
