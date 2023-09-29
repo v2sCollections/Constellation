@@ -2,7 +2,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 2
+### Collection Rev 3
 
 ![](https://s6.gifyu.com/images/S4ATa.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
 
@@ -230,6 +230,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 - [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)&#x20;
 - [Sounds From a Galaxy Far Far Away](https://www.nexusmods.com/starfield/mods/3169)
+- [Starfield Boarding Alarm Sound Replacement Pack](https://www.nexusmods.com/starfield/mods/3549?tab=description)
 
 ### Audio Replacers: Dialogue
 
@@ -252,6 +253,8 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [DC15s Blaster (Republic Commando pistol) Sounds for Sidestar Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3107?tab=description)
 - [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
 - [A180 blaster sounds for Eon pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/2932?tab=description)
+- [ELG-3A Blaster (Padme's pistol) Sounds for Novalight (Star Wars)](https://www.nexusmods.com/starfield/mods/4248?tab=description)
+- [LL-30 Blaster (Cad Bane's pistol) Sounds for Magshot Revolver (Star Wars)](https://www.nexusmods.com/starfield/mods/4250?tab=description)
 - [Amban Phase Rifle (Din Djarin's rifle) Sounds for Lawgiver (Star Wars)](https://)
 - [Westar-34 Blaster (Jango Fett's pistol) Sounds for Regulator Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3455?tab=description)
 - [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)&#x20;
@@ -272,8 +275,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 - Replaces on-screen messages with messages spoken by Yoda.
 - Replaces music and sounds with ones from our favorite galaxy far far away!
-
-
+- Replacers the Boarding alarm with the one from the Death Star.
 
 ***
 
@@ -284,8 +286,6 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 ### Features
 
 > Replaces UC Police with stormtroopers
-
-
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
