@@ -2,119 +2,120 @@ Version 1.9 - by Richy Rich
 
 Table of Contents - CTRL+F and copy one of these to go straight to the desired Command/Section
 Commands:
-#Better borderless window support
-#God Mode!
-#Immortal Mode!
-#Player weapon damage resistance
-#No fall damage
-#Increased melee damage
-#Disables enemy health gain per level
-#Add credits
-#Sets your character to the specified level
-#Add XP
-#XP Multiplier
-#Add skill points
-#Movement speed multiplier
-#Increasing CO2 multiplier
-#Digipicks
-#Carryweight
-#Removes all items from the inventory of the target
-#Change character crew amount
-#Unlocks the targeted door or container
-#Activates the targeted item
-#Sets ownership of targeted item to player
-#Shows all markers on a planet
-#Toggles the UI on and off
-#Toggle All AI Processing
-#Unlocks all 24 powers
-#Total power
-#Power recovery speed
-#Power recovery rate
-#Relax faster after aggro
-#No Clip
-#Toggle free camera
-#Camera FOV
-#Distance to recieve greeting missions
-#Gets the ref ID of the grabbed item
-#Duplicates targeted item
-#Kills all hostile NPCs in the vicinity
-#NPCs will no longer target and attack you
-#All speech challenges automatically succeed
-#Passes the specified number of hours
-#Opens the wait/pass time menu
-#Opens the character creator
-#Suicide
-#Kills target
-#Resurrects target
-#Reload speed
-#Aim stability increase
-#Change max ownable ships
-#Increase max scan range
-#Instant scan
-#Increased highlight range
-#Show more points of interest
-#More custom landing sites
-#Pickpocket 100% chance
-#Make current NPC a teammate
-#NPC visual abilities
-#Distance from enemies from being detected
-#NPC View Cone
-#Vendor selling price multiplier
-#Days to restock Vendor inventory
-#Give max auto hack attempts
-#Earn auto attempts per hack
-#Encounter zone levels
-#Chance for NPC to drop equipped armor
+
+# Better borderless window support
+# God Mode!
+# Immortal Mode!
+# Player weapon damage resistance
+# No fall damage
+# Increased melee damage
+# Disables enemy health gain per level
+# Add credits
+# Sets your character to the specified level
+# Add XP
+# XP Multiplier
+# Add skill points
+# Movement speed multiplier
+# Increasing CO2 multiplier
+# Digipicks
+# Carryweight
+# Removes all items from the inventory of the target
+# Change character crew amount
+# Unlocks the targeted door or container
+# Activates the targeted item
+# Sets ownership of targeted item to player
+# Shows all markers on a planet
+# Toggles the UI on and off
+# Toggle All AI Processing
+# Unlocks all 24 powers
+# Total power
+# Power recovery speed
+# Power recovery rate
+# Relax faster after aggro
+# No Clip
+# Toggle free camera
+# Camera FOV
+# Distance to recieve greeting missions
+# Gets the ref ID of the grabbed item
+# Duplicates targeted item
+# Kills all hostile NPCs in the vicinity
+# NPCs will no longer target and attack you
+# All speech challenges automatically succeed
+# Passes the specified number of hours
+# Opens the wait/pass time menu
+# Opens the character creator
+# Suicide
+# Kills target
+# Resurrects target
+# Reload speed
+# Aim stability increase
+# Change max ownable ships
+# Increase max scan range
+# Instant scan
+# Increased highlight range
+# Show more points of interest
+# More custom landing sites
+# Pickpocket 100% chance
+# Make current NPC a teammate
+# NPC visual abilities
+# Distance from enemies from being detected
+# NPC View Cone
+# Vendor selling price multiplier
+# Days to restock Vendor inventory
+# Give max auto hack attempts
+# Earn auto attempts per hack
+# Encounter zone levels
+# Chance for NPC to drop equipped armor
 
 Sections:
-#Legendary enemy spawn chance multiplier
-#Damage multipliers
-#Boostpack settings
-#Auto-Aim Settings
-#Ship IDs
-#Ship modifiers
-#Outpost settings
-#Companion Affinity
-#Get companions unstuck
-#Fast travel locations
-#Crime settings
-#House prices
-#NeuroAmps
-#Resources/Parts/Minerals/Crafting Material Items
-#Food/Drinks/Aid
-#Powers
-#Perks/Backgrounds
-#Companion perks
-#Backpacks
-#Backpack mods
-#Spacesuits
-#Armor mods
-#Clothes
-#Apparel mods
-#Helmets
-#Helmet mods
-#Weapons
-#Weapon modifiers
-#Ammo
-#Mission/Quest settings
-#All Main Mission IDs
-#Shipyard parts
-#Easy Lockpicking
-#Spawn Enemies
-#Plushies
-#Magazines
-#Artifacts
+# Legendary enemy spawn chance multiplier
+# Damage multipliers
+# Boostpack settings
+# Auto-Aim Settings
+# Ship IDs
+# Ship modifiers
+# Outpost settings
+# Companion Affinity
+# Get companions unstuck
+# Fast travel locations
+# Crime settings
+# House prices
+# NeuroAmps
+# Resources/Parts/Minerals/Crafting Material Items
+# Food/Drinks/Aid
+# Powers
+# Perks/Backgrounds
+# Companion perks
+# Backpacks
+# Backpack mods
+# Spacesuits
+# Armor mods
+# Clothes
+# Apparel mods
+# Helmets
+# Helmet mods
+# Weapons
+# Weapon modifiers
+# Ammo
+# Mission/Quest settings
+# All Main Mission IDs
+# Shipyard parts
+# Easy Lockpicking
+# Spawn Enemies
+# Plushies
+# Magazines
+# Artifacts
 -------------------------------------------------------
-#Better borderless window support(keep game active when alt+tab)(Default "0")
+# Better borderless window support(keep game active when alt+tab)(Default "0")
 SetINISetting "bAlwaysActive:General" "1"
 
-#God Mode! Makes you and your ship invincible and gives you unlimited ammo + boostpack + CO2
+# God Mode! Makes you and your ship invincible and gives you unlimited ammo + boostpack + CO2
 tgm
 
-#Immortal Mode! You can take damage but your health will never hit 0
+# Immortal Mode! You can take damage but your health will never hit 0
 tim
 
-#Player weapon damage resistance(Adds to the total value each time, do - to decrease value)
+# Player weapon damage resistance(Adds to the total value each time, do - to decrease value)
 player.modav DamageResist 1000
 player.modav EnergyResist 1000
 Player.modav electromagneticdamageresist 1000
