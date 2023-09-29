@@ -7,7 +7,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 33
+### Collection Rev 34
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -34,7 +34,7 @@ This collection is extensively tested with every new version that is released. I
 - ![](https://s11.gifyu.com/images/SgdA0.png)These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [110+](https://) Mods.
+- Only-[3](https://)GB in download size for [100+](https://) Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -228,8 +228,6 @@ I have added the Reshade below.
 ### [DLSS + Frame Generation](https://)
 
 <details><summary>CLICK HERE FOR OPTIONAL DLSS + FRAME GENERATION INSTALLATION</summary>
-&#x20;⛔DLSS CURRENTLY NOT AVAILABLE
-
 Remember this is experimental you may see crashes here and there but it is well worth it.
 
 **1**) Open Vortex and select "Collections".\
@@ -707,6 +705,7 @@ This is a list of the types of cheats you can use.
 
 - ![](https://s11.gifyu.com/images/SgFpd.png)Increased the maximum number of ships you can own x5.
 - Increased the speed of Ship Landing Animations. It comes with various speed multipliers for you to choose from.
+- Increased the Distance at which you can transfer items from Player to Ship.
 - A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance, and more floors.
 
 <details><summary>cLICK FOR CONSOLE COMMANDS</summary>
