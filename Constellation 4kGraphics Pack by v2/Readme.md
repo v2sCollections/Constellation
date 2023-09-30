@@ -6,7 +6,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 6
+### Collection Rev 7
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 4k Graphics Pack](https://) for **Starfield**.
 
@@ -111,11 +111,15 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ## ![](https://s12.gifyu.com/images/Untitled1.png)
 
+2\) ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add this 4k Collection on top of our Main Collection make sure to disable the optional 2k Textures included in the Main Collection.
+
+- ⛔**NOTE** Our 1k and 4k Collections are **NOT** Compatible with each other for obvious Reasons.
+
 ***
 
 ## [Required Mods](https://)
 
-**⛔**NOTE If you are installing this on top of our main Constellation collection disregard this section.
+**⛔NOTE** If you are installing this on top of our main Constellation collection disregard this section.
 
 **1**) You will need to install 3 additional Mods.
 
@@ -219,10 +223,11 @@ You can check out the gallery at the top of this page for videos by some of the 
 - [Ultrawide 60FPS FMVs](https://www.nexusmods.com/starfield/mods/2838)
 - [21x9 Loading Screens](https://www.nexusmods.com/starfield/mods/562)
 
-## **Upscaled Textures**
+## **Upscaled MonstrrMagic Textures**
 
 - [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672/?tab=description)
 - [Spacesuits Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4035?tab=description)
+- [Eyes Brows and Lashes Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4292)
 
 ##
 

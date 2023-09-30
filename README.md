@@ -7,7 +7,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 34
+### Collection Rev 35
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -396,7 +396,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Cropped and upscaled loading screens for ultrawide monitors
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
 
-## Remove the vignette from the following
+## Removes the vignette from the following
 
 - Quick (favorites) menu.
 - Galaxy map.
@@ -415,11 +415,23 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 ## Upscaled Textures
 
 - Eyes.
+- Eyebrows.
+- Eyelashes.
 - Blood.
+- Artifacts.
 
-You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** systems only)
+## Custom Textures
+
+- Eyes.
+- Bullet Holes.
+
+You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** **systems only)**
+
+- ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add the 4k Collection on top of this Collection make sure to disable the optional 2k Textures included in this Collection.
 
 You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems to help you gain some performance**)
+
+- ⛔**NOTE** Our 1k and 4k Collections are **NOT** Compatible with each other for obvious Reasons.
 
 ***
 
@@ -782,6 +794,8 @@ Install guide for our 4kGraphics Collection.
 **1**) Select **ADD TO VORTEX** on Nexus
 
 **2**) Add to your existing Constellation Collection Profile.
+
+- ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add the 4k Collection on top of this Collection make sure to disable the optional 2k Textures included in this Collection.
 </details>
 
 You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems to help you gain some performance**)
@@ -794,6 +808,8 @@ Install guide for our 1kGraphics Collection.
 **2**) Add to your existing Constellation Collection Profile.
 
 **3**) After installation, the AIO texture pack will be enabled. If you don't see enough of a Performance boost then you can enable 1 or more of the optional Packs. These will reduce the Texture Resolution even more for less VRAM usage and better Performance.
+
+- ⛔**NOTE** Our 1k and 4k Collections are **NOT** Compatible with each other for obvious Reasons.
 </details>
 
 ![](https://s11.gifyu.com/images/S42vc.png)
