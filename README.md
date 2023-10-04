@@ -191,7 +191,7 @@ When you first launch the game from Vortex you may see a popup. Select [YES: App
 
 ## [OPTIONAL MODS](https://)
 
-Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(Make sure to read these messages)**.
+Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process  **(Make sure to read these messages)**.
 
 ## [Reshade](https://)
 
@@ -233,10 +233,16 @@ Remember this is experimental you may see crashes here and there but it is well 
 **1**) Open Vortex and select "Collections".\
 **2**) Select "View".\
 **3**) Select the optional Mods and Install and Enable the DLSS Mod below.\
-![](https://s11.gifyu.com/images/S4IK7.png)4) Now you need to download the 2 files below.\
-[nvngx\_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/)
+![](https://s11.gifyu.com/images/S4IK7.png)4) Now you need to download the files below. Make sure you get the right file for your GPU.
 
-[nvngx\_dlssg.dll](https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/)
+### &#x20;⛔40 Series Owners
+
+- [nvngx\_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/) = **NVIDIA DLSS DLL 3.5.0**
+- [nvngx\_dlssg.dll](https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/) = **NVIDIA DLSS 3 Frame Generation DLL 3.5.0**
+
+### &#x20;⛔20 & 30 Series Owners
+
+- [nvgx\_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/) = **NVIDIA DLSS DLL 2.5.0**
 
 **5**) Place these 2 files in the following location.
 
@@ -424,6 +430,14 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 - Eyes.
 - Bullet Holes.
+- Explosions.
+- Weapon fx.
+- Gore.
+- Storms of all kinds.
+- Fires.
+- Ambient fx like fog, dust, wisps, auras, smoke etc
+- Water visuals.
+- Prop fx like electric arcs, force fields, animated bits, etc\\
 
 You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** **systems only)**
 
@@ -454,10 +468,12 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Reduced the distance at which NPCs will talk to you.
 - Reduced the distance at which NPCs will stare at you.
 - Increased the travel distance of the horizontal boost.
+- Increased the healing of all food items by x5
+- Increased the duration of food, drink, and chem items by x2
 - You can now "Hold To Equip" for food, books, and ingredients.
 - You can now tweak how fast you can climb on ladders and other objects (mantle) to your preference.
 - You can now Tactical Sprint similar to Call of Duty.
-- You can now disable aim assist on controller.
+- You can now disable aim assist on a controller.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -467,12 +483,13 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Swaps the helmet torch light out for a different clearer version.
 - Jetpacks now work with pressing and holding buttons, instead of being single press.
 - Better FOV when in dialogue.
+- Prevents neutral NPCs and spaceships from turning hostile when you accidentally hit them.
+- Reduced the time it takes for Vendors to refresh their inventory from 2 days to 1.
+- Reduced the jogging movement speed.
 - Increased the distance at which the map marker is visible.
 - Increased the distance at which objects can be scanned.
 - Increased the speed of Air Lock Animations. It comes with various speed multipliers for you to choose from.
 - Increased the speed of Furniture animations. It comes with various speed multipliers for you to choose from.
-- Reduced the time it takes for Vendors to refresh their inventory from 2 days to 1.
-- Reduced the jogging movement speed.
 
 ## UI Improvements Include
 
