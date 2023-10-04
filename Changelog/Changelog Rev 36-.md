@@ -9,17 +9,32 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
 ## UPDATED
 
-
-
+- [Discord Rich Presence (SFSE)](https://www.nexusmods.com/starfield/mods/2545)
+- [Compact Crafting UI](https://www.nexusmods.com/starfield/mods/3274)
+- [Console Command Runner](https://www.nexusmods.com/starfield/mods/2740)
+- [IconSortingTags - Starfield Edition](https://www.nexusmods.com/starfield/mods/312)
+- [
 ## REMOVED
 
-N/A
+- [Increased Highlight Distance](https://www.nexusmods.com/starfield/mods/992?tab=description)
+- [Increased Scan Distance](https://www.nexusmods.com/starfield/mods/769)
+- [Increased Space Loot Distance](https://www.nexusmods.com/starfield/mods/1013)
+- [More Ownable Ships](https://www.nexusmods.com/starfield/mods/791?tab=description)
+- [Show More Points of Interest](
+- [Eyes Brows and Lashes Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4292)
 
 
 ## NEW MODS ADDED
 
 - [EXE - Effect Textures Enhanced](https://www.nexusmods.com/starfield/mods/340?tab=description)
-
+- [Better Food and Chems](https://www.nexusmods.com/starfield/mods/2687?tab=description)
+- [Simple Offence Suppression SFSE](https://www.nexusmods.com/starfield/mods/4456?tab=description)
+- [Eyes Brows and Lashes Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4292)
+- [Barrett Redone - MonstrrMagic Texture Series](
+- [Constellation Highlight Distance](https://www.nexusmods.com/starfield/mods/4643?tab=description)
+- [Constellation Scan Distance](https://www.nexusmods.com/starfield/mods/4643?tab=description)
+- [Constellation Space Loot Distance](https://www.nexusmods.com/starfield/mods/4643?tab=description)
+- [Constellation More Ownable Ships](https://www.nexusmods.com/starfield/mods/4643?tab=description)
 ## BUGS
 
 [See bugs channel on discord](https://discord.gg/xZNztPjA2u)
