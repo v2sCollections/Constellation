@@ -33,7 +33,7 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 - [Better Food and Chems](https://www.nexusmods.com/starfield/mods/2687?tab=description)
 - [Simple Offence Suppression SFSE](https://www.nexusmods.com/starfield/mods/4456?tab=description)
 - [Eyes Brows and Lashes Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4292)
-- [Barrett Redone - MonstrrMagic Texture Series](
+- [Barrett Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4613)
 - [Constellation Highlight Distance](https://www.nexusmods.com/starfield/mods/4643?tab=description)
 - [Constellation Scan Distance](https://www.nexusmods.com/starfield/mods/4643?tab=description)
 - [Constellation Space Loot Distance](https://www.nexusmods.com/starfield/mods/4643?tab=description)

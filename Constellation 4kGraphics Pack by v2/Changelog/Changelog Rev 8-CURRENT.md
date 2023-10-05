@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 7 is HERE](https://)
+## [HEY GUYS Rev 8 is HERE](https://)
 
 ## NOTES
 
@@ -17,7 +17,7 @@ N/A
 
 ## NEW MODS ADDED
 
-- [Eyes Brows and Lashes Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4292)
+- [Barrett Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4613)
 
 ## BUGS
 

@@ -6,7 +6,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 7
+### Collection Rev 8
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 4k Graphics Pack](https://) for **Starfield**.
 
@@ -228,6 +228,10 @@ You can check out the gallery at the top of this page for videos by some of the 
 - [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672/?tab=description)
 - [Spacesuits Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4035?tab=description)
 - [Eyes Brows and Lashes Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4292)
+
+## NPCs
+
+- [Barrett Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4613)
 
 ##
 

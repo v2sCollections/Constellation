@@ -7,25 +7,29 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 35
+### Collection Rev 36
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
 <details><summary>ABOUT ME</summary>
-If you haven't seen me before that's because this is my first entry into the world of Bethesda but don't let that fool you I have a passion for everything Gaming/Modding. I have been modding and curating collections for other games such as [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) which I currently have the most endorsed and downloaded collection on [Nexus](https://). I've also curated the largest and most comprehensive mod collection for [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) with 800+Mods. And my latest collection for [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection). I'm eager to get started on a whole new chapter and I would love for you to come along for the ride. See you soon.
+Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+</details>
+
+<details><summary>MY VISION FOR THIS COLLECTION</summary>
+My Vision for all my Collections is for you to be able to play the game any way you want. I won't force you to play a certain way I want you to have the tools to create your own experience so you can get the most out of your game.\
+\
+Constellation is the Ultimate experience you have access to everything you could ever need or want. Whether it's taking screenshots in photo mode, playing the most extreme difficulty, or cheating your way through Starfield this collection has it all and I mean all.\
+\
+And that's it I hope to see you in the Cosmos but now it's time for me to go.
 </details>
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Starfield** experience possible.
-
-This is a [100+](https://) Mod Collection it is the largest and most comprehensive mod list for **Starfield** it has been put together in a way that you can customize your playthrough to suit your style.&#x20;
-
-Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
 
 I hope you enjoy this collection and the game as much as I do. It's time for me to go but don't be a stranger Join our community over on [Discord](https://discord.gg/xZNztPjA2u) see you there.
 
 ## [Collection not working](https://) ❓
 
-This collection is extensively tested with every new version that is released. If it's not working for you there's a good chance you have missed a step. Please join the discord so we can assist you and get you up and going before you downvote the collection.
+This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -425,6 +429,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Eyelashes.
 - Blood.
 - Artifacts.
+- All NPCs (This is a work in progress)
 
 ## Custom Textures
 
