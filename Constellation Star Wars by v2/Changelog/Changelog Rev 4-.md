@@ -9,7 +9,8 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
 ## UPDATED
 
-N/A
+- [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808)
+- [Console Command Runner](https://www.nexusmods.com/starfield/mods/2740)
 
 ## REMOVED
 

@@ -2,19 +2,21 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 3
+### Collection Rev 5
 
 ![](https://s6.gifyu.com/images/S4ATa.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
 
-This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Star Wars** experience possible.
+<details><summary>ABOUT ME</summary>
+Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+</details>
 
-Huge thank you to all the talented Modders who have put in the time and effort to create these great mods. If you enjoy this collection, please show your support and [ENDORSE](https://) the mod authors and the collection.
+This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Star Wars** experience possible.
 
 I hope you enjoy this collection and the game as much as I do. It's time for me to go but don't be a stranger Join our community over on [Discord](https://discord.gg/xZNztPjA2u) see you there.
 
 ## [Collection not working](https://) ❓
 
-This collection is extensively tested with every new version that is released. If it's not working for you there's a good chance you have missed a step. Please join the discord so we can assist you and get you up and going before you downvote the collection.
+This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -22,7 +24,7 @@ This collection is extensively tested with every new version that is released. I
 
 - ![](https://s11.gifyu.com/images/SgdA0.png)The most exstensive Star Wars mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only- [1](https://)GB in download size for [35+](https://) Mods.
+- Only- [2](https://)GB in download size for [45](https://)+ Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -219,6 +221,8 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [Star Wars-Yoda Prompts](https://www.nexusmods.com/starfield/mods/3098)
 - [Galactic Empire Era Name Replacement](https://www.nexusmods.com/starfield/mods/2307?tab=description)
 - [Galactic Empire Flag](https://www.nexusmods.com/starfield/mods/2102)
+- [Coruscant (WIP)](https://www.nexusmods.com/starfield/mods/3461?tab=description)
+- [Constellation Menu Backgrounds (Star Wars Edition)](https://www.nexusmods.com/starfield/mods/4801)
 
 ### Outfits/Armour
 
@@ -226,11 +230,17 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [The Mandalorian - Boba Fett - Jango Fett ( STAR WARS Starborn Retextures and Mantis Replacer )](https://www.nexusmods.com/starfield/mods/2848?tab=description)&#x20;
 - [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)&#x20;
 
+### Body Mods
+
+- [GET the Chiss Race](https://www.nexusmods.com/starfield/mods/2547?tab=description)
+- [Play As A ZABRAK in STARFIELD with MORE Sith Eyes](https://www.nexusmods.com/starfield/mods/2564?tab=description)
+
 ### Audio Replacers: Other
 
 - [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)&#x20;
 - [Sounds From a Galaxy Far Far Away](https://www.nexusmods.com/starfield/mods/3169)
 - [Starfield Boarding Alarm Sound Replacement Pack](https://www.nexusmods.com/starfield/mods/3549?tab=description)
+- [The Key's Nova Bar musics replacer - Star Wars Themed](https://www.nexusmods.com/starfield/mods/2427?tab=description)
 
 ### Audio Replacers: Dialogue
 
@@ -259,6 +269,8 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [Westar-34 Blaster (Jango Fett's pistol) Sounds for Regulator Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3455?tab=description)
 - [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)&#x20;
 - [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)&#x20;
+- [EE-3 Blaster (Boba Fett's rifle) Sounds for Beowulf Rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4468)
+- [EE-3 Blaster (Boba Fett's rifle) Sounds for Beowulf Rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4468)
 </details>
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
@@ -268,6 +280,19 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Replaces guards into Stormtroopers.
 - Replaces some outfits with Star Wars outfits.
 - Replaces the in-game flags around UC with Star Wars-themed flags with many variants to choose from.
+- Replacers the Texture of Jemision to Coruscant seen in the Star Map.
+
+***
+
+## Menu Backgrounds
+
+https://www.youtube.com/watch?v=\_bEHcZlynk8
+
+[Menu Backgrounds](https://www.nexusmods.com/starfield/mods/4801) by [2077v2](https://www.nexusmods.com/starfield/users/123334373)
+
+### Features
+
+> This mod was made especially for my collection users. Amazing community animated wallpapers i have upscaled to 4k 60Fps. You can choose from up to 11 diffrent Main Menu Screens.
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
@@ -276,6 +301,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Replaces on-screen messages with messages spoken by Yoda.
 - Replaces music and sounds with ones from our favorite galaxy far far away!
 - Replacers the Boarding alarm with the one from the Death Star.
+- Replace Nova's Metal musics on the Key with various Star Wars Cantina themes.
 
 ***
 
@@ -292,6 +318,37 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 ![](https://s6.gifyu.com/images/S4AH3.png)
 
 - Replaces firing sounds for 20+ weapons with Star Wars weapon sounds.
+
+![](https://s6.gifyu.com/images/S4AHU.jpg)![](https://s6.gifyu.com/images/S638h.png)
+
+![](https://s6.gifyu.com/images/S636k.png)
+
+<details><summary>CLICK FOR CHISS SETTINGS</summary>
+- Skin Tone (**9**)&#x20;
+- Dermaesthetic (**1**)
+</details>
+
+<details><summary>CLICK FOR Zabrak SETTINGS</summary>
+- Skin Tone (**4**)
+- Dermaesthetic (**1**)
+- Eyebrows (**1**)
+- Scars (**10**)
+- Teeth (**4**)
+</details>
+
+![](https://s6.gifyu.com/images/S4AHU.jpg)
+
+![](https://s6.gifyu.com/images/S63rc.png)
+
+***
+
+## STAR WARS Jedi Robes - Anakin and Obi-Wan
+
+![](https://s6.gifyu.com/images/S635L.jpg)[Star Wars Jedi Robes - Anakin and Obi-Wans](https://www.nexusmods.com/starfield/mods/4770) by [thebestalpaca](https://www.nexusmods.com/starfield/users/92668293)
+
+### Features
+
+> This is a retexture of the Va'ruun Ambassador Suit to look like Jedi Robes. There are two versions included; both are inspired by Anakin and Obi-Wan's robes from Episodes 2 and Episode 3. May the Force be with you...
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
