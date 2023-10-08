@@ -43,7 +43,7 @@ Power Presets
 - Quick-Key 11 = Escape Power Preset 
 - Quick-Key 12 = Stealth Power Preset 
 
-For more infomation see>Ship Power Control Tweaks (KBM)
+For more information see>[Ship Power Control Tweaks (KBM)](https://github.com/2077v2/Constellation/blob/main/Guides.md#gameplay)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
