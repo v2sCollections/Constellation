@@ -6,16 +6,6 @@
 
 MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
-## [STEALING BUG](https://)
-
-The latest update requires users to go here
-
-```
- C:\Users\USERNAME\Documents\My Games\Starfield
-```
-
-Open the **StarfieldCustom.ini** and delete the following lines of code.\
-![](https://s6.gifyu.com/images/S45Uq.png)Then save the file.
 
 ## UPDATED
 
