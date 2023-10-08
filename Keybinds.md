@@ -58,7 +58,7 @@ Escape Power Preset
 Stealth Power Preset
 - Powers down all systems keeping a single point in Engines.
 
-For more infomation see>Ship Power Control Tweaks (KBM)
+For more information see>[Ship Power Control Tweaks (KBM)](https://github.com/2077v2/Constellation/blob/main/Guides.md#gameplay)
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
