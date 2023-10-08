@@ -13,12 +13,12 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
 ## REMOVED
 
-
-
+- [Compact Crafting UI](https://www.nexusmods.com/starfield/mods/3274)
 
 ## NEW MODS ADDED
 
-
+- [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820?tab=description)
+- [StarUI Workbench](https://www.nexusmods.com/starfield/mods/4966?tab=description)
 
 ## BUGS
 
