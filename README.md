@@ -40,7 +40,7 @@ This collection is extensively tested with every new version that is released. I
 - Easy to follow step-by-step installation guide.
 - Only-[3](https://)GB in download size for [100+](https://) Mods.
 - Mods specifically created for the collection.
-- [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
+- Setup Video- [HERE](https://youtu.be/4T8pOWYWu5Q?si=27GVbgBmVvDWOdm_)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
 - [Youtube Channel](https://www.youtube.com/@Constellation-2077)-with Guides and Videos.
 - Continuous Support in Comments and on Discord.
@@ -119,6 +119,12 @@ This is a large collection I recommend purchasing a Nexus premium account even j
 
 **Premium Users**: Takes 15 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
 **Free Users:** Takes 30 Min + Semi-automatic. You will have to click on download for each mod one by one.
+
+***
+
+## WATCH THE INSTALL GUIDE
+
+https://www.youtube.com/watch?v=4T8pOWYWu5Q
 
 ***
 
@@ -294,12 +300,58 @@ NOTE Only use the "Quality" setting as other settings may increase the risk of t
 
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)RESHADE
 
-- HOME>  UI
-- END> Toggle Reshade
+- HOME =  UI
+- END = Toggle Reshade
 
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONSOLE
 
-- \~> Console
+- \~ = Console
+
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Controls
+
+OVERVIEW
+
+- Select your ship's available power systems with Quick-Keys 1 -> 6.
+- Easily swap between Balanced, Combat, Escape, and Stealth power presets.
+- Doesn't require any external scripts or hotkey software.
+
+KEYBINDS
+
+- This mod utilizes whatever in-game Quick-Key keybinds you have setup.
+
+Power Systems
+
+- Quick-Key 1 = Select Weapon 1
+- Quick-Key 2 = Select Weapon 2
+- Quick-Key 3 = Select Weapon 3
+- Quick-Key 4 = Select Engine
+- Quick-Key 5 = Select Shields
+- Quick-Key 6 = Select Grav-Drive
+
+Power Presets
+
+- Quick-Key 9 = Balanced Power Preset
+- Quick-Key 10 = Combat Power Preset
+- Quick-Key 11 = Escape Power Preset
+- Quick-Key 12 = Stealth Power Preset
+
+Balanced Power Preset
+
+- Balances available power across all systems, keeping at least 1 power in Grav-Drive
+
+Combat Power Preset
+
+- Prioritizes power in individual weapon systems, tap the Quick-Key to switch which weapon is prioritized.
+- Remaining power is balanced across all systems, keeping at least 1 power in Grav-Drive.
+
+Escape Power Preset
+
+- Prioritizes power in Grav-Drive, Shields, and Engines, in that order.
+- Remaining power is balanced across Weapons.
+
+Stealth Power Preset
+
+- Powers down all systems keeping a single point in Engines.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
@@ -362,7 +414,17 @@ If you would like to change the preset you chose follow the guide below.
 
 This is caused by the DLSS Mod. Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[The Tools in Vortex are missing❓](https://)
+
+Sometimes you need to relink Vortex to a tool.
+
+**1**) Go to the "dashboard" tab in Vortex.
+
+**2**) Scroll down until you see "tools".
+
+**3**) Click the 3 dots next to the tool you need to relink ie Reshade. and select "edit"
+
+**4**) Now select "target" and browse to where you have the tool installed this will be in the main Starfield directory.
 </details>
 
 ### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)[⛔WARNINGS⛔](https://)
@@ -392,7 +454,6 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Fixes an issue, where companions and other NPCs can steal your kill and you get no XP for it.
 - Fixes an issue with NPCs taking too long to blink.
 - Fixes the mantling animation.
-- Fixes NPCs staring at you from a distance.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -474,11 +535,14 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Reduced the distance at which NPCs will stare at you.
 - Increased the travel distance of the horizontal boost.
 - Increased the healing of all food items by x5
-- Increased the duration of food, drink, and chem items by x2
+- Increased the duration of food, drink, and chem items by x2.
+- Increases the rate of Legendary drops for all difficulties.
+- Increases the combat slide distance. Multiple versions to choose from.
 - You can now "Hold To Equip" for food, books, and ingredients.
 - You can now tweak how fast you can climb on ladders and other objects (mantle) to your preference.
 - You can now Tactical Sprint similar to Call of Duty.
 - You can now disable aim assist on a controller.
+- Removes the first-person stagger animation after being hit with a melee attack or an explosion. Prevents your character from being frozen in place.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -499,11 +563,12 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 ## UI Improvements Include
 
 - Smaller and moved **Location Text** and **XP Indicator**.
-- Add a small icon in front of lootable items in the world and inventory,, so it's easier to see what is what It also help for inventory management.
+- Add a small icon in front of lootable items in the world and inventory, so it's easier to see what is what It also helps with inventory management.
 - The player's health bar dynamically changes color at 75%, 50%, and 25%.
 - Changes the player's boost bar color to blue and flashes cyan when fully recharged.
 - Enhance your dialogue experience with a wider, refined, and centered text area, and improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
 - Gives terminals and kiosks a darker theme, and makes the terminal startup less bright.
+- Gives mission boards a darker theme.
 - Removes the warning when opening the console for the first time in a session.
 - Increased the speed of the sleep/wait Menus.
 - Increased the viewable ship component items by 33%.
@@ -699,21 +764,25 @@ This is a list of the types of cheats you can use.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFp7.png) Guns will now leave behind more than the vanilla 10-shell casings.
-- Always loot armor from NPCs wearing it.
-- NPCs will stay angry at you for 7 days instead of 3 after committing a crime.
-- Followers will stay closer to you.
-- Gravity now affects inventory/carry weight.
-- Increased the density of highly populated planets by about 25%.
+- ![](https://s11.gifyu.com/images/SgFp7.png)Guns will now leave behind more than the vanilla 10-shell casings.
 - Reduced the density of medium-populated planets by about 15%.
 - Reduced the density of low-populated planets by about 60%.
 - Reduced the possible distance between spawned objects/NPCs.
+- NPCs will always drop their equipped armour.
+- NPCs will stay angry at you for 7 days instead of 3 after committing a crime.
+- Followers will stay closer to you.
 - Bullet hole impacts are now much more realistic.
+- Gravity now affects inventory/carry weight.
+- Increased the density of highly populated planets by about 25%.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 - ![](https://s11.gifyu.com/images/SgFpv.png)Friendly fire is enabled among allied NPCs.
 - Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
+- Removes the tint, dirt, and glare from all reflex sights, making it easier to see your target.
+- Blocking now reduces incoming melee damage by 90% (vanilla: 50%)
+- Blocking now damages oxygen for 15% of the dealt damage + 5
+- Blocking while your CO2 bar is full (= red oxygen bar) will damage your health
 - NPCs are more inclined to shoot their weapons.
 - NPCs fire from cover and change their positions more frequently.
 - NPCs accuracy gets a slight but noticeable upgrade.
@@ -723,9 +792,8 @@ This is a list of the types of cheats you can use.
 - Reduced detection of sleeping NPCs.
 - Reduced enemy detection in exteriors slightly.
 - Increased weapon reload speed by 25%.
-- Increased the speed of equpping weapons. It comes with various speed multipliers for you to choose from.
+- Increased the speed of equipping weapons. It comes with various speed multipliers for you to choose from.
 - Increased the firing speed of the micro gun.
-- Removes the tint, dirt, and glare from all reflex sights, making it easier to see your target.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -740,6 +808,53 @@ This is a list of the types of cheats you can use.
 - ![](https://s11.gifyu.com/images/SgFpd.png)Increased the maximum number of ships you can own x5.
 - Increased the speed of Ship Landing Animations. It comes with various speed multipliers for you to choose from.
 - Increased the Distance at which you can transfer items from Player to Ship.
+- Select your ship's available power systems with Quick-Keys 1 -> 6. Swap between multiple preconfigured power presets.
+
+<details><summary>CLICK FOR POWER SYSTEM KEY BINDS</summary>
+**OVERVIEW**\
+Select your ship's available power systems with Quick-Keys 1 -> 6.
+
+Easily swap between Balanced, Combat, Escape, and Stealth power presets.
+Doesn't require any external scripts or hotkey software.\
+\
+**KEYBINDS**\
+This mod utilizes whatever in-game Quick-Key keybinds you have set up.\
+\
+**Power Systems**
+
+- Quick-Key 1 = Select Weapon 1
+- Quick-Key 2 = Select Weapon 2
+- Quick-Key 3 = Select Weapon 3
+- Quick-Key 4 = Select Engine
+- Quick-Key 5 = Select Shields
+- Quick-Key 6 = Select Grav-Drive
+
+**Power Presets**
+
+- Quick-Key 9 = Balanced Power Preset
+- Quick-Key 10 = Combat Power Preset
+- Quick-Key 11 = Escape Power Preset
+- Quick-Key 12 = Stealth Power Preset
+
+**Balanced Power Preset**
+
+- Balances available power across all systems, keeping at least 1 power in Grav-Drive
+
+**Combat Power Preset**
+
+- Prioritizes power in individual weapon systems, tap the Quick-Key to switch which weapon is prioritized.
+- The remaining power is balanced across all systems, keeping at least 1 power in Grav-Drive.
+
+**Escape Power Preset**
+
+- Prioritizes power in Grav-Drive, Shields, and Engines, in that order.
+- The remaining power is balanced across Weapons.
+
+**Stealth Power Preset**
+
+- Powers down all systems keeping a single point in Engines.
+</details>
+
 - A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance, and more floors.
 
 <details><summary>cLICK FOR CONSOLE COMMANDS</summary>
@@ -773,9 +888,11 @@ This is a list of the types of cheats you can use.
 - ![](https://s11.gifyu.com/images/SgOIh.png)SFSE plugin that turns Quick Saves into normal Saves.
 - SFSE plugin adds a small delay when using the QuitGame function so that the "Bye." text is visible.
 - SFSE plugin that prevents achievements from being disabled with mods or when using the console.
+- SFSE plugin restores Plugins.txt functionality as in previous BGS games.
 - KiLoader plugin that allows loose file loading from the games root folder and more.
 - CCR Console Command Runner.
 - Custom Constellation Collection Loader.
+- Bethini Pie (Performance INI Editor).
 
 ***
 
@@ -834,7 +951,17 @@ Install guide for our 1kGraphics Collection.
 - ⛔**NOTE** Our 1k and 4k Collections are **NOT** Compatible with each other for obvious Reasons.
 </details>
 
-![](https://s11.gifyu.com/images/S42vc.png)
+You can use our Constellation Star Wars add-on Pack [HERE](https://next.nexusmods.com/starfield/collections/smp1fz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)
+
+<details><summary>CLICK FOR OUR STAR WARS INSTALL GUIDE</summary>
+Install guide for our Constellation Star Wars Collection.
+
+**1**) Select **ADD TO VORTEX** on Nexus
+
+**2**) Add to your existing Constellation Collection Profile.
+</details>
+
+![](https://s6.gifyu.com/images/S4ewH.png)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -898,6 +1025,7 @@ Special thanks to these guys who helped make this collection what it is. And eve
 - Starfox
 - [IxionXVII](https://www.nexusmods.com/users/6922776)
 - [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
+- NDLWX
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 
