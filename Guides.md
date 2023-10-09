@@ -279,6 +279,8 @@ I can overclock and stress test your **GPU**.
 <details>
 <summary>How to downgrade Starfield</summary>
 
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
 To downgrade the game you will need to enter 2 codes these need to be done one at a time
 
 
@@ -312,6 +314,36 @@ C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
 **7**) Copy these back into the Starfield game folder and overwrite the old files.
 
 **8**) Once you have done both you can **Deploy** the Mods in **Vortex** and continue to play the Modded Version of the game.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>Preventing Steam updates</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+**Turn Off Automatic Updates**
+
+**1**) In **Steam** right-click on **Starfield**
+
+**2**) In the menu that appears, click on Properties.
+
+**3**) In the popup window, select the Updates tab.
+
+**4**) In the selection box under "Automatic Updates", select "Only update this game when I launch it".
+
+**5**) Close the window.
+
+Or
+
+**1**) An alternative solution is to launch **Steam** in Offline Mode or play without an internet connection. This would make you unable to download updates for any of your games but would ensure that your downgraded version isn't accidentally erased by a surprise update.
+
+### Note
+
+The offline mode comes with its own set of drawbacks, so make sure you know how to use offline mode for Steam if you are going to commit to this option.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
