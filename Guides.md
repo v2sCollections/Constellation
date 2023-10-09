@@ -52,21 +52,6 @@ To open the console press ~ on your keyboard and enter the codes you would like.
 </details>
 
 
-<details>
-<summary>In-Game FOV Changer</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-- For First Person FOV: Run **"bat fpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat fpp95")
-- For Third Person FOV: Run **"bat tpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat tpp95")
-- To uninstall the mod / revert the settings, simply set FPP to 85 and TPP to 70 (Those are the vanilla values)
-- The changes will be permanent (You only have to run it once, even when leaving the game), and don't require manually editing the .ini file
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
-
-
 
 
 
@@ -290,6 +275,47 @@ I can overclock and stress test your **GPU**.
 
 ## Other Guides
 
+
+<details>
+<summary>How to downgrade Starfield</summary>
+
+To downgrade the game you will need to enter 2 codes these need to be done one at a time
+
+
+**1**) Open Vortex and select **Purge** this will remove the Mods from the game files.
+
+**2**) Open the "Run" menu (Windows Key + R)
+
+**3**) Run the below command and you should see a console tab appear within Steam.
+```
+steam://open/console/
+```
+**4**) Enter this command into the console and run it.
+```
+download_depot 1716740 1716741 3276175983502685135
+```
+
+**5**) Now repeat the process with the following code
+```
+download_depot 1716740 1716742 7068708531301311719 5161319454857509031
+```
+
+**6**) Once both depots are downloaded, you can then navigate to
+```
+C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716741
+```
+and
+```
+C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
+```
+
+**7**) Copy these back into the Starfield game folder and overwrite the old files.
+
+**8**) Once you have done both you can **Deploy** the Mods in **Vortex** and continue to play the Modded Version of the game.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
