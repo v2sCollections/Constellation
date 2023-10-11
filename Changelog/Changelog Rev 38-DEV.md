@@ -25,6 +25,7 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU
 
 - [In-Game FOV Changer](https://www.nexusmods.com/starfield/mods/302?tab=description) Now included in base game.
 - [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157)
+- [Streamline Native (Frame Gen - DLSS - Reflex Integration)](https://www.nexusmods.com/starfield/mods/2751?tab=description)
 
 ## NEW MODS ADDED
 
@@ -37,6 +38,7 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU
 
 ## MODS NOT WORKING AT THE MOMENT
 
+- [Streamline Native (Frame Gen - DLSS - Reflex Integration)](https://www.nexusmods.com/starfield/mods/2751?tab=description)
 
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)

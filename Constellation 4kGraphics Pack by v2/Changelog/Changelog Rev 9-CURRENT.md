@@ -9,7 +9,7 @@ REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 
 ## UPDATED
 
-N/A
+- [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672)
 
 ## REMOVED
 

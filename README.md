@@ -3,11 +3,11 @@
 
 
 
-### Updated & Compatible With the latest 1.7.33 Version of Starfield on Steam.
+### &#x20;Updated & Compatible With the latest 1.7.36 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 36
+### Collection Rev 38
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -35,22 +35,24 @@ This collection is extensively tested with every new version that is released. I
 
 ![](https://s11.gifyu.com/images/SgDLJ.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-- ![](https://s11.gifyu.com/images/SgdA0.png)These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
-- The most exstensive mod collection on Nexus for Starfield.
+![](https://s11.gifyu.com/images/SgdA0.png)
+
+[![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
+
+[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/xZNztPjA2u)
+
+- These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
+- The most extensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
 - Only-[3](https://)GB in download size for [100+](https://) Mods.
 - Mods specifically created for the collection.
 - Setup Video- [HERE](https://youtu.be/4T8pOWYWu5Q?si=27GVbgBmVvDWOdm_)
-- [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
-- [Youtube Channel](https://www.youtube.com/@Constellation-2077)-with Guides and Videos.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://s11.gifyu.com/images/S4CqN.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow players every day.
-
-[![](https://s11.gifyu.com/images/S4Cmy.png)](https://www.youtube.com/@Constellation-2077)Follow us on [YouTube](https://www.youtube.com/@Constellation-2077) for guides and videos.
+<!---->
 
 - ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
 - Custom Collection Loader.
@@ -85,19 +87,12 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 
 - If you would like to backup your unmodded game files you can use my tool [HERE](https://www.nexusmods.com/starfield/mods/1064). Note you will need an extra 120gb of space on the drive where Starfield is installed.
 
-## ⛔[WARNINGS](https://)⛔
-
-If you see this> ⛔ then you need to read and follow the directions.
-
-- ⛔It Is important that you read the following guide to fully understand everything clearly.
-- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
-
 ## [Updating Collection](https://)[   ](https://)
 
+- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 - Updating the collection is as easy as clicking the **"Update"** button.&#x20;
 - Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
 - When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
-- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 - Notes will be in the changelog.
 
 ## [Launching Starfield](https://)
@@ -284,13 +279,7 @@ NOTE Only use the "Quality" setting as other settings may increase the risk of t
 - To increase the tolerance run **"bat toleranceBig"**, or **"bat toleranceHuge"** (Huge basically disables any overlapping checks, letting you build some cursed things)
 - To uninstall the mod / revert the settings, simply run **"bat toleranceReset"**
 
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)In-Game FOV Changer
-
-- For First Person FOV: Run **"bat fpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat fpp95")
-- For Third Person FOV: Run **"bat tpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat tpp95")
-- To uninstall the mod / revert the settings, simply set FPP to 85 and TPP to 70 (Those are the vanilla values)
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 - Keybinds You will find the key bind list on our Discord Or here [Keybinds](https://github.com/2077v2/Constellation/blob/main/Keybinds.md)
@@ -425,6 +414,20 @@ Sometimes you need to relink Vortex to a tool.
 **3**) Click the 3 dots next to the tool you need to relink ie Reshade. and select "edit"
 
 **4**) Now select "target" and browse to where you have the tool installed this will be in the main Starfield directory.
+
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[My Achievements are not working❓](https://)
+
+The mod we use to enable Achievements while playing the modded version of the game is called **Baka Achievement Enabler (SFSE)**. This mod can sometimes stop working for some users. Below is a guide to fix this issue.
+
+**1**) Uninstall **SFSE** (Removed archive as well with Vortex)
+
+**2**) Uninstall **Baka AE** (Removed archive as well with Vortex)
+
+**3**) Install [Baka AE](https://www.nexusmods.com/starfield/mods/658?tab=description)
+
+**4**) Install [SFSE](https://www.nexusmods.com/starfield/mods/106)
+
+**5**) Make sure **Steam** is always open before you launch the game from **Vortex**
 </details>
 
 ### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)[⛔WARNINGS⛔](https://)
@@ -454,6 +457,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Fixes an issue, where companions and other NPCs can steal your kill and you get no XP for it.
 - Fixes an issue with NPCs taking too long to blink.
 - Fixes the mantling animation.
+- Fixes a bug in third person where the player's head is permanently stuck facing the left or right after jumping while sprinting.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -462,8 +466,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Constellation Tweaks Performance Boost.
 - 10+ Animated Main Menu Screens.
 - 20+ Splash Screens.
-- Removes the color filters from the game, making the colors more uniformly neutral with deeper blacks.
-- Change the FOV.
+- Removes the color filters from the game, making the colors more uniformly neutral with deeper blacks. Two options to choose from.
 - Cropped and upscaled loading screens for ultrawide monitors
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
 
@@ -475,14 +478,6 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Pause menu.
 - Data menu open/close animation.
 
-<details><summary>CLICK FOR FOV CONSOLE COMMANDS</summary>
-### In-Game FOV Changer
-
-- For First Person FOV: Run "bat fpp100" to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat fpp95")
-- For Third Person FOV: Run "bat tpp100" to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat tpp95")
-- To uninstall the mod / revert the settings, simply set FPP to 85 and TPP to 70 (Those are the vanilla values)
-</details>
-
 ## Upscaled Textures
 
 - Eyes.
@@ -490,6 +485,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Eyelashes.
 - Blood.
 - Artifacts.
+- Advertisements, Signage, Flags, Murals and Vending Machines.
 - All NPCs (This is a work in progress)
 
 ## Custom Textures
@@ -579,13 +575,15 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ## StarUI Inventory & StarUI HUD
 
-![](https://s11.gifyu.com/images/S4CgB.jpg)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) & [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
+![](https://s11.gifyu.com/images/S4CgB.jpg)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) & [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) & [StarUI Workbench](https://www.nexusmods.com/starfield/mods/4966?tab=description) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
 
 ### Features
 
 > **StarUI Inventory** improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category and subcategories as left sidebar. Many quality of life features!
 >
 > **StarUI HUD** gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolour or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
+>
+> \*\*StarUI Workbench \*\*improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, Quality-of-Life features and more!
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 ## [StarUI Inventory](https://)
@@ -637,7 +635,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - - Dynamic size, more items visible (or less if you like)
   - Automatic height adaption based on content
   - Item tag icons for every item - See easily what type the item is!
-  - Additional configurable columns (Default adds a V/M column). The list can also be sorted by the column (And you can toggle through the columns it in-game with ALT key)
+  - Additional configurable columns (Default adds a V/M column). The list can also be sorted by the column (And you can toggle through the columns it in-game with the ALT key)
   - Shows an item card for the highlighted item
 - Upgraded item cards
 - - Added item tag icon
@@ -657,6 +655,32 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Full translation support (See the translation section on this side if your translation is already available)
 - Many other smaller or bigger improvements
 - Completely customizable (see the well-documented INI file)
+
+## [StarUI Workbench](https://)
+
+- Much more compact design optimized for PC use
+- Additional information columns for all workbenches, including DPS for weapons, secondary resists for armor, cost and max craft-able amount for food/drugs/industrial items, and a treatment column for aid items.
+- All columns are sort-able - Just click on the column header
+- Adds a tracking item for recipes/mods you are tracking
+- Adds a favorite heart icon for your quick slot weapons
+- Included item sorting tag support - Use either StarUI tag icons for consistency or the vanilla workbench icons
+- Colorizes weapon and armor items by their rarity
+- New Install Tag for weapon/armor mods - Easily see if a mod is installed, craftable, or if you miss something!
+- Difference columns for mod installation - See how every mod changes your weapon/armor compared to your installed mod
+- Re-colorize your workbenches like you want them. You can also re-colorize each interface part of each workbench individually
+- Dark mode available (either use the preset or set iDarkMode in the INI)
+- All interface parts can be moved and resized. You can choose one of the four pre-defined workbench layouts or create your own layout!
+- - The layout is configured in a separate file, so you can easily re-use a layout for another bench (or create more layouts if you like)
+  - You can choose for every workbench which layout is should use
+  - Available layout presets: Vanilla, Vanilla Extended, Hoarder, Hoarder Alternate
+- Five pre-defined main configuration settings. Simply choose a preset that meets your taste in the installer. Or use it as a base for your own individual workbench configuration!
+- - Available main presets: Vanilla, Vanilla Extended, Hoarder, Hoarder Alternate, Hoarder Dark Mode
+
+\<!---->
+
+- Instant open/close - Animations removed
+- Unlimited crafting - You can adjust the max amount in the INI
+- Completely customizable - See*StarUI Workbench (default).ini*optimized
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -1044,6 +1068,7 @@ Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 - ⛔ I will not be responsible for any possibility of save corruption.
 - ⛔ Please don't use a similar name to this collection.
 - ⛔ I do not allow you to copy or clone this collection in any way.
+- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - © 2023 Bethesda Softworks LLC, a ZeniMax Media company. Trademarks belong to their respective owners.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)

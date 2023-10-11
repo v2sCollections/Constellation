@@ -23,6 +23,8 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL
 - [Boba Fett's Blaster Rifle (Classic EE-3)](https://www.nexusmods.com/starfield/mods/5012?tab=description)
 - [Star Wars Credits. (Only Credits)](https://www.nexusmods.com/starfield/mods/5023)
 - [Immersive Lightsabers](https://www.nexusmods.com/starfield/mods/3795?tab=description)
+- [IB-94 Blaster (Din Djarin's pistol) Sounds for Rattler pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/5090?tab=description)
+- [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658)
 
 ## BUGS
 
