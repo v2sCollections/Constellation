@@ -1,8 +1,5 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-
-
-
 ### &#x20;Updated & Compatible With the latest 1.7.36 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
@@ -446,22 +443,41 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFM7.png)Enemies have more health.
+![](https://s11.gifyu.com/images/SgFM7.png)
+
+- Enemies have more health.
 - Prevent the player from becoming a bullet sponge on the higher levels.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFpk.png)Fixes twitching/stuttering when sprinting in first person.
+![](https://s11.gifyu.com/images/SgFpk.png)
+
+## Features
+
+> Many fixes to vanilla game bugs.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Fixes twitching/stuttering when sprinting in first person.
 - Fixed stuttering when changing weapons.
 - Fixes mine explosions being too quick.
 - Fixes an issue, where companions and other NPCs can steal your kill and you get no XP for it.
 - Fixes an issue with NPCs taking too long to blink.
 - Fixes the mantling animation.
 - Fixes a bug in third person where the player's head is permanently stuck facing the left or right after jumping while sprinting.
+</details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFpq.png)Reshade included.
+![](https://s11.gifyu.com/images/SgFpq.png)
+
+## Features
+
+> The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade Starfield has never looked better. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** **systems only).**
+>
+> You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems to help you gain some performance**).
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- &#x20;Reshade included.
 - Reshade Preset.
 - Constellation Tweaks Performance Boost.
 - 10+ Animated Main Menu Screens.
@@ -500,13 +516,9 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Ambient fx like fog, dust, wisps, auras, smoke etc
 - Water visuals.
 - Prop fx like electric arcs, force fields, animated bits, etc\\
-
-You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** **systems only)**
+</details>
 
 - ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add the 4k Collection on top of this Collection make sure to disable the optional 2k Textures included in this Collection.
-
-You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems to help you gain some performance**)
-
 - ⛔**NOTE** Our 1k and 4k Collections are **NOT** Compatible with each other for obvious Reasons.
 
 ***
@@ -519,11 +531,18 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ### Features
 
-> This mod was made especially for my collection users. Amazing community animated wallpapers i have upscaled to 4k 60Fps. You can choose from up to 8 diffrent Main Menu Screens.
+> This mod was made especially for my collection users. Amazing community animated wallpapers i have upscaled to 4k 60Fps. You can choose from up to 8 different Main Menu Screens.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFpm.png)Reduced the sound players produce when they are out of the line of sight.
+![](https://s11.gifyu.com/images/SgFpm.png)
+
+## Features
+
+> The collection comes with many improvements and adjustments to the core gameplay of Starfield. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Reduced the sound players produce when they are out of the line of sight.
 - Reduced the sound of footsteps.
 - Reduced the time it takes to refill your CO2.
 - Reduced the cost of Melee stamina by 25%.
@@ -534,15 +553,28 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increased the duration of food, drink, and chem items by x2.
 - Increases the rate of Legendary drops for all difficulties.
 - Increases the combat slide distance. Multiple versions to choose from.
+- Increased credits by 115% on average
+- Increased credits by 100% for Trade Authority and Vladimir Sall (always applies)
+- Increased ammo/ship repair kit/Grenades/Mines by 100%
+- Increased upgraded weapons on specific weapon vendors by 100%
+- Increased medical supplies by 50%, and 100% for some specific medical supply vendors
 - You can now "Hold To Equip" for food, books, and ingredients.
 - You can now tweak how fast you can climb on ladders and other objects (mantle) to your preference.
 - You can now Tactical Sprint similar to Call of Duty.
 - You can now disable aim assist on a controller.
 - Removes the first-person stagger animation after being hit with a melee attack or an explosion. Prevents your character from being frozen in place.
+</details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFpI.png)Skip the intro.
+![](https://s11.gifyu.com/images/SgFpI.png)
+
+## Features
+
+> The collection comes with many quality-of-life improvements from the small things that annoy you to the entire user interface of Starfield.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Skip the intro.
 - PS5 Controller Support. Playstations Icons Instead of Xbox.
 - Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
 - Swaps the helmet torch light out for a different clearer version.
@@ -555,9 +587,15 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increased the distance at which objects can be scanned.
 - Increased the speed of Air Lock Animations. It comes with various speed multipliers for you to choose from.
 - Increased the speed of Furniture animations. It comes with various speed multipliers for you to choose from.
+</details>
 
-## UI Improvements Include
+### **UI Improvements**
 
+## Features
+
+> Many different improvements to the UI click below to see all the changes.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Smaller and moved **Location Text** and **XP Indicator**.
 - Add a small icon in front of lootable items in the world and inventory, so it's easier to see what is what It also helps with inventory management.
 - The player's health bar dynamically changes color at 75%, 50%, and 25%.
@@ -570,6 +608,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increased the viewable ship component items by 33%.
 - Increased the viewable mission menu so more items can be seen at once by 50%.
 - Increased the viewable crew menu so more items can be seen at once by 50%.
+</details>
 
 ***
 
@@ -583,7 +622,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 >
 > **StarUI HUD** gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolour or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
 >
-> \*\*StarUI Workbench \*\*improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, Quality-of-Life features and more!
+> **StarUI Workbench** improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, Quality-of-Life features and more!
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 ## [StarUI Inventory](https://)
@@ -685,7 +724,8 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFph.png)Prevents achievements from being disabled with mods or when using the console.
+![](https://s11.gifyu.com/images/SgFph.png)\
+Prevents achievements from being disabled with mods or when using the console.
 
 ***
 
@@ -788,20 +828,31 @@ This is a list of the types of cheats you can use.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFp7.png)Guns will now leave behind more than the vanilla 10-shell casings.
+## ![](https://s11.gifyu.com/images/SgFp7.png)Features
+
+> Many immersive features added to the game. From NPC engagement to many new world features.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Guns will now leave behind more than the vanilla 10-shell casings.
 - Reduced the density of medium-populated planets by about 15%.
 - Reduced the density of low-populated planets by about 60%.
 - Reduced the possible distance between spawned objects/NPCs.
-- NPCs will always drop their equipped armour.
+- NPCs will always drop their equipped armor.
 - NPCs will stay angry at you for 7 days instead of 3 after committing a crime.
 - Followers will stay closer to you.
 - Bullet hole impacts are now much more realistic.
 - Gravity now affects inventory/carry weight.
 - Increased the density of highly populated planets by about 25%.
+</details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFpv.png)Friendly fire is enabled among allied NPCs.
+## ![](https://s11.gifyu.com/images/SgFpv.png)Features
+
+> The collection comes with many buffs and nerfs to combat and weapons to balance the game.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Friendly fire is enabled among allied NPCs.
 - Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
 - Removes the tint, dirt, and glare from all reflex sights, making it easier to see your target.
 - Blocking now reduces incoming melee damage by 90% (vanilla: 50%)
@@ -818,6 +869,7 @@ This is a list of the types of cheats you can use.
 - Increased weapon reload speed by 25%.
 - Increased the speed of equipping weapons. It comes with various speed multipliers for you to choose from.
 - Increased the firing speed of the micro gun.
+</details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -829,7 +881,9 @@ This is a list of the types of cheats you can use.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgFpd.png)Increased the maximum number of ships you can own x5.
+![](https://s11.gifyu.com/images/SgFpd.png)
+
+- Increased the maximum number of ships you can own x5.
 - Increased the speed of Ship Landing Animations. It comes with various speed multipliers for you to choose from.
 - Increased the Distance at which you can transfer items from Player to Ship.
 - Select your ship's available power systems with Quick-Keys 1 -> 6. Swap between multiple preconfigured power presets.
@@ -909,14 +963,22 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-- ![](https://s11.gifyu.com/images/SgOIh.png)SFSE plugin that turns Quick Saves into normal Saves.
+![](https://s11.gifyu.com/images/SgOIh.png)
+
+## Features
+
+> We use a few tools in the collection to ensure that the collection is easy to use and user friendly.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- SFSE plugin that turns Quick Saves into normal Saves.
 - SFSE plugin adds a small delay when using the QuitGame function so that the "Bye." text is visible.
 - SFSE plugin that prevents achievements from being disabled with mods or when using the console.
 - SFSE plugin restores Plugins.txt functionality as in previous BGS games.
-- KiLoader plugin that allows loose file loading from the games root folder and more.
+- KiLoader plugin that allows loose file loading from the game's root folder and more.
 - CCR Console Command Runner.
 - Custom Constellation Collection Loader.
 - Bethini Pie (Performance INI Editor).
+</details>
 
 ***
 
@@ -989,7 +1051,8 @@ Install guide for our Constellation Star Wars Collection.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-- ![](https://s11.gifyu.com/images/SgdAn.png)[Constellation Tweaks Performance Boost](https://www.nexusmods.com/starfield/mods/2624/?tab=description). Will improve performance on most systems. When in-game go to "Settings" and on the "Display" tab change the "Graphics Preset" to "High".
+![](https://s11.gifyu.com/images/SgdAn.png)\
+[Constellation Tweaks Performance Boost](https://www.nexusmods.com/starfield/mods/2624/?tab=description). Will improve performance on most systems. When in-game go to "Settings" and on the "Display" tab change the "Graphics Preset" to "High".
 
 <details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
 ## High-End Settings
@@ -1020,7 +1083,10 @@ Recommended In-game settings These settings will give a big increase to performa
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-- ![](https://s11.gifyu.com/images/SgdAW.png)VRAM> 8GB
+![](https://s11.gifyu.com/images/SgdAW.png)&#x20;
+
+<details><summary>CLICK FOR SYSTEM REQUIREMENTS</summary>
+- &#x20;VRAM> 8GB
 - GPU>**(see below)**
 - 1080p> RTX 3060 or RX 6700 XT
 - 1440p> RTX 3080 or RX 6800 XT
@@ -1028,6 +1094,7 @@ Recommended In-game settings These settings will give a big increase to performa
 - CPU> R5 3600x or i5 10600K
 - STORAGE> 3GB
 - STORAGE TYPE> SSD
+</details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
