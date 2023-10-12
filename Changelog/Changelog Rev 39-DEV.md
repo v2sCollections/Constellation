@@ -8,6 +8,7 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU HAVE DONE SO
 
 - Fixed Discord Rich Presence not being set as optional.
+- We have overhauled the entire description on Nexus. This will make it easier to read and for you to find information much quicker.
 
 ## UPDATED
 
