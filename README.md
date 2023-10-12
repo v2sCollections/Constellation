@@ -49,7 +49,7 @@ This collection is extensively tested with every new version that is released. I
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-<!---->
+\<!---->
 
 - ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
 - Custom Collection Loader.
@@ -282,7 +282,7 @@ NOTE Only use the "Quality" setting as other settings may increase the risk of t
 - Keybinds You will find the key bind list on our Discord Or here [Keybinds](https://github.com/2077v2/Constellation/blob/main/Keybinds.md)
 
 <details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
-![](https://s11.gifyu.com/images/SgafS.png)These are setup for a full-size KB.
+![](https://s11.gifyu.com/images/SgafS.png)These are set up for a full-size KB.
 
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)RESHADE
 
@@ -427,9 +427,7 @@ The mod we use to enable Achievements while playing the modded version of the ga
 **5**) Make sure **Steam** is always open before you launch the game from **Vortex**
 </details>
 
-### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)[⛔WARNINGS⛔](https://)
-
-⛔ It Is important that you read the following guide to fully understand everything clearly.
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)⛔ It Is important that you read the following guide to fully understand everything clearly.
 
 You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
@@ -477,7 +475,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 > You can use our 1k add-on graphics Pack [HERE](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) (**This is for low-end systems to help you gain some performance**).
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- &#x20;Reshade included.
+- Reshade included.
 - Reshade Preset.
 - Constellation Tweaks Performance Boost.
 - 10+ Animated Main Menu Screens.
@@ -486,7 +484,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Cropped and upscaled loading screens for ultrawide monitors
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
 
-## Removes the vignette from the following
+### Removes the vignette from the following
 
 - Quick (favorites) menu.
 - Galaxy map.
@@ -494,7 +492,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Pause menu.
 - Data menu open/close animation.
 
-## Upscaled Textures
+### Upscaled Textures
 
 - Eyes.
 - Eyebrows.
@@ -504,7 +502,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Advertisements, Signage, Flags, Murals and Vending Machines.
 - All NPCs (This is a work in progress)
 
-## Custom Textures
+### Custom Textures
 
 - Eyes.
 - Bullet Holes.
@@ -549,20 +547,26 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Reduced the distance at which NPCs will talk to you.
 - Reduced the distance at which NPCs will stare at you.
 - Increased the travel distance of the horizontal boost.
-- Increased the healing of all food items by x5
-- Increased the duration of food, drink, and chem items by x2.
-- Increases the rate of Legendary drops for all difficulties.
-- Increases the combat slide distance. Multiple versions to choose from.
-- Increased credits by 115% on average
-- Increased credits by 100% for Trade Authority and Vladimir Sall (always applies)
-- Increased ammo/ship repair kit/Grenades/Mines by 100%
-- Increased upgraded weapons on specific weapon vendors by 100%
-- Increased medical supplies by 50%, and 100% for some specific medical supply vendors
-- You can now "Hold To Equip" for food, books, and ingredients.
 - You can now tweak how fast you can climb on ladders and other objects (mantle) to your preference.
 - You can now Tactical Sprint similar to Call of Duty.
 - You can now disable aim assist on a controller.
-- Removes the first-person stagger animation after being hit with a melee attack or an explosion. Prevents your character from being frozen in place.
+
+### Quests
+
+- Credit amounts from most sources are now boosted by about 25%-70% (e.g., generic early-game humanoid credit drops are increased on average by 50 credits).
+- Credit rewards are no longer strongly tied to player level, although the player level still influences the amount.
+
+### Loot
+
+- Increased the healing of all food items by x5
+- Increased the duration of food, drink, and chem items by x2.
+- Increases the rate of Legendary drops for all difficulties.
+- Increased ammo/ship repair kit/Grenades/Mines by 100%
+- Increased medical supplies by 50%, and 100% for some specific medical supply vendors
+- You can now "Hold To Equip" for food, books, and ingredients.
+- Increased credits by 115% on average from vendors.
+- Increased credits by 100% for Trade Authority and Vladimir Sall (always applies)
+- Increased upgraded weapons on specific weapon vendors by 100%
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -575,8 +579,6 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Skip the intro.
-- PS5 Controller Support. Playstations Icons Instead of Xbox.
-- Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
 - Swaps the helmet torch light out for a different clearer version.
 - Jetpacks now work with pressing and holding buttons, instead of being single press.
 - Better FOV when in dialogue.
@@ -608,6 +610,8 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increased the viewable ship component items by 33%.
 - Increased the viewable mission menu so more items can be seen at once by 50%.
 - Increased the viewable crew menu so more items can be seen at once by 50%.
+- PS5 Controller Support. Playstations Icons Instead of Xbox.
+- Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
 </details>
 
 ***
@@ -852,23 +856,30 @@ This is a list of the types of cheats you can use.
 > The collection comes with many buffs and nerfs to combat and weapons to balance the game.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
+### Weapons
+
 - Friendly fire is enabled among allied NPCs.
 - Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
 - Removes the tint, dirt, and glare from all reflex sights, making it easier to see your target.
+- Reduced multiplier for how much light affects stealth.
+- Increased weapon reload speed by 25%.
+- Increased the speed of equipping weapons. It comes with various speed multipliers for you to choose from.
+- Increased the firing speed of the micro gun.
+
+### Combat
+
+- Removes the first-person stagger animation after being hit with a melee attack or an explosion. Prevents your character from being frozen in place.
 - Blocking now reduces incoming melee damage by 90% (vanilla: 50%)
 - Blocking now damages oxygen for 15% of the dealt damage + 5
 - Blocking while your CO2 bar is full (= red oxygen bar) will damage your health
 - NPCs are more inclined to shoot their weapons.
 - NPCs fire from cover and change their positions more frequently.
 - NPCs accuracy gets a slight but noticeable upgrade.
-- Reduced multiplier for how much light affects stealth.
 - Reduced stealth penalty for running.
 - Reduced NPC reaction and idle times.
 - Reduced detection of sleeping NPCs.
 - Reduced enemy detection in exteriors slightly.
-- Increased weapon reload speed by 25%.
-- Increased the speed of equipping weapons. It comes with various speed multipliers for you to choose from.
-- Increased the firing speed of the micro gun.
+- Increases the combat slide distance. Multiple versions to choose from.
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -883,82 +894,104 @@ This is a list of the types of cheats you can use.
 
 ![](https://s11.gifyu.com/images/SgFpd.png)
 
-- Increased the maximum number of ships you can own x5.
+## Features
+
+> A few new additions to ship building, pilioting and other ship parameters.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Increased the speed of Ship Landing Animations. It comes with various speed multipliers for you to choose from.
 - Increased the Distance at which you can transfer items from Player to Ship.
-- Select your ship's available power systems with Quick-Keys 1 -> 6. Swap between multiple preconfigured power presets.
+- You increase the number of custom landing sites you can have saved simultaneously, increasing it from the vanilla 3 sites.
 
-<details><summary>CLICK FOR POWER SYSTEM KEY BINDS</summary>
-**OVERVIEW**\
-Select your ship's available power systems with Quick-Keys 1 -> 6.
-
-Easily swap between Balanced, Combat, Escape, and Stealth power presets.
-Doesn't require any external scripts or hotkey software.\
-\
-**KEYBINDS**\
-This mod utilizes whatever in-game Quick-Key keybinds you have set up.\
-\
-**Power Systems**
-
-- Quick-Key 1 = Select Weapon 1
-- Quick-Key 2 = Select Weapon 2
-- Quick-Key 3 = Select Weapon 3
-- Quick-Key 4 = Select Engine
-- Quick-Key 5 = Select Shields
-- Quick-Key 6 = Select Grav-Drive
-
-**Power Presets**
-
-- Quick-Key 9 = Balanced Power Preset
-- Quick-Key 10 = Combat Power Preset
-- Quick-Key 11 = Escape Power Preset
-- Quick-Key 12 = Stealth Power Preset
-
-**Balanced Power Preset**
-
-- Balances available power across all systems, keeping at least 1 power in Grav-Drive
-
-**Combat Power Preset**
-
-- Prioritizes power in individual weapon systems, tap the Quick-Key to switch which weapon is prioritized.
-- The remaining power is balanced across all systems, keeping at least 1 power in Grav-Drive.
-
-**Escape Power Preset**
-
-- Prioritizes power in Grav-Drive, Shields, and Engines, in that order.
-- The remaining power is balanced across Weapons.
-
-**Stealth Power Preset**
-
-- Powers down all systems keeping a single point in Engines.
-</details>
+### Ship Building
 
 - A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance, and more floors.
+- Increases the overlap tolerance in the ship-builder, allowing for more tight and varied builds with slightly overlapping modules.
+- Increased the maximum number of ships you can own x5.
+</details>
 
 <details><summary>cLICK FOR CONSOLE COMMANDS</summary>
 ### Ship Builder Tweaks
 
 - To apply the tweaks, run "bat builderTweak"
 - To uninstall the mod / revert the settings, simply run "bat builderReset"
-</details>
 
-- Increases the overlap tolerance in the ship-builder, allowing for more tight and varied builds with slightly overlapping modules.
-
-<details><summary>CLICK FOR CONSOLE COMMANDS</summary>
 ### Ship Builder Tolerance Tweaks
 
 - To increase the tolerance run "bat toleranceBig", or "bat toleranceHuge" (Huge basically disables any overlapping checks, letting you build some cursed things)
 - To uninstall the mod / revert the settings, simply run "bat toleranceReset"
-</details>
 
-- You increase the number of custom landing sites you can have saved simultaneously, increasing it from the vanilla 3 sites.
-
-<details><summary>CLICK FOR CONSOLE COMMANDS</summary>
 ### More Custom Landing Sites
 
 - Now run "bat lz5", to set the amount of maximum custom landing zones to 5
 - The mod offers the following options: 3 (Vanilla), 5, 7, 9, 11, 13, 15, 20, 30, 50
 - Simply run "bat lzX" to use any of those
+</details>
+
+***
+
+## Ship Power Control Tweaks
+
+![](https://s6.gifyu.com/images/S6Ql1.jpg)[Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820) by [Stentorious](https://www.nexusmods.com/starfield/users/13373850)
+
+## Features
+
+> Easily swap between Balanced, Combat, Escape, and Stealth power presets. Select your ship's available power systems with Quick-Keys 1 -> 6. Fixes some vanilla bugs with crew power bonus calculations.
+
+<details><summary>CLICK FOR POWER SYSTEM KEY BINDS</summary>
+### **KEYBINDS**
+
+\
+This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
+
+### Power Systems
+
+- Quick-Key 1 = Select Weapon 1
+- Quick-Key 2 = Select Weapon 2
+- Quick-Key 3 = Select Weapon 3
+- Quick-Key 4 = Select Engine
+- Quick-Key 5 = Select Shields
+- Quick-Key 6 = Select Grav-Drive\\
+
+### Power Presets
+
+- Quick-Key 7 = Combat Power Preset (Standard)
+- Quick-Key 8 = Combat Power Preset (Alt)
+- Quick-Key 9 = Combat Power Preset (Split)
+- Quick-Key 10 = Balanced Power Preset
+- Quick-Key 11 = Escape Power Preset
+- Quick-Key 12 = Stealth Power Preset
+
+### Combat Power Preset (Standard)
+
+- Prioritizes power in an individual weapon system, tap Quick-Key 7 to switch which weapon is prioritized.
+- The remaining power is balanced across all remaining systems.
+- Keeps at least 1 power in Grav-Drive.
+
+### Combat Power Preset (Alt)
+
+- Prioritizes power in an individual weapon system, tap Quick-Key 8 to switch which weapon is prioritized.
+- Prioritizes remaining power in Shields, Engines, and remaining weapons in that order.
+- Keeps at least 1 power in Grav-Drive.
+
+### Combat Power Preset (Spilt)
+
+- Prioritizes power in 2 weapon systems, tap Quick-Key 9 to switch which 2 weapons are prioritized.
+- Prioritizes remaining power in Shields, Engines, and remaining weapon in that order.
+- Keeps at least 1 power in Grav-Drive.
+
+### Balanced Power Preset
+
+- Balances available power across all systems, keeping at least 1 power in Grav-Drive
+
+### Escape Power Preset
+
+- Prioritizes power in Grav-Drive, Shields, and Engines, in that order.
+- The remaining power is balanced across Weapons.
+
+### Stealth Power Preset
+
+- Powers down all systems keeping a single point in Engines.
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -973,7 +1006,6 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\
 - SFSE plugin that turns Quick Saves into normal Saves.
 - SFSE plugin adds a small delay when using the QuitGame function so that the "Bye." text is visible.
 - SFSE plugin that prevents achievements from being disabled with mods or when using the console.
-- SFSE plugin restores Plugins.txt functionality as in previous BGS games.
 - KiLoader plugin that allows loose file loading from the game's root folder and more.
 - CCR Console Command Runner.
 - Custom Constellation Collection Loader.
