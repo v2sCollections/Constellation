@@ -7,10 +7,11 @@
 MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU HAVE DONE SO
 
+- We have overhauled the entire description on Nexus. This will make it easier to read and for you to find information much quicker.
+
 ## UPDATED
 
 - [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)
-- [
 
 ## REMOVED
 

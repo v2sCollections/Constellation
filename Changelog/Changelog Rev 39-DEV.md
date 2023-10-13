@@ -9,6 +9,7 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU
 
 - Fixed Discord Rich Presence not being set as optional.
 - We have overhauled the entire description on Nexus. This will make it easier to read and for you to find information much quicker.
+- We have now added hotkey support we are now able to run any command from a single hotkey.
 
 ## UPDATED
 
@@ -21,6 +22,10 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU
 - [No Data Menu Flicker](https://www.nexusmods.com/starfield/mods/1425)
 - [No Digipick Menu Background](https://www.nexusmods.com/starfield/mods/3744)
 - [No Galaxy Map Vignette](https://www.nexusmods.com/starfield/mods/1268)
+- [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820)
+- [Sprint Stuttering Fix](https://www.nexusmods.com/starfield/mods/884?tab=description)
+- [EXE - Effect Textures Enhanced](https://www.nexusmods.com/starfield/mods/5179?tab=description)
+- [
 
 ## REMOVED
 
@@ -32,6 +37,8 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU
 - [Streamline Native (Frame Gen - DLSS - Reflex Integration)](https://www.nexusmods.com/starfield/mods/2751?tab=description)
 - [Vendor Overhaul](https://www.nexusmods.com/starfield/mods/5179?tab=description)
 - [Loot Overhaul](https://www.nexusmods.com/starfield/mods/5181?tab=description)
+- [Andreja Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/5216?tab=description)
+- [Call Your Ship](https://www.nexusmods.com/starfield/mods/4923?tab=description)
 
 ## BUGS
 
