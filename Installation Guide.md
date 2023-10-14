@@ -2,21 +2,18 @@
 
 # Contents:
 1) [Make a Backup Save](#make-a-backup-save)
-2) [Make a Backup of your Game Files](#make-a-backup-of-your-game-files)
-3) [WARNINGS](#warnings)
-4) [Updating Collection](#updating-the-collection)
-5) [Launching Starfield](#launching-starfield)
-6) [Install Time](#install-time)
-7) [PC Updates](#pc-Updates)
-8) [Starfield](#starfield)
-9) [Vortex](#vortex)
-10) [Vortex and Starfield](#vortex-and-starfield)
-11) [Installing the collection](#installing-the-collection)
-12) [ENABLING MODDING](#enabling-modding)
-13) [Optional Mods](#optional-mods)
-14) [Reshade](#reshade)
-14) [DLSS + Frame Generation](#dlss-+-frame-generation)
-15) [In game settings](#in-game-settings)
+2) [Updating Collection](#updating-the-collection)
+3) [Launching Starfield](#launching-starfield)
+4) [Install Time](#install-time)
+5) [PC Updates](#pc-Updates)
+6) [Starfield](#starfield)
+7) [Vortex](#vortex)
+8) [Vortex and Starfield](#vortex-and-starfield)
+9) [Installing the collection](#installing-the-collection)
+10) [ENABLING MODDING](#enabling-modding)
+11) [Optional Mods](#optional-mods)
+12) [Reshade](#reshade)
+13) [DLSS + Frame Generation](#dlss-+-frame-generation)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
 
@@ -28,24 +25,21 @@
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
 
-## Make a Backup of your Game Files
-
-- If you would like to backup your unmodded game files you can use my tool [HERE](https://www.nexusmods.com/starfield/mods/1064). Note you will need an extra 120gb of space on the drive where Starfield is installed.
-
-## ⛔WARNINGS
-
-If you see this> ⛔ then you need to read and follow the directions.
-
-- ⛔It Is important that you read the following guide to fully understand everything clearly.
-- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
-
 ## Updating Collection
 
-- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
-- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
-- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
-- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Notes will be in the changelog.
+**1**) Create a new Profile in Vortex and enable it.
+
+**2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/npk3lv?tab=about&utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
+
+**3**) When prompted to select which profile to install to, select the new profile you created in Step 1
+
+**4**) Once the update is downloaded you can remove the old profile.
+
+**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+
+**DO NOT** update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+
+Notes will be in the changelog.
 
 ## Launching Starfield
 
@@ -202,49 +196,6 @@ steamapps\common\Starfield\Data\SFSE\Plugins\nv-streamline
 ![](https://s11.gifyu.com/images/S4ITQ.jpg)**7**) Once in the game you will see all the new options added to the Display Settings Menu.
 
 NOTE Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
-</details>
-
-***
-
-## In-game settings
-
-- To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods.
-
-<details><summary>CLICK FOR A FULL LIST OF CONSOLE COMMANDS</summary>
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
-
-- To apply the tweaks, run **"bat builderTweak"**
-- To uninstall the mod / revert the settings, simply run **"bat builderReset"**
-
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tolerance Tweaks
-
-- To increase the tolerance run **"bat toleranceBig"**, or **"bat toleranceHuge"** (Huge basically disables any overlapping checks, letting you build some cursed things)
-- To uninstall the mod / revert the settings, simply run **"bat toleranceReset"**
-
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)In-Game FOV Changer
-
-- For First Person FOV: Run **"bat fpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat fpp95")
-- For Third Person FOV: Run **"bat tpp100"** to set the FOV to 100, or any other number between 70-120, in steps of 5 (e.g. "bat tpp95")
-- To uninstall the mod / revert the settings, simply set FPP to 85 and TPP to 70 (Those are the vanilla values)
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-</details>
-
-- Keybinds You will find the key bind list on our Discord Or here [Keybinds](https://github.com/2077v2/Constellation/blob/main/Keybinds.md)
-
-<details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
-![](https://s11.gifyu.com/images/SgafS.png)These are setup for a full-size KB.
-
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)RESHADE
-
-- HOME>  UI
-- END> Toggle Reshade
-
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONSOLE
-
-- \~> Console
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 ***
