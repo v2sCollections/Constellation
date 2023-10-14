@@ -3,24 +3,28 @@
 ![img](https://s11.gifyu.com/images/SgafS.png)
 
 
-These are setup for a full size KB.
+These are setup for a full-size KB.
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ### RESHADE
 
 - HOME =  UI
 - END = Toggle Reshade
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ### CONSOLE
 
 - ~ = Console
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-### Ship Controls
+### CALL YOUR SHIP
+
+- F1 = will place the landing zone as soon as the ship returns from space.
+- F2 = will place the landing zone as you call it
+- F3 = will do as command F1 and also check if the surface is flatter enough, or refuse to land there because it's not safe enough
+
+
+### SHIP CONTROLS
 
 OVERVIEW
 - Select your ship's available power systems with Quick-Keys 1 -> 6.
@@ -37,11 +41,12 @@ Power Systems
 - Quick-Key 5 = Select Shields 
 - Quick-Key 6 = Select Grav-Drive
 
-Power Presets
-- Quick-Key 9 = Balanced Power Preset 
-- Quick-Key 10 = Combat Power Preset 
-- Quick-Key 11 = Escape Power Preset 
-- Quick-Key 12 = Stealth Power Preset 
+- Quick-Key 7 = Combat Power Preset (Standard)
+- Quick-Key 8 = Combat Power Preset (Alt)
+- Quick-Key 9 = Combat Power Preset (Split)
+- Quick-Key 10 = Balanced Power Preset
+- Quick-Key 11 = Escape Power Preset
+- Quick-Key 12 = Stealth Power Preset
 
 For more information see>[Ship Power Control Tweaks (KBM)](https://github.com/2077v2/Constellation/blob/main/Guides.md#gameplay)
 
