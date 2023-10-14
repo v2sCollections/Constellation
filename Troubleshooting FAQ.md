@@ -53,13 +53,17 @@ Known Causes of Crashes on Startup
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-The mod we use to enable Achievements while playing the modded version of the game is called [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658?tab=description). This mod can sometimes stop working for some users. Below are some things you can try to fix this issue.
+The mod we use to enable Achievements while playing the modded version of the game is called **Baka Achievement Enabler (SFSE)**. This mod can sometimes stop working for some users. Below is a guide to fix this issue.
 
-**1**) Find the mod in **Vortex** right click the Mod and Select "Reinstall".
+**1**) Uninstall **SFSE** (Removed archive as well with Vortex)
 
-**2**) Make sure **Steam** is always open before you launch the game from **Vortex**
+**2**) Uninstall **Baka AE** (Removed archive as well with Vortex)
 
-**3**) If all else fails Reinstall the Mod manually.
+**3**) Install [Baka AE](https://www.nexusmods.com/starfield/mods/658?tab=description)
+
+**4**) Install [SFSE](https://www.nexusmods.com/starfield/mods/106)
+
+**5**) Make sure **Steam** is always open before you launch the game from **Vortex**
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -171,7 +175,7 @@ DRIVE:\SteamLibrary\steamapps\common\Starfield
 
 **1**) Create a new Profile in Vortex and enable it.
 
-**2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
+**2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/npk3lv?tab=about&utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
 
 **3**) When prompted to select which profile to install to, select the new profile you created in Step 1
 
@@ -232,6 +236,55 @@ Sometimes you need to relink **Vortex** to a tool.
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 </details>
+
+
+<details>
+<summary>Vortex is giving me a Pop-Up error</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Vortex can sometimes give errors. These can most of the time be fixed with the following methods.
+
+- Restarting Vortex.
+- Restarting your PC
+- Logging out of Vortex and Nexus and signing back in.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>Vortex is giving me a pop up that says error 403 ect</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Vortex and Nexus can throw errors sometimes to fix this.
+
+- Log out of Vortex
+- Log out of Nexus
+
+And then log back in
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
+<summary>In Vortex it says 'Incompatible mods enabled'</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+This is because you have enabled 2 conflicting Texture Mods.
+
+All you have to do is disable the variant of the texture you don't want either 2k or 4k.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
 
 
 
