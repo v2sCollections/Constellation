@@ -169,21 +169,19 @@ DRIVE:\SteamLibrary\steamapps\common\Starfield
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-:no_entry:Updating the collection is as easy as clicking the "Update" button in Vortex. When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
+**1**) Create a new Profile in Vortex and enable it.
 
-:no_entry:DO NOT update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+**2**) Go to the [Collection](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
+
+**3**) When prompted to select which profile to install to, select the new profile you created in Step 1
+
+**4**) Once the update is downloaded you can remove the old profile.
+
+**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+
+**DO NOT** update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 
 Notes will be in the changelog.
-
-Updating
-
-**1**) In Vortex select "Collections"
-
-**2**) You will see an "Update" button select this.
-
-![img](https://s11.gifyu.com/images/SgXNN.jpg)
-
-**3)** When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -319,6 +317,8 @@ Install guide for our [1K Graphics Collection](https://next.nexusmods.com/starfi
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 [Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631) is a universal tool to make editing INI configuration files simple via a graphical user interface.
+
+**NOTE** This is **(OPTIONAL)** and for advanced users only.
 
 Check out the Bethini Pie Forum [HERE](https://stepmodifications.org/forum/forum/200-bethini-support/)
 
