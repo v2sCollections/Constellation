@@ -24,8 +24,6 @@
 
 - [HOGWARTS LEGACY:THE GOBLET by v2](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
 - [THE GOBLET Wand Pack by v2](https://next.nexusmods.com/hogwartslegacy/collections/pugmsr?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
-- [THE GOBLET Dark Lord Pack by v2](https://next.nexusmods.com/hogwartslegacy/collections/hvfqn4?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
-- [THE GOBLET Anime Pack by v2](https://next.nexusmods.com/hogwartslegacy/collections/cxwm73?utm_source=copy&utm_medium=social&utm_campaign=share_collection)
 
 ### Elden Ring
 
