@@ -1,8 +1,8 @@
-### Updated & Compatible With the latest 1.7.33 Version of Starfield on Steam.
+### Updated & Compatible With the latest 1.7.36 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 5
+### Collection Rev 8
 
 ![](https://s6.gifyu.com/images/S4ATa.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
 
@@ -22,21 +22,25 @@ This collection is extensively tested with every new version that is released. I
 
 ![](https://s6.gifyu.com/images/S4OEU.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-- ![](https://s11.gifyu.com/images/SgdA0.png)The most exstensive Star Wars mod collection on Nexus for Starfield.
+![](https://s11.gifyu.com/images/SgdA0.png)
+
+[![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
+
+[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/xZNztPjA2u)
+
+- These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
+- The most exstensive Star Wars mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only- [2](https://)GB in download size for [45](https://)+ Mods.
+- Only- [2](https://)GB in download size for [50](https://)+ Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
-- [Youtube Channel](https://www.youtube.com/@Constellation-2077)-with Guides and Videos.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-![](]https://i.imgur.com/VeCI8dy.png)[![](https://s11.gifyu.com/images/S4CqN.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. Join us over on our [Discord Server](https://discord.gg/xZNztPjA2u) where we help fellow players every day.
-
-[![](https://s11.gifyu.com/images/S4Cmy.png)](https://www.youtube.com/@Constellation-2077)Follow us on [YouTube](https://www.youtube.com/@Constellation-2077) for guides and videos.
+\<!---->
 
 - ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
 - Custom Collection Loader.
@@ -52,13 +56,6 @@ This collection is extensively tested with every new version that is released. I
 ```
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
-
-## ⛔[WARNINGS](https://)⛔
-
-If you see this> ⛔ then you need to read and follow the directions.
-
-- ⛔It Is important that you read the following guide to fully understand everything clearly.
-- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -200,7 +197,17 @@ If you would like to change the preset you chose follow the guide below.
 
 **3**) This will allow you to choose your Presets again.
 
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)[The Tools in Vortex are missing❓](https://)
+
+Sometimes you need to relink Vortex to a tool.
+
+**1**) Go to the "dashboard" tab in Vortex.
+
+**2**) Scroll down until you see "tools".
+
+**3**) Click the 3 dots next to the tool you need to relink ie Reshade. and select "edit"
+
+**4**) Now select "target" and browse to where you have the tool installed this will be in the main Starfield directory.
 </details>
 
 ### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)[⛔WARNINGS⛔](https://)
@@ -223,24 +230,34 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [Galactic Empire Flag](https://www.nexusmods.com/starfield/mods/2102)
 - [Coruscant (WIP)](https://www.nexusmods.com/starfield/mods/3461?tab=description)
 - [Constellation Menu Backgrounds (Star Wars Edition)](https://www.nexusmods.com/starfield/mods/4801)
+- [Star Wars Credits. (Only Credits)](https://www.nexusmods.com/starfield/mods/5023)
+- [Astromech mini bots](https://www.nexusmods.com/starfield/mods/5056?tab=description)
+- [UC to Galactic Empire](https://www.nexusmods.com/starfield/mods/2779?tab=description)
 
 ### Outfits/Armour
 
 - [Galactic Civil War Conversion](https://www.nexusmods.com/starfield/mods/1659?tab=description)
 - [The Mandalorian - Boba Fett - Jango Fett ( STAR WARS Starborn Retextures and Mantis Replacer )](https://www.nexusmods.com/starfield/mods/2848?tab=description)&#x20;
 - [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)&#x20;
+- [The Imperial Navy 2.1 - A SysDef Star Wars-Inspired Retexture](https://www.nexusmods.com/starfield/mods/4902?tab=description)
 
 ### Body Mods
 
 - [GET the Chiss Race](https://www.nexusmods.com/starfield/mods/2547?tab=description)
 - [Play As A ZABRAK in STARFIELD with MORE Sith Eyes](https://www.nexusmods.com/starfield/mods/2564?tab=description)
 
+### Weapons
+
+- [Boba Fett's Blaster Rifle (Classic EE-3)](https://www.nexusmods.com/starfield/mods/5012?tab=description)
+- [Mandalorian sniper rifle - (Amban sniper)](https://www.nexusmods.com/starfield/mods/4957?tab=description)
+- [IB-94 Mandalorian gun](https://www.nexusmods.com/starfield/mods/5022?tab=description)
+- [Immersive Lightsabers](https://www.nexusmods.com/starfield/mods/3795?tab=description)
+
 ### Audio Replacers: Other
 
 - [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)&#x20;
 - [Sounds From a Galaxy Far Far Away](https://www.nexusmods.com/starfield/mods/3169)
 - [Starfield Boarding Alarm Sound Replacement Pack](https://www.nexusmods.com/starfield/mods/3549?tab=description)
-- [The Key's Nova Bar musics replacer - Star Wars Themed](https://www.nexusmods.com/starfield/mods/2427?tab=description)
 
 ### Audio Replacers: Dialogue
 
@@ -265,13 +282,23 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [A180 blaster sounds for Eon pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/2932?tab=description)
 - [ELG-3A Blaster (Padme's pistol) Sounds for Novalight (Star Wars)](https://www.nexusmods.com/starfield/mods/4248?tab=description)
 - [LL-30 Blaster (Cad Bane's pistol) Sounds for Magshot Revolver (Star Wars)](https://www.nexusmods.com/starfield/mods/4250?tab=description)
-- [Amban Phase Rifle (Din Djarin's rifle) Sounds for Lawgiver (Star Wars)](https://)
 - [Westar-34 Blaster (Jango Fett's pistol) Sounds for Regulator Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3455?tab=description)
 - [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)&#x20;
 - [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)&#x20;
 - [EE-3 Blaster (Boba Fett's rifle) Sounds for Beowulf Rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4468)
 - [EE-3 Blaster (Boba Fett's rifle) Sounds for Beowulf Rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4468)
+- [DC-15A Blaster (Clone Trooper rifle) Sounds (OG BF2) for Orion laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4918)
+- [DL-44 Blaster (Han Solo's pistol) Sounds for Urban Eagle pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/4864)
+- [LS-150 (Trandoshan Minigun) Sounds for Kodama SMG (Star Wars)](https://www.nexusmods.com/starfield/mods/5256?tab=description)
 </details>
+
+## [CLICK HERE FOR A LIST OF REPLACER DETAILS AND CONSOLE COMMANDS](https://inexpensive-drum-ebe.notion.site/0e6104885aea4f8da166f3e7ae9f8c6e?v=72b3231746764ef9ad99f45df6196ccc\&pvs=4)
+
+Or if you would like to add all the Star Wars Items in the collection to your inventory open the console with the \` key and enter the following.
+
+```
+bat v2_AddAll
+```
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
@@ -281,6 +308,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Replaces some outfits with Star Wars outfits.
 - Replaces the in-game flags around UC with Star Wars-themed flags with many variants to choose from.
 - Replacers the Texture of Jemision to Coruscant seen in the Star Map.
+- Replacers some of the art for the United Colonies turning them into the Galactic Empire.
 
 ***
 
@@ -301,7 +329,9 @@ https://www.youtube.com/watch?v=\_bEHcZlynk8
 - Replaces on-screen messages with messages spoken by Yoda.
 - Replaces music and sounds with ones from our favorite galaxy far far away!
 - Replacers the Boarding alarm with the one from the Death Star.
-- Replace Nova's Metal musics on the Key with various Star Wars Cantina themes.
+- Replaces credits into Star Wars currency.
+- Replacers the minibots in the game to be Astromechs from Star Wars.
+- Replacers the SysDef uniforms to fit a Galactic Empire theme within the UC.
 
 ***
 
@@ -318,6 +348,28 @@ https://www.youtube.com/watch?v=\_bEHcZlynk8
 ![](https://s6.gifyu.com/images/S4AH3.png)
 
 - Replaces firing sounds for 20+ weapons with Star Wars weapon sounds.
+
+### Weapons
+
+- Boba Fett's Blaster Rifle (Classic EE-3) - (Lawgiver).
+- IB-94 Mandalorian gun - (Var'uun pistol)
+- Mandalorian sniper rifle - (Amban sniper).
+- CombaTech Design Lightsaber.
+- Old Earth Design Lightsaber
+
+***
+
+## Immersive Lightsabers
+
+https://www.youtube.com/watch?v=zc-ISjhfcIU
+
+[Immersive Lightsabers](https://www.nexusmods.com/starfield/mods/3795?tab=description) by [somberX](https://www.nexusmods.com/starfield/users/2331608)
+
+### Features
+
+> Replace a selection of melee weapons with lightsaber inspired designs in colors of your choice. With sound effects. Replace any combination of weapon: Wakizashi, Pain Blade, or Rescue Axe. Select any combination of color: Blue, Green, Purple, Red, or Yellow.
+
+![](https://s6.gifyu.com/images/S6qJQ.png)
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)![](https://s6.gifyu.com/images/S638h.png)
 
@@ -359,15 +411,18 @@ https://www.youtube.com/watch?v=\_bEHcZlynk8
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
-![](https://s6.gifyu.com/images/S4AHN.png)
+## ![](https://s6.gifyu.com/images/S4AHN.png)Features
 
-- KiLoader plugin that allows loose file loading from the game's root folder and more.
+> We use a few tools in the collection to ensure that the collection is easy to use and user friendly.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- &#x20;KiLoader plugin that allows loose file loading from the game's root folder and more.
 - Loose Root Data.
 - CCR Console Command Runner.
 - Starfield Script Extender (SFSE).
 - Address Library for SFSE Plugins.
 - Custom Constellation Star Wars Collection Loader.
-- Plugins.txt Enabler.
+</details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -449,6 +504,7 @@ Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
 - ⛔ I will not be responsible for any possibility of save corruption.
 - ⛔ Please don't use a similar name to this collection.
 - ⛔ I do not allow you to copy or clone this collection in any way.
+- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - © 2023 Bethesda Softworks LLC, a ZeniMax Media company. Trademarks belong to their respective owners.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)

@@ -8,6 +8,7 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU HAVE DONE SO
 
 - We have overhauled the entire description on Nexus. This will make it easier to read and for you to find information much quicker.
+- We have added a command for the console to add all star wars replacer items in one go.
 
 ## UPDATED
 
@@ -23,6 +24,8 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL
 - [Astromech mini bots](https://www.nexusmods.com/starfield/mods/5056?tab=description)
 - [Mandalorian sniper rifle - (Amban sniper)](https://www.nexusmods.com/starfield/mods/4957?tab=description)
 - [IB-94 Mandalorian gun](https://www.nexusmods.com/starfield/mods/5022?tab=description)
+- [LS-150 (Trandoshan Minigun) Sounds for Kodama SMG (Star Wars)](https://www.nexusmods.com/starfield/mods/5256?tab=description)
+- [Mandalorian Conversion - Clone Wars Era](https://www.nexusmods.com/starfield/mods/4783?tab=description)
 
 ## BUGS
 

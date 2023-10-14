@@ -4,7 +4,7 @@
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-### Collection Rev 38
+### Collection Rev 40
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -41,7 +41,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most extensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)GB in download size for [100+](https://) Mods.
+- Only-[2.5](https://)Gb in download size for [100+](https://) Mods. Optional Mods add another [2](https://)Gb
 - Mods specifically created for the collection.
 - Setup Video- [HERE](https://youtu.be/4T8pOWYWu5Q?si=27GVbgBmVvDWOdm_)
 - Continuous Support in Comments and on Discord.
@@ -49,7 +49,7 @@ This collection is extensively tested with every new version that is released. I
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-\<!---->
+<!---->
 
 - ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
 - Custom Collection Loader.
@@ -57,6 +57,7 @@ This collection is extensively tested with every new version that is released. I
 - Bethini Pie (Performance INI Editor).
 - DLSS + Frame Generation.
 - Discord Presence Intergration.
+- Hotkey Support.
 - Reshade.
 - Gameplay Mods & Tweaks.
 - Bug Fixes.
@@ -80,17 +81,19 @@ This collection is extensively tested with every new version that is released. I
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
 
-## [Make a Backup of your Game Files](https://) (OPTIONAL)
-
-- If you would like to backup your unmodded game files you can use my tool [HERE](https://www.nexusmods.com/starfield/mods/1064). Note you will need an extra 120gb of space on the drive where Starfield is installed.
-
 ## [Updating Collection](https://)[   ](https://)
 
 - ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Updating the collection is as easy as clicking the **"Update"** button.&#x20;
-- Make sure to update the current profile you are using inside of Vortex. Using one Profile ensures stability for Vortex.&#x20;
-- When prompted to "**Remove mods from old revision**" make sure to click the "**Remove All**" button.
 - Notes will be in the changelog.
+
+### HOW TO UPDATE
+
+- **1**) Create a new Profile in Vortex and enable it.
+- **2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/npk3lv?tab=about\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
+- **4**) Once the update is downloaded you can remove the old profile.
+
+**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
 
 ## [Launching Starfield](https://)
 
@@ -263,7 +266,7 @@ NOTE Only use the "Quality" setting as other settings may increase the risk of t
 
 ## [In-game settings](https://)
 
-- To use the Console window use the ~ key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods.
+- To use the Console window use the **~** key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods.
 
 <details><summary>CLICK FOR A FULL LIST OF CONSOLE COMMANDS</summary>
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
@@ -276,12 +279,18 @@ NOTE Only use the "Quality" setting as other settings may increase the risk of t
 - To increase the tolerance run **"bat toleranceBig"**, or **"bat toleranceHuge"** (Huge basically disables any overlapping checks, letting you build some cursed things)
 - To uninstall the mod / revert the settings, simply run **"bat toleranceReset"**
 
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Constellation Quick Packs
+
+- Ammo Pack=**bat v2\_AmmoPack**
+- Throwables Pack=**bat v2\_ThrowPack**
+- Legendary Weapon Pack=**bat v2\_LegendPack**
+- Epic Weapon Pack=**bat v2\_EpicPack**
+- Rare Weapon Pack=**bat v2\_RarePack**
 </details>
 
-- Keybinds You will find the key bind list on our Discord Or here [Keybinds](https://github.com/2077v2/Constellation/blob/main/Keybinds.md)
+- Keybinds
 
-<details><summary>CLICK FOR A FULL LIST OF KEYBINDS</summary>
+<details><summary>CLICK FOR A FULL LIST OF KEY BINDS</summary>
 ![](https://s11.gifyu.com/images/SgafS.png)These are set up for a full-size KB.
 
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)RESHADE
@@ -293,7 +302,7 @@ NOTE Only use the "Quality" setting as other settings may increase the risk of t
 
 - \~ = Console
 
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Controls
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)SHIP CONTROLS
 
 OVERVIEW
 
@@ -303,7 +312,7 @@ OVERVIEW
 
 KEYBINDS
 
-- This mod utilizes whatever in-game Quick-Key keybinds you have setup.
+- This mod utilizes whatever in-game Quick-Key key binds you have set up.
 
 Power Systems
 
@@ -312,32 +321,22 @@ Power Systems
 - Quick-Key 3 = Select Weapon 3
 - Quick-Key 4 = Select Engine
 - Quick-Key 5 = Select Shields
-- Quick-Key 6 = Select Grav-Drive
+- Quick-Key 6 = Select Grav-Drive\\
 
 Power Presets
 
-- Quick-Key 9 = Balanced Power Preset
-- Quick-Key 10 = Combat Power Preset
+- Quick-Key 7 = Combat Power Preset (Standard)
+- Quick-Key 8 = Combat Power Preset (Alt)
+- Quick-Key 9 = Combat Power Preset (Split)
+- Quick-Key 10 = Balanced Power Preset
 - Quick-Key 11 = Escape Power Preset
 - Quick-Key 12 = Stealth Power Preset
 
-Balanced Power Preset
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CALL YOUR SHIP
 
-- Balances available power across all systems, keeping at least 1 power in Grav-Drive
-
-Combat Power Preset
-
-- Prioritizes power in individual weapon systems, tap the Quick-Key to switch which weapon is prioritized.
-- Remaining power is balanced across all systems, keeping at least 1 power in Grav-Drive.
-
-Escape Power Preset
-
-- Prioritizes power in Grav-Drive, Shields, and Engines, in that order.
-- Remaining power is balanced across Weapons.
-
-Stealth Power Preset
-
-- Powers down all systems keeping a single point in Engines.
+- F1 = will place the landing zone as soon as the ship returns from space.
+- F2 = will place the landing zone as you call it
+- F3 = will do as command F1 and also check if the surface is flatter enough, or refuse to land there because it's not safe enough
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
@@ -728,8 +727,19 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFph.png)\
-Prevents achievements from being disabled with mods or when using the console.
+![](https://s11.gifyu.com/images/SgFph.png)
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- Prevents achievements from being disabled with mods or when using the console.
+
+[Constellation Quick Packs](https://www.nexusmods.com/starfield/mods/5299) was made especially for the Collection and allows you to add different items in one easy console command directly to your inventory.
+
+- Throwables Pack 20 per Throwable Type (Console Command)=**bat v2\_ThrowPack**
+- Legendary Weapon Pack (Console Command)=**bat v2\_LegendPack**
+- Epic Weapon Pack (Console Command)=**bat v2\_EpicPack**
+- Rare Weapon Pack (Console Command)=**bat v2\_RarePack**
+- Ammo Pack 100 per Ammo Type (Console Command)=**bat v2\_AmmoPack**
+</details>
 
 ***
 
@@ -930,6 +940,38 @@ This is a list of the types of cheats you can use.
 
 ***
 
+## Call Your Ship
+
+https://www.youtube.com/watch?v=Bfcf83G5wzY
+
+[Call Your Ship](https://www.nexusmods.com/starfield/mods/4923?tab=description) by [S1yRuleZ](https://www.nexusmods.com/starfield/users/7479387)
+
+## Features
+
+> Call your spaceship from anywhere outdoor. The ship will take off and then land in front of you, ready to be used!
+
+<details><summary>CLICK FOR DETAILS</summary>
+&#x20;Call your ship from anywhere outside. Yes, also in main outposts... your choice if you want to devastate a city
+
+- The ship takes off and then lands near your position
+- Receive notification on E.T.A.
+- Three different choices for the call:
+
+1. Call the ship and keep moving if you want, it will land near you as soon as it returns from space before landing.
+2. Call the ship and place a Landing Zone POI instantly in front of you. You can then walk away, the ship will land there anyway.
+3. Like option 2, but it will check if the landing zone is flat enough for a safe landing, or refuse and wait for another call.
+
+- You can then safely enter the ship and take off manually from there!
+
+### Keybinds
+
+- F1 = will place the landing zone as soon as the ship returns from space.
+- F2 = will place the landing zone as you call it
+- F3 = will do as command F1 and also check if the surface is flatter enough, or refuse to land there because it's not safe enough
+</details>
+
+***
+
 ## Ship Power Control Tweaks
 
 ![](https://s6.gifyu.com/images/S6Ql1.jpg)[Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820) by [Stentorious](https://www.nexusmods.com/starfield/users/13373850)
@@ -1124,7 +1166,8 @@ Recommended In-game settings These settings will give a big increase to performa
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600x or i5 10600K
-- STORAGE> 3GB
+- TOTAL STORAGE> 4.6Gb&#x20;
+- MIN STORAGE 2.6Gb
 - STORAGE TYPE> SSD
 </details>
 

@@ -25,11 +25,15 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU
 - [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820)
 - [Sprint Stuttering Fix](https://www.nexusmods.com/starfield/mods/884?tab=description)
 - [EXE - Effect Textures Enhanced](https://www.nexusmods.com/starfield/mods/5179?tab=description)
-- [
+- [60 FPS - Smooth UI](https://www.nexusmods.com/starfield/mods/350?tab=description)
+- [Compact Mission UI](https://www.nexusmods.com/starfield/mods/682)
+- [Compact Ship Builder UI](https://www.nexusmods.com/starfield/mods/1170)
+- [Compact Crew Menu UI](https://www.nexusmods.com/starfield/mods/3014)
+- [StarUI Workbench](https://www.nexusmods.com/starfield/mods/4966)
 
 ## REMOVED
 
-
+N/A
 
 
 ## NEW MODS ADDED
@@ -39,6 +43,8 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU
 - [Loot Overhaul](https://www.nexusmods.com/starfield/mods/5181?tab=description)
 - [Andreja Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/5216?tab=description)
 - [Call Your Ship](https://www.nexusmods.com/starfield/mods/4923?tab=description)
+- [Spacesuits Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4035)
+- [Constellation Quick Packs](https://www.nexusmods.com/starfield/mods/5299?tab=description)
 
 ## BUGS
 

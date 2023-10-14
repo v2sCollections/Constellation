@@ -1,10 +1,13 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 11 is HERE](https://)
+## [HEY GUYS Rev 40 is HERE](https://)
 
 ## NOTES
 
-REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
+MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
+
+
+- Bug Fix For Reshade destination
 
 
 ## UPDATED
@@ -15,9 +18,10 @@ N/A
 
 N/A
 
+
 ## NEW MODS ADDED
 
-- [Andreja Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/5216?tab=description)
+N/A
 
 ## BUGS
 
@@ -26,5 +30,6 @@ N/A
 ## MODS NOT WORKING AT THE MOMENT
 
 N/A
+
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
