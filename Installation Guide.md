@@ -92,9 +92,13 @@ This is a large collection I recommend purchasing a Nexus premium account even j
 
 **1**) Open Vortex and click on "Select a game to manage".
 
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
 
-![](https://s11.gifyu.com/images/SgCKR.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
+**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
+
+![](https://s11.gifyu.com/images/SgCKR.jpg)
+
+**3**) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
 **4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
@@ -118,9 +122,13 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 **1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
+![](https://s11.gifyu.com/images/SgCKJ.jpg)
 
-![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
+**2**) Click "Add to Vortex"(choose your newly created profile).
+
+![](https://s12.gifyu.com/images/Untitled1.png)
+
+**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
 ![](https://s11.gifyu.com/images/SgGTE.jpg)
 
