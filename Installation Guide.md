@@ -2,10 +2,10 @@
 
 # Contents:
 1) [Make a Backup Save](#make-a-backup-save)
-2) [Updating Collection](#updating-the-collection)
+2) [Updating the Collection](#updating-the-collection)
 3) [Launching Starfield](#launching-starfield)
 4) [Install Time](#install-time)
-5) [PC Updates](#pc-Updates)
+5) [PC Updates](#pc-updates)
 6) [Starfield](#starfield)
 7) [Vortex](#vortex)
 8) [Vortex and Starfield](#vortex-and-starfield)
@@ -25,7 +25,7 @@
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
 
-## Updating Collection
+## Updating the Collection
 
 **1**) Create a new Profile in Vortex and enable it.
 
