@@ -2,9 +2,8 @@
 
 ![img](https://s11.gifyu.com/images/SgafS.png)
 
-
-These are setup for a full-size KB.
-
+**These are setup for a full-size KB.**
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ### RESHADE
 
