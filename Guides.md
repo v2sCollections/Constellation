@@ -311,7 +311,7 @@ and
 C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
 ```
 
-**7**) Copy these back into the Starfield game folder and overwrite the old files.
+**7**) Copy what is inside of the folders named depot_# into the Starfield game folder and overwrite the files. Repeat for both folders.
 
 **8**) Once you have done both you can **Deploy** the Mods in **Vortex** and continue to play the Modded Version of the game.
 
@@ -325,9 +325,9 @@ C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-**Turn Off Automatic Updates**
+Turn Off Automatic Updates
 
-**1**) In **Steam** right-click on **Starfield**
+**1**) In Steam right-click on Starfield
 
 **2**) In the menu that appears, click on Properties.
 
@@ -337,13 +337,40 @@ C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
 
 **5**) Close the window.
 
-Or
 
-**1**) An alternative solution is to launch **Steam** in Offline Mode or play without an internet connection. This would make you unable to download updates for any of your games but would ensure that your downgraded version isn't accidentally erased by a surprise update.
+Alternative Solutions
 
-### Note
+**A**. Lock your Manifest file
 
-The offline mode comes with its own set of drawbacks, so make sure you know how to use offline mode for Steam if you are going to commit to this option.
+**1**)Ensure Steam is closed
+
+**2**)Navigate to [DriveLetter]:\SteamLibrary\steamapps
+
+**3**)Find "appmanifest_1716740"
+
+**4**)Right-click on appmanifest_1716740 and select Properties
+
+**5**)The Properties window should open
+
+**6**) Click on Checkbox for "Read-only"
+
+**7**) Hit Apply
+
+**8**) Hit Ok
+
+Your file should now be locked.
+Reopen steam
+Remember, When you WANT to update it, you will need to follow this process and instead of enabling (clicking checkbox) you need to disable "Read-only" (uncheck). Then APPLY, Then OK. Then you can proceed with the update
+
+
+**B**. Launch Steam in Offline Mode or play without an internet connection. This would make you unable to download updates for any of your games but would ensure that your downgraded version isn't accidentally erased by a surprise update.
+
+**Note:**
+These alternative solutions will require remembering you initiated these. But these two methods are solid. 
+
+The disabling (making it read-only) of the manifest file will allow steam to not be able to write to disk (your files) for that particular game (manifest ID). You will continue to get this error "Disk-Write error" in Steam, until proceeding with update but that is intended by using this method. It is safe to play via Vortex if you proceed. 
+
+The offline mode comes with its own set of drawbacks, so make sure you know how to use offline mode for Steam if you are going to commit to this option
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 

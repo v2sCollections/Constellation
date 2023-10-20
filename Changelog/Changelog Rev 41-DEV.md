@@ -1,16 +1,23 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 41 is HERE](https://)
+## [HEY GUYS Rev 41 is COMING SOON](https://)
 
 ## NOTES
 
 MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 
+This update addresses a few issues.
+
+- Fixed rare CTD which randomly happened on the start of NG+
 
 
 ## UPDATED
 
 - [60 FPS - Smooth UI](https://www.nexusmods.com/starfield/mods/350?tab=description)
+- [Discord Rich Presence (SFSE)](https://www.nexusmods.com/starfield/mods/2545)
+- [Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631)
+- [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820)
+- [
 
 ## REMOVED
 
@@ -19,7 +26,9 @@ N/A
 
 ## NEW MODS ADDED
 
-N/A
+- [Show Ship Parts Count](https://www.nexusmods.com/starfield/mods/5518?tab=description)
+- [StarUI Configurator](https://www.nexusmods.com/starfield/mods/5467)
+- [Auto Unlock SFSE](https://www.nexusmods.com/starfield/mods/5571?tab=description)
 
 ## BUGS
 
