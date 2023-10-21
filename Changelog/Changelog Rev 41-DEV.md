@@ -32,6 +32,7 @@ N/A
 - [Show XP on Loading Screens](https://www.nexusmods.com/starfield/mods/5616?tab=description)
 - [Space Fog Be Gone](https://www.nexusmods.com/starfield/mods/5619?tab=description)
 - [Herer's Cursors](https://www.nexusmods.com/starfield/mods/5399?tab=description)
+- [Stop Yannick - No More Endless Xenofresh Shifts](https://www.nexusmods.com/starfield/mods/5109?tab=description)
 
 ## BUGS
 
