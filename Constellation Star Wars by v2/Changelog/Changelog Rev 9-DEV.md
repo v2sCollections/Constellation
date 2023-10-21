@@ -10,6 +10,7 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL
 ## UPDATED
 
 - [Astromech mini bots](https://www.nexusmods.com/starfield/mods/5056)
+- [IB-94 Mandalorian gun](https://www.nexusmods.com/starfield/mods/5022?tab=description)
 
 ## REMOVED
 

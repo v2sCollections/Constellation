@@ -29,6 +29,9 @@ N/A
 - [Show Ship Parts Count](https://www.nexusmods.com/starfield/mods/5518?tab=description)
 - [StarUI Configurator](https://www.nexusmods.com/starfield/mods/5467)
 - [Auto Unlock SFSE](https://www.nexusmods.com/starfield/mods/5571?tab=description)
+- [Show XP on Loading Screens](https://www.nexusmods.com/starfield/mods/5616?tab=description)
+- [Space Fog Be Gone](https://www.nexusmods.com/starfield/mods/5619?tab=description)
+- [Herer's Cursors](https://www.nexusmods.com/starfield/mods/5399?tab=description)
 
 ## BUGS
 
