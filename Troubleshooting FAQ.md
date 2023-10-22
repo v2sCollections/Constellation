@@ -44,6 +44,24 @@ Known Causes of Crashes on Startup
 ## Troubleshooting
 
 
+<details>
+<summary>Uninstall Guide</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Sometimes a fresh installation can help if you have tried all other options when troubleshooting issues. 
+
+**1**) Open **Steam** and uninstall the game.
+
+**2**) Go to the following location and delete the **Starfield** folder if it is present.
+```
+[DRIVE LETTER]\SteamLibrary\steamapps\common
+```
+**3**) Open **Steam** and reinstall the game.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
 ## Gameplay Questions

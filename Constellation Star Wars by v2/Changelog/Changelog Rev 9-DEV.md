@@ -11,6 +11,8 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL
 
 - [Astromech mini bots](https://www.nexusmods.com/starfield/mods/5056)
 - [IB-94 Mandalorian gun](https://www.nexusmods.com/starfield/mods/5022?tab=description)
+- [Mandalorian sniper rifle - (Amban sniper)](https://www.nexusmods.com/starfield/mods/4957?tab=description)
+- [Mandalorian Conversion - Clone Wars Era](https://www.nexusmods.com/starfield/mods/4783?tab=description)
 
 ## REMOVED
 
