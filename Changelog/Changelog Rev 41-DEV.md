@@ -17,7 +17,6 @@ This update addresses a few issues.
 - [Discord Rich Presence (SFSE)](https://www.nexusmods.com/starfield/mods/2545)
 - [Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631)
 - [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820)
-- [
 
 ## REMOVED
 
@@ -37,6 +36,7 @@ This update addresses a few issues.
 - [StarUI Outpost](https://www.nexusmods.com/starfield/mods/5766?tab=description)
 - [Luma - Native HDR](https://www.nexusmods.com/starfield/mods/4821?tab=description)
 - [Starfield Shader Injector](https://www.nexusmods.com/starfield/mods/5562?tab=description)
+- [Slightly Better Weapon Icons](https://www.nexusmods.com/starfield/mods/4798?tab=description)
 
 ## BUGS
 
