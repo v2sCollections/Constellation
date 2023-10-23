@@ -52,6 +52,21 @@ To open the console press ~ on your keyboard and enter the codes you would like.
 </details>
 
 
+<details>
+<summary>Show Character Creation Menu</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+Open the Console with ~ and enter the following command
+```
+showlooksmenu player 1
+```
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
 
 
 
