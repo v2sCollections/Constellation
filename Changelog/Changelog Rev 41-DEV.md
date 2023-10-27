@@ -9,7 +9,7 @@ MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 This update addresses a few issues.
 
 - Fixed rare CTD which randomly happened on the start of NG+
-- DlSS files are now included by default but they will require you to enable them in the optional mods section in Vortex.
+- DLSS files are now included by default but they will require you to enable them in the optional mods section in Vortex.
 
 ## UPDATED
 
