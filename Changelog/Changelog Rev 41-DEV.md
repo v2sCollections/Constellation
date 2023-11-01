@@ -11,12 +11,21 @@ This update addresses a few issues.
 - Fixed rare CTD which randomly happened on the start of NG+
 - DLSS files are now included by default but they will require you to enable them in the optional mods section in Vortex.
 
+Changes
+
+- Hotkey support has been added and we are using some new keybinds.
+- Add Ammo= Numpad2
+- AddThrowables= Numpad3
+- Convert Essence to Power=Numpad8
+
 ## UPDATED
 
 - [60 FPS - Smooth UI](https://www.nexusmods.com/starfield/mods/350?tab=description)
 - [Discord Rich Presence (SFSE)](https://www.nexusmods.com/starfield/mods/2545)
 - [Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631)
 - [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820)
+- [StarUI Outpost](https://www.nexusmods.com/starfield/mods/5766)
+- [
 
 ## REMOVED
 
@@ -37,6 +46,9 @@ This update addresses a few issues.
 - [Luma - Native HDR](https://www.nexusmods.com/starfield/mods/4821?tab=description)
 - [Starfield Shader Injector](https://www.nexusmods.com/starfield/mods/5562?tab=description)
 - [Slightly Better Weapon Icons](https://www.nexusmods.com/starfield/mods/4798?tab=description)
+- [Slightly Better Map Icons](https://www.nexusmods.com/starfield/mods/4813?tab=description)
+- [Starborn's Bounty](https://www.nexusmods.com/starfield/mods/4978?tab=description)
+- [Essence to Power](https://www.nexusmods.com/starfield/mods/5082)
 
 ## BUGS
 

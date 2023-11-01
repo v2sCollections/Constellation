@@ -1,6 +1,25 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-### &#x20;Updated & Compatible With the latest 1.7.36 Version of Starfield on Steam.
+\
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s6.gifyu.com/images/S8Lvb.png)\
+Hey guys&#x20;
+
+**We believe a Starfield Patch is just around the corner here is how you can prepare**
+
+## 1) If you accidentally update:
+
+If you would like to continue playing the modded game you will need to downgrade the version of the game through **Steam**.
+
+- **Downgrading** You can follow this Guide>[How to Downgrade Starfield](https://github.com/2077v2/Constellation/blob/main/Guides.md#other-guides)
+
+## 2) Preventing the Update:
+
+- **Preventing Steam updates** You can follow this Guide>[Preventing Steam Updates\
+  ](https://github.com/2077v2/Constellation/blob/main/Guides.md#other-guides)
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
+### Updated and Compatible With the latest 1.7.36 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
@@ -22,7 +41,7 @@ And that's it I hope to see you in the Cosmos but now it's time for me to go.
 
 This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Starfield** experience possible.
 
-I hope you enjoy this collection and the game as much as I do. It's time for me to go but don't be a stranger Join our community over on [Discord](https://discord.gg/xZNztPjA2u) see you there.
+I hope you enjoy this collection and the game as much as I do. It's time for me to go but don't be a stranger Join our community over on [Discord](https://discord.gg/v2-s-collections-1076179431195955290) see you there.
 
 ## [Collection not working](https://) ❓
 
@@ -36,7 +55,7 @@ This collection is extensively tested with every new version that is released. I
 
 [![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 
-[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/xZNztPjA2u)
+[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/v2-s-collections-1076179431195955290)
 
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most extensive mod collection on Nexus for Starfield.
@@ -49,10 +68,10 @@ This collection is extensively tested with every new version that is released. I
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-<!---->
+\<!---->
 
 - ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
-- Custom Collection Loader.
+- (CCL) Constellation Collection Loader. &#x20;
 - Achievement Enabler.
 - Bethini Pie (Performance INI Editor).
 - DLSS + Frame Generation.
@@ -76,6 +95,7 @@ This collection is extensively tested with every new version that is released. I
 ## [Make a Backup Save](https://)
 
 - Mods for Bethesda games can be unreliable at times it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
+- Alternatively, you can download my Mod [HERE](https://www.nexusmods.com/starfield/mods/5736) to automate the backup of your saves.
 
 ```
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
@@ -161,7 +181,7 @@ https://www.youtube.com/watch?v=4T8pOWYWu5Q
 **5**) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
 
 ```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
+[DRIVE LETTER]\SteamLibrary\steamapps\common\Starfield
 ```
 
 **6**) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
@@ -174,6 +194,16 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ***
 
+## [ENABLING MODDING](https://)
+
+**1**) If your Starfield.ini isn't set up for modding you will see this Pop-Up in the top right-hand corner of Vortex select **"Fix"**.
+
+![](https://s6.gifyu.com/images/S8nhU.jpg)**2) ⛔**When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
+
+![](https://s6.gifyu.com/images/S8nkL.jpg)
+
+***
+
 ## [Installing The Collection](https://)
 
 **1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
@@ -183,14 +213,6 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 ![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
 ![](https://s11.gifyu.com/images/SgGTE.jpg)
-
-***
-
-## [ENABLING MODDING](https://)
-
-When you first launch the game from Vortex you may see a popup. Select [YES: Apply recommended changes.](https://)
-
-![](https://s11.gifyu.com/images/S4U8u.jpg)
 
 ***
 
@@ -286,9 +308,17 @@ NOTE Only use the "Quality" setting as other settings may increase the risk of t
 - Legendary Weapon Pack=**bat v2\_LegendPack**
 - Epic Weapon Pack=**bat v2\_EpicPack**
 - Rare Weapon Pack=**bat v2\_RarePack**
+
+### Show Character Creation Menu
+
+```
+showlooksmenu player 1
+```
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
-- Keybinds
+### Keybinds
 
 <details><summary>CLICK FOR A FULL LIST OF KEY BINDS</summary>
 ![](https://s11.gifyu.com/images/SgafS.png)These are set up for a full-size KB.
@@ -351,9 +381,9 @@ Power Presets
 
 ![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/xZNztPjA2u) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
+You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
-You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
+You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
 
 ## FAQ&#x20;
 
@@ -440,14 +470,20 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFM7.png)
+## ![](https://s6.gifyu.com/images/S8WCf.png)Features
 
+> Buffs and Nerfs to balance the gameplay.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Enemies have more health.
 - Prevent the player from becoming a bullet sponge on the higher levels.
+</details>
+
+
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpk.png)
+![](https://s6.gifyu.com/images/S8WCk.png)
 
 ## Features
 
@@ -465,7 +501,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpq.png)
+![](https://s6.gifyu.com/images/S8WCw.png)
 
 ## Features
 
@@ -482,8 +518,9 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Removes the color filters from the game, making the colors more uniformly neutral with deeper blacks. Two options to choose from.
 - Cropped and upscaled loading screens for ultrawide monitors
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
+- Removes the fog that trails your ship.
 
-### Removes the vignette from the following
+## [Removes the vignette from the following](https://)
 
 - Quick (favorites) menu.
 - Galaxy map.
@@ -491,7 +528,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Pause menu.
 - Data menu open/close animation.
 
-### Upscaled Textures
+## [Upscaled Textures](https://)
 
 - Eyes.
 - Eyebrows.
@@ -501,7 +538,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Advertisements, Signage, Flags, Murals and Vending Machines.
 - All NPCs (This is a work in progress)
 
-### Custom Textures
+## [Custom Textures](https://)
 
 - Eyes.
 - Bullet Holes.
@@ -532,7 +569,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpm.png)
+![](https://s6.gifyu.com/images/S8WCC.png)
 
 ## Features
 
@@ -550,12 +587,12 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - You can now Tactical Sprint similar to Call of Duty.
 - You can now disable aim assist on a controller.
 
-### Quests
+## [Quests](https://)
 
 - Credit amounts from most sources are now boosted by about 25%-70% (e.g., generic early-game humanoid credit drops are increased on average by 50 credits).
 - Credit rewards are no longer strongly tied to player level, although the player level still influences the amount.
 
-### Loot
+## [Loot](https://)
 
 - Increased the healing of all food items by x5
 - Increased the duration of food, drink, and chem items by x2.
@@ -570,29 +607,34 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpI.png)
+![](https://s6.gifyu.com/images/S8W0M.png)
 
 ## Features
 
-> The collection comes with many quality-of-life improvements from the small things that annoy you to the entire user interface of Starfield.
+> The collection comes with many quality-of-life improvements.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Skip the intro.
 - Swaps the helmet torch light out for a different clearer version.
 - Jetpacks now work with pressing and holding buttons, instead of being single press.
-- Better FOV when in dialogue.
+- Auto unlock doors, containers, and terminals (including inaccessible ones) if you have the required perks.
 - Prevents neutral NPCs and spaceships from turning hostile when you accidentally hit them.
+- Displays your current/next-level XP on loading screens.
+- Disable Yannick's activity (incl. its quest marker) that continuously and automatically appears in your missions log every once in a while.
 - Reduced the time it takes for Vendors to refresh their inventory from 2 days to 1.
 - Reduced the jogging movement speed.
+- Increased FOV when in dialogue.
 - Increased the distance at which the map marker is visible.
 - Increased the distance at which objects can be scanned.
 - Increased the speed of Air Lock Animations. It comes with various speed multipliers for you to choose from.
 - Increased the speed of Furniture animations. It comes with various speed multipliers for you to choose from.
 </details>
 
-### **UI Improvements**
 
-## Features
+
+***
+
+## ![](https://s6.gifyu.com/images/S8WFA.png)Features
 
 > Many different improvements to the UI click below to see all the changes.
 
@@ -611,13 +653,16 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increased the viewable crew menu so more items can be seen at once by 50%.
 - PS5 Controller Support. Playstations Icons Instead of Xbox.
 - Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
+- Choose from 65 different cursors.
+- Better icons for weapons.
+- Better icons for the world Map.
 </details>
 
 ***
 
 ## StarUI Inventory & StarUI HUD
 
-![](https://s11.gifyu.com/images/S4CgB.jpg)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) & [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) & [StarUI Workbench](https://www.nexusmods.com/starfield/mods/4966?tab=description) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
+![](https://s11.gifyu.com/images/S4CgB.jpg)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) & [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) & [StarUI Workbench](https://www.nexusmods.com/starfield/mods/4966?tab=description) & [StarUI Outpost](https://www.nexusmods.com/starfield/mods/5766) and [StarUI Configurator](https://www.nexusmods.com/starfield/mods/5467) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
 
 ### Features
 
@@ -626,12 +671,16 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 > **StarUI HUD** gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolour or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
 >
 > **StarUI Workbench** improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, Quality-of-Life features and more!
+>
+> **StarUI Outpost ***Improves the outpost interface for PC. Add a comfortable build menu with separate lists for category, building and variation (and you only need 4 keys instead of 8 to navigate) . Changes the key bindings to be like most other interfaces. Adds a inspect label and button hints at the cursor. And many other quality-of-life additions.*
+>
+> **StarUI Configurator** Easily configure all settings with a well aligned and easy to use interface. Provides help texts, sliders, dropdowns, toggle switcher and specialized column-picker and color-picker widgets to make individualizing your StarUI mod an ease.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 ## [StarUI Inventory](https://)
 
-- Much compacter overview of category list and item list
-- Properties like mass, value, value/mass, mass of stack, value of stack, damage, DPS ("Burst DPS"), damage resistance, ammo type, ammo rounds, weapon type, item rarity and many more are available as column. Only a few are on by default - add as much as you like via INI!
+- Much compacter overview of the category list and item list
+- Properties like mass, value, value/mass, mass of stack, value of stack, damage, DPS ("Burst DPS"), damage resistance, ammo type, ammo rounds, weapon type, item rarity, and many more are available as columns. Only a few are on by default - add as much as you like via INI!
 - Sort the list to any of the columns by simply clicking on the column header (toggle asc/desc by another click)
 - New special inventory-lookup column OWNED/SHIP/CARGO - See how many items you already have in your backpack/ship when buying or transferring.
 - You can temporarily add inactive columns to the interface (lasts until you leave the inventory screen)
@@ -641,8 +690,8 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Show all inventories in the bottom panel, including mass and an indicator in which direction you are currently transferring
 - Show category summarized mass
 - List navigation keys Page-Up, Page-Down, Home and End for fast navigation
-- Mass-transfer of a single category from/to container, from/to ship or buy/sell for trading! (Includes options to skip equipped, favorites and specific items)
-- Press CTRL or SHIFT key and click to directly transfer/buy/sell one item or all items - without quantity popup!
+- Mass transfer of a single category from/to container, from/to ship or buy/sell for trading! (Includes options to skip equipped, favorites, and specific items)
+- Press the CTRL or SHIFT key and click to directly transfer/buy/sell one item or all items - without quantity popup!
 - Bigger scrollbar, so it's easier to grab it.
 - Change the font or font size (If you don't like the ALL UPPERCASE style. I recommend font number 3!)
 - Configurable mouse wheel scroll amount of lists
@@ -682,13 +731,13 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Upgraded item cards
 - - Added item tag icon
   - Added value V/M for all items with value and mass
-  - Added value DPS for weapon (Burst-DPS, reloading-time not accounted)
-  - Colorizable, relocatable and resizable: All item cards can be adjusted for every situations where they are visible
+  - Added value DPS for the weapon (Burst-DPS, reloading-time not accounted)
+  - Colorizable, relocatable, and resizable: All item cards can be adjusted for every situation where they are visible
 - Quality of Life
-- - Accidental Steal Protection - Changes the button for taking, so you need to hold E key (or controller A button) to actually steal the item.
+- - Accidental Steal Protection - Changes the button for taking, so you need to hold the E key (or controller A button) to actually steal the item.
   - Loot list and Tag Label widgets will change to RED when taking would be stealing.
   - Take All function for most containers - Press and hold R (or X on controller) to take all (when the R (or X) HOLD button is visible)
-- Three presets you can choose: Author's Choice, Vanilla Extended and Vanilla. You can change that at any time and customize your choosen one as you like!
+- Three presets you can choose from: Author's Choice, Vanilla Extended, and Vanilla. You can change that at any time and customize your chosen one as you like!
 - Safe to install/remove at any time! Doesn't affect your save game and won't prevent your abiliity to get achievements!
 - Integrated item sorting system for all Starfield items for the languages: EN, DE, ES, FR, IT, JA, PL, PTBR and ZHHANS.
 - You can control when the reticle circle and line are visible individually for different situations (the leader line going from the looked item to the item card/name box)
@@ -717,28 +766,64 @@ https://www.youtube.com/watch?v=Ti79tays4dc
   - Available layout presets: Vanilla, Vanilla Extended, Hoarder, Hoarder Alternate
 - Five pre-defined main configuration settings. Simply choose a preset that meets your taste in the installer. Or use it as a base for your own individual workbench configuration!
 - - Available main presets: Vanilla, Vanilla Extended, Hoarder, Hoarder Alternate, Hoarder Dark Mode
+  - Instant open/close - Animations removed
+  - Unlimited crafting - You can adjust the max amount in the INI
+  - Completely customizable - See*StarUI Workbench (default).ini*optimized
 
-\<!---->
+## [StarUI Outpost](https://)
 
-- Instant open/close - Animations removed
-- Unlimited crafting - You can adjust the max amount in the INI
-- Completely customizable - See*StarUI Workbench (default).ini*optimized
+- Much better-improved build menu with separate lists for categories, buildings and variants
+- - You no longer need 8 keys for the build menu navigation - 4 keys are enough
+  - Shows the produced item as a subtitle for fabricators
+  - View all variants in an easily navigable list
+  - Smarter variant naming - e.g. "Extractor - Iron - Commercial" is shown as "Commercial" in the variant lists
+  - Numbered naming for equal named items - e.g. "Poster 1", or "Poster 2" instead of "Poster" for all
+- Changed the basic ui key handling, so it's like other interfaces - e.g. TAB is now back/exit and change mode is now "Q" or "Left Shoulder"
+- Added comfort keys to several interfaces - You can use Mouse1 instead of only E for choosing an item from the action cards, like wiring. And in wire mode you can press Mouse1 where it was only E previously.
+- New inspect label - Shows what you are viewing at directly under the crosshair
+- New crosshair buttons - See what you can do directly under the crosshair
+- Different colors for build and inspect mod - Now you see in which mode you are!
+- Allows full adjustment of every widget. Control the color, size, and position individual for every widget. And you can hide it if you don't like it
+- Option to disable the open/close animation
+- Available in 30, 60 and 120fps
+- Comes with three pre-defined presets: Author's Choice, Author's Choice (default color) and Vanilla Extended
+- Completely customizable - Comes with an [StarUI Configurator](https://www.nexusmods.com/starfield/mods/5467) profile, so you can easily adjust your outpost interface
+- Safe to install/remove at any time! Doesn't affect your save game and won't prevent your ability to get achievements!
+- Multilanguage - Supports all languages out of the box
+
+## [StarUI Configurator](https://)** **
+
+- Allows you to easily configure all settings from [**StarUI Inventory**](https://www.nexusmods.com/starfield/mods/773), [**StarUI HUD**](https://www.nexusmods.com/starfield/mods/3444), [**StarUI Workbench**](https://www.nexusmods.com/starfield/mods/4966) and **StarUI Outpost**.
+- Supports individual inputs for number, boolean, or text values
+- Sliders have a min/max setting, so you can't input wrong values (but if you want you can still do that by using the slider text input field)
+- Contains help texts and images to help understand the configuration settings
+- Column-picker with a list of all available columns. Allows easy sorting of your columns too.
+- Color-picker with preview and transparency makes color-picking an ease
+- Will store all settings in an update-proof user settings file
+- All changes are instantly stored in your INI, so you can easily try them in the game, which can be running while you're configuring! Just close/re-open the interface (Inventory and Workbench) or save/load for HUD to see your new settings!
+- You can revert any setting to its default value (specified by StarUI \[Mod] (default).ini)
+- Alternate versions for Linux, Mac, and other OS are available
+- Accessibility mode with increased contrast, less problematic colors, added outlines, removed backgrounds and an easier-to-read font.
+- Startup-log on the Welcome page, so you can easily check up on problems if your mod or settings file hasn't been found
+- Open configuration API - Other mods can include a StarUI Configuration profile so you can configure other mods with StarUI Configurator too.
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFph.png)
+## ![](https://s6.gifyu.com/images/S8WCT.png)Features
+
+> Many Cheats allow for full customization of the following gameplay elements.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Prevents achievements from being disabled with mods or when using the console.
 
-[Constellation Quick Packs](https://www.nexusmods.com/starfield/mods/5299) was made especially for the Collection and allows you to add different items in one easy console command directly to your inventory.
+[Constellation Quick Packs](https://www.nexusmods.com/starfield/mods/5299) was made especially for the Collection and allows you to add different items in one easy console command or Hotkey directly to your inventory.
 
-- Throwables Pack 20 per Throwable Type (Console Command)=**bat v2\_ThrowPack**
+- Ammo Pack 100 per Ammo Type (Hotkey)=**Numpad2**
+- Throwables Pack 20 per Throwable Type (Hotkey)=**Numpad3**
 - Legendary Weapon Pack (Console Command)=**bat v2\_LegendPack**
 - Epic Weapon Pack (Console Command)=**bat v2\_EpicPack**
 - Rare Weapon Pack (Console Command)=**bat v2\_RarePack**
-- Ammo Pack 100 per Ammo Type (Console Command)=**bat v2\_AmmoPack**
 </details>
 
 ***
@@ -752,7 +837,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 > Console Command List with over 80+ Easy to use Commands+Cheats. You can access this from the Tools bar in Vortex. You just have to copy and paste the commands you want from the Text document in Vortex into your console in the game. You can open the console (with the ~ key)
 
 <details><summary>CLICK FOR DETAILS</summary>
-This is a list of the types of cheats you can use.
+## [This is a list of the types of cheats you can use.](https://)
 
 - God Mode
 - Immortal Mode
@@ -842,7 +927,7 @@ This is a list of the types of cheats you can use.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-## ![](https://s11.gifyu.com/images/SgFp7.png)Features
+## ![](https://s6.gifyu.com/images/S8WFb.png)Features
 
 > Many immersive features added to the game. From NPC engagement to many new world features.
 
@@ -861,12 +946,12 @@ This is a list of the types of cheats you can use.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-## ![](https://s11.gifyu.com/images/SgFpv.png)Features
+## ![](https://s6.gifyu.com/images/S8WFp.png)Features
 
 > The collection comes with many buffs and nerfs to combat and weapons to balance the game.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-### Weapons
+## [Weapons](https://)
 
 - Friendly fire is enabled among allied NPCs.
 - Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
@@ -876,7 +961,7 @@ This is a list of the types of cheats you can use.
 - Increased the speed of equipping weapons. It comes with various speed multipliers for you to choose from.
 - Increased the firing speed of the micro gun.
 
-### Combat
+## [Combat](https://)
 
 - Removes the first-person stagger animation after being hit with a melee attack or an explosion. Prevents your character from being frozen in place.
 - Blocking now reduces incoming melee damage by 90% (vanilla: 50%)
@@ -894,15 +979,23 @@ This is a list of the types of cheats you can use.
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpE.png)
+## ![](https://s6.gifyu.com/images/S8WCi.png)Features
+
+>
+
+
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFp9.png)
+## ![](https://s6.gifyu.com/images/S8W0o.png)Features
+
+>
+
+
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgFpd.png)
+![](https://s6.gifyu.com/images/S8WFq.png)
 
 ## Features
 
@@ -913,11 +1006,19 @@ This is a list of the types of cheats you can use.
 - Increased the Distance at which you can transfer items from Player to Ship.
 - You increase the number of custom landing sites you can have saved simultaneously, increasing it from the vanilla 3 sites.
 
-### Ship Building
+## [Ship Building](https://)
 
 - A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance, and more floors.
 - Increases the overlap tolerance in the ship-builder, allowing for more tight and varied builds with slightly overlapping modules.
 - Increased the maximum number of ships you can own x5.
+
+## [Ship HUD](https://)
+
+- Displays the number of Ship Parts you have beside the repair icon on your HUD.
+- Set the ship hull health % threshold when the repair icon appears.
+- Show the true value of your shield health.
+- Add mouse inertia to HUD elements (See video demo below.).
+- Auto-repair your hull when its health falls below a certain threshold. (Works in scanner mode.)\
 </details>
 
 <details><summary>cLICK FOR CONSOLE COMMANDS</summary>
@@ -963,7 +1064,7 @@ https://www.youtube.com/watch?v=Bfcf83G5wzY
 
 - You can then safely enter the ship and take off manually from there!
 
-### Keybinds
+## [Keybinds](https://)
 
 - F1 = will place the landing zone as soon as the ship returns from space.
 - F2 = will place the landing zone as you call it
@@ -981,12 +1082,12 @@ https://www.youtube.com/watch?v=Bfcf83G5wzY
 > Easily swap between Balanced, Combat, Escape, and Stealth power presets. Select your ship's available power systems with Quick-Keys 1 -> 6. Fixes some vanilla bugs with crew power bonus calculations.
 
 <details><summary>CLICK FOR POWER SYSTEM KEY BINDS</summary>
-### **KEYBINDS**
+## [KEYBINDS](https://)
 
 \
 This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 
-### Power Systems
+### [Power Systems](https://)
 
 - Quick-Key 1 = Select Weapon 1
 - Quick-Key 2 = Select Weapon 2
@@ -995,7 +1096,7 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 - Quick-Key 5 = Select Shields
 - Quick-Key 6 = Select Grav-Drive\\
 
-### Power Presets
+### [Power Presets](https://)
 
 - Quick-Key 7 = Combat Power Preset (Standard)
 - Quick-Key 8 = Combat Power Preset (Alt)
@@ -1004,41 +1105,41 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 - Quick-Key 11 = Escape Power Preset
 - Quick-Key 12 = Stealth Power Preset
 
-### Combat Power Preset (Standard)
+### [Combat Power Preset (Standard)](https://)
 
 - Prioritizes power in an individual weapon system, tap Quick-Key 7 to switch which weapon is prioritized.
 - The remaining power is balanced across all remaining systems.
 - Keeps at least 1 power in Grav-Drive.
 
-### Combat Power Preset (Alt)
+### [Combat Power Preset (Alt)](https://)
 
 - Prioritizes power in an individual weapon system, tap Quick-Key 8 to switch which weapon is prioritized.
 - Prioritizes remaining power in Shields, Engines, and remaining weapons in that order.
 - Keeps at least 1 power in Grav-Drive.
 
-### Combat Power Preset (Spilt)
+### [Combat Power Preset (Spilt)](https://)
 
 - Prioritizes power in 2 weapon systems, tap Quick-Key 9 to switch which 2 weapons are prioritized.
 - Prioritizes remaining power in Shields, Engines, and remaining weapon in that order.
 - Keeps at least 1 power in Grav-Drive.
 
-### Balanced Power Preset
+### [Balanced Power Preset](https://)
 
 - Balances available power across all systems, keeping at least 1 power in Grav-Drive
 
-### Escape Power Preset
+### [Escape Power Preset](https://)
 
 - Prioritizes power in Grav-Drive, Shields, and Engines, in that order.
 - The remaining power is balanced across Weapons.
 
-### Stealth Power Preset
+### [Stealth Power Preset](https://)
 
 - Powers down all systems keeping a single point in Engines.
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
-![](https://s11.gifyu.com/images/SgOIh.png)
+![](https://s6.gifyu.com/images/S8W03.png)
 
 ## Features
 
@@ -1051,7 +1152,48 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 - KiLoader plugin that allows loose file loading from the game's root folder and more.
 - CCR Console Command Runner.
 - Custom Constellation Collection Loader.
+- Constellation Saves Backup.
 - Bethini Pie (Performance INI Editor).
+</details>
+
+***
+
+## (CCL) Constellation Collection Loader.
+
+![](https://s6.gifyu.com/images/S8bda.jpg)[Constellation Collection Loader](https://www.nexusmods.com/starfield/mods/3553) by [2077v2](https://www.nexusmods.com/starfield/users/123334373)
+
+## Features
+
+> The Constellation Collection Loader can allow you to add most mods. So if there is a Mod out there you really want but its not part of our collection, you can use our loader to acitvate the Mod.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+## [Constellation Collection Loader Guide](https://)
+
+Before we get started a great tool to have is [Notepad++](https://notepad-plus-plus.org/downloads/) you can download it from this link [HERE](https://notepad-plus-plus.org/downloads/). This allows easy editing of all text files.
+
+## [Guide](https://)
+
+You will find the Constellation Collection Loader in your main Starfield directory.
+
+```
+[DRIVE LETTER]SteamLibrary\steamapps\common\Starfield\Constellation Loader
+```
+
+**1**) Right-click the loader and select "copy" Place it somewhere on your PC this is your backup.
+
+**2**) Open the loader with Notepad++
+
+3\) Go to Nexus and download your text/bat Mod of choice. Let's use [THIS MOD](https://www.nexusmods.com/starfield/mods/4643?tab=files) as an example.
+
+4\) We chose the "v2\_ConstellationAngryNpcs" file.
+
+5\) Find out the bat command to activate the Mod you chose in our case it is "bat v2\_ConstellationAngryNpcs"
+
+6\) Copy the command and place it into the loader as seen below. Now save your edits in Notepad ++ for your customized loader file.
+
+![](https://s6.gifyu.com/images/S8Sn0.png)**7**) Copy and paste your saved loader file back into your main Starfield directory and overwrite when asked.
+
+You are all done Remember that upon Collection updates this file will be overwritten by our new files. Use your ConstellationLoader backup file and replace it when need be.
 </details>
 
 ***
@@ -1065,8 +1207,7 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 > Bethini Pie (Performance INI Editor) is a universal tool to make editing INI configuration files simple via a graphical user interface.
 
 <details><summary>CLICK FOR DETAILS</summary>
-Automatic backup of INI files.
-
+- Automatic backup of INI files.
 - Easy restoration of backups via a simple dropdown menu.
 - The preset system allows settings to be configured to apply multiple configuration changes at the touch of a button.
 - Themes
@@ -1076,6 +1217,8 @@ Automatic backup of INI files.
 </details>
 
 [Official Support Forum](https://stepmodifications.org/forum/forum/200-bethini-support/)
+
+**⛔**NOTE This is **(OPTIONAL)** and for advanced users only.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
