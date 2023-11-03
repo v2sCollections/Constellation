@@ -15,7 +15,8 @@ Changes
 
 - Hotkey support has been added and we are using some new keybinds.
 - Add Ammo= Numpad2
-- AddThrowables= Numpad3
+- Add Throwables= Numpad3
+- Add Med Packs= Numpad4
 - Convert Essence to Power=Numpad8
 
 ## UPDATED
@@ -25,12 +26,14 @@ Changes
 - [Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631)
 - [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820)
 - [StarUI Outpost](https://www.nexusmods.com/starfield/mods/5766)
-- [
+- [Constellation Quick Packs (With Hotkeys)](https://www.nexusmods.com/starfield/mods/5299?tab=description)
 
 ## REMOVED
 
 - [Compact Build Menu UI](https://www.nexusmods.com/starfield/mods/3063) Replaced by - [StarUI Outpost](https://www.nexusmods.com/starfield/mods/5766?tab=description)
-
+- [Power Attack Cost Reduction](https://www.nexusmods.com/starfield/mods/1245) Replaced With our own Variant
+- [Less Spongy Enemies](https://www.nexusmods.com/starfield/mods/344) Replaced With our own Variant
+- [Less Spongy Player - Adjustable Player Health](https://www.nexusmods.com/starfield/mods/1160) Replaced With our own Variant
 
 ## NEW MODS ADDED
 
@@ -49,6 +52,8 @@ Changes
 - [Slightly Better Map Icons](https://www.nexusmods.com/starfield/mods/4813?tab=description)
 - [Starborn's Bounty](https://www.nexusmods.com/starfield/mods/4978?tab=description)
 - [Essence to Power](https://www.nexusmods.com/starfield/mods/5082)
+- [No Bras in Space](https://www.nexusmods.com/starfield/mods/1471)
+- [Better Vanilla Nude Bodies](https://www.nexusmods.com/starfield/mods/5808)
 
 ## BUGS
 
