@@ -27,6 +27,7 @@ Changes
 - [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820)
 - [StarUI Outpost](https://www.nexusmods.com/starfield/mods/5766)
 - [Constellation Quick Packs (With Hotkeys)](https://www.nexusmods.com/starfield/mods/5299?tab=description)
+- [Loose Root Data](https://www.nexusmods.com/starfield/mods/3424?tab=description)
 
 ## REMOVED
 
