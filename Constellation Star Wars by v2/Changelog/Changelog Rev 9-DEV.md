@@ -14,10 +14,11 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL
 - [Mandalorian sniper rifle - (Amban sniper)](https://www.nexusmods.com/starfield/mods/4957?tab=description)
 - [Mandalorian Conversion - Clone Wars Era](https://www.nexusmods.com/starfield/mods/4783?tab=description)
 - [Westar 34 - Jango Fett Blaster](https://www.nexusmods.com/starfield/mods/5119)
+- [Loose Root Data](https://www.nexusmods.com/starfield/mods/3424?tab=description)
 
 ## REMOVED
 
-
+N/A
 
 ## NEW MODS ADDED
 

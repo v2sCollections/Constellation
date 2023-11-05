@@ -1,10 +1,13 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 41 is COMING SOON](https://)
+## [HEY GUYS Rev 41 is HERE](https://)
 
 ## NOTES
 
 MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
+
+- The latest NVIDIA drivers have caused DLSS to stop working roll back your drivers if you would like to ccontinue to use DLSS.
+- [SF1Edit= xEdit](https://www.nexusmods.com/starfield/mods/239) Has been added you will find it in the Vortex toolbar. (Advanced Users ONLY)
 
 This update addresses a few issues.
 
@@ -18,6 +21,9 @@ Changes
 - Add Throwables= Numpad3
 - Add Med Packs= Numpad4
 - Convert Essence to Power=Numpad8
+
+Vortex
+There are now some new settings in Vortex, when you see the folder junction pop-up select never show me again.
 
 ## UPDATED
 
@@ -35,6 +41,7 @@ Changes
 - [Power Attack Cost Reduction](https://www.nexusmods.com/starfield/mods/1245) Replaced With our own Variant
 - [Less Spongy Enemies](https://www.nexusmods.com/starfield/mods/344) Replaced With our own Variant
 - [Less Spongy Player - Adjustable Player Health](https://www.nexusmods.com/starfield/mods/1160) Replaced With our own Variant
+- [Compact Ship Builder UI](https://www.nexusmods.com/starfield/mods/1170) Replaced with [StarUI Ship Builder](https://www.nexusmods.com/starfield/mods/6402)
 
 ## NEW MODS ADDED
 
@@ -55,6 +62,8 @@ Changes
 - [Essence to Power](https://www.nexusmods.com/starfield/mods/5082)
 - [No Bras in Space](https://www.nexusmods.com/starfield/mods/1471)
 - [Better Vanilla Nude Bodies](https://www.nexusmods.com/starfield/mods/5808)
+- [SF1Edit](https://www.nexusmods.com/starfield/mods/239)
+- [StarUI Ship Builder](https://www.nexusmods.com/starfield/mods/6402)
 
 ## BUGS
 
