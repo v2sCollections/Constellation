@@ -17,13 +17,9 @@ If you would like to continue playing the modded game you will need to downgrade
 - **Preventing Steam updates** You can follow this Guide>[Preventing Steam Updates\
   ](https://github.com/2077v2/Constellation/blob/main/Guides.md#other-guides)
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)
-
-### Updated and Compatible With the latest 1.7.36 Version of Starfield on Steam.
+### ![](https://s11.gifyu.com/images/Sgd38.jpg)Updated and Compatible With the latest 1.7.36 Version of Starfield on Steam.
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
-
-### Collection Rev 40
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
 
@@ -60,7 +56,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most extensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[2.5](https://)Gb in download size for [100+](https://) Mods. Optional Mods add another [2](https://)Gb
+- Only-[2.5](https://)Gb in download size for [130](https://)+ Mods. Optional Mods add another [2](https://)Gb
 - Mods specifically created for the collection.
 - Setup Video- [HERE](https://youtu.be/4T8pOWYWu5Q?si=27GVbgBmVvDWOdm_)
 - Continuous Support in Comments and on Discord.
@@ -74,6 +70,7 @@ This collection is extensively tested with every new version that is released. I
 - (CCL) Constellation Collection Loader. &#x20;
 - Achievement Enabler.
 - Bethini Pie (Performance INI Editor).
+- SF1Edit.
 - DLSS + Frame Generation.
 - Discord Presence Intergration.
 - Hotkey Support.
@@ -84,9 +81,10 @@ This collection is extensively tested with every new version that is released. I
 - Quality-of-life-Improvements.
 - Input Mods.
 - Improved UI.
-- Console Command List with over 80+ Easy to use Commands+Cheats.
+- Console Command List with 100s of Easy to use Commands+Cheats.
 - 20+ Splash Screens.
 - 10+ Animated Menu Backgrounds.
+- 65 Custom in-game cursors.
 - Optional Star Wars Theme.
 - Support for other Modular Expansion Packs.
 
@@ -130,10 +128,10 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 
 ## [Install time](https://)
 
-This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier. And you can just cancel the subscription after the installation if you wish.
+This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier, And you can just cancel the subscription after the installation if you wish.
 
-**Premium Users**: Takes 15 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 30 Min + Semi-automatic. You will have to click on download for each mod one by one.
+**Premium Users**: Takes 30 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 1 Hour + Semi-automatic. You will have to click on download for each mod one by one.
 
 ***
 
@@ -259,27 +257,8 @@ Remember this is experimental you may see crashes here and there but it is well 
 
 **1**) Open Vortex and select "Collections".\
 **2**) Select "View".\
-**3**) Select the optional Mods and Install and Enable the DLSS Mod below.\
-![](https://s11.gifyu.com/images/S4IK7.png)4) Now you need to download the files below. Make sure you get the right file for your GPU.
-
-### &#x20;⛔40 Series Owners
-
-- [nvngx\_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/) = **NVIDIA DLSS DLL 3.5.0**
-- [nvngx\_dlssg.dll](https://www.techpowerup.com/download/nvidia-dlss-3-frame-generation-dll/) = **NVIDIA DLSS 3 Frame Generation DLL 3.5.0**
-
-### &#x20;⛔20 & 30 Series Owners
-
-- [nvgx\_dlss.dll](https://www.techpowerup.com/download/nvidia-dlss-dll/) = **NVIDIA DLSS DLL 2.5.0**
-
-**5**) Place these 2 files in the following location.
-
-```
-steamapps\common\Starfield\Data\SFSE\Plugins\nv-streamline
-```
-
-**6**) Once done should look as follows.
-
-![](https://s11.gifyu.com/images/S4ITQ.jpg)**7**) Once in the game you will see all the new options added to the Display Settings Menu.
+**3**) Select the optional Mods and Install and Enable the 2 DLSS Mods below.\
+![](https://s5.gifyu.com/images/S8V6u.png)**4**) Once in the game you will see all the new options added to the Display Settings Menu.
 
 NOTE Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
 </details>
@@ -303,8 +282,6 @@ NOTE Only use the "Quality" setting as other settings may increase the risk of t
 
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Constellation Quick Packs
 
-- Ammo Pack=**bat v2\_AmmoPack**
-- Throwables Pack=**bat v2\_ThrowPack**
 - Legendary Weapon Pack=**bat v2\_LegendPack**
 - Epic Weapon Pack=**bat v2\_EpicPack**
 - Rare Weapon Pack=**bat v2\_RarePack**
@@ -331,6 +308,12 @@ showlooksmenu player 1
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONSOLE
 
 - \~ = Console
+
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONSTELLATION QUICK-PACKS
+
+- Numpad 2 = Ammo Pack&#x20;
+- Numpad 3 = Throwables Pack
+- Numpad 4 = Med Pack
 
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)SHIP CONTROLS
 
@@ -368,7 +351,9 @@ Power Presets
 - F2 = will place the landing zone as you call it
 - F3 = will do as command F1 and also check if the surface is flatter enough, or refuse to land there because it's not safe enough
 
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
+### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONVERT ESSENCE TO POWER
+
+- Numpad 9 = Covert Essence to Power
 </details>
 
 ***
@@ -479,8 +464,6 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Prevent the player from becoming a bullet sponge on the higher levels.
 </details>
 
-
-
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ![](https://s6.gifyu.com/images/S8WCk.png)
@@ -586,6 +569,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - You can now tweak how fast you can climb on ladders and other objects (mantle) to your preference.
 - You can now Tactical Sprint similar to Call of Duty.
 - You can now disable aim assist on a controller.
+- You can now convert 10 Essence to Power or Power Ranks using a hotkey. (Hotkey)Numpad9
 
 ## [Quests](https://)
 
@@ -603,6 +587,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increased credits by 115% on average from vendors.
 - Increased credits by 100% for Trade Authority and Vladimir Sall (always applies)
 - Increased upgraded weapons on specific weapon vendors by 100%
+- Starborn enemies have different effects (or bounties) when the player defeats them, making them more interesting to dispatch. Killing any of these can now Empower you (add power or power ranks), allow you to loot them, or grant bonus quantum essence.
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -629,8 +614,6 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increased the speed of Air Lock Animations. It comes with various speed multipliers for you to choose from.
 - Increased the speed of Furniture animations. It comes with various speed multipliers for you to choose from.
 </details>
-
-
 
 ***
 
@@ -660,24 +643,16 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ***
 
-## StarUI Inventory & StarUI HUD
+## StarUI
 
-![](https://s11.gifyu.com/images/S4CgB.jpg)[StarUI Inventory](https://www.nexusmods.com/starfield/mods/773) & [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) & [StarUI Workbench](https://www.nexusmods.com/starfield/mods/4966?tab=description) & [StarUI Outpost](https://www.nexusmods.com/starfield/mods/5766) and [StarUI Configurator](https://www.nexusmods.com/starfield/mods/5467) by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
+![](https://s11.gifyu.com/images/S4CgB.jpg)StarUI Series by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
 
 ### Features
 
-> **StarUI Inventory** improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category and subcategories as left sidebar. Many quality of life features!
->
-> **StarUI HUD** gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolour or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
->
-> **StarUI Workbench** improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, Quality-of-Life features and more!
->
-> **StarUI Outpost ***Improves the outpost interface for PC. Add a comfortable build menu with separate lists for category, building and variation (and you only need 4 keys instead of 8 to navigate) . Changes the key bindings to be like most other interfaces. Adds a inspect label and button hints at the cursor. And many other quality-of-life additions.*
->
-> **StarUI Configurator** Easily configure all settings with a well aligned and easy to use interface. Provides help texts, sliders, dropdowns, toggle switcher and specialized column-picker and color-picker widgets to make individualizing your StarUI mod an ease.
+> So many things to list. Customize every part of your HUD and Menu in the game. Check the drop downs below for more infomation.
 
-<details><summary>CLICK FOR MORE DETAILS</summary>
-## [StarUI Inventory](https://)
+<details><summary>STARUI INVENTORY</summary>
+**StarUI Inventory** improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category and subcategories as left sidebar. Many quality of life features!
 
 - Much compacter overview of the category list and item list
 - Properties like mass, value, value/mass, mass of stack, value of stack, damage, DPS ("Burst DPS"), damage resistance, ammo type, ammo rounds, weapon type, item rarity, and many more are available as columns. Only a few are on by default - add as much as you like via INI!
@@ -705,8 +680,10 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Full support for controller. Hold L1 in the item list to access all new StarUI Inventory functions.
 - Works with Steam and Game Pass (X-Box) version
 - You can configure all options in the **Data\Interface\StarUI Inventory.ini**. (Will move to MCM as soon as one is available.
+</details>
 
-## [StarUI HUD](https://)
+<details><summary>STARUI HUD</summary>
+**StarUI HUD** gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolor or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
 
 - Change most widgets on the HUD to your liking:
 - - Change the position, the scale (size), the rotation and the color (color modifier or color overwrite available) individually per widget
@@ -746,8 +723,10 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Full translation support (See the translation section on this side if your translation is already available)
 - Many other smaller or bigger improvements
 - Completely customizable (see the well-documented INI file)
+</details>
 
-## [StarUI Workbench](https://)
+<details><summary>STARUI WORKBENCH</summary>
+recoloring**StarUI Workbench** improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recoloring, dark mode, Quality-of-Life features, and more!
 
 - Much more compact design optimized for PC use
 - Additional information columns for all workbenches, including DPS for weapons, secondary resists for armor, cost and max craft-able amount for food/drugs/industrial items, and a treatment column for aid items.
@@ -769,10 +748,12 @@ https://www.youtube.com/watch?v=Ti79tays4dc
   - Instant open/close - Animations removed
   - Unlimited crafting - You can adjust the max amount in the INI
   - Completely customizable - See*StarUI Workbench (default).ini*optimized
+</details>
 
-## [StarUI Outpost](https://)
+<details><summary>STARUI OUTPOST</summary>
+**StarUI Outpost** Improves the outpost interface for PC. Add a comfortable build menu with separate lists for category, building and variation (and you only need 4 keys instead of 8 to navigate) . Changes the key bindings to be like most other interfaces. Adds a inspect label and button hints at the cursor. And many other quality-of-life additions.
 
-- Much better-improved build menu with separate lists for categories, buildings and variants
+- A much better-improved build menu with separate lists for categories, buildings and variants
 - - You no longer need 8 keys for the build menu navigation - 4 keys are enough
   - Shows the produced item as a subtitle for fabricators
   - View all variants in an easily navigable list
@@ -790,8 +771,10 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Completely customizable - Comes with an [StarUI Configurator](https://www.nexusmods.com/starfield/mods/5467) profile, so you can easily adjust your outpost interface
 - Safe to install/remove at any time! Doesn't affect your save game and won't prevent your ability to get achievements!
 - Multilanguage - Supports all languages out of the box
+</details>
 
-## [StarUI Configurator](https://)** **
+<details><summary>STARUI CONFIGURATOR</summary>
+**StarUI Configurator** Easily configure all settings with a well aligned and easy to use interface. Provides help texts, sliders, dropdowns, toggle switcher and specialized column-picker and color-picker widgets to make individualizing your StarUI mod an ease.
 
 - Allows you to easily configure all settings from [**StarUI Inventory**](https://www.nexusmods.com/starfield/mods/773), [**StarUI HUD**](https://www.nexusmods.com/starfield/mods/3444), [**StarUI Workbench**](https://www.nexusmods.com/starfield/mods/4966) and **StarUI Outpost**.
 - Supports individual inputs for number, boolean, or text values
@@ -821,6 +804,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 - Ammo Pack 100 per Ammo Type (Hotkey)=**Numpad2**
 - Throwables Pack 20 per Throwable Type (Hotkey)=**Numpad3**
+- Med Pack adds 10 Med Kits (Hotkey)=**Numpad4**
 - Legendary Weapon Pack (Console Command)=**bat v2\_LegendPack**
 - Epic Weapon Pack (Console Command)=**bat v2\_EpicPack**
 - Rare Weapon Pack (Console Command)=**bat v2\_RarePack**
@@ -834,7 +818,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ### Features
 
-> Console Command List with over 80+ Easy to use Commands+Cheats. You can access this from the Tools bar in Vortex. You just have to copy and paste the commands you want from the Text document in Vortex into your console in the game. You can open the console (with the ~ key)
+> Console Command List with 100s of Easy to use Commands+Cheats. You can access this from the Tools bar in Vortex. You just have to copy and paste the commands you want from the Text document in Vortex into your console in the game. You can open the console (with the ~ key)
 
 <details><summary>CLICK FOR DETAILS</summary>
 ## [This is a list of the types of cheats you can use.](https://)
@@ -981,17 +965,25 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 
 ## ![](https://s6.gifyu.com/images/S8WCi.png)Features
 
->
+> Enhanced body features+Custom sculpted bodys.
 
-
+<details><summary>CLICK FOR MORE DETAILS (NSFW)</summary>
+- Enhanced 4k player body.
+- Choose from different body styles.
+- Optional Tan lines.
+</details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ## ![](https://s6.gifyu.com/images/S8W0o.png)Features
 
->
+> Lite NSFW mods.&#x20;
 
-
+<details><summary>CLICK FOR MORE DETAILS (NSFW)</summary>
+- Undress and unequip items from the player and any NPC.
+- No underwear for the player and any NPC.
+- Optional underwear lines.
+</details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -1018,7 +1010,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Set the ship hull health % threshold when the repair icon appears.
 - Show the true value of your shield health.
 - Add mouse inertia to HUD elements (See video demo below.).
-- Auto-repair your hull when its health falls below a certain threshold. (Works in scanner mode.)\
+- Auto-repair your hull when its health falls below a certain threshold. (Works in scanner mode.)\\
 </details>
 
 <details><summary>cLICK FOR CONSOLE COMMANDS</summary>
@@ -1154,6 +1146,7 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 - Custom Constellation Collection Loader.
 - Constellation Saves Backup.
 - Bethini Pie (Performance INI Editor).
+- SF1Edit
 </details>
 
 ***
