@@ -16,6 +16,13 @@
 - ~ = Console
 
 
+### CONSTELLATION QUICK-PACKS
+
+- Numpad 2 = Ammo Pack 
+- Numpad 3 = Throwables Pack
+- Numpad 4 = Med Pack
+
+
 ### CALL YOUR SHIP
 
 - F1 = will place the landing zone as soon as the ship returns from space.
@@ -48,6 +55,10 @@ Power Systems
 - Quick-Key 12 = Stealth Power Preset
 
 For more information see>[Ship Power Control Tweaks (KBM)](https://github.com/2077v2/Constellation/blob/main/Guides.md#gameplay)
+
+### CONVERT ESSENCE TO POWER
+
+- Numpad 9 = Convert Essence to Power
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
