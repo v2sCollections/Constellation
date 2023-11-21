@@ -26,6 +26,7 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL
 - [Star Wars Akila Faction Hologram Statue's](https://www.nexusmods.com/starfield/mods/6467?tab=description)
 - [Star Wars Holocron snow globes](https://www.nexusmods.com/starfield/mods/6618?tab=description)
 - [Star Wars Aurebesh Playing cards](https://www.nexusmods.com/starfield/mods/6481?tab=description)
+- [BetterConsole - Console Replacer and MOD Menu](https://www.nexusmods.com/starfield/mods/3683)
 
 ## BUGS
 

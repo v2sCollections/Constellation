@@ -1,8 +1,27 @@
-### Updated & Compatible With the latest 1.7.36 Version of Starfield on Steam.
+\
+![](https://s6.gifyu.com/images/S8Lvb.png)\
+Hey guys&#x20;
+
+**Starfield Patch is here these are your options.**
+
+## 1) If you accidentally update:
+
+If you would like to continue playing the modded game you will need to downgrade the version of the game through **Steam**.
+
+- **Downgrading** You can follow this Guide>[How to Downgrade Starfield](https://github.com/2077v2/Constellation/blob/main/Guides.md#other-guides)
+
+## 2) Preventing the Update:
+
+- **Preventing Steam updates** You can follow this Guide>[Preventing Steam Updates\
+  ](https://github.com/2077v2/Constellation/blob/main/Guides.md#other-guides)
+
+###
+
+***
+
+**Updated & Compatible With the latest 1.7.36 Version of Starfield on Steam.**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
-
-### Collection Rev 8
 
 ![](https://s6.gifyu.com/images/S4ATa.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
 
@@ -10,28 +29,22 @@
 Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
-This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Star Wars** experience possible.
+### [Collection not working ❓](https://)
 
-I hope you enjoy this collection and the game as much as I do. It's time for me to go but don't be a stranger Join our community over on [Discord](https://discord.gg/xZNztPjA2u) see you there.
-
-## [Collection not working](https://) ❓
-
-This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
+This collection is extensively tested with every new version, because we want to ensure you're in the Cosmos quickly. If ever there is an issue, please join our community [Discord](https://discord.gg/v2-s-collections-1076179431195955290) so we can provide the fastest help that our team can deliver. Often issues can be solved quicker than a downvote!&#x20;
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)
-
-![](https://s6.gifyu.com/images/S4OEU.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ![](https://s11.gifyu.com/images/SgdA0.png)
 
 [![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 
-[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/xZNztPjA2u)
+[![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/v2-s-collections-1076179431195955290)
 
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most exstensive Star Wars mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only- [2](https://)GB in download size for [50](https://)+ Mods.
+- Only- [3](https://)GB in download size for [50](https://)+ Mods.
 - Mods specifically created for the collection.
 - [Setup Video](https://www.youtube.com/@Constellation-2077)- (COMING SOON)
 - [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
@@ -47,11 +60,14 @@ This collection is extensively tested with every new version that is released. I
 - 10+ Animated Star Wars Menu Backgrounds. (COMING SOON)
 - Support for other Modular Expansion Packs.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
+### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)[⛔DO NOT](https://)
+
+- Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
 
 ## [Make a Backup Save](https://)
 
 - Mods for Bethesda games can be unreliable at times it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
+- Alternatively, you can run the backup bat file that is in your main directory after you install the Collection to automate the backup of your saves.
 
 ```
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
@@ -74,11 +90,7 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-## ![](https://s11.gifyu.com/images/SgdAq.png)[READ](https://)
-
-- ⛔ It Is important that you READ the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
-
-## [Install time](https://)
+## ![](https://s11.gifyu.com/images/SgdAq.png)[Install time](https://)
 
 **Premium Users**: Takes 5 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
 **Free Users:** Takes 10 Min + Semi-automatic. You will have to click on download for each mod one by one.
@@ -87,9 +99,9 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 
 ## [PC  Updates](https://)
 
-- Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
-- Make sure that you have the latest Graphics driver update.
+- ⛔Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- ⛔Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
+- ⛔Make sure that you have the latest Graphics driver update.
 
 ***
 
@@ -136,6 +148,16 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 
 ***
 
+## [ENABLING STARFIELD MODDING](https://)
+
+**1**) If your Starfield.ini isn't set up for modding you will see this Pop-Up in the top right-hand corner of Vortex select **"Fix"**.
+
+![](https://s6.gifyu.com/images/S8nhU.jpg)**2) ⛔**When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
+
+![](https://s6.gifyu.com/images/S8nkL.jpg)
+
+***
+
 ## [Installing The Collection](https://)
 
 **1**) Click "Add to Vortex"(choose your main profile you use).
@@ -143,14 +165,6 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 ![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
 ![](https://s11.gifyu.com/images/SgGTE.jpg)
-
-***
-
-## [ENABLING MODDING](https://)
-
-When you first launch the game from Vortex you may see a popup. Select [YES: Apply recommended changes.](https://)
-
-![](https://s11.gifyu.com/images/S4U8u.jpg)
 
 ***
 
@@ -168,9 +182,9 @@ Now you can choose which ***(OPTIONAL)***  Mods you would like to install these 
 
 ![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/xZNztPjA2u) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
+You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
-You can find all our guides on our [Discord](https://discord.gg/xZNztPjA2u) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
+You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
 
 ## FAQ&#x20;
 
@@ -210,11 +224,7 @@ Sometimes you need to relink Vortex to a tool.
 **4**) Now select "target" and browse to where you have the tool installed this will be in the main Starfield directory.
 </details>
 
-### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)[⛔WARNINGS⛔](https://)
-
-⛔ It Is important that you read the following guide to fully understand everything clearly.
-
-You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
+### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
 
 ### ![](https://s6.gifyu.com/images/S4AHU.jpg)![](https://s6.gifyu.com/images/S4Ozq.jpg)
 
@@ -233,6 +243,12 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [Star Wars Credits. (Only Credits)](https://www.nexusmods.com/starfield/mods/5023)
 - [Astromech mini bots](https://www.nexusmods.com/starfield/mods/5056?tab=description)
 - [UC to Galactic Empire](https://www.nexusmods.com/starfield/mods/2779?tab=description)
+- [Star Wars New Atlantis Star Destroyer](https://www.nexusmods.com/starfield/mods/6820)
+- [Star Wars Holocron snow globes](https://www.nexusmods.com/starfield/mods/6618)
+- [Star Wars Data pads](https://www.nexusmods.com/starfield/mods/6844)
+- [Star Wars Binoculars](https://www.nexusmods.com/starfield/mods/6843)
+- [Star Wars Akila Faction Hologram Statue's](https://www.nexusmods.com/starfield/mods/6467)
+- [Star Wars Aurebesh Playing cards](https://www.nexusmods.com/starfield/mods/6481)
 
 ### Outfits/Armour
 
@@ -252,6 +268,15 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [Mandalorian sniper rifle - (Amban sniper)](https://www.nexusmods.com/starfield/mods/4957?tab=description)
 - [IB-94 Mandalorian gun](https://www.nexusmods.com/starfield/mods/5022?tab=description)
 - [Immersive Lightsabers](https://www.nexusmods.com/starfield/mods/3795?tab=description)
+- [Star wars 773 Firepuncher rifle - 4K](https://www.nexusmods.com/starfield/mods/6171)
+- [Westar 35 - Bo-katan Blaster (4k)](https://www.nexusmods.com/starfield/mods/5779)
+- [Westar 34 - Jango Fett Blaster](https://www.nexusmods.com/starfield/mods/5119)
+- [LL 30 Blaster - 4K](https://www.nexusmods.com/starfield/mods/5933)
+- [ELG 3A Blaster - 4K](https://www.nexusmods.com/starfield/mods/6129)
+- [Star Wars Grenades](https://www.nexusmods.com/starfield/mods/6774)
+- [Trandoshan Uzi (Republic Commando)](https://www.nexusmods.com/starfield/mods/4911)
+- [E-11 Blaster Rifle](https://www.nexusmods.com/starfield/mods/5089)
+- [DC-15A Blaster Rifle](https://www.nexusmods.com/starfield/mods/5134)
 
 ### Audio Replacers: Other
 
@@ -280,19 +305,21 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - [DC15s Blaster (Republic Commando pistol) Sounds for Sidestar Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3107?tab=description)
 - [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
 - [A180 blaster sounds for Eon pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/2932?tab=description)
-- [ELG-3A Blaster (Padme's pistol) Sounds for Novalight (Star Wars)](https://www.nexusmods.com/starfield/mods/4248?tab=description)
 - [LL-30 Blaster (Cad Bane's pistol) Sounds for Magshot Revolver (Star Wars)](https://www.nexusmods.com/starfield/mods/4250?tab=description)
 - [Westar-34 Blaster (Jango Fett's pistol) Sounds for Regulator Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3455?tab=description)
 - [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)&#x20;
 - [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)&#x20;
 - [EE-3 Blaster (Boba Fett's rifle) Sounds for Beowulf Rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4468)
-- [EE-3 Blaster (Boba Fett's rifle) Sounds for Beowulf Rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4468)
 - [DC-15A Blaster (Clone Trooper rifle) Sounds (OG BF2) for Orion laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4918)
 - [DL-44 Blaster (Han Solo's pistol) Sounds for Urban Eagle pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/4864)
 - [LS-150 (Trandoshan Minigun) Sounds for Kodama SMG (Star Wars)](https://www.nexusmods.com/starfield/mods/5256?tab=description)
+
+### UI
+
+- [Slightly Better Weapon Icons](https://www.nexusmods.com/starfield/mods/4798)
 </details>
 
-## [CLICK HERE FOR A LIST OF REPLACER DETAILS AND CONSOLE COMMANDS](https://inexpensive-drum-ebe.notion.site/0e6104885aea4f8da166f3e7ae9f8c6e?v=72b3231746764ef9ad99f45df6196ccc\&pvs=4)
+## [CLICK HERE FOR A LIST OF REPLACER DETAILS AND CONSOLE COMMANDS](https://inexpensive-drum-ebe.notion.site/0e6104885aea4f8da166f3e7ae9f8c6e?v=4930a05f58614c6cb7e3595de3f62db0\&pvs=4)
 
 Or if you would like to add all the Star Wars Items in the collection to your inventory open the console with the \` key and enter the following.
 
@@ -304,11 +331,36 @@ bat v2_AddAll
 
 ![](https://s6.gifyu.com/images/S4AHT.png)
 
-- Replaces guards into Stormtroopers.
+## Features
+
+> Retextures and Replacement of in world items to create a Star Wars universe.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+### [Character](https://)
+
 - Replaces some outfits with Star Wars outfits.
+
+### [World Items](https://)
+
 - Replaces the in-game flags around UC with Star Wars-themed flags with many variants to choose from.
 - Replacers the Texture of Jemision to Coruscant seen in the Star Map.
 - Replacers some of the art for the United Colonies turning them into the Galactic Empire.
+- Replaces 2 of the NASA snow globes with Jedi and Sith holocrons.
+- Replaces every Data Slate/note into Data Pads from Star Wars.
+- Replaces the binoculars found in the lodge with the ones from Star Wars.
+- Replacers the minibots in the game to be Astromechs from Star Wars.
+- Replaces the solomon coe statue in Akila city with a glowing Starwars hologram.
+- Replacers the playing cards with Star Wars Aurebesh cards.
+
+### [NPC](https://)
+
+- Replaces guards into Stormtroopers.
+- Replacers the SysDef uniforms to fit a Galactic Empire theme within the UC.
+
+### [Props](https://)
+
+- Adds a huge Star Destroyer above the Mast building.
+</details>
 
 ***
 
@@ -326,12 +378,18 @@ https://www.youtube.com/watch?v=\_bEHcZlynk8
 
 ![](https://s6.gifyu.com/images/S4AHw.png)
 
+## Features
+
+> Many gameplay features to create a Star Wars experience.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Replaces on-screen messages with messages spoken by Yoda.
 - Replaces music and sounds with ones from our favorite galaxy far far away!
 - Replacers the Boarding alarm with the one from the Death Star.
 - Replaces credits into Star Wars currency.
-- Replacers the minibots in the game to be Astromechs from Star Wars.
-- Replacers the SysDef uniforms to fit a Galactic Empire theme within the UC.
+</details>
+
+
 
 ***
 
@@ -347,15 +405,27 @@ https://www.youtube.com/watch?v=\_bEHcZlynk8
 
 ![](https://s6.gifyu.com/images/S4AH3.png)
 
+## Features
+
+> Retextures and Replacement of some vanilla weapons into Star Wars weapons.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
 - Replaces firing sounds for 20+ weapons with Star Wars weapon sounds.
 
-### Weapons
+### [Weapons](https://)
 
 - Boba Fett's Blaster Rifle (Classic EE-3) - (Lawgiver).
 - IB-94 Mandalorian gun - (Var'uun pistol)
 - Mandalorian sniper rifle - (Amban sniper).
 - CombaTech Design Lightsaber.
 - Old Earth Design Lightsaber
+
+### [Grenades](https://)
+
+- Replaces all in-game grenades with Star Wars grenades.
+</details>
+
+
 
 ***
 
@@ -373,7 +443,9 @@ https://www.youtube.com/watch?v=zc-ISjhfcIU
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)![](https://s6.gifyu.com/images/S638h.png)
 
-![](https://s6.gifyu.com/images/S636k.png)
+### ![](https://s6.gifyu.com/images/S636k.png)Features
+
+> Retextures and Replacement of some vanilla skins into Star Wars themed skins.
 
 <details><summary>CLICK FOR CHISS SETTINGS</summary>
 - Skin Tone (**9**)&#x20;
