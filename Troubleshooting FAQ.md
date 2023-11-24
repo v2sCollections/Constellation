@@ -167,6 +167,26 @@ This is caused by the DLSS Mod. Only use the "Quality" setting as other settings
 
 
 <details>
+<summary>How do i change the Mod Staging folder in Vortex</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+To enable **Hardlink Deployment** in **Vortex** the **Mod Staging folder** must be on the same drive as the game.
+
+If you can't select **Hardlink Deployment** then this is why, you can follow the guide below to change the location of the Staging Folder.
+
+**1**) Open **Vortex** and select **"settings"**
+
+**2**) On the **"Mods"** tab you can select the folder icon.
+
+**3**) Here you can change the location of the **Staging Folder** and make sure it is on the same drive as the game.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
+<details>
 <summary>Game Not Launching SFSE Not Found</summary>
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
