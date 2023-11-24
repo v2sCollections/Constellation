@@ -36,7 +36,9 @@ We now have a new method for updating this should will all of the Vortex errors 
 - [Enemy Friendly Fire (SFSE)](https://www.nexusmods.com/starfield/mods/614)
 - [Simple Offence Suppression SFSE](https://www.nexusmods.com/starfield/mods/4456)
 - [Gravity Affects Weight (SFSE)](https://www.nexusmods.com/starfield/mods/3048?tab=description)
-- [
+- [Weapon Swap Stuttering Fix](https://www.nexusmods.com/starfield/mods/2830?tab=description)
+- [Sprint Stuttering Fix](https://www.nexusmods.com/starfield/mods/884?tab=description)
+- [60 FPS - Smooth UI](https://www.nexusmods.com/starfield/mods/350)
 
 ## REMOVED
 
