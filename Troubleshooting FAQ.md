@@ -149,18 +149,6 @@ This is because you didn't select the right settings from the installation guide
 </details>
 
 
-<details>
-<summary>My Screen is flickering or going Black</summary>
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-This is caused by the DLSS Mod. Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
-
-
 
 
 ## Vortex Questions
