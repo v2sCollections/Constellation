@@ -1,12 +1,9 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
 
-
-### Updated & Compatible With the latest 1.7.33 Version of Starfield on Steam.
+**Updated and Compatible With the latest 1.8.86 Version of Starfield on Steam.**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
-
-### Collection Rev 8
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 4k Graphics Pack](https://) for **Starfield**.
 
@@ -17,7 +14,7 @@ Note this is for high-end systems only.
 - Easy to follow step-by-step installation guide.
 - Graphics mods to enhance Starfield.
 - Ultrawide support.
-- [Discord Server](https://discord.gg/xZNztPjA2u)-with a growing community.
+- [Discord Server](https://discord.gg/v2-s-collections-1076179431195955290)-with a growing community.
 - [Youtube Channe](https://www.youtube.com/@Constellation-2077)l-with Guides and Videos.
 - [Github Repository](https://github.com/2077v2/Constellation)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
@@ -25,100 +22,140 @@ Note this is for high-end systems only.
 - Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).
 - and much much more Join our Discord for more information.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)
-
+![](https://s11.gifyu.com/images/Sgd38.jpg)\
 ![](https://s11.gifyu.com/images/SgdAu.png)
 
-## ⛔[WARNINGS](https://)⛔
+<details><summary>⛔DO NOT</summary>
+- Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+</details>
 
-If you see this> ⛔ then you need to read and follow the directions.
+<details><summary>⛔HOW TO UPDATE</summary>
+- **1**) Create a new Profile in Vortex and enable it.
+- **2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/7ou329/revisions/13?utm_medium=vortex\&utm_source=vortex\&utm_campaign=view_collection\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
+- **4**) Once the update is downloaded you can remove the old profile.
 
-- ⛔It Is important that you read the following guide to fully understand everything clearly.
-- ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
+**NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+</details>
 
-## [Updating Collection](https://)[   ](https://)
-
-- **⛔**Updating the collection is as easy as clicking the "Update" button. When prompted to "**Remove mods from old revision**" make sure to click the"**Remove All**" button.
-- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Notes will be in the changelog.
-
-## [Launching Starfield](https://)
-
+<details><summary>⛔LAUNCHING STARFIELD</summary>
 - Make sure Steam is open.
 - Use Vortex to launch the game. (You cannot Launch from Steam)
 
 ![](https://s11.gifyu.com/images/SgO30.jpg)
+</details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-## ![](https://s11.gifyu.com/images/SgdAq.png)[READ](https://)
+![](https://s11.gifyu.com/images/SgdAq.png)
 
-- ⛔ It Is important that you READ the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+> **WATCH THE INSTALL GUIDE**
 
-## [Install time](https://)
+https://www.youtube.com/watch?v=4T8pOWYWu5Q
 
-**Premium Users**: Takes 10 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 20 Min + Semi-automatic. You will have to click on download for each mod one by one.
+> **READ THE INSTALL GUIDE**
 
-***
+<details><summary>⏰ INSTALL TIME</summary>
+This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier, And you can just cancel the subscription after the installation if you wish.
 
-## [Starfield](https://)
+**Premium Users**: Takes 2 Hours + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 4 Hours + Semi-automatic. You will have to click on download for each mod one by one.
+</details>
 
+<details><summary>1️⃣ PC Updates</summary>
+- ⛔Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- ⛔Make sure that you have Desktop Runtime 7.0.3 >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
+- ⛔Make sure that you have Desktop Runtime 6.0.23 >[HERE](https://download.visualstudio.microsoft.com/download/pr/83d32568-c5a2-4117-9591-437051785f41/e75171da01b1fa5c796660dc4b96beed/windowsdesktop-runtime-6.0.23-win-x64.exe)
+- ⛔Make sure that you have the latest Graphics driver update.
+</details>
+
+<details><summary>2️⃣ STARFIELD</summary>
 - ⛔This Collection only supports the Steam Version of Starfield.
 - Start with a fresh install of Starfield.
 - Make sure the game is installed on an SSD.
 - If you have never launched the game or you have reinstalled the game launch the game at least once to generate the required files.&#x20;
+</details>
 
-***
+<details><summary>3️⃣ VORTEX</summary>
+**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1?tab=description) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
-## [Vortex](https://)
+[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1?tab=description)
+</details>
 
-**1**) You will need[Vortex](https://www.nexusmods.com/site/mods/1)mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
-
-[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
-
-***
-
-## [Vortex & Starfield](https://)
-
-**1**) Open Vortex and click on "Select a game to manage".
-
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
-
-![](https://s11.gifyu.com/images/SgCKR.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, and Vortex will restart.
+<details><summary>4️⃣ VORTEX & STARFIELD</summary>
+**1**) Open Vortex and click on "Select a game to manage".\
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**\
+![](https://s11.gifyu.com/images/SgCKR.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
 **4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
 
 **5**) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
 
 ```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
+ [DRIVE LETTER]\SteamLibrary\steamapps\common\Starfield
 ```
 
-**6**) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
+```
+```
+</details>
 
-**7**) Go to the settings and on the mods, tab check "automatically use suggested path for staging folder" then check "**suggest and "apply".**
+<details><summary>5️⃣ ENABLING MODDING</summary>
+## StarfieldCustom.ini
 
-**8**) On the same window select "hard link deployment" and check "apply".
+**1**) If your Starfield.ini isn't set up for modding you will see this Pop-Up in the top right-hand corner of Vortex select **"Fix"**.
 
-![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
+![](https://s6.gifyu.com/images/S8nhU.jpg)**2) ⛔**When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
 
-***
+## ![](https://s6.gifyu.com/images/S8nkL.jpg)
+</details>
 
-## [INSTALLING THE COLLECTION](https://)
+<details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
+**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-**1**) Click "Add to Vortex"(choose your main profile you use).
+![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
 
-## ![](https://s12.gifyu.com/images/Untitled1.png)
+![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
-2\) ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add this 4k Collection on top of our Main Collection make sure to disable the optional 2k Textures included in the Main Collection.
+![](https://s11.gifyu.com/images/SgGTE.jpg)**4**) ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add this 4k Collection on top of our Main Collection make sure to disable the optional 2k Textures included in the Main Collection.
 
 - ⛔**NOTE** Our 1k and 4k Collections are **NOT** Compatible with each other for obvious Reasons.
+</details>
 
-***
+<details><summary>7️⃣ OPTIONAL MODS</summary>
+Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process  **(Make sure to read these messages)**.
 
-## [Required Mods](https://)
+## Reshade
 
+ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
+
+NOTE If you use a Reshade make sure that HDR is disabled in Windows.
+
+**1**) Click on Reshade in the top corner.
+
+![](https://s11.gifyu.com/images/SgO3F.jpg)
+
+**2**) Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
+
+```
+Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
+```
+
+**3**) Select Directx 10/11/12\
+**4**) On the **"select preset to install"** select next\
+**5**) Select next and finish the installation.\
+**6**) Run the game
+
+I have added the Reshade below.
+
+- Constellation Reshade by[v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
+
+### **Reshade controls**
+
+**End** key to toggle main effects\
+**Home** key to open GUI
+</details>
+
+<details><summary>⛔ REQUIRED MODS</summary>
 **⛔NOTE** If you are installing this on top of our main Constellation collection disregard this section.
 
 **1**) You will need to install 3 additional Mods.
@@ -128,16 +165,7 @@ Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield
 - [KiLoader for Starfield](https://www.nexusmods.com/starfield/mods/3298)
 
 **2**) Simply add these to Vortex.
-
-***
-
-## [OPTIONAL MODS](https://)
-
-\***Note** If you don't want the optional mods skip this step.
-
-**1**) Select **"show"** optional mods then select **"no thanks"**
-
-![](https://s11.gifyu.com/images/SgGTE.jpg)Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
+</details>
 
 ***
 
@@ -156,44 +184,13 @@ You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collect
 
 ## ![](<\<iframe src="https://giphy.com/embed/6yG1e2cnStpgpEDDId" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="https://giphy.com/gifs/xbox-xbox-series-x-starfield-e3-6yG1e2cnStpgpEDDId"\>via GIPHY\</a\>\</p\>>)![](https://media.giphy.com/media/6yG1e2cnStpgpEDDId/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
 
-***
-
-## [Reshade](https://)
-
-<details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
-ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
-
-**1**) Click on Reshade in the top corner.
-
-![](https://s11.gifyu.com/images/SgO3F.jpg)**2**) Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
-
-```
-Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
-```
-
-**3**) Select Directx 10/11/12
-
-**4**) On the **"select preset to install"** select next
-
-**5**) Select next and finish the installation.
-
-I have added the Reshade below.
-
-- Constellation Reshade by[v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
-
-### **Reshade controls**
-
-**End** key to toggle main effects\
-**Home** key to open GUI
-</details>
-
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our Discord and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
+You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 
-You can find all our guides on our Discord and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
+You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
 
 ## FAQ
 
@@ -202,16 +199,6 @@ You can find all our guides on our Discord and here [Guides](https://github.com/
 </details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
-
-## ⛔[WARNINGS](https://)⛔
-
-If you see this> ⛔ then you need to read and follow the directions.
-
-⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see the optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want.
-
-⛔ It Is important that you read the following guide to fully understand everything clearly.
-
-You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
 
 ## ![](https://s11.gifyu.com/images/SgFMA.jpg)**Reshade**
 
@@ -228,10 +215,19 @@ You can check out the gallery at the top of this page for videos by some of the 
 - [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672/?tab=description)
 - [Spacesuits Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4035?tab=description)
 - [Eyes Brows and Lashes Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4292)
+- [Architecture Surfaces Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6477?tab=description)
+- [Planets Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6538?tab=description)
+- [Spaceships Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6560)
+- [Water Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6760)
 
 ## NPCs
 
 - [Barrett Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4613)
+- [Adoring Fan Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6882)
+- [Marika Boros Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6885)
+- [Lin Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6884)
+- [Heller Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6883)
+- [Sarah Morgan Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6701)
 
 ##
 

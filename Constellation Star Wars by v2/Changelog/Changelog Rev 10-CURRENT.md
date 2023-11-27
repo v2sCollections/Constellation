@@ -7,9 +7,17 @@
 MAKE SURE TO REMOVE OLD MODS WHEN ASKED IN VORTEX
 CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL YOU HAVE DONE SO
 
+## Changes
+
+- Installation guide has changed. Please check the new guide on Nexus.
+
 ## UPDATED
 
-
+- [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106?tab=description)
+- [Baka Quit Game Fix](https://www.nexusmods.com/starfield/mods/1662)
+- [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750)
+- [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658)
+- [Address Library for SFSE Plugins](https://www.nexusmods.com/starfield/mods/3256)
 
 ## REMOVED
 

@@ -24,7 +24,7 @@ N/A
 - [Sarah Morgan Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6701)
 - [Architecture Surfaces Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6477?tab=description)
 - [Planets Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6538?tab=description)
-
+- [Spaceships Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6560)
 
 ## BUGS
 

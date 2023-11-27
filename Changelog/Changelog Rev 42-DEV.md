@@ -22,6 +22,13 @@ We now have a new method for updating this should will all of the Vortex errors 
 
 ![img](https://i.imgur.com/wAJUpeU.png)
 
+## Changes
+
+- Installation guide has changed. Please check the new guide on Nexus.
+- ESM mods have been added refer to the Plugins section in the installation guide.
+- This update requires a new NET Framework update you can find it [HERE](https://download.visualstudio.microsoft.com/download/pr/83d32568-c5a2-4117-9591-437051785f41/e75171da01b1fa5c796660dc4b96beed/windowsdesktop-runtime-6.0.23-win-x64.exe)
+- Please click on the mods that have been added below so you are familar with the changes.
+
 ## UPDATED
 
 - [StarUI Ship Builder](https://www.nexusmods.com/starfield/mods/6402)
@@ -39,6 +46,8 @@ We now have a new method for updating this should will all of the Vortex errors 
 - [Weapon Swap Stuttering Fix](https://www.nexusmods.com/starfield/mods/2830?tab=description)
 - [Sprint Stuttering Fix](https://www.nexusmods.com/starfield/mods/884?tab=description)
 - [60 FPS - Smooth UI](https://www.nexusmods.com/starfield/mods/350)
+- [Ship HUD Tweaks](https://www.nexusmods.com/starfield/mods/5518)
+- [Discord Rich Presence (SFSE)](https://www.nexusmods.com/starfield/mods/2545)
 
 ## REMOVED
 
@@ -61,6 +70,7 @@ We now have a new method for updating this should will all of the Vortex errors 
 - [Water Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6760)
 - [Sarah Morgan Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6701)
 - [Architecture Surfaces Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6477?tab=description)
+- [Spaceships Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6560)
 - [BetterConsole - Console Replacer and MOD Menu](https://www.nexusmods.com/starfield/mods/3683)
 - [Variable Contraband Prices - Contraband More Valuable in Locations with Scans](https://www.nexusmods.com/starfield/mods/5759)
 - [Swiftly Order Squad - Multiple Followers - Group Commands](https://www.nexusmods.com/starfield/mods/6439)
