@@ -1,33 +1,18 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-\
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s6.gifyu.com/images/S8Lvb.png)\
-Hey guys&#x20;
-
-**We believe a Starfield Patch is just around the corner here is how you can prepare**
-
-## 1) If you accidentally update:
-
-If you would like to continue playing the modded game you will need to downgrade the version of the game through **Steam**.
-
-- **Downgrading** You can follow this Guide>[How to Downgrade Starfield](https://github.com/2077v2/Constellation/blob/main/Guides.md#other-guides)
-
-## 2) Preventing the Update:
-
-- **Preventing Steam updates** You can follow this Guide>[Preventing Steam Updates\
-  ](https://github.com/2077v2/Constellation/blob/main/Guides.md#other-guides)
-
-### ![](https://s11.gifyu.com/images/Sgd38.jpg)Updated and Compatible With the latest 1.7.36 Version of Starfield on Steam.
+**Updated and Compatible With the latest 1.8.86 Version of Starfield on Steam.**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION](https://) for **Starfield**.
+![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [Constellation](https://) for **Starfield**.
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Hogwarts](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Elden Ring](https://next.nexusmods.com/eldenring/collections/qpwypd?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
 <details><summary>MY VISION FOR THIS COLLECTION</summary>
+This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Starfield** experience possible.
+
 My Vision for all my Collections is for you to be able to play the game any way you want. I won't force you to play a certain way I want you to have the tools to create your own experience so you can get the most out of your game.\
 \
 Constellation is the Ultimate experience you have access to everything you could ever need or want. Whether it's taking screenshots in photo mode, playing the most extreme difficulty, or cheating your way through Starfield this collection has it all and I mean all.\
@@ -35,13 +20,9 @@ Constellation is the Ultimate experience you have access to everything you could
 And that's it I hope to see you in the Cosmos but now it's time for me to go.
 </details>
 
-This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Starfield** experience possible.
+### [Collection not working ❓](https://)
 
-I hope you enjoy this collection and the game as much as I do. It's time for me to go but don't be a stranger Join our community over on [Discord](https://discord.gg/v2-s-collections-1076179431195955290) see you there.
-
-## [Collection not working](https://) ❓
-
-This collection is extensively tested with every new version that is released. If it's not working for you. Please join the discord so we can assist you and get you up and going before you downvote the collection.
+This collection is extensively tested with every new version, because we want to ensure you're in the Cosmos quickly. If ever there is an issue, please join our community [Discord](https://discord.gg/v2-s-collections-1076179431195955290) so we can provide the fastest help that our team can deliver. Often issues can be solved quicker than a downvote!&#x20;
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -56,7 +37,7 @@ This collection is extensively tested with every new version that is released. I
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most extensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[2.5](https://)Gb in download size for [130](https://)+ Mods. Optional Mods add another [2](https://)Gb
+- Only-[3](https://)Gb in download size for [150](https://)+ Mods. Optional Mods add another [5](https://)Gb
 - Mods specifically created for the collection.
 - Setup Video- [HERE](https://youtu.be/4T8pOWYWu5Q?si=27GVbgBmVvDWOdm_)
 - Continuous Support in Comments and on Discord.
@@ -71,7 +52,6 @@ This collection is extensively tested with every new version that is released. I
 - Achievement Enabler.
 - Bethini Pie (Performance INI Editor).
 - SF1Edit.
-- DLSS + Frame Generation.
 - Discord Presence Intergration.
 - Hotkey Support.
 - Reshade.
@@ -88,90 +68,108 @@ This collection is extensively tested with every new version that is released. I
 - Optional Star Wars Theme.
 - Support for other Modular Expansion Packs.
 
+\
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
 
-## [Make a Backup Save](https://)
+<details><summary>⛔DO NOT</summary>
+- Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+</details>
+
+<details><summary>⛔MAKE A BACKUP SAVE</summary>
+***
+
+https://www.youtube.com/watch?v=y4oWIJmgLrg
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 - Mods for Bethesda games can be unreliable at times it's always good to make a backup of your save file. The save file location can be found below Just copy the contents of this file and place it somewhere on your PC.
-- Alternatively, you can download my Mod [HERE](https://www.nexusmods.com/starfield/mods/5736) to automate the backup of your saves.
+- Alternatively, you can run the backup bat file that is in your main directory after you install the Collection to automate the backup of your saves.
 
 ```
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
+</details>
 
-## [Updating Collection](https://)[   ](https://)
-
-- ⛔**DO NOT update** any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
-- Notes will be in the changelog.
-
-### HOW TO UPDATE
-
+<details><summary>⛔HOW TO UPDATE</summary>
 - **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/npk3lv?tab=about\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile.
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+</details>
 
-## [Launching Starfield](https://)
-
+<details><summary>⛔LAUNCHING STARFIELD</summary>
 - Make sure Steam is open.
 - Use Vortex to launch the game. (You cannot Launch from Steam)
 
 ![](https://s11.gifyu.com/images/SgO30.jpg)
+</details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-## ![](https://s11.gifyu.com/images/SgdAq.png)[READ](https://)
+![](https://s11.gifyu.com/images/SgdAq.png)
 
-- ⛔ It Is important that you READ the following Installation guide to fully understand everything clearly. It is a simple step-by-step guide.
+<details><summary>⏰ INSTALL TIME</summary>
+***
 
-## [Install time](https://)
+https://www.youtube.com/watch?v=c\_VA7dgty3c
 
-This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier, And you can just cancel the subscription after the installation if you wish.
+![](https://s11.gifyu.com/images/Sgd38.jpg)This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier, And you can just cancel the subscription after the installation if you wish.
 
 **Premium Users**: Takes 30 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
 **Free Users:** Takes 1 Hour + Semi-automatic. You will have to click on download for each mod one by one.
 
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+</details>
+
+<details><summary>1️⃣ PC Updates</summary>
 ***
 
-## WATCH THE INSTALL GUIDE
+https://www.youtube.com/watch?v=ANxf9o7gnWE
 
-https://www.youtube.com/watch?v=4T8pOWYWu5Q
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 
+- ⛔Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- ⛔Make sure that you have Desktop Runtime 7.0.3 >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
+- ⛔Make sure that you have Desktop Runtime 6.0.23 >[HERE](https://download.visualstudio.microsoft.com/download/pr/83d32568-c5a2-4117-9591-437051785f41/e75171da01b1fa5c796660dc4b96beed/windowsdesktop-runtime-6.0.23-win-x64.exe)
+- ⛔Make sure that you have the latest Graphics driver update.
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+</details>
+
+<details><summary>2️⃣ STARFIELD</summary>
 ***
 
-## [PC  Updates](https://)
+https://www.youtube.com/watch?v=T1KryenezUw
 
-- Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- Make sure that you have the latest Desktop Runtime >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
-- Make sure that you have the latest Graphics driver update.
-
-***
-
-## [Starfield](https://)
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 - ⛔This Collection only supports the Steam Version of Starfield.
 - Start with a fresh install of Starfield.
 - Make sure the game is installed on an SSD.
 - If you have never launched the game or you have reinstalled the game launch the game at least once to generate the required files.&#x20;
 
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+</details>
+
+<details><summary>3️⃣ VORTEX</summary>
 ***
 
-## [Vortex](https://)
+https://www.youtube.com/watch?v=cX5tz-MO\_d8
 
-**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+![](https://s11.gifyu.com/images/Sgd38.jpg)**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1?tab=description) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
-[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1 "Vortex page")
+[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1?tab=description)
+</details>
 
+<details><summary>4️⃣ VORTEX & STARFIELD</summary>
 ***
 
-## [Vortex & Starfield](https://)
+https://www.youtube.com/watch?v=suCAprM6m94
 
-**1**) Open Vortex and click on "Select a game to manage".
-
-![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**
-
+![](https://s11.gifyu.com/images/Sgd38.jpg)**1**) Open Vortex and click on **"Select a game to manage"**.\
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**\
 ![](https://s11.gifyu.com/images/SgCKR.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
 **4**) Once Vortex has restarted it may say **"Game not discovered"** If it does click **"Continue"** at the bottom right of the popup.
@@ -179,57 +177,74 @@ https://www.youtube.com/watch?v=4T8pOWYWu5Q
 **5**) A window will now pop up where you can choose the folder where  **"Starfield"** is installed. **(Locations below)**.
 
 ```
-[DRIVE LETTER]\SteamLibrary\steamapps\common\Starfield
+ [DRIVE LETTER]\SteamLibrary\steamapps\common\Starfield
 ```
 
 **6**) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
 
-**7**) **⛔**Go to the settings and on the mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
+**7**) Go to the settings and on the Mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
 
-**8**) **⛔**On the same window select **"hard link deployment"** and check **"apply"**.
+**8**) On the same window select **"hard link deployment"** and check **"apply"**.
 
-![](https://s11.gifyu.com/images/Untitledef56ac4a42e1f37d.jpg)
+![](https://s5.gifyu.com/images/SRUz9.jpg)![](https://s11.gifyu.com/images/Sgd38.jpg)
+</details>
 
-***
-
-## [ENABLING MODDING](https://)
+<details><summary>5️⃣ ENABLING MODDING</summary>
+## StarfieldCustom.ini
 
 **1**) If your Starfield.ini isn't set up for modding you will see this Pop-Up in the top right-hand corner of Vortex select **"Fix"**.
 
 ![](https://s6.gifyu.com/images/S8nhU.jpg)**2) ⛔**When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
 
-![](https://s6.gifyu.com/images/S8nkL.jpg)
+## ![](https://s6.gifyu.com/images/S8nkL.jpg)
+</details>
 
+<details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
 ***
 
-## [Installing The Collection](https://)
+https://www.youtube.com/watch?v=9\_7bp8UkpBI
 
-**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+![](https://s11.gifyu.com/images/Sgd38.jpg)**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
 ![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
 
 ![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
-![](https://s11.gifyu.com/images/SgGTE.jpg)
+![](https://s11.gifyu.com/images/SgGTE.jpg)![](https://s11.gifyu.com/images/Sgd38.jpg)
+</details>
 
+<details><summary>7️⃣ ENABLING PLUGINS</summary>
+### ESM Plugin Manager
+
+**1**) In the top left-hand corner of Vortex you will see a new tool called **"Plugins Manager"** Select the tool and run it.
+
+![](https://s5.gifyu.com/images/SRF3O.jpg)**2**) The tool will now ask you to locate the Starfield **"Data"** folder located in the following location.
+
+```
+DRIVE LETTER:\SteamLibrary\steamapps\common\Starfield\Data
+```
+
+**3**) The Plugins Manager will now show a list of Mods. Select all of these Mods and select **"Save"**.
+
+![](https://s5.gifyu.com/images/SRWvQ.jpg)
+</details>
+
+<details><summary>8️⃣ OPTIONAL MODS</summary>
 ***
 
-## [OPTIONAL MODS](https://)
+https://www.youtube.com/watch?v=3bftJEk0eMI
 
-Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process  **(Make sure to read these messages)**.
+![](https://s11.gifyu.com/images/Sgd38.jpg)Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process  **(Make sure to read these messages)**.
 
-## [Reshade](https://)
+## Reshade
 
-<details><summary>CLICK HERE FOR OPTIONAL RESHADE INSTALLATION </summary>
 ReShade is included with the collection once you have finished downloading it will be placed on the toolbar in the top left-hand corner of Vortex.
 
 NOTE If you use a Reshade make sure that HDR is disabled in Windows.
 
 **1**) Click on Reshade in the top corner.
 
-![](https://s11.gifyu.com/images/SgO3F.jpg)
-
-**2**) Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
+![](https://s11.gifyu.com/images/SgO3F.jpg)**2**) Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
@@ -248,28 +263,13 @@ I have added the Reshade below.
 
 **End** key to toggle main effects\
 **Home** key to open GUI
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
-### [DLSS + Frame Generation](https://)
+<details><summary>🎮 IN-GAME SETTINGS</summary>
+To use the Console window use the **~** key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods.
 
-<details><summary>CLICK HERE FOR OPTIONAL DLSS + FRAME GENERATION INSTALLATION</summary>
-Remember this is experimental you may see crashes here and there but it is well worth it.
-
-**1**) Open Vortex and select "Collections".\
-**2**) Select "View".\
-**3**) Select the optional Mods and Install and Enable the 2 DLSS Mods below.\
-![](https://s5.gifyu.com/images/S8V6u.png)**4**) Once in the game you will see all the new options added to the Display Settings Menu.
-
-NOTE Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
-</details>
-
-***
-
-## [In-game settings](https://)
-
-- To use the Console window use the **~** key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods.
-
-<details><summary>CLICK FOR A FULL LIST OF CONSOLE COMMANDS</summary>
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
 
 - To apply the tweaks, run **"bat builderTweak"**
@@ -295,9 +295,7 @@ showlooksmenu player 1
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
-### Keybinds
-
-<details><summary>CLICK FOR A FULL LIST OF KEY BINDS</summary>
+<details><summary>⌨️ KEYBINDS</summary>
 ![](https://s11.gifyu.com/images/SgafS.png)These are set up for a full-size KB.
 
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)RESHADE
@@ -366,9 +364,8 @@ Power Presets
 
 ![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
-
-You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
+- You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
+- You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
 
 ## FAQ&#x20;
 
@@ -441,17 +438,21 @@ The mod we use to enable Achievements while playing the modded version of the ga
 **5**) Make sure **Steam** is always open before you launch the game from **Vortex**
 </details>
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)⛔ It Is important that you read the following guide to fully understand everything clearly.
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
 
-You can check out the gallery at the top of this page for videos by some of the mod authors showcased in this collection.
+### ![](https://s11.gifyu.com/images/SgFMA.jpg)![](https://s6.gifyu.com/images/S4Ozq.jpg)
 
-### ![](https://s11.gifyu.com/images/SgFMA.jpg)![](https://s6.gifyu.com/images/S4Ozq.jpg)Features
+<details><summary>CLICK HERE TO BECOME A JEDI</summary>
+### Features
 
 > This theme is completely (OPTIONAL) Download the ADD-ON Pack [HERE](https://next.nexusmods.com/starfield/collections/smp1fz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)
 
 A new constellation is taking shape in the cosmos, one that will awaken the inner Jedi or Sith within you. Prepare to leave the realm of **Starfield** behind as we introduce you to [Constellation Star Wars by v2](https://) a mod collection that will transport you from the unknown stars to the legendary galaxy of Star Wars!
 
 Prepare for an adventure like no other, where the stars themselves rewrite their destinies to align with the Force. Welcome to [Constellation Star Wars by v2](https://) where the stars tell a tale of epic proportions in a galaxy far, far away...
+</details>
+
+
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -480,6 +481,22 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Fixes an issue with NPCs taking too long to blink.
 - Fixes the mantling animation.
 - Fixes a bug in third person where the player's head is permanently stuck facing the left or right after jumping while sprinting.
+
+### [Starfield Community Patch](https://)
+
+The Starfield Community Patch (SFCP) project is a collective effort by mod authors and the wider player community of Starfield to fix bugs, errors and other inconsistencies present in the game. This includes tweaks, typos and other changes that may have been missed (or not yet released) by the developers. The overall goal is to improve the vanilla experience for all players. All fixes should be considered unofficial unless the change is carried forward by Bethesda.
+
+Fixes included in the patch are intended to correct bugs or errors in the base game, examples include:
+
+- Misplaced objects
+- Script errors
+- Inconsistencies in item properties
+- Faulty missions/quests
+- Game-breaking exploits
+- Missing attributes (such as tags, header flags, etc.)
+- Spelling errors
+
+You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelog)
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -561,20 +578,25 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Reduced the sound players produce when they are out of the line of sight.
 - Reduced the sound of footsteps.
-- Reduced the time it takes to refill your CO2.
-- Reduced the cost of Melee stamina by 25%.
-- Reduced the distance at which NPCs will talk to you.
-- Reduced the distance at which NPCs will stare at you.
 - Increased the travel distance of the horizontal boost.
 - You can now tweak how fast you can climb on ladders and other objects (mantle) to your preference.
 - You can now Tactical Sprint similar to Call of Duty.
 - You can now disable aim assist on a controller.
 - You can now convert 10 Essence to Power or Power Ranks using a hotkey. (Hotkey)Numpad9
 
+### [NPC](https://)
+
+- Reduced the distance at which NPCs will talk to you.
+- Reduced the distance at which NPCs will stare at you.
+- You can capture incapacitated enemies and turn them over to local security for profit.
+- Have an unlimited number of followers. Command all of your followers at once using a **communicator** added automatically to your inventory
+
 ## [Quests](https://)
 
 - Credit amounts from most sources are now boosted by about 25%-70% (e.g., generic early-game humanoid credit drops are increased on average by 50 credits).
 - Credit rewards are no longer strongly tied to player level, although the player level still influences the amount.
+- During the main quest "No Sudden Moves" you can take the artifact if in stealth without alerting the guards.
+- Access mission boards anywhere via the internet with a new**Online Mission Boards**item added to your inventory (it counts as a weapon).
 
 ## [Loot](https://)
 
@@ -583,11 +605,10 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increases the rate of Legendary drops for all difficulties.
 - Increased ammo/ship repair kit/Grenades/Mines by 100%
 - Increased medical supplies by 50%, and 100% for some specific medical supply vendors
-- You can now "Hold To Equip" for food, books, and ingredients.
-- Increased credits by 115% on average from vendors.
-- Increased credits by 100% for Trade Authority and Vladimir Sall (always applies)
-- Increased upgraded weapons on specific weapon vendors by 100%
+- Vendors have 10x the amount of credits. Restock in 1 day.
 - Starborn enemies have different effects (or bounties) when the player defeats them, making them more interesting to dispatch. Killing any of these can now Empower you (add power or power ranks), allow you to loot them, or grant bonus quantum essence.
+- Contraband is cheap in locations without scans, but expensive in these locations with scans.
+- Ensures the Outpost Shipbuilder always has 800,000 credits on hand as soon as you open the menu.
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -926,6 +947,9 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - Bullet hole impacts are now much more realistic.
 - Gravity now affects inventory/carry weight.
 - Increased the density of highly populated planets by about 25%.
+- You can heal conditions, afflictions, and health by entering an infirmary bed if you have a crew member with the medical perk onboard.
+- Make city info kiosk terminals in New Atlantis and Akila City useful by giving you directions to stores and other buildings.
+- Discharging firearms in settlements while not in combat causes NPCs to panic and is considered a crime.
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -958,6 +982,7 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - Reduced NPC reaction and idle times.
 - Reduced detection of sleeping NPCs.
 - Reduced enemy detection in exteriors slightly.
+- Reduced the cost of Melee stamina by 25%.
 - Increases the combat slide distance. Multiple versions to choose from.
 </details>
 
@@ -996,13 +1021,15 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Increased the speed of Ship Landing Animations. It comes with various speed multipliers for you to choose from.
 - Increased the Distance at which you can transfer items from Player to Ship.
-- You increase the number of custom landing sites you can have saved simultaneously, increasing it from the vanilla 3 sites.
+- You can increase the number of custom landing sites you can have saved simultaneously, increasing it from the vanilla 3 sites.
+- You can sit in the pilot seat to add the captured ship to your fleet. No need to make it your home ship.
 
 ## [Ship Building](https://)
 
 - A bunch of tweaks that make the shipbuilder more enjoyable and responsive to use. Includes faster and further zoom, faster panning, faster rotating, smaller snapping distance, and more floors.
 - Increases the overlap tolerance in the ship-builder, allowing for more tight and varied builds with slightly overlapping modules.
 - Increased the maximum number of ships you can own x5.
+- Ensures the Outpost Shipbuilder always has 800,000 credits on hand as soon as you open the menu, and optionally unlocks all specialty parts at the outpost
 
 ## [Ship HUD](https://)
 
@@ -1033,34 +1060,42 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 
 ***
 
-## Call Your Ship
+## Summoning of Ship - Ship Remote Control - Land - Take off - Set gravity
 
-https://www.youtube.com/watch?v=Bfcf83G5wzY
+https://www.youtube.com/watch?v=tS6XC02AZt4
 
-[Call Your Ship](https://www.nexusmods.com/starfield/mods/4923?tab=description) by [S1yRuleZ](https://www.nexusmods.com/starfield/users/7479387)
+[Summoning of Ship - Ship Remote Control - Land - Take off - Set gravity](https://www.nexusmods.com/starfield/mods/6216?tab=description) by [wSkeever](https://www.nexusmods.com/starfield/users/7064860)
 
 ## Features
 
-> Call your spaceship from anywhere outdoor. The ship will take off and then land in front of you, ready to be used!
+> Use a remote control device to order your ship to take off, land, and set gravity.
 
 <details><summary>CLICK FOR DETAILS</summary>
-&#x20;Call your ship from anywhere outside. Yes, also in main outposts... your choice if you want to devastate a city
+A **remote control** is added to your inventory with the following functions:
 
-- The ship takes off and then lands near your position
-- Receive notification on E.T.A.
-- Three different choices for the call:
+**Take off**- order ship to take off when it is landed.
 
-1. Call the ship and keep moving if you want, it will land near you as soon as it returns from space before landing.
-2. Call the ship and place a Landing Zone POI instantly in front of you. You can then walk away, the ship will land there anyway.
-3. Like option 2, but it will check if the landing zone is flat enough for a safe landing, or refuse and wait for another call.
+- You can be inside or outside the ship.
+- You can watch the ship take off from inside the cockpit.
 
-- You can then safely enter the ship and take off manually from there!
+**Land**- order the ship to land near you when it is in space.
 
-## [Keybinds](https://)
+- If you're within 200m of a (medium or large) landing pad or landing area, the ship will land there.
+- Otherwise, the ship will check your position to see if there is a 60m x 60m relatively flat and level area for it to land on. Tolerance for flatness is 2 meters.
+- An activity quest will tell you exactly where the ship will land.
+- Beeg ships will probably clip.
 
-- F1 = will place the landing zone as soon as the ship returns from space.
-- F2 = will place the landing zone as you call it
-- F3 = will do as command F1 and also check if the surface is flatter enough, or refuse to land there because it's not safe enough
+**Set gravity**- set the ship's interior gravity (for what purpose? Who knows):
+
+- 0.0g
+- 0.1g
+- 0.5g
+- 1.0g
+
+The **remote control** counts as a weapon, so you can:
+
+- favorite item **favorite**.
+- Give it a hotkey **hotkey**.
 </details>
 
 ***
@@ -1146,7 +1181,10 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 - Custom Constellation Collection Loader.
 - Constellation Saves Backup.
 - Bethini Pie (Performance INI Editor).
-- SF1Edit
+- SF1Edit.
+- Plugins Txt Manager.
+- Plugins.txt Enabler.
+- Address Library for SFSE Plugins
 </details>
 
 ***
