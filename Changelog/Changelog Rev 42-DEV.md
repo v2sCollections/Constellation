@@ -4,8 +4,6 @@
 
 ## NOTES
 
-![img](https://i.imgur.com/wAJUpeU.png)
-
 We now have a new method for updating this should will all of the Vortex errors that we have been seeing.
 
 ## HOW TO UPDATE
@@ -19,8 +17,6 @@ We now have a new method for updating this should will all of the Vortex errors 
 **4**) Once the update is downloaded you can remove the old profile.
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
-
-![img](https://i.imgur.com/wAJUpeU.png)
 
 ## Changes
 
