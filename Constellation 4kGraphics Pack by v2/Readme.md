@@ -49,41 +49,67 @@ Note this is for high-end systems only.
 
 ![](https://s11.gifyu.com/images/SgdAq.png)
 
-> **WATCH THE INSTALL GUIDE**
-
-https://www.youtube.com/watch?v=4T8pOWYWu5Q
-
 > **READ THE INSTALL GUIDE**
 
 <details><summary>⏰ INSTALL TIME</summary>
-This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier, And you can just cancel the subscription after the installation if you wish.
+***
 
-**Premium Users**: Takes 2 Hours + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 4 Hours + Semi-automatic. You will have to click on download for each mod one by one.
+https://www.youtube.com/watch?v=c\_VA7dgty3c
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier, And you can just cancel the subscription after the installation if you wish.
+
+**Premium Users**: Takes 30 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
+**Free Users:** Takes 1 Hour + Semi-automatic. You will have to click on download for each mod one by one.
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>1️⃣ PC Updates</summary>
+***
+
+https://www.youtube.com/watch?v=ANxf9o7gnWE
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 - ⛔Make sure that you have the latest version of Microsoft Visual Studio C++ >[HERE](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - ⛔Make sure that you have Desktop Runtime 7.0.3 >[HERE](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.3-windows-x64-installer)
 - ⛔Make sure that you have Desktop Runtime 6.0.23 >[HERE](https://download.visualstudio.microsoft.com/download/pr/83d32568-c5a2-4117-9591-437051785f41/e75171da01b1fa5c796660dc4b96beed/windowsdesktop-runtime-6.0.23-win-x64.exe)
 - ⛔Make sure that you have the latest Graphics driver update.
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>2️⃣ STARFIELD</summary>
+***
+
+https://www.youtube.com/watch?v=T1KryenezUw
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 - ⛔This Collection only supports the Steam Version of Starfield.
 - Start with a fresh install of Starfield.
 - Make sure the game is installed on an SSD.
 - If you have never launched the game or you have reinstalled the game launch the game at least once to generate the required files.&#x20;
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>3️⃣ VORTEX</summary>
-**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1?tab=description) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
+***
+
+https://www.youtube.com/watch?v=cX5tz-MO\_d8
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)**1**) You will need [Vortex](https://www.nexusmods.com/site/mods/1?tab=description) mod manager downloaded and installed You can find it from the link below. If you already have Vortex skip this step.
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1?tab=description)
 </details>
 
 <details><summary>4️⃣ VORTEX & STARFIELD</summary>
-**1**) Open Vortex and click on "Select a game to manage".\
+***
+
+https://www.youtube.com/watch?v=suCAprM6m94
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)**1**) Open Vortex and click on **"Select a game to manage"**.\
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)**2**) On the next screen scroll down to the **"Starfield"** icon and click on **"Manage".**\
 ![](https://s11.gifyu.com/images/SgCKR.jpg)**3**) On the popup that appears click on **"Download"** on the bottom right, Vortex will restart.
 
@@ -95,8 +121,13 @@ This is a large collection I recommend purchasing a Nexus premium account even j
  [DRIVE LETTER]\SteamLibrary\steamapps\common\Starfield
 ```
 
-```
-```
+**6**) On your main Vortex window, it will now show an icon for **"Starfield"** showing that it is a managed game in Vortex.
+
+**7**) Go to the settings and on the Mods tab check **"automatically use suggested path for staging folder"** then check "**suggest and "apply".**
+
+**8**) On the same window select **"hard link deployment"** and check **"apply"**.
+
+![](https://s5.gifyu.com/images/SRUz9.jpg)![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>5️⃣ ENABLING MODDING</summary>
@@ -110,19 +141,25 @@ This is a large collection I recommend purchasing a Nexus premium account even j
 </details>
 
 <details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
-**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+***
+
+https://www.youtube.com/watch?v=9\_7bp8UkpBI
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)**1**) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
 ![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
 
 ![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
-![](https://s11.gifyu.com/images/SgGTE.jpg)**4**) ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add this 4k Collection on top of our Main Collection make sure to disable the optional 2k Textures included in the Main Collection.
-
-- ⛔**NOTE** Our 1k and 4k Collections are **NOT** Compatible with each other for obvious Reasons.
+![](https://s11.gifyu.com/images/SgGTE.jpg)![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>7️⃣ OPTIONAL MODS</summary>
-Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process  **(Make sure to read these messages)**.
+***
+
+https://www.youtube.com/watch?v=3bftJEk0eMI
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)Now you can choose which ***(OPTIONAL)***  Mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process  **(Make sure to read these messages)**.
 
 ## Reshade
 
@@ -132,9 +169,7 @@ NOTE If you use a Reshade make sure that HDR is disabled in Windows.
 
 **1**) Click on Reshade in the top corner.
 
-![](https://s11.gifyu.com/images/SgO3F.jpg)
-
-**2**) Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
+![](https://s11.gifyu.com/images/SgO3F.jpg)**2**) Select browse and find the **"*****Starfield.exe*****"** and select it.**(Locations below)**
 
 ```
 Steam> Drive Letter\SteamLibrary\steamapps\common\Starfield\Starfield.exe
@@ -153,6 +188,8 @@ I have added the Reshade below.
 
 **End** key to toggle main effects\
 **Home** key to open GUI
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>⛔ REQUIRED MODS</summary>
@@ -188,14 +225,25 @@ You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collect
 
 ![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
-You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
-
-You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
+- You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
+- You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
 
 ## FAQ
 
 <details><summary>COMMON FAQS</summary>
-
+[Is this compatible with *x* mod?](https://)\
+These are just textures, so they are easily overwritten by other mods or vice versa. Loose files will always overwrite BA2 archives.\
+\
+[Why single mods instead of an AIO?](https://)\
+I do plan to release some AIO mods later, but I want to be able to address bugs and make improvements at each stage of this project and also allow users to pick and choose which textures they want to improve based on their gameplay and personal preferences.\
+\
+[I'm having a bug or other problem with this mod, what do I do?](https://)\
+Please report it on the 'Bugs' tab on this mod page. I may not be able to keep up with all the comments on the 'Posts' tab.\
+\
+[How does this differ from *x* mod?](https://)\
+I can't say for sure, but one of the main differences between my upscales and others are that I spend a great deal of time testing different interpolations (mixtures) of AI-generated models for the best combination for each type of texture map and each type of object that I'm upscaling. Even with my years of experience, I may run 8 different tests on one texture file before moving forward.\
+There are programs out there that are fully led by AI software and will just take an image and do all the work for you. Those will never produce as good of results. Of course, detailed hand work is still superior when available, but far more time-consuming. I do what I can and it's way better than vanilla.\
+In addition, I always provide a variety of resolution options for users to choose from so that they aren't forced into whatever I decide to be the best.
 </details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
