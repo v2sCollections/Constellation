@@ -210,7 +210,9 @@ https://www.youtube.com/watch?v=9\_7bp8UkpBI
 
 ![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
-![](https://s11.gifyu.com/images/SgGTE.jpg)![](https://s11.gifyu.com/images/Sgd38.jpg)
+![](https://s11.gifyu.com/images/SgGTE.jpg)**4**) You will see a notification in Vortex for depreciated Fomods all you have to do is select **"FIX"**.
+
+![img](https://s5.gifyu.com/images/SiMCn.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>7️⃣ ENABLING PLUGINS</summary>
@@ -451,8 +453,6 @@ A new constellation is taking shape in the cosmos, one that will awaken the inne
 
 Prepare for an adventure like no other, where the stars themselves rewrite their destinies to align with the Force. Welcome to [Constellation Star Wars by v2](https://) where the stars tell a tale of epic proportions in a galaxy far, far away...
 </details>
-
-
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 

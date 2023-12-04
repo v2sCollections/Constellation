@@ -1,5 +1,7 @@
 **Updated and Compatible With the latest 1.8.86 Version of Starfield on Steam.**
 
+**Updated and Compatible With the latest 1.8.86 Version of Starfield on Steam.**
+
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
 ![](https://s6.gifyu.com/images/S4ATa.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
@@ -181,7 +183,9 @@ https://www.youtube.com/watch?v=9\_7bp8UkpBI
 
 ![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
 
-![](https://s11.gifyu.com/images/SgGTE.jpg)![](https://s11.gifyu.com/images/Sgd38.jpg)
+![](https://s11.gifyu.com/images/SgGTE.jpg)**4**) You will see a notification in Vortex for depreciated Fomods all you have to do is select **"FIX"**.
+
+![img](https://s5.gifyu.com/images/SiMCn.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>7️⃣ ENABLING PLUGINS</summary>
