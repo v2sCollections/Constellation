@@ -16,6 +16,7 @@ N/A
 
 ## NEW MODS ADDED
 
+- [Furniture Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7423)
 - [Flora Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7318)
 - [Landscape Ground Surfaces Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6761)
 
