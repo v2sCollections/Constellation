@@ -24,10 +24,12 @@
 
 ### Changes
 
-- After the update you will see a notification in Vortex for depricaited Fomods all you have to do is select "FIX".
+- Decreased the mount of pop-ups upon installation.
+- After the update you may see a notification in Vortex for depricaited Fomods all you have to do is select "FIX".
 
 ![img](https://s5.gifyu.com/images/SiMCn.png)
 
+- If you see any errors relating to a mod in Vortex right click the mod and select reinstall.
 
 
 ## UPDATED
@@ -46,14 +48,17 @@
 - [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658)
 - [Baka Quit Game Fix](https://www.nexusmods.com/starfield/mods/1662)
 - [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750)
-- [
+- [Constellation Reshade](https://www.nexusmods.com/starfield/mods/103?tab=description)
 ## REMOVED
 
 N/A
 
 ## NEW MODS ADDED
 
-N/A
+- [Delgado Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7536)
+- [Amelia Earhart Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7534)
+- [Hadrian Sanon Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7537)
+- [Ezekiel Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7535)
 
 ## BUGS
 
