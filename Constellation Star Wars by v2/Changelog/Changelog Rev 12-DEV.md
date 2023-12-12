@@ -22,11 +22,19 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL
 
 ## REMOVED
 
-N/A
+- [Galactic Civil War Conversion Gray To Black Stoormtrooper Undersuits](https://www.nexusmods.com/starfield/mods/1803)
 
 ## NEW MODS ADDED
 
 - [Gonk Trashbins](https://www.nexusmods.com/starfield/mods/5523)
+- [TGs Boba Fett Armor (Bob) - Starborn Replacer](https://www.nexusmods.com/starfield/mods/5744?tab=description)
+- [Star Wars Prison Scrubs Texture](https://www.nexusmods.com/starfield/mods/6383?tab=description)
+- [Star wars Mirialan and Pantoran Crowd NPC](https://www.nexusmods.com/starfield/mods/6925)
+- [Galactic Civil War Conversion Alternative Textures](https://www.nexusmods.com/starfield/mods/1788?tab=description)
+- [Imperial crest MAST Tower Logo Replacer](https://www.nexusmods.com/starfield/mods/4816?tab=description)
+- [Kylo Ren](https://www.nexusmods.com/starfield/mods/5512?tab=description)
+- [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157)
+- [
 
 ## BUGS
 

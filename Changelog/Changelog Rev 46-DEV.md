@@ -17,6 +17,8 @@
 
 ## NOTES
 
+- This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
+
 ### Fixed
 
 - 2k Texture Mod being set to required instead of Optional.
@@ -49,6 +51,7 @@
 - [Baka Quit Game Fix](https://www.nexusmods.com/starfield/mods/1662)
 - [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750)
 - [Constellation Reshade](https://www.nexusmods.com/starfield/mods/103?tab=description)
+
 ## REMOVED
 
 N/A
@@ -59,7 +62,9 @@ N/A
 - [Amelia Earhart Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7534)
 - [Hadrian Sanon Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7537)
 - [Ezekiel Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7535)
-
+- [Proper Companion Previews](https://www.nexusmods.com/starfield/mods/7591?tab=description)
+- [Visible Companion Affinity](https://www.nexusmods.com/starfield/mods/7028?tab=description)
+- [
 ## BUGS
 
 [See bugs channel on discord](https://discord.gg/xZNztPjA2u)
