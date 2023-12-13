@@ -34,7 +34,7 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTILL
 - [Imperial crest MAST Tower Logo Replacer](https://www.nexusmods.com/starfield/mods/4816?tab=description)
 - [Kylo Ren](https://www.nexusmods.com/starfield/mods/5512?tab=description)
 - [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157)
-- [
+- [New Atlantis Death Star Hologram](https://www.nexusmods.com/starfield/mods/6479?tab=description)
 
 ## BUGS
 
