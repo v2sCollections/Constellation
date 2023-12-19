@@ -1,13 +1,11 @@
-![img](https://s11.gifyu.com/images/SgCoI.png)
-
-**Updated and Compatible With the latest 1.8.86 Version of Starfield on Steam.**
+**Updated and Compatible With the latest 1.8.88 Version of Starfield on Steam.**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [Constellation](https://) for **Starfield**.
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/v2-s-collections-1076179431195955290) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
 <details><summary>MY VISION FOR THIS COLLECTION</summary>
@@ -24,9 +22,7 @@ And that's it I hope to see you in the Cosmos but now it's time for me to go.
 
 This collection is extensively tested with every new version, because we want to ensure you're in the Cosmos quickly. If ever there is an issue, please join our community [Discord](https://discord.gg/v2-s-collections-1076179431195955290) so we can provide the fastest help that our team can deliver. Often issues can be solved quicker than a downvote!&#x20;
 
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)
-
-![](https://s11.gifyu.com/images/SgDLJ.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
+![](https://s5.gifyu.com/images/SiRKn.png)
 
 ![](https://s11.gifyu.com/images/SgdA0.png)
 
@@ -37,7 +33,7 @@ This collection is extensively tested with every new version, because we want to
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most extensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[3](https://)Gb in download size for [150](https://)+ Mods. Optional Mods add another [5](https://)Gb
+- Only-[4](https://)Gb in download size for [160](https://)+ Mods. Optional Mods add another [10](https://)Gb
 - Mods specifically created for the collection.
 - Setup Video- [HERE](https://youtu.be/4T8pOWYWu5Q?si=27GVbgBmVvDWOdm_)
 - Continuous Support in Comments and on Discord.
@@ -208,9 +204,11 @@ https://www.youtube.com/watch?v=9\_7bp8UkpBI
 
 ![](https://s11.gifyu.com/images/SgCKJ.jpg)**2**) Click "Add to Vortex"(choose your newly created profile).
 
-![](https://s12.gifyu.com/images/Untitled1.png)**3**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
+![](https://s12.gifyu.com/images/Untitled1.png)**3**) You will see a Pop-Up in in **Vortex** that says **"Not an archive"** select **"Create Mod"**.
 
-![](https://s11.gifyu.com/images/SgGTE.jpg)**4**) You will see a notification in Vortex for depreciated Fomods all you have to do is select **"FIX"**.
+**4**) After the collection has finished installing you will get a pop-up for the Optional Mods. Select  **"Show"** optional mods then select **"No thanks"**
+
+![](https://s11.gifyu.com/images/SgGTE.jpg)**5**) You will see a notification in Vortex for depreciated Fomods all you have to do is select **"FIX"**.
 
 ![img](https://s5.gifyu.com/images/SiMCn.png)![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
@@ -218,17 +216,11 @@ https://www.youtube.com/watch?v=9\_7bp8UkpBI
 <details><summary>7️⃣ ENABLING PLUGINS</summary>
 ### ESM Plugin Manager
 
-**1**) In the top left-hand corner of Vortex you will see a new tool called **"Plugins Manager"** Select the tool and run it.
+**1**) After the collection has finished installing select **"Load Order"** In the left-hand sidebar of **Vortex**.
 
-![](https://s5.gifyu.com/images/SRF3O.jpg)**2**) The tool will now ask you to locate the Starfield **"Data"** folder located in the following location.
+![](https://s5.gifyu.com/images/Si5Lm.jpg)**2**) Now select **"Enable Plugin Management"**. Plugins are now enabled.
 
-```
-DRIVE LETTER:\SteamLibrary\steamapps\common\Starfield\Data
-```
-
-**3**) The Plugins Manager will now show a list of Mods. Select all of these Mods and select **"Save"**.
-
-![](https://s5.gifyu.com/images/SRWvQ.jpg)
+![](https://s5.gifyu.com/images/Si5Lv.jpg)![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>8️⃣ OPTIONAL MODS</summary>
@@ -520,36 +512,61 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
 - Removes the fog that trails your ship.
 
-## [Removes the vignette from the following](https://)
+## **Removes the vignette from the following**
 
-- Quick (favorites) menu.
-- Galaxy map.
-- Scanner.
-- Pause menu.
-- Data menu open/close animation.
+- Quick (favorites) menu
+- Galaxy map
+- Scanner
+- Pause menu
+- Data menu open/close animation
 
-## [Upscaled Textures](https://)
+## **Reshade**
 
-- Eyes.
-- Eyebrows.
-- Eyelashes.
-- Blood.
-- Artifacts.
-- Advertisements, Signage, Flags, Murals and Vending Machines.
-- All NPCs (This is a work in progress)
+- [Constellation Reshade](https://www.nexusmods.com/starfield/mods/103)
 
-## [Custom Textures](https://)
+## **Upscaled Animations**
 
-- Eyes.
-- Bullet Holes.
-- Explosions.
-- Weapon fx.
-- Gore.
-- Storms of all kinds.
-- Fires.
-- Ambient fx like fog, dust, wisps, auras, smoke etc
-- Water visuals.
-- Prop fx like electric arcs, force fields, animated bits, etc\\
+- [UHD4k 60 FPS FMVs](https://www.nexusmods.com/starfield/mods/337/?tab=description)
+- [Ultrawide 60FPS FMVs](https://www.nexusmods.com/starfield/mods/2838)
+- [21x9 Loading Screens](https://www.nexusmods.com/starfield/mods/562)
+
+## **Upscaled MonstrrMagic Textures**
+
+- [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672/?tab=description)
+- [Spacesuits Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4035?tab=description)
+- [Eyes Brows and Lashes Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4292)
+- [Architecture Surfaces Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6477?tab=description)
+- [Planets Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6538?tab=description)
+- [Spaceships Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6560)
+- [Water Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6760)
+- [Landscape Ground Surfaces Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6761)
+- [Flora Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7247)
+- [Furniture Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7423)
+
+## NPCs
+
+- [Barrett Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4613)
+- [Adoring Fan Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6882)
+- [Marika Boros Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6885)
+- [Lin Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6884)
+- [Heller Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6883)
+- [Sarah Morgan Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6701)
+- [Delgado Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7536)
+- [Amelia Earhart Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7534)
+- [Hadrian Sanon Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7537)
+- [Ezekiel Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7535)
+
+## Custom Textures
+
+- [Eyes](https://www.nexusmods.com/starfield/mods/493)
+- [Bullet Holes](https://www.nexusmods.com/starfield/mods/3026)
+- [Explosions](https://www.nexusmods.com/starfield/mods/340)
+- [Weapon fx](https://www.nexusmods.com/starfield/mods/340)
+- [Gore](https://www.nexusmods.com/starfield/mods/340)
+- [Storms of all kinds](https://www.nexusmods.com/starfield/mods/340)
+- [Fires](https://www.nexusmods.com/starfield/mods/340)
+- [Ambient fx like fog, dust, wisps, auras, smoke etc](https://www.nexusmods.com/starfield/mods/340)
+- [Prop fx like electric arcs, force fields, animated bits, etc](https://www.nexusmods.com/starfield/mods/340)
 </details>
 
 - ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add the 4k Collection on top of this Collection make sure to disable the optional 2k Textures included in this Collection.
@@ -590,6 +607,7 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Reduced the distance at which NPCs will stare at you.
 - You can capture incapacitated enemies and turn them over to local security for profit.
 - Have an unlimited number of followers. Command all of your followers at once using a **communicator** added automatically to your inventory
+- Visible Companion Affinity allows you to monitor the metrics that describe your relationship with your four companions in Starfield.
 
 ## [Quests](https://)
 
@@ -950,6 +968,7 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - You can heal conditions, afflictions, and health by entering an infirmary bed if you have a crew member with the medical perk onboard.
 - Make city info kiosk terminals in New Atlantis and Akila City useful by giving you directions to stores and other buildings.
 - Discharging firearms in settlements while not in combat causes NPCs to panic and is considered a crime.
+- Allows you to see your companion rather than the player when equipping them with gear.
 </details>
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
@@ -1334,14 +1353,14 @@ Recommended In-game settings These settings will give a big increase to performa
 ![](https://s11.gifyu.com/images/SgdAW.png)&#x20;
 
 <details><summary>CLICK FOR SYSTEM REQUIREMENTS</summary>
-- &#x20;VRAM> 8GB
+- VRAM> 8GB
 - GPU>**(see below)**
 - 1080p> RTX 3060 or RX 6700 XT
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600x or i5 10600K
-- TOTAL STORAGE> 4.6Gb&#x20;
-- MIN STORAGE 2.6Gb
+- TOTAL STORAGE> 13.6Gb&#x20;
+- MIN STORAGE 4Gb
 - STORAGE TYPE> SSD
 </details>
 

@@ -1,13 +1,12 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 46 is COMING SOON](https://)
-
+## [HEY GUYS Rev 46 is HERE](https://)
 
 ## HOW TO UPDATE
 
 **1**) Create a new Profile in Vortex and enable it.
 
-**2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy&utm_medium=social&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select select **"ADD TO VORTEX"**
+**2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 
 **3**) When prompted to select which profile to install to, select the new profile you created in Step 1
 
@@ -17,22 +16,24 @@
 
 ## NOTES
 
+STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU HAVE DONE SO
+
+- Vortex now has a plugin manager built in please check the guide on the collection page.
 - This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
 
-### Fixed
+### Fixes
 
 - 2k Texture Mod being set to required instead of Optional.
 - Reshade preset should now deploy to the main Starfield directory instead of the "Data" folder.
 
 ### Changes
 
-- Decreased the mount of pop-ups upon installation.
-- After the update you may see a notification in Vortex for depricaited Fomods all you have to do is select "FIX".
+- Decreased the amount of pop-ups upon installation.
+- After the update you may see a notification in Vortex for depreciated Fomods all you have to do is select "FIX".
 
 ![img](https://s5.gifyu.com/images/SiMCn.png)
 
-- If you see any errors relating to a mod in Vortex right click the mod and select reinstall.
-
+- If you see any errors relating to a mod in Vortex right-click the mod and select reinstall.
 
 ## UPDATED
 
@@ -54,7 +55,7 @@
 
 ## REMOVED
 
-N/A
+- [Plugins Txt Manager](https://www.nexusmods.com/starfield/mods/6871?tab=description)
 
 ## NEW MODS ADDED
 
@@ -64,14 +65,14 @@ N/A
 - [Ezekiel Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7535)
 - [Proper Companion Previews](https://www.nexusmods.com/starfield/mods/7591?tab=description)
 - [Visible Companion Affinity](https://www.nexusmods.com/starfield/mods/7028?tab=description)
-- [
+
 ## BUGS
 
-[See bugs channel on discord](https://discord.gg/xZNztPjA2u)
+[See bugs channel on Discord](https://discord.gg/xZNztPjA2u)
 
 ## MODS NOT WORKING AT THE MOMENT
 
 N/A
 
-
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
+

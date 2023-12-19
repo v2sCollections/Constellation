@@ -1,21 +1,22 @@
-![img](https://s11.gifyu.com/images/SgCoI.png)
-
-
-**Updated and Compatible With the latest 1.8.86 Version of Starfield on Steam.**
+**Updated and Compatible With the latest 1.8.88 Version of Starfield on Steam.**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 4k Graphics Pack](https://) for **Starfield**.
 
-Note this is for high-end systems only.
+**⛔ NOTE** this is for High-end systems only. Recommended specs below:
+
+- **GPU** **VRAM** [=](https://) 12GB+&#x20;
+- **Storage** [=](https://) 70GB
+- **Storage Type** [=](https://) SSD
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
 
 - Easy to follow step-by-step installation guide.
-- Graphics mods to enhance Starfield.
+- 25+ Graphics mods to enhance Starfield.
 - Ultrawide support.
 - [Discord Server](https://discord.gg/v2-s-collections-1076179431195955290)-with a growing community.
-- [Youtube Channe](https://www.youtube.com/@Constellation-2077)l-with Guides and Videos.
+- [Youtube Channel](https://www.youtube.com/@Constellation-2077)-with Guides and Videos.
 - [Github Repository](https://github.com/2077v2/Constellation)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
@@ -31,7 +32,7 @@ Note this is for high-end systems only.
 
 <details><summary>⛔HOW TO UPDATE</summary>
 - **1**) Create a new Profile in Vortex and enable it.
-- **2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/7ou329/revisions/13?utm_medium=vortex\&utm_source=vortex\&utm_campaign=view_collection\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile.
 
@@ -56,10 +57,8 @@ Note this is for high-end systems only.
 
 https://www.youtube.com/watch?v=c\_VA7dgty3c
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)This is a large collection I recommend purchasing a Nexus premium account even just for 1 month to install the collection it will make installation much easier, And you can just cancel the subscription after the installation if you wish.
-
-**Premium Users**: Takes 30 Min + Semi-automatic. You can be AFK with a few Install menus at the end of the installation.\
-**Free Users:** Takes 1 Hour + Semi-automatic. You will have to click on download for each mod one by one.
+![](https://s11.gifyu.com/images/Sgd38.jpg)**Premium Users**: Takes 1 Hour + Semi-automatic. You can be AFK.\
+**Free Users:** Takes 2 Hours + Semi-automatic. You will have to click on download for each mod one by one.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
@@ -241,8 +240,8 @@ I do plan to release some AIO mods later, but I want to be able to address bugs 
 Please report it on the 'Bugs' tab on this mod page. I may not be able to keep up with all the comments on the 'Posts' tab.\
 \
 [How does this differ from *x* mod?](https://)\
-I can't say for sure, but one of the main differences between my upscales and others are that I spend a great deal of time testing different interpolations (mixtures) of AI-generated models for the best combination for each type of texture map and each type of object that I'm upscaling. Even with my years of experience, I may run 8 different tests on one texture file before moving forward.\
-There are programs out there that are fully led by AI software and will just take an image and do all the work for you. Those will never produce as good of results. Of course, detailed hand work is still superior when available, but far more time-consuming. I do what I can and it's way better than vanilla.\
+I can't say for sure, but one of the main differences between my upscales and others are that I spend a great deal of time testing different interpolations (mixtures) of AI-generated models for the best combination for each type of texture map and each type of object that I'm upscaling. Even with my years of experience, I may run 8 different tests on one texture file before moving forward.
+There are programs out there that are fully led by AI software and will just take an image and do all the work for you. Those will never produce as good of results. Of course, detailed hand work is still superior when available, but far more time-consuming. I do what I can and it's way better than vanilla.
 In addition, I always provide a variety of resolution options for users to choose from so that they aren't forced into whatever I decide to be the best.
 </details>
 
@@ -267,6 +266,9 @@ In addition, I always provide a variety of resolution options for users to choos
 - [Planets Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6538?tab=description)
 - [Spaceships Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6560)
 - [Water Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6760)
+- [Landscape Ground Surfaces Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6761)
+- [Flora Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7247)
+- [Furniture Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7423)
 
 ## NPCs
 
@@ -276,6 +278,10 @@ In addition, I always provide a variety of resolution options for users to choos
 - [Lin Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6884)
 - [Heller Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6883)
 - [Sarah Morgan Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6701)
+- [Delgado Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7536)
+- [Amelia Earhart Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7534)
+- [Hadrian Sanon Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7537)
+- [Ezekiel Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7535)
 
 ##
 

@@ -1,10 +1,10 @@
-**Updated and Compatible With the latest 1.8.86 Version of Starfield on Steam.**
+**Updated and Compatible With the latest 1.8.88 Version of Starfield on Steam.**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
-![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 2k Graphics Pack](https://) for **Starfield**.
+**⛔ I**f you use our main [Constellation collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) these mods are already included**⛔**
 
-**Note** If you use our main [Constellation collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) these mods are already included.
+![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 2k Graphics Pack](https://) for **Starfield**.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
 
@@ -265,6 +265,7 @@ In addition, I always provide a variety of resolution options for users to choos
 - [Water Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6760)
 - [Landscape Ground Surfaces Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6761)
 - [Flora Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7247)
+- [Furniture Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7423)
 
 ## NPCs
 
@@ -274,6 +275,10 @@ In addition, I always provide a variety of resolution options for users to choos
 - [Lin Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6884)
 - [Heller Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6883)
 - [Sarah Morgan Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/6701)
+- [Delgado Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7536)
+- [Amelia Earhart Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7534)
+- [Hadrian Sanon Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7537)
+- [Ezekiel Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/7535)
 
 ##
 
