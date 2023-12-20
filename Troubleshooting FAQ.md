@@ -223,15 +223,23 @@ Notes will be in the changelog.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-Sometimes you need to relink **Vortex** to a tool.
+If you don't see the Tools in **Vortex** this could be one of 2 issues.
 
-**1**) Go to the **"dashboard"** tab in **Vortex**.
+**1**) The most common issue is Vortex being confused, so you can try to **Purge** and **Deploy** the Mods in **Vortex** a few times if this still doesn't show the Tools close and reopen **Vortex**.
 
-**2**) Scroll down untill you see **"tools"**.
+**2**) Sometimes you need to relink **Vortex** to a tool.
+or sometimes the toolbar isn't enabled.
 
-**3**) Click the 3 dots next to the tool you need to relink ie Reshade. and select **"edit"**
+- Go to the **"dashboard"** tab in **Vortex**.
 
-**4**) Now select **"target"** and browse to where you have the tool installed this will be in the main Starfield directory.
+- Scroll down until you see **"tools"**.
+
+Make sure it's enabled.
+If it is but the tools still arnt showing do the following
+
+- Click the 3 dots next to the tool you need to relink ie Reshade. and select **"edit"**
+
+- Now select **"target"** and browse to where you have the tool installed this will be in the main Starfield directory.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
