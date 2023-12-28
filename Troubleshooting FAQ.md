@@ -325,6 +325,52 @@ All you have to do is disable the variant of the texture you don't want either 2
 
 ## Other Questions
 
+<details>
+<summary>My StarfieldCustom.ini is Blank</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+In the past, **Bethesda** titles would require some edits to the **StarfieldCustom.ini** file located in the **Documents** folder. This isn't the case with the **Constellation** Collections, We have been lucky enough to automate the loading of all plugins and text-based mods with the help of a few Plugins and our own **Constellation Collection Loader (CCL)**
+
+## Understanding the Mod Loading Process
+
+We use a few tools to load our Mods this is a rather complex process:
+- Constellation Collection Loader (CCL)
+- Console Command Runner
+- Vortex Plugins Loader
+- Starfield Script Extender (SFSE)
+- Plugins Text Enabler
+- Kill Loader
+- Loose Root Data
+
+### Loading Plugins
+Plugins will be loaded automatically by (SFSE) at runtime when launching via (SFSE)
+
+### Loading ESM Mods
+ESM Mods will be loaded automatically using the following Tools.
+- Plugins Text Enabler
+- Vortex Plugins Loader
+
+### Loading Loose File Mods 
+Loose file Mods will be loaded From the main game directory using the following tools.
+- Kill Loader
+- Loose Root Data
+
+### Loading Text Bases (BAT) Mods
+Text-based (BAT) Mods will be loaded automatically once entering the main menu using the following tools.
+- Kill Loader
+- Loose Root Data
+- Constellation Collection Loader (CCL)
+- Console Command Runner
+
+## Closing
+As you can see this is a complex process that we use in order for us to automatically load all of the mods in the collection. If you are unsure if a Mod has loaded correctly you can use the following HotKeys to check the console history.
+- **~** Console
+- **F1** Custom Better Console.
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
 <details>
