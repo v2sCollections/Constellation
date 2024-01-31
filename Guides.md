@@ -329,12 +329,12 @@ steam://open/console/
 ```
 **4**) Enter this command into the console and run it.
 ```
-download_depot 1716740 1716741 7109517847119257269
+download_depot 1716740 1716742 7798731510825991201 2425462561483003911
 ```
 
 **5**) Now repeat the process with the following code
 ```
-download_depot 1716740 1716742 7798731510825991201 2425462561483003911
+download_depot 1716740 1716741 2159391978176339892
 ```
 
 **6**) Once both depots are downloaded, you can then navigate to
