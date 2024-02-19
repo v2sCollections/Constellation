@@ -16,14 +16,14 @@
 
 ## NOTES
 
-CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL**depreciated** YOU HAVE DONE SO
+CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU HAVE DONE SO
 
 - Vortex now has a plugin manager built in please check the guide on the collection page..
 - This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
 
 ### Changes
 
-- After the update you may see a notification in Vortex for depreciated**right-click** Fomods all you have to do is select "FIX".
+- After the update you may see a notification in Vortex for depreciated Fomods all you have to do is select "FIX".
 
 ![img](https://s5.gifyu.com/images/SiMCn.png)
 

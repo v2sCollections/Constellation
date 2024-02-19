@@ -1,4 +1,4 @@
-**Updated and Compatible With the latest 1.8.88 Version of Starfield on Steam.**
+### **✅Compatible With 1.9.67 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
@@ -7,7 +7,7 @@
 **⛔ NOTE** this is for High-end systems only. Recommended specs below:
 
 - **GPU** **VRAM** [=](https://) 12GB+&#x20;
-- **Storage** [=](https://) 70GB
+- **Storage** [=](https://) 75GB
 - **Storage Type** [=](https://) SSD
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
@@ -295,16 +295,14 @@ If you enjoy this collection, **PLEASE** endorse our mods and collections.
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
 
+- [Magic Beanware](https://www.nexusmods.com/users/197258372)
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+- DovaDigital
+- Fenrir
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
-- Fenrir
-- Donavan
-- Starfox
 - [IxionXVII](https://www.nexusmods.com/users/6922776)
-- [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 

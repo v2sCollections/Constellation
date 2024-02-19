@@ -1366,16 +1366,14 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support us 
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the [Nexus](https://discord.gg/nexusmods) and the [Starfield](https://discord.gg/starfieldmodding) modding Discords.
 
+- [Magic Beanware](https://www.nexusmods.com/users/197258372)
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+- DovaDigital
+- Fenrir
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Fenrir
-- Donavan
-- Starfox
 - [IxionXVII](https://www.nexusmods.com/users/6922776)
-- [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
-- NDLWX
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 

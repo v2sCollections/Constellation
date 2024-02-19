@@ -1,4 +1,4 @@
-**Updated and Compatible With the latest 1.8.88 Version of Starfield on Steam.**
+### **✅Compatible With 1.9.67 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
@@ -296,7 +296,6 @@ Special thanks to these guys who helped make this collection what it is. And eve
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
 - Fenrir
 - Donavan
 - Starfox

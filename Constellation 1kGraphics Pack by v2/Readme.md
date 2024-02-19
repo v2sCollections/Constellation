@@ -1,4 +1,4 @@
-Updated and compatible With the latest 1.8.88 Version of Starfield on Steam.
+### **✅Compatible With 1.9.67 on Steam**
 
 https://www.youtube.com/watch?v=PXXoIV0sdfw
 
@@ -209,11 +209,9 @@ That said, there's a ton of work to do on the textures so I am also incredibly e
 \
 You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collections-1076179431195955290).
 
-***
+# &#x20;                               ![](https://s11.gifyu.com/images/Sgd38.jpg)                                      NOW JOIN CONSTELLATION!!!
 
-## NOW JOIN CONSTELLATION!!!
-
-## ![](<\<iframe src="https://giphy.com/embed/6yG1e2cnStpgpEDDId" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="https://giphy.com/gifs/xbox-xbox-series-x-starfield-e3-6yG1e2cnStpgpEDDId"\>via GIPHY\</a\>\</p\>>)![](https://media.giphy.com/media/6yG1e2cnStpgpEDDId/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
+# ![](https://s13.gifyu.com/images/SjuZk.gif)                              Please Endorse and Vote for the Collection
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -315,14 +313,15 @@ If you enjoy this collection, **PLEASE** endorse our mods and collections.
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
 
-- [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)&#x20;
+- [Magic Beanware](https://www.nexusmods.com/users/197258372)
+- [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+- DovaDigital
+- Fenrir
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
-- Fenrir
-- Starfox
+- [IxionXVII](https://www.nexusmods.com/users/6922776)
+- [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 

@@ -1,13 +1,11 @@
-**Updated and Compatible With the latest 1.8.86 Version of Starfield on Steam.**
-
-**Updated and Compatible With the latest 1.8.86 Version of Starfield on Steam.**
+### **✅Compatible With 1.9.67 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
 ![](https://s6.gifyu.com/images/S4ATa.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/xZNztPjA2u) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/v2-s-collections-1076179431195955290) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
 </details>
 
 ### [Collection not working ❓](https://)
@@ -191,17 +189,11 @@ https://www.youtube.com/watch?v=9\_7bp8UkpBI
 <details><summary>7️⃣ ENABLING PLUGINS</summary>
 ### ESM Plugin Manager
 
-**1**) In the top left-hand corner of Vortex you will see a new tool called **"Plugins Manager"** Select the tool and run it.
+**1**) After the collection has finished installing select **"Load Order"** In the left-hand sidebar of **Vortex**.
 
-![](https://s5.gifyu.com/images/SRF3O.jpg)**2**) The tool will now ask you to locate the Starfield **"Data"** folder located in the following location.
+![](https://s5.gifyu.com/images/Si5Lm.jpg)**2**) Now select **"Enable Plugin Management"**. Plugins are now enabled.
 
-```
-DRIVE LETTER:\SteamLibrary\steamapps\common\Starfield\Data
-```
-
-**3**) The Plugins Manager will now show a list of Mods. Select all of these Mods and select **"Save"**.
-
-![](https://s5.gifyu.com/images/SRWvQ.jpg)
+![](https://s5.gifyu.com/images/Si5Lv.jpg)![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>8️⃣ OPTIONAL MODS</summary>
@@ -318,12 +310,6 @@ Power Presets
 - Quick-Key 11 = Escape Power Preset
 - Quick-Key 12 = Stealth Power Preset
 
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CALL YOUR SHIP
-
-- F1 = will place the landing zone as soon as the ship returns from space.
-- F2 = will place the landing zone as you call it
-- F3 = will do as command F1 and also check if the surface is flatter enough, or refuse to land there because it's not safe enough
-
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONVERT ESSENCE TO POWER
 
 - Numpad 9 = Covert Essence to Power
@@ -387,93 +373,6 @@ Sometimes you need to relink Vortex to a tool.
 A new constellation is taking shape in the cosmos, one that will awaken the inner Jedi or Sith within you. Prepare to leave the realm of **Starfield** behind as we introduce you to [Constellation Star Wars by v2](https://) a mod collection that will transport you from the unknown stars to the legendary galaxy of Star Wars!
 
 Prepare for an adventure like no other, where the stars themselves rewrite their destinies to align with the Force. Welcome to [Constellation Star Wars by v2](https://) where the stars tell a tale of epic proportions in a galaxy far, far away...
-
-<details><summary>CLICK HERE TO SEE THE FULL LIST OF MODS</summary>
-### Visuals
-
-- [Star Wars-Yoda Prompts](https://www.nexusmods.com/starfield/mods/3098)
-- [Galactic Empire Era Name Replacement](https://www.nexusmods.com/starfield/mods/2307?tab=description)
-- [Galactic Empire Flag](https://www.nexusmods.com/starfield/mods/2102)
-- [Coruscant (WIP)](https://www.nexusmods.com/starfield/mods/3461?tab=description)
-- [Constellation Menu Backgrounds (Star Wars Edition)](https://www.nexusmods.com/starfield/mods/4801)
-- [Star Wars Credits. (Only Credits)](https://www.nexusmods.com/starfield/mods/5023)
-- [Astromech mini bots](https://www.nexusmods.com/starfield/mods/5056?tab=description)
-- [UC to Galactic Empire](https://www.nexusmods.com/starfield/mods/2779?tab=description)
-- [Star Wars New Atlantis Star Destroyer](https://www.nexusmods.com/starfield/mods/6820)
-- [Star Wars Holocron snow globes](https://www.nexusmods.com/starfield/mods/6618)
-- [Star Wars Data pads](https://www.nexusmods.com/starfield/mods/6844)
-- [Star Wars Binoculars](https://www.nexusmods.com/starfield/mods/6843)
-- [Star Wars Akila Faction Hologram Statue's](https://www.nexusmods.com/starfield/mods/6467)
-- [Star Wars Aurebesh Playing cards](https://www.nexusmods.com/starfield/mods/6481)
-
-### Outfits/Armour
-
-- [Galactic Civil War Conversion](https://www.nexusmods.com/starfield/mods/1659?tab=description)
-- [The Mandalorian - Boba Fett - Jango Fett ( STAR WARS Starborn Retextures and Mantis Replacer )](https://www.nexusmods.com/starfield/mods/2848?tab=description)&#x20;
-- [Star Wars Rebel Alliance spacesuit patch](https://www.nexusmods.com/starfield/mods/679)&#x20;
-- [The Imperial Navy 2.1 - A SysDef Star Wars-Inspired Retexture](https://www.nexusmods.com/starfield/mods/4902?tab=description)
-
-### Body Mods
-
-- [GET the Chiss Race](https://www.nexusmods.com/starfield/mods/2547?tab=description)
-- [Play As A ZABRAK in STARFIELD with MORE Sith Eyes](https://www.nexusmods.com/starfield/mods/2564?tab=description)
-
-### Weapons
-
-- [Boba Fett's Blaster Rifle (Classic EE-3)](https://www.nexusmods.com/starfield/mods/5012?tab=description)
-- [Mandalorian sniper rifle - (Amban sniper)](https://www.nexusmods.com/starfield/mods/4957?tab=description)
-- [IB-94 Mandalorian gun](https://www.nexusmods.com/starfield/mods/5022?tab=description)
-- [Immersive Lightsabers](https://www.nexusmods.com/starfield/mods/3795?tab=description)
-- [Star wars 773 Firepuncher rifle - 4K](https://www.nexusmods.com/starfield/mods/6171)
-- [Westar 35 - Bo-katan Blaster (4k)](https://www.nexusmods.com/starfield/mods/5779)
-- [Westar 34 - Jango Fett Blaster](https://www.nexusmods.com/starfield/mods/5119)
-- [LL 30 Blaster - 4K](https://www.nexusmods.com/starfield/mods/5933)
-- [ELG 3A Blaster - 4K](https://www.nexusmods.com/starfield/mods/6129)
-- [Star Wars Grenades](https://www.nexusmods.com/starfield/mods/6774)
-- [Trandoshan Uzi (Republic Commando)](https://www.nexusmods.com/starfield/mods/4911)
-- [E-11 Blaster Rifle](https://www.nexusmods.com/starfield/mods/5089)
-- [DC-15A Blaster Rifle](https://www.nexusmods.com/starfield/mods/5134)
-
-### Audio Replacers: Other
-
-- [Star Wars Bounty Hunter Jetpack Sounds](https://www.nexusmods.com/starfield/mods/2154)&#x20;
-- [Sounds From a Galaxy Far Far Away](https://www.nexusmods.com/starfield/mods/3169)
-- [Starfield Boarding Alarm Sound Replacement Pack](https://www.nexusmods.com/starfield/mods/3549?tab=description)
-
-### Audio Replacers: Dialogue
-
-- [Galactic Stormtrooper Voice Lines For UC Security](https://www.nexusmods.com/starfield/mods/2176?tab=description)
-- [Vasco says Gonk - Replace beeps with gonks - Optional Worker Bot (Star Wars)](https://www.nexusmods.com/starfield/mods/4164)
-
-### Audio Replacers: Weapons
-
-- [Star Wars Concussion Missile Sound Replacement For Atlatl 270 And 280](https://www.nexusmods.com/starfield/mods/3002)
-- [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)
-- [Star Wars A-Wing Sound Replacement For KE-20 AND KE-31 Cannons](https://www.nexusmods.com/starfield/mods/2581?tab=description)&#x20;
-- [Star Wars Jango Fett Blaster Sound Replacement For Solstice](https://www.nexusmods.com/starfield/mods/2216)&#x20;
-- [Star Wars X Wing Sound Replacement For Singe 4MW Laser](https://www.nexusmods.com/starfield/mods/3078?tab=description)
-- [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)
-- [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
-- [E-11 Blaster (Stormtrooper Rifle) Sounds for Equinox laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3717?tab=description)
-- [ELG-3A Blaster (Padme's pistol) Sounds for Va'Ruun Starshard (Star Wars))](https://www.nexusmods.com/starfield/mods/3693?tab=description)
-- [TL-50 (BF2 Heavy Blaster) Sounds for AA99 Rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4003?tab=description)
-- [DC17m Blaster (Republic Commando rifle) Sounds for Drumbeat rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/3217?tab=description)
-- [DC15s Blaster (Republic Commando pistol) Sounds for Sidestar Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3107?tab=description)
-- [IB-94 Blaster (Din Djarin's pistol) Sounds for Razorback pistol (Star Wars The Mandalorian)](https://www.nexusmods.com/starfield/mods/3808?tab=description)
-- [A180 blaster sounds for Eon pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/2932?tab=description)
-- [LL-30 Blaster (Cad Bane's pistol) Sounds for Magshot Revolver (Star Wars)](https://www.nexusmods.com/starfield/mods/4250?tab=description)
-- [Westar-34 Blaster (Jango Fett's pistol) Sounds for Regulator Pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/3455?tab=description)
-- [Star Wars Blaster Sound Replacement For Orion](https://www.nexusmods.com/starfield/mods/2193)&#x20;
-- [Star Wars Tie Fighter Cannon Sound Replacement For PB-300 And PBO-300 Cannons](https://www.nexusmods.com/starfield/mods/2262?tab=description)&#x20;
-- [EE-3 Blaster (Boba Fett's rifle) Sounds for Beowulf Rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4468)
-- [DC-15A Blaster (Clone Trooper rifle) Sounds (OG BF2) for Orion laser rifle (Star Wars)](https://www.nexusmods.com/starfield/mods/4918)
-- [DL-44 Blaster (Han Solo's pistol) Sounds for Urban Eagle pistol (Star Wars)](https://www.nexusmods.com/starfield/mods/4864)
-- [LS-150 (Trandoshan Minigun) Sounds for Kodama SMG (Star Wars)](https://www.nexusmods.com/starfield/mods/5256?tab=description)
-
-### UI
-
-- [Slightly Better Weapon Icons](https://www.nexusmods.com/starfield/mods/4798)
-</details>
 
 ## [CLICK HERE FOR A LIST OF REPLACER DETAILS AND CONSOLE COMMANDS](https://inexpensive-drum-ebe.notion.site/0e6104885aea4f8da166f3e7ae9f8c6e?v=4930a05f58614c6cb7e3595de3f62db0\&pvs=4)
 
@@ -547,13 +446,26 @@ https://www.youtube.com/watch?v=\_bEHcZlynk8
 
 ***
 
-## Galactic Civil War Conversion
+## UC Empire
 
-![](https://s6.gifyu.com/images/S4O9u.jpg)[Galactic Civil War Conversion](https://www.nexusmods.com/starfield/mods/1659) by [kboykboy](https://www.nexusmods.com/starfield/users/38374220)
+![](https://s9.gifyu.com/images/SFxaG.jpg)[UC Empire](https://www.nexusmods.com/starfield/mods/7223) by [radicalclownfriend](https://www.nexusmods.com/starfield/users/47115128)
 
 ### Features
 
-> Replaces UC Police with stormtroopers
+> Changes many outfits to a Star Wars theme.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+- UC Navy Officer and Crew = Imperial Navy Gray Officer Uniforms with new ranked uniforms
+- UC Sysdef Officer and Crew = ISB White Officer Uniforms with new ranked uniforms
+- UC Vanguard Officer = Stormtrooper Corps Black Officer uniform
+- UC Navy Filioques = Death Star Trooper Fatigues
+- Marine armor = Dirty Stormtrooper\Sandtrooper armor
+- UCSEC = Clean Stormtrooper armor
+- SysDef = Blue Stormtrooper armor based off The Force Unleashed Stormtrooper commander.
+- Urbanwar = Red Shock Trooper armor based off The Imperial Shock Trooper from Battlefront 2015
+- Antixeno = Black Shadow Trooper armor
+- UC Police And Marine Model A = DT-series sentry droid
+</details>
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
@@ -700,16 +612,14 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support us 
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the [Nexus](https://discord.gg/nexusmods) and the [Starfield](https://discord.gg/starfieldmodding) modding Discords.
 
+- [Magic Beanware](https://www.nexusmods.com/users/197258372)
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
+- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
+- DovaDigital
+- Fenrir
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
-- Fenrir
-- Donavan
-- Starfox
 - [IxionXVII](https://www.nexusmods.com/users/6922776)
-- [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 

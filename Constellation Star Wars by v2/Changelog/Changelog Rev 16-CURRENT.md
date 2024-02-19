@@ -1,6 +1,6 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 14 is HERE](https://)
+## [HEY GUYS Rev 16 is HERE](https://)
 
 ## HOW TO UPDATE
 
@@ -23,7 +23,7 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL 
 
 ### Changes
 
-- After the update you may see a notification in Vortex for depreciated* Fomods all you have to do is select "FIX".
+- After the update you may see a notification in Vortex for depreciated Fomods all you have to do is select "FIX".
 
 ![img](https://s5.gifyu.com/images/SiMCn.png)
 
