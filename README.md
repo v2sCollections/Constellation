@@ -1,4 +1,4 @@
-**Updated and Compatible With the latest 1.8.88 Version of Starfield on Steam.**
+### **✅Compatible With 1.9.67 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
@@ -337,22 +337,14 @@ Power Presets
 - Quick-Key 11 = Escape Power Preset
 - Quick-Key 12 = Stealth Power Preset
 
-### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CALL YOUR SHIP
-
-- F1 = will place the landing zone as soon as the ship returns from space.
-- F2 = will place the landing zone as you call it
-- F3 = will do as command F1 and also check if the surface is flatter enough, or refuse to land there because it's not safe enough
-
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONVERT ESSENCE TO POWER
 
 - Numpad 9 = Covert Essence to Power
 </details>
 
-***
+# &#x20;             ![](https://s11.gifyu.com/images/Sgd38.jpg)                                         NOW JOIN CONSTELLATION!!!
 
-# NOW JOIN CONSTELLATION!!!
-
-## ![](<\<iframe src="https://giphy.com/embed/6yG1e2cnStpgpEDDId" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="https://giphy.com/gifs/xbox-xbox-series-x-starfield-e3-6yG1e2cnStpgpEDDId"\>via GIPHY\</a\>\</p\>>)![](https://media.giphy.com/media/6yG1e2cnStpgpEDDId/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
+# ![](https://s13.gifyu.com/images/SjuZk.gif)                              Please Endorse and Vote for the Collection
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -1378,7 +1370,6 @@ Special thanks to these guys who helped make this collection what it is. And eve
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Jinxy 𝓩𝓸𝓶𝓫𝓲𝓮 Hyperdrive
 - Fenrir
 - Donavan
 - Starfox

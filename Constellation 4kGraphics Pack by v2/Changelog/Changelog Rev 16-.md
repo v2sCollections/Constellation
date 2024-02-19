@@ -7,6 +7,7 @@
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 
 - We have removed some of the loose file textures and replaced them with a diffrent file version. This will increase performance on all systems. We currently have a bug preventing some of the textures from applying and we should have a fix out soon.
+- This update will require you to redownload a few textures so dont worry when you see a few gb being downloaded.
 
 ## UPDATED
 
