@@ -316,7 +316,7 @@ I can overclock and stress test your **GPU**.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-To downgrade the game you will need to enter 2 codes these need to be done one at a time
+To downgrade the game you will need to enter 2 codes, these need to be done one at a time
 
 
 **1**) Open Vortex and select **Purge** this will remove the Mods from the game files.
@@ -327,14 +327,18 @@ To downgrade the game you will need to enter 2 codes these need to be done one a
 ```
 steam://open/console/
 ```
+> ***NOTE***: *When entering, the console may take some time to download files. It will only display information when completed. Please wait for it to be done.*
+
 **4**) Enter this command into the console and run it.
 ```
-download_depot 1716740 1716742 7798731510825991201 2425462561483003911
+download_depot 1716740 1716742
+7432080452390599134
+4019204681563902039
 ```
 
 **5**) Now repeat the process with the following code
 ```
-download_depot 1716740 1716741 2159391978176339892
+download_depot 1716740 1716741 2722084001522154323
 ```
 
 **6**) Once both depots are downloaded, you can then navigate to
