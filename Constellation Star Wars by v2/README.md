@@ -1,3 +1,23 @@
+### ![](https://s11.gifyu.com/images/Sgd38.jpg)Hey guys
+
+**Starfield Patch 1.9.67 is here**
+
+The collections have been unlisted from Nexus while we work on the update to avoid users accidentally downloading a non-working collection.
+
+## 1) If you accidentally update:
+
+If you would like to continue playing the modded game you will need to downgrade the version of the game through **Steam**.
+
+- **Downgrading** You can follow this Guide>[How to downgrade Starfield](https://github.com/v2sCollections/Constellation/blob/main/Guides.md#other-guides)
+
+## 2) Preventing the Update:
+
+- **Preventing Steam updates** You can follow this Guide>[Preventing Steam updates](https://github.com/v2sCollections/Constellation/blob/main/Guides.md#other-guides)
+
+Patch notes [HERE](https://bethesda.net/en/game/starfield/article/7t4cuMiS3neUd9aykDhDkT/starfield-update-1-9-67-notes-february-7-2024)
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 ### **✅Compatible With 1.9.67 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
@@ -10,7 +30,9 @@ Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm e
 
 ### [Collection not working ❓](https://)
 
+<details><summary>CLICK HERE</summary>
 This collection is extensively tested with every new version, because we want to ensure you're in the Cosmos quickly. If ever there is an issue, please join our community [Discord](https://discord.gg/v2-s-collections-1076179431195955290) so we can provide the fastest help that our team can deliver. Often issues can be solved quicker than a downvote!&#x20;
+</details>
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -629,9 +651,7 @@ And all the teams and modders behind all the tools that make Starfield modding p
 
 If you would like to support me so I can afford a new ship so I can store more sandwiches click the button below. Can't donate? I understand a simple thank you and endorsement is much appreciated.
 
-[![](https://s11.gifyu.com/images/S4peN.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
-
-Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
+[![](https://s9.gifyu.com/images/SFq3d.png)](https://www.buymeacoffee.com/2077v2)[![](https://s9.gifyu.com/images/SFq33.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Disclaimer](https://)
 

@@ -333,9 +333,7 @@ If you would like to support [Xilamonstrr](https://www.nexusmods.com/starfield/u
 
 # v2
 
-[![](https://s11.gifyu.com/images/S4peN.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
-
-Or, [buy me a coffee](https://www.buymeacoffee.com/2077v2)
+[![](https://s9.gifyu.com/images/SFq3d.png)](https://www.buymeacoffee.com/2077v2)[![](https://s9.gifyu.com/images/SFq33.png)](https://patreon.com/v2sCollections?utm_medium=clipboard_copy\&utm_source=copyLink\&utm_campaign=creatorshare_creator\&utm_content=join_link)
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[Disclaimer](https://)
 
