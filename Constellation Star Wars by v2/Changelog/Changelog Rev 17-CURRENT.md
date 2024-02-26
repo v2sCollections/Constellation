@@ -1,12 +1,12 @@
 ![img](https://s11.gifyu.com/images/SgCoI.png)
 
-## [HEY GUYS Rev 48 is HERE](https://)
+## [HEY GUYS Rev 17 is HERE](https://)
 
 ## HOW TO UPDATE
 
 **1**) Create a new Profile in Vortex and enable it.
 
-**2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+**2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **UNTIL"ADD TO VORTEX"**
 
 **3**) When prompted to select which profile to install to, select the new profile you created in Step 1
 
@@ -16,14 +16,13 @@
 
 ## NOTES
 
-STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU HAVE DONE SO
+CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU HAVE DONE SO
 
-- Vortex now has a plugin manager built in please check the guide on the collection page.
+- Vortex now has a plugin manager built in please check the guide on the collection page..
 - This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
 
 ### Changes
 
-- This update will require you to redownload a few textures so dont worry when you see a few gb being downloaded.
 - After the update you may see a notification in Vortex for depreciated Fomods all you have to do is select "FIX".
 
 ![img](https://s5.gifyu.com/images/SiMCn.png)
@@ -41,11 +40,11 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 
 ## REMOVED
 
-N/A
+- [Star wars Mirialan and Pantoran Crowd NPC](https://www.nexusmods.com/starfield/mods/6925)
 
 ## NEW MODS ADDED
 
-N/A
+- [Star Wars Aliens](https://www.nexusmods.com/starfield/mods/8518)
 
 ## BUGS
 
@@ -56,4 +55,3 @@ N/A
 N/A
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
-

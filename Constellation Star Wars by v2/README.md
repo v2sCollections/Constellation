@@ -339,9 +339,9 @@ Power Presets
 
 ***
 
-# NOW JOIN CONSTELLATION!!!
+# &#x20;                                       NOW JOIN CONSTELLATION!!!
 
-## ![](<\<iframe src="https://giphy.com/embed/6yG1e2cnStpgpEDDId" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen\>\</iframe\>\<p\>\<a href="https://giphy.com/gifs/xbox-xbox-series-x-starfield-e3-6yG1e2cnStpgpEDDId"\>via GIPHY\</a\>\</p\>>)![](https://media.giphy.com/media/6yG1e2cnStpgpEDDId/giphy-downsized-large.gif)Please Endorse and Vote for the Collection.
+# ![](https://s13.gifyu.com/images/SjuZk.gif)                              Please Endorse and Vote for the Collection
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -488,6 +488,61 @@ https://www.youtube.com/watch?v=\_bEHcZlynk8
 - Antixeno = Black Shadow Trooper armor
 - UC Police And Marine Model A = DT-series sentry droid
 </details>
+
+
+
+***
+
+## Star Wars Aliens
+
+![](https://s9.gifyu.com/images/SFgpR.png)Star Wars by [radicalclownfriend](https://www.nexusmods.com/starfield/users/47115128)
+
+### Features
+
+> This adds several fully animated aliens from Star Wars to the various factions of Starfield as well as adds alien character presets, new hairs, tattoos, and skin tones. This mod is best played with a new game or NG+.\
+>
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+### [Ecliptics](https://)
+
+- All Ecliptic mercenaries have been overhauled into Trandoshan mercenaries.
+
+### [Spacers](https://)
+
+- New alien faces have been distributed to the Spacers Leveled NPC Records.
+- Headsocks have been removed from their helmets.
+
+### [Crimson Fleet](https://)
+
+- New Alien faces have been distributed to the Crimson Fleets Leveled NPC Records.
+- Half of the Key Fleet members have been transformed into aliens as well.
+- 3 of the 4 Crimson Fleet helmet meshes have been upscaled and their headsocks removed.
+
+### [Freestar Collective](https://)
+
+- New alien faces have been distributed to the Freestar Leveled NPC Records.
+- Select Guards at the Clinic and at Akila have been changed.
+
+### [The Shaw Gang](https://)
+
+- Every Shaw gang member as well as Shaw herself has been overhauled to be an alien.
+
+### [Seokguh Syndicate](https://)
+
+- New alien faces have been distributed to the Syndicates Leveled NPC Records.
+- Gloves have been added to the Syndicate suits.
+
+### [Generic Crew Members](https://)
+
+- The quest SQ\_Crew\_SpawnManager has been edited to spawn both human and alien crew members.
+
+### [Crowd NPCs](https://)
+
+- Almost all Crowd Region records under the Generic Base form have been edited to add alien crowd NPCs.\
+  \
+</details>
+
+
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
