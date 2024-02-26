@@ -1,22 +1,4 @@
-### ![](https://s11.gifyu.com/images/Sgd38.jpg)Hey guys
-
-**Starfield Patch 1.9.67 is here**
-
-The collections have been unlisted from Nexus while we work on the update to avoid users accidentally downloading a non-working collection.
-
-## 1) If you accidentally update:
-
-If you would like to continue playing the modded game you will need to downgrade the version of the game through **Steam**.
-
-- **Downgrading** You can follow this Guide>[How to downgrade Starfield](https://github.com/v2sCollections/Constellation/blob/main/Guides.md#other-guides)
-
-## 2) Preventing the Update:
-
-- **Preventing Steam updates** You can follow this Guide>[Preventing Steam updates](https://github.com/v2sCollections/Constellation/blob/main/Guides.md#other-guides)
-
-Patch notes [HERE](https://bethesda.net/en/game/starfield/article/7t4cuMiS3neUd9aykDhDkT/starfield-update-1-9-67-notes-february-7-2024)
-
-![](https://s11.gifyu.com/images/Sgd38.jpg)**✅Compatible With 1.9.67 on Steam**
+### **✅Compatible With 1.9.67 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 

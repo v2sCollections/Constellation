@@ -1,23 +1,3 @@
-### ![](https://s11.gifyu.com/images/Sgd38.jpg)Hey guys
-
-**Starfield Patch 1.9.67 is here**
-
-The collections have been unlisted from Nexus while we work on the update to avoid users accidentally downloading a non-working collection.
-
-## 1) If you accidentally update:
-
-If you would like to continue playing the modded game you will need to downgrade the version of the game through **Steam**.
-
-- **Downgrading** You can follow this Guide>[How to downgrade Starfield](https://github.com/v2sCollections/Constellation/blob/main/Guides.md#other-guides)
-
-## 2) Preventing the Update:
-
-- **Preventing Steam updates** You can follow this Guide>[Preventing Steam updates](https://github.com/v2sCollections/Constellation/blob/main/Guides.md#other-guides)
-
-Patch notes [HERE](https://bethesda.net/en/game/starfield/article/7t4cuMiS3neUd9aykDhDkT/starfield-update-1-9-67-notes-february-7-2024)
-
-![](https://s11.gifyu.com/images/Sgd38.jpg)
-
 ### **✅Compatible With 1.9.67 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
@@ -489,18 +469,15 @@ https://www.youtube.com/watch?v=\_bEHcZlynk8
 - UC Police And Marine Model A = DT-series sentry droid
 </details>
 
-
-
 ***
 
 ## Star Wars Aliens
 
-![](https://s9.gifyu.com/images/SFgpR.png)Star Wars by [radicalclownfriend](https://www.nexusmods.com/starfield/users/47115128)
+![](https://s9.gifyu.com/images/SFgpR.png)Star Wars Aliens by [radicalclownfriend](https://www.nexusmods.com/starfield/users/47115128)
 
 ### Features
 
-> This adds several fully animated aliens from Star Wars to the various factions of Starfield as well as adds alien character presets, new hairs, tattoos, and skin tones. This mod is best played with a new game or NG+.\
->
+> This adds several fully animated aliens from Star Wars to the various factions of Starfield as well as adds alien character presets, new hairs, tattoos, and skin tones. This mod is best played with a new game or NG+.\\
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 ### [Ecliptics](https://)
@@ -539,10 +516,8 @@ https://www.youtube.com/watch?v=\_bEHcZlynk8
 ### [Crowd NPCs](https://)
 
 - Almost all Crowd Region records under the Generic Base form have been edited to add alien crowd NPCs.\
-  \
+  \\
 </details>
-
-
 
 ![](https://s6.gifyu.com/images/S4AHU.jpg)
 
