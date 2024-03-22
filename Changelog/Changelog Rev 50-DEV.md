@@ -20,6 +20,7 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 
 - Vortex now has a plugin manager built in please check the guide on the collection page.
 - This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
+- All Upscaled textures will now load.
 
 ### Changes
 
@@ -31,16 +32,29 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 
 ## UPDATED
 
-N/A
-
+- [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106)
+- [Address Library for SFSE Plugins](https://www.nexusmods.com/starfield/mods/3256)
+- [Console Command Runner Updated](https://www.nexusmods.com/starfield/mods/7318)
+- [BetterConsole - Console Replacer and MOD Menu](https://www.nexusmods.com/starfield/mods/3683?tab=description)
+- [60 FPS - Smooth UI](https://www.nexusmods.com/starfield/mods/350)
+- [Immersive New Atlantis City Map](https://www.nexusmods.com/starfield/mods/3574)
+- [Baka Quit Game Fix](https://www.nexusmods.com/starfield/mods/1662)
+- [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750)
+- [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658)
+- [Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820?tab=description)
+- [IconSortingTags - Starfield Edition](https://www.nexusmods.com/starfield/mods/312)
 
 ## REMOVED
 
-N/A
+- [Visible Companion Affinity](https://www.nexusmods.com/starfield/mods/7028) Causing issues loading our Ba2 Textures.
+- [Auto Unlock SFSE](https://www.nexusmods.com/starfield/mods/5571) Causing Crashes
+- [Discord Rich Presence (SFSE)](https://www.nexusmods.com/starfield/mods/2545) Causing Crashes
 
 ## NEW MODS ADDED
 
-N/A
+- [Ship Builder Categories](https://www.nexusmods.com/starfield/mods/7310)
+- [TN's Ship Modifications All in One](https://www.nexusmods.com/starfield/mods/6376)
+- [Starvegas - Cinematic Killcam](https://www.nexusmods.com/starfield/mods/8859)
 
 ## BUGS
 
@@ -48,7 +62,9 @@ N/A
 
 ## MODS NOT WORKING AT THE MOMENT
 
-N/A
+- [Visible Companion Affinity](https://www.nexusmods.com/starfield/mods/7028) Causing issues loading our Ba2 Textures.
+- [Auto Unlock SFSE](https://www.nexusmods.com/starfield/mods/5571) Causing Crashes
+- [Discord Rich Presence (SFSE)](https://www.nexusmods.com/starfield/mods/2545) Causing Crashes
 
 [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
