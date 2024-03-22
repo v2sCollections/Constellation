@@ -1,4 +1,4 @@
-### **✅Compatible With 1.9.67 on Steam**
+### **✅Compatible With 1.10.31 on Steam**
 
 https://www.youtube.com/watch?v=PXXoIV0sdfw
 

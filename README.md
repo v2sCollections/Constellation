@@ -1,4 +1,4 @@
-### **✅Compatible With 1.9.67 on Steam**
+### **✅Compatible With 1.10.31 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
@@ -89,12 +89,20 @@ C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 </details>
 
 <details><summary>⛔HOW TO UPDATE</summary>
+***
+
+https://www.youtube.com/watch?v=TC0GbFmp6Kw
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 - **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/npk3lv?tab=about\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile.
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>⛔LAUNCHING STARFIELD</summary>
@@ -999,6 +1007,53 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - Increases the combat slide distance. Multiple versions to choose from.
 </details>
 
+
+
+***
+
+## Starvegas - Cinematic Killcam
+
+https://www.youtube.com/watch?v=dE9x8gL9pCs
+
+[Starvegas - Cinematic Killcam](https://www.nexusmods.com/starfield/mods/8859) by [lKocMoHaBTl](https://www.nexusmods.com/starfield/users/2361177)
+
+## Features
+
+> Finish off an enemy in a more spectacular manner! With Starvegas every kill will be like a show. Introduces cinematic killcam. Has several features and options to play with.
+
+<details><summary>CLICK FOR DETAILS</summary>
+TRIGGERS CINEMATIC KILLCAM with IMMERSIVE ZOOM IN and DEEP SLOWMOTION EFFECTS, TO SHOW OFF YOUR FINAL BLOW
+
+- Works on foot and while piloting the spaceship\
+
+
+[HAS SEVERAL MODES TO TRIGGER](https://)
+
+- **Last Hostile: **the triggers on the last target in the player's vicinity
+- **One-Shot: ** triggers on unsuspected instantly killed targets
+- **One-shot + Last Hostile: ** two first options together
+- **Combat: ** triggers on any kill, but only in combat/alerted status
+- **Always: **kill-cam triggers on any kill and conditions\
+
+
+[SPECIAL VISUAL AND AUDIO FX](https://)
+
+- cam triggers\
+
+
+[CONFIGURATION BOOK WITH VARIOUS SETTINGS TO TWEAK](https://)
+
+- **Modes >>>**killcamera trigger modes
+- **Camera Settings >>>**various camera settings such as zoom in, zoom out, field of view, distance at which kill-cam triggers
+- **Trigger Chance >>>**probability of kill-cam triggering
+- **Cooldown >>>**killcam restrictor.Restricts kill-cam trigger for a specified duration, regardless of the conditions met
+- **Special FX >>>**additional options while kill-cam active such as MUSIC MUTE, AUDIO & VISUAL FX, Recoil, Player Invincibility
+- **Properties >>>**settings for power and duration of slow-motion effect
+- **Races >>>**active race types that can trigger the cinematic camera
+</details>
+
+
+
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
 ## ![](https://s6.gifyu.com/images/S8WCi.png)Features
@@ -1043,6 +1098,7 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - Increases the overlap tolerance in the ship-builder, allowing for more tight and varied builds with slightly overlapping modules.
 - Increased the maximum number of ships you can own x5.
 - Ensures the Outpost Shipbuilder always has 800,000 credits on hand as soon as you open the menu, and optionally unlocks all specialty parts at the outpost
+- Adds categories to the Ship Builder.
 
 ## [Ship HUD](https://)
 
@@ -1109,6 +1165,34 @@ The **remote control** counts as a weapon, so you can:
 
 - favorite item **favorite**.
 - Give it a hotkey **hotkey**.
+</details>
+
+
+
+***
+
+## TN's Ship Modifications
+
+![](https://s12.gifyu.com/images/SVpH8.jpg)[TN's Ship Modifications](https://www.nexusmods.com/starfield/mods/6376) by [TheOGTennessee](https://www.nexusmods.com/starfield/users/105925403)
+
+## Features
+
+> Various ship modules provide extensive customization over ships ans ship building.
+
+<details><summary>CLICK FOR DETAILS</summary>
+### Tweaks&#x20;
+
+- [TN's Hab Tweaks](https://www.nexusmods.com/starfield/mods/5732) - Rebalances the Habs added into the game by giving them small amounts of cargo (or large amounts for dedicated cargo habs), and other stats befitting the hab's purpose. Each Hab also grants the ship some amount of Hull based on size, instead of being a flat rate for all Habs.
+- [TN's Useful Ship Structure](https://www.nexusmods.com/starfield/mods/5836) - Gives all of the "decorative" structure items some Hull based on their size and a guestimate of how much 'armor' they would add to the ship. It also modifies some of the fuel tanks, landing gear, and dockers to give slightly more hull. Radiators give additional shield health, and the Sensors buff your lock on time slightly and to your crew station count (like weapons).
+- [TN's Expanded Cargo Holds](https://www.nexusmods.com/starfield/mods/5957) - Triples the cargo capacity of the cargo containers, though shielded cargo gives 85% of what unshielded does, instead of 75%. It also adds a little hull to the 'armored' cargo hulls, and gives additional storage in the captain's locker (plus makes it not respawn).
+- [TN's Supplemental Thruster](https://www.nexusmods.com/starfield/mods/5729) - Gives the braking thrusters, some of the landing gear, and maneuvering thrusters additional thrust and/or maneuvering at the cost of a small amount of power being diverted to them. The All in One also adds a little Hull where appropriate to bring it in line with the Useful Ship Structures.
+- [TN's Supplemental Reactors](https://www.nexusmods.com/starfield/mods/5962) - Adds additional "reactors" that can be used alongside primary reactors without the need to remove reactor limits. The mod is balanced so that it doesn't make the additional reactors add more hull, and instead costs the ship additional mass and lowered hull to get additional power.
+- [TN's Supplemental Cockpits](https://www.nexusmods.com/starfield/mods/6133) - Adds in copies of the primary cockpits with altered stats to act as decor and to grant additional crew stations, all without needing to remove the cockpit limit.
+- [TN's Weapon To Module Snapping](https://www.nexusmods.com/starfield/mods/6134) - Adds the ability to snap weapons (and other small modules like the scan jammers) onto any slot, even those directly on habs and on structure parts. It makes no edits to the weapons, habs, or structure parts themselves in order to achieve this.
+- [TN's Separated Categories](https://www.nexusmods.com/starfield/mods/7467) - Uses the [Ship Builder Categories](https://www.nexusmods.com/starfield/mods/7310) mod to separate Habs into categories by manufacturer, weapons into categories by damage type, and the braking thrusters into their own category separate from structure parts.
+- All of the above individual mods have been combined into one with minor edits for better compatibility between them.
+- Supplemental Cockpits and Supplemental Reactors are now found in their own categories.
+- This mod now requires the [Ship Builder Categories](https://www.nexusmods.com/starfield/mods/7310) mod unless you use the "Less Dependencies Version". However it is highly recommended you get the Ship Builder Categories to avoid compatibility issues in the future.
 </details>
 
 ***

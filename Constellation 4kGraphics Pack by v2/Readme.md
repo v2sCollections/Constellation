@@ -1,4 +1,4 @@
-### **✅Compatible With 1.9.67 on Steam**
+### **✅Compatible With 1.10.31 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
@@ -31,12 +31,20 @@
 </details>
 
 <details><summary>⛔HOW TO UPDATE</summary>
+***
+
+https://www.youtube.com/watch?v=TC0GbFmp6Kw
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 - **1**) Create a new Profile in Vortex and enable it.
 - **2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile.
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>⛔LAUNCHING STARFIELD</summary>

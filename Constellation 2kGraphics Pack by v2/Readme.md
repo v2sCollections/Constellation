@@ -1,4 +1,4 @@
-### **✅Compatible With 1.9.67 on Steam**
+### **✅Compatible With 1.10.31 on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
