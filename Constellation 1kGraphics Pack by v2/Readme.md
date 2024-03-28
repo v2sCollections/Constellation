@@ -1,4 +1,4 @@
-### **✅Compatible With 1.10.31 on Steam**
+### **✅Compatible With The Latest Patch on Steam**
 
 https://www.youtube.com/watch?v=PXXoIV0sdfw
 
@@ -26,12 +26,20 @@ Reduces the resolution of all textures in the game, with an extra reduction on s
 </details>
 
 <details><summary>⛔HOW TO UPDATE</summary>
+***
+
+https://www.youtube.com/watch?v=TC0GbFmp6Kw
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 - **1**) Create a new Profile in Vortex and enable it.
-- **2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/7ou329/revisions/13?utm_medium=vortex\&utm_source=vortex\&utm_campaign=view_collection\&utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
+- **2**) Go to the [Collection](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) page and ensure the most current revision number is displayed, then select **"ADD TO VORTEX"**
 - **3**) When prompted to select which profile to install to, select the new profile you created in Step **1**)
 - **4**) Once the update is downloaded you can remove the old profile.
 
 **NOTE** Don't worry you will **NOT** have to redownload the entire collection with this method.
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>⛔LAUNCHING STARFIELD</summary>
@@ -313,7 +321,6 @@ If you enjoy this collection, **PLEASE** endorse our mods and collections.
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
 
-- [Magic Beanware](https://www.nexusmods.com/users/197258372)
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 - DovaDigital

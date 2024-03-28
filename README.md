@@ -1,4 +1,4 @@
-### **✅Compatible With 1.10.31 on Steam**
+### **✅Compatible With The Latest Patch on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
@@ -1007,8 +1007,6 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - Increases the combat slide distance. Multiple versions to choose from.
 </details>
 
-
-
 ***
 
 ## Starvegas - Cinematic Killcam
@@ -1024,35 +1022,30 @@ https://www.youtube.com/watch?v=dE9x8gL9pCs
 <details><summary>CLICK FOR DETAILS</summary>
 TRIGGERS CINEMATIC KILLCAM with IMMERSIVE ZOOM IN and DEEP SLOWMOTION EFFECTS, TO SHOW OFF YOUR FINAL BLOW
 
-- Works on foot and while piloting the spaceship\
-
+- Works on foot and while piloting the spaceship\\
 
 [HAS SEVERAL MODES TO TRIGGER](https://)
 
-- **Last Hostile: **the triggers on the last target in the player's vicinity
-- **One-Shot: ** triggers on unsuspected instantly killed targets
-- **One-shot + Last Hostile: ** two first options together
-- **Combat: ** triggers on any kill, but only in combat/alerted status
-- **Always: **kill-cam triggers on any kill and conditions\
-
+- \*\*Last Hostile: \*\*the triggers on the last target in the player's vicinity
+- \*\*One-Shot: \*\* triggers on unsuspected instantly killed targets
+- \*\*One-shot + Last Hostile: \*\* two first options together
+- \*\*Combat: \*\* triggers on any kill, but only in combat/alerted status
+- \*\*Always: \*\*kill-cam triggers on any kill and conditions\\
 
 [SPECIAL VISUAL AND AUDIO FX](https://)
 
-- cam triggers\
-
+- cam triggers\\
 
 [CONFIGURATION BOOK WITH VARIOUS SETTINGS TO TWEAK](https://)
 
-- **Modes >>>**killcamera trigger modes
-- **Camera Settings >>>**various camera settings such as zoom in, zoom out, field of view, distance at which kill-cam triggers
-- **Trigger Chance >>>**probability of kill-cam triggering
-- **Cooldown >>>**killcam restrictor.Restricts kill-cam trigger for a specified duration, regardless of the conditions met
-- **Special FX >>>**additional options while kill-cam active such as MUSIC MUTE, AUDIO & VISUAL FX, Recoil, Player Invincibility
-- **Properties >>>**settings for power and duration of slow-motion effect
-- **Races >>>**active race types that can trigger the cinematic camera
+- \*\*Modes >>>\*\*killcamera trigger modes
+- \*\*Camera Settings >>>\*\*various camera settings such as zoom in, zoom out, field of view, distance at which kill-cam triggers
+- \*\*Trigger Chance >>>\*\*probability of kill-cam triggering
+- \*\*Cooldown >>>\*\*killcam restrictor.Restricts kill-cam trigger for a specified duration, regardless of the conditions met
+- \*\*Special FX >>>\*\*additional options while kill-cam active such as MUSIC MUTE, AUDIO & VISUAL FX, Recoil, Player Invincibility
+- \*\*Properties >>>\*\*settings for power and duration of slow-motion effect
+- \*\*Races >>>\*\*active race types that can trigger the cinematic camera
 </details>
-
-
 
 ![](https://s11.gifyu.com/images/SgFMA.jpg)
 
@@ -1166,8 +1159,6 @@ The **remote control** counts as a weapon, so you can:
 - favorite item **favorite**.
 - Give it a hotkey **hotkey**.
 </details>
-
-
 
 ***
 
@@ -1452,7 +1443,6 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support us 
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the [Nexus](https://discord.gg/nexusmods) and the [Starfield](https://discord.gg/starfieldmodding) modding Discords.
 
-- [Magic Beanware](https://www.nexusmods.com/users/197258372)
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 - DovaDigital

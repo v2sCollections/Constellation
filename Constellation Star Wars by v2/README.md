@@ -1,4 +1,4 @@
-### **✅Compatible With 1.10.31 on Steam**
+### **✅Compatible With The Latest Patch on Steam**
 
 **⛔**Not Compatible with the Gampass Edition**⛔**
 
@@ -672,7 +672,6 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support us 
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the [Nexus](https://discord.gg/nexusmods) and the [Starfield](https://discord.gg/starfieldmodding) modding Discords.
 
-- [Magic Beanware](https://www.nexusmods.com/users/197258372)
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
 - [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
 - DovaDigital
