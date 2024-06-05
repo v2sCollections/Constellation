@@ -1,6 +1,6 @@
-### **✅Compatible With The Latest Patch on Steam**
+### **✅Compatible With Patch 1.11.36 on Steam**
 
-**⛔**Not Compatible with the Gampass Edition**⛔**
+### **⛔Not Compatible with the Gampass Edition**
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is the [Constellation 4k Graphics Pack](https://) for **Starfield**.
 
@@ -144,7 +144,11 @@ https://www.youtube.com/watch?v=suCAprM6m94
 
 ![](https://s6.gifyu.com/images/S8nhU.jpg)**2) ⛔**When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
 
-## ![](https://s6.gifyu.com/images/S8nkL.jpg)
+![](https://s6.gifyu.com/images/S8nkL.jpg)**3**) When you see the pop-up for **"Mods may not load correctly"** go to the following location and delete the Data folder.
+
+```
+C:\Users\YOURUSERNAME\Documents\My Games\Starfield
+```
 </details>
 
 <details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
@@ -334,4 +338,4 @@ If you would like to support [Xilamonstrr](https://www.nexusmods.com/starfield/u
 - ⛔ I do not allow you to copy or clone this collection in any way.
 - © 2023 Bethesda Softworks LLC, a ZeniMax Media company. Trademarks belong to their respective owners.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/SVQQz.png)

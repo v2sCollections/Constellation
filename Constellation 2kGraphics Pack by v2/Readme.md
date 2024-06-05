@@ -1,6 +1,6 @@
-### **✅Compatible With The Latest Patch on Steam**
+### **✅Compatible With Patch 1.11.36 on Steam**
 
-**⛔**Not Compatible with the Gampass Edition**⛔**
+### **⛔Not Compatible with the Gampass Edition**
 
 **⛔ I**f you use our main [Constellation collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) these mods are already included**⛔**
 
@@ -16,7 +16,7 @@
 - [Github Repository](https://github.com/2077v2/Constellation)-with Guides/FAQs and much more.
 - Continuous Support in Comments and on Discord.
 - Live voice support.
-- Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).
+- Giveaways. Game Keys/Discord Nitro (Every Week).
 - and much much more Join our Discord for more information.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)\
@@ -142,7 +142,11 @@ https://www.youtube.com/watch?v=suCAprM6m94
 
 ![](https://s6.gifyu.com/images/S8nhU.jpg)**2) ⛔**When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
 
-## ![](https://s6.gifyu.com/images/S8nkL.jpg)
+![](https://s6.gifyu.com/images/S8nkL.jpg)**3**) When you see the pop-up for **"Mods may not load correctly"** go to the following location and delete the Data folder.
+
+```
+C:\Users\YOURUSERNAME\Documents\My Games\Starfield
+```
 </details>
 
 <details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
@@ -333,4 +337,4 @@ If you would like to support [Xilamonstrr](https://www.nexusmods.com/starfield/u
 - ⛔ I do not allow you to copy or clone this collection in any way.
 - © 2023 Bethesda Softworks LLC, a ZeniMax Media company. Trademarks belong to their respective owners.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/SVQQz.png)

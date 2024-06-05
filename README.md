@@ -1,11 +1,23 @@
-### **✅Compatible With The Latest Patch on Steam**
+### **✅Compatible With Patch 1.11.36 on Steam**
 
-**⛔**Not Compatible with the Gampass Edition**⛔**
+### **⛔Not Compatible with the Gampass Edition**
 
 ![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [Constellation](https://) for **Starfield**.
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! My name is [v2](https://www.nexusmods.com/users/123334373) and i'm excited to meet you! I've fallen in love with Gaming and Modding and I'm sure you have too. Modding is really a cool way to add so much more to the games we already enjoy. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods, work as seamlessly as they can. I want it to be easier for you to jump right in, without having to worry if the mods will work. I curated a collection for [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) for example, and that has been the most endorsed and downloaded collection on Nexus! My [Cyberpunk 2077](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) collection is one of the most diversely comprehensive mod collections to date. Whether you love [Cyberpunk](https://next.nexusmods.com/cyberpunk2077/collections/dfvt7o?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), [Starfield](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), or even [Hogwarts Legacy](https://next.nexusmods.com/hogwartslegacy/collections/uehwil?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection), I've got your back. And so does the community we've grown in my [Discord](https://discord.gg/v2-s-collections-1076179431195955290) when you have questions or just want to hangout with other like-minded gamers who want to get the most out of their games too!
+Hey Chooms! This is a little bit about me and why I started curating mod collections
+
+Back in the 90s, I was a young kid, and I never slowed down for more than two seconds.&#x20;
+
+But this all changed one day when I visited my cousin he had a Super Nintendo!!! and I fell in love, from that moment on I knew gaming was something that called out to me.
+
+So when my parents bought my sister and i our own console (Playstation) I was over the moon, long nights playing Crash Bandicoot, Spyro and Gran Turismo you can't beat these memories.
+
+Skip forward 10 years and games like Red Dead Redemption, GTA Vice City and Need for Speed these games only solidified my love of gaming even more. Like many of us, it gave us a way to escape and let our imagination run wild.
+
+Skip forward to the current day. The time when we can create new experiences in the games that we already love what could be better than this? Modding is really a cool way to add so much more. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods and work as seamlessly as they can.
+
+So join us choombah and come along for the ride.
 </details>
 
 <details><summary>MY VISION FOR THIS COLLECTION</summary>
@@ -35,7 +47,7 @@ This collection is extensively tested with every new version, because we want to
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
 - The most extensive mod collection on Nexus for Starfield.
 - Easy to follow step-by-step installation guide.
-- Only-[4](https://)Gb in download size for [160](https://)+ Mods. Optional Mods add another [10](https://)Gb
+- Only-[5](https://)Gb in download size for [160](https://)+ Mods. Optional Mods add another [10](https://)Gb
 - Mods specifically created for the collection.
 - Setup Video- [HERE](https://youtu.be/4T8pOWYWu5Q?si=27GVbgBmVvDWOdm_)
 - Continuous Support in Comments and on Discord.
@@ -200,9 +212,13 @@ https://www.youtube.com/watch?v=suCAprM6m94
 
 **1**) If your Starfield.ini isn't set up for modding you will see this Pop-Up in the top right-hand corner of Vortex select **"Fix"**.
 
-![](https://s6.gifyu.com/images/S8nhU.jpg)**2) ⛔**When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
+![](https://s6.gifyu.com/images/S8nhU.jpg)**2**)\*\* ⛔\*\*When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
 
-## ![](https://s6.gifyu.com/images/S8nkL.jpg)
+![](https://s6.gifyu.com/images/S8nkL.jpg)**3**) When you see the pop-up for **"Mods may not load correctly"** go to the following location and delete the Data folder.
+
+```
+C:\Users\YOURUSERNAME\Documents\My Games\Starfield
+```
 </details>
 
 <details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
@@ -1164,7 +1180,7 @@ The **remote control** counts as a weapon, so you can:
 
 ## TN's Ship Modifications
 
-![](https://s12.gifyu.com/images/SVpH8.jpg)[TN's Ship Modifications](https://www.nexusmods.com/starfield/mods/6376) by [TheOGTennessee](https://www.nexusmods.com/starfield/users/105925403)
+![](https://s9.gifyu.com/images/SVQuR.png)[TN's Ship Modifications](https://www.nexusmods.com/starfield/mods/6376) by [TheOGTennessee](https://www.nexusmods.com/starfield/users/105925403)
 
 ## Features
 
@@ -1388,18 +1404,43 @@ Install guide for our Constellation Star Wars Collection.
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ![](https://s11.gifyu.com/images/SgdAn.png)\
-[Constellation Tweaks Performance Boost](https://www.nexusmods.com/starfield/mods/2624/?tab=description). Will improve performance on most systems. When in-game go to "Settings" and on the "Display" tab change the "Graphics Preset" to "High".
+[Constellation Tweaks Performance Boost](https://www.nexusmods.com/starfield/mods/2624/?tab=description). Will improve performance on most systems. When in-game go to **"Settings"** and on the **"Display"** tab change the **"Graphics Preset"** to **"High"**.
 
 <details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
+## Performance Heavy Mods
+
+You can disable some of the following Mods to increase performance. Just search for them in Vortex.
+
+- Reshade
+- Landscape Surfaces Redone
+- Flora Redone
+- Architecture Redone
+
+***
+
 ## High-End Settings
 
 Recommended In-game settings These settings will give a slight performance boost without sacrificing quality.
 
-## ![](https://s11.gifyu.com/images/SgVs9.jpg)Low-End Settings
+## ![](https://s12.gifyu.com/images/SaWFf.jpg)Low-End Settings
 
 Recommended In-game settings These settings will give a big increase to performance while sacrificing quality.
 
-![](https://s11.gifyu.com/images/S42HR.jpg)
+## ![](https://s12.gifyu.com/images/SaWFa.jpg)
+
+***
+
+## DLSS & Frame Generation (FG)
+
+If you have an NVIDIA GPU you can take advantage of **DLSS**
+
+***
+
+## What settings should I use?
+
+Below you will find the **DLSS** and **Frame Generation (FG)** options. These options are personal preference, just remember that once you start lowering the quality preset you will begin to see a loss in visual quality. Try to stick with the **"Quality"** or **"Ultra Quality"** for the best visual fidelity.
+
+![](https://s12.gifyu.com/images/SaWZ2.jpg)
 
 ***
 
@@ -1417,6 +1458,8 @@ Recommended In-game settings These settings will give a big increase to performa
 - [NVIDIA PROFILE INSPECTOR](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
 </details>
 
+NOTE If you would like a more in-depth explanation of game settings please join our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) for the full performance guide.
+
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
 ![](https://s11.gifyu.com/images/SgdAW.png)&#x20;
@@ -1428,8 +1471,8 @@ Recommended In-game settings These settings will give a big increase to performa
 - 1440p> RTX 3080 or RX 6800 XT
 - RAM> 16GB
 - CPU> R5 3600x or i5 10600K
-- TOTAL STORAGE> 13.6Gb&#x20;
-- MIN STORAGE 4Gb
+- TOTAL STORAGE> 15Gb&#x20;
+- MIN STORAGE 5Gb
 - STORAGE TYPE> SSD
 </details>
 
@@ -1469,4 +1512,4 @@ If you would like to support me so I can afford a new ship so I can store more s
 - ⛔**DO NOT** use a pirated game. It is against Nexus rules and is illegal and I will not provide any support.
 - © 2023 Bethesda Softworks LLC, a ZeniMax Media company. Trademarks belong to their respective owners.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/SVQQz.png)
