@@ -25,9 +25,6 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL 
 
 - After the update you may see a notification in Vortex for depreciated Fomods all you have to do is select "FIX".
 - We have replaced many old weapon mods with new versions.
-
-![img](https://s5.gifyu.com/images/SiMCn.png)
-
 - If you see any errors relating to a mod in Vortex right-click the mod and select reinstall.
 
 ## UPDATED
