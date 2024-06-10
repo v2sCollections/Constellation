@@ -316,38 +316,35 @@ I can overclock and stress test your **GPU**.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
+## Downgrading from 1.11.36 10/06/2024
+
 To downgrade the game you will need to enter 2 codes, these need to be done one at a time
 
-**1**) Make sure the following folder is empty if it isnt then delete the contents
 
-```
-C:\Program Files (x86)\Steam\steamapps\content
-```
+**1**) Open Vortex and select **Purge** this will remove the Mods from the game files.
 
-**2**) Open Vortex and select **Purge** this will remove the Mods from the game files.
+**2**) Open the "Run" menu (Windows Key + R)
 
-**3**) Open the **"Run"** menu **(Windows Key + R)**
-
-**4**) Run the below command and you should see a console tab appear within Steam.
+**3**) Run the below command and you should see a console tab appear within Steam.
 ```
 steam://open/console/
 ```
 > ***NOTE***: *When entering, the console may take some time to download files. It will only display information when completed. Please wait for it to be done.*
 
-**5**) Enter this command into the console and run it.
+**4**) Enter this command into the console and run it.
 ```
 download_depot 1716740 1716742
-3676536122178175512
-7432080452390599134
+2012050891308553085
+1972596657003378942 
 ```
 
-**6**) Now repeat the process with the following code
+**5**) Now repeat the process with the following code
 ```
 download_depot 1716740 1716741
-4796644634862727663
+6859384585110500667
 ```
 
-**7**) Once both depots are downloaded, you can then navigate to
+**6**) Once both depots are downloaded, you can then navigate to
 ```
 C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716741
 ```
@@ -356,9 +353,9 @@ and
 C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
 ```
 
-**8**) Copy what is inside of the folders named depot_# into the Starfield game folder and overwrite the files. Repeat for both folders.
+**7**) Copy what is inside of the folders named depot_# into the Starfield game folder and overwrite the files. Repeat for both folders.
 
-**9**) Once you have done both you can **Deploy** the Mods in **Vortex** and continue to play the Modded Version of the game.
+**8**) Once you have done both you can **Deploy** the Mods in **Vortex** and continue to play the Modded Version of the game.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -372,7 +369,7 @@ To downgrade the game you will need to download the downgraded files.
 
 **1**) Navagate to the following link [Constellation Mod Remover](https://www.nexusmods.com/starfield/mods/5052)
 
-**2**) In the optional files section, download the **Constellation Backup Files**.
+**2**) In the optional files section, download the **Constellation Backup Files 1.11.36**.
 
 **3**) Extract the the file with 7zip/WinRar
 
