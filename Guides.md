@@ -316,7 +316,7 @@ I can overclock and stress test your **GPU**.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-## Downgrading from 1.11.36 10/06/2024
+## Downgrading from 1.12.30 to 1.11.36 10/06/2024
 
 To downgrade the game you will need to enter 2 codes, these need to be done one at a time
 
