@@ -44,20 +44,22 @@ This collection is extensively tested with every new version, because we want to
 
 [![](https://s6.gifyu.com/images/S6n4A.png)](https://discord.gg/v2-s-collections-1076179431195955290)
 
-- These are the best mods from the most talented mod authors and are a must-have to immerse yourself in Starfield.
-- The most extensive mod collection on Nexus for Starfield.
+- These are the best mods from the most talented mod authors and are a must-have to immerse yourself in **Starfield**.
+- The most extensive mod collection on Nexus for **Starfield**.
 - Easy to follow step-by-step installation guide.
-- Only-[5](https://)Gb in download size for [160](https://)+ Mods. Optional Mods add another [10](https://)Gb
+- Only-[5](https://)Gb in download size for [170](https://)+ Mods. Optional Mods add another [10](https://)Gb
 - Mods specifically created for the collection.
 - Setup Video- [HERE](https://youtu.be/4T8pOWYWu5Q?si=27GVbgBmVvDWOdm_)
-- Continuous Support in Comments and on Discord.
+- Continuous Support in Comments and on [Discord](https://discord.gg/v2-s-collections-1076179431195955290).
 - Live voice support.
-- Giveaways. Nexus Premium/Game Keys/Discord Nitro (Every Week).&#x20;
+- Giveaways. Game Keys/Discord Nitro (Every Week).&#x20;
 - and much much more Join our Discord for more information.
 
-\<!---->
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-- ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
+![](https://s11.gifyu.com/images/SgdAi.png)
+
+- (SFSE) Script Extender.
 - (CCL) Constellation Collection Loader. &#x20;
 - Achievement Enabler.
 - Bethini Pie (Performance INI Editor).
@@ -384,21 +386,6 @@ Power Presets
 ##
 
 <details><summary>COMMON FAQS</summary>
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)[I am unable to open doors and hatches or have the Cockpitchair and T Posing Bug❓](https://)
-
-Or have any of the bugs below
-
-- Stuck in the cockpit chair?
-- NPCs' eyes black?
-- NPCs or your character T Posing?
-- Blood spatters texture issues?
-
-This is because you didn't select the right settings from the installation guide. See the picture below.
-
-**Hardlink Deployment** Requires the game to be on the same drive as the Mods this is **IMPORTANT**
-
-![img](https://s10.gifyu.com/images/S4aJv.png)
-
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[My controller doesn't work❓](https://)
 
 **1**) Open Steam.
@@ -418,10 +405,6 @@ If you would like to change the preset you chose follow the guide below.
 **2**) Right-click the Mod and select Reinstall.
 
 **3**) This will allow you to choose your Presets again.
-
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)[My Screen is flickering or going Black❓](https://)
-
-This is caused by the DLSS Mod. Only use the "Quality" setting as other settings may increase the risk of the black screen bug.
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)[The Tools in Vortex are missing❓](https://)
 
@@ -452,7 +435,7 @@ The mod we use to enable Achievements while playing the modded version of the ga
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
 
-### ![](https://s11.gifyu.com/images/SgFMA.jpg)![](https://s6.gifyu.com/images/S4Ozq.jpg)
+### ![](https://s10.gifyu.com/images/StNdD.png)![](https://s6.gifyu.com/images/S4Ozq.jpg)
 
 <details><summary>CLICK HERE TO BECOME A JEDI</summary>
 ### Features
@@ -464,7 +447,7 @@ A new constellation is taking shape in the cosmos, one that will awaken the inne
 Prepare for an adventure like no other, where the stars themselves rewrite their destinies to align with the Force. Welcome to [Constellation Star Wars by v2](https://) where the stars tell a tale of epic proportions in a galaxy far, far away...
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ## ![](https://s6.gifyu.com/images/S8WCf.png)Features
 
@@ -473,9 +456,10 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Enemies have more health.
 - Prevent the player from becoming a bullet sponge on the higher levels.
+- Rebalanced skill challenges.
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ![](https://s6.gifyu.com/images/S8WCk.png)
 
@@ -509,7 +493,7 @@ Fixes included in the patch are intended to correct bugs or errors in the base g
 You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelog)
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ![](https://s6.gifyu.com/images/S8WCw.png)
 
@@ -590,19 +574,7 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 - ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add the 4k Collection on top of this Collection make sure to disable the optional 2k Textures included in this Collection.
 - ⛔**NOTE** Our 1k and 4k Collections are **NOT** Compatible with each other for obvious Reasons.
 
-***
-
-### Menu Backgrounds
-
-https://www.youtube.com/watch?v=Ti79tays4dc
-
-[Menu Backgrounds](https://www.nexusmods.com/starfield/mods/222) by [2077v2](https://www.nexusmods.com/starfield/users/123334373)
-
-### Features
-
-> This mod was made especially for my collection users. Amazing community animated wallpapers i have upscaled to 4k 60Fps. You can choose from up to 8 different Main Menu Screens.
-
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ![](https://s6.gifyu.com/images/S8WCC.png)
 
@@ -619,13 +591,24 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - You can now disable aim assist on a controller.
 - You can now convert 10 Essence to Power or Power Ranks using a hotkey. (Hotkey)Numpad9
 
+### [Followers](https://)
+
+- Have an unlimited number of followers. Command all of your followers at once using a **communicator** added automatically to your inventory
+- Visible Companion Affinity allows you to monitor the metrics that describe your relationship with your four companions in Starfield.
+- Followers now attempt to keep an average distance of about 2 - 5 meters from you. Generally closer while walking, and further while running.
+- Followers will now only attack once an enemy has fully detected one of you.
+- Followers will now attempt to stick very close to you (1.5 meters), and will no longer sandbox while sneaking. This makes them much less of a liability in stealth runs.
+- Followers will now match your walking speed while they are close to you.
+- Followers will now be able to move 50% faster when they are more than 50 meters away from you. Let's just say they keep a stockpile of ultra-strength AMP on them, specifically for these moments. The effect usually isn't too visually obvious, but they do a little better job of keeping up with you now.
+- Followers will no longer stop to bully the local wildlife.
+- Followers now stick close to you (1.5 meters) while you are in an airlock doorway.
+- Followers will now attempt to find a seat near you and use it. If they can't find one, they will sandbox randomly instead. They should no longer just stand and stare at you.
+
 ### [NPC](https://)
 
 - Reduced the distance at which NPCs will talk to you.
 - Reduced the distance at which NPCs will stare at you.
 - You can capture incapacitated enemies and turn them over to local security for profit.
-- Have an unlimited number of followers. Command all of your followers at once using a **communicator** added automatically to your inventory
-- Visible Companion Affinity allows you to monitor the metrics that describe your relationship with your four companions in Starfield.
 
 ## [Quests](https://)
 
@@ -647,7 +630,110 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Ensures the Outpost Shipbuilder always has 800,000 credits on hand as soon as you open the menu.
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+***
+
+## Crew and Companion Overhaul
+
+![](https://s12.gifyu.com/images/StNuP.png)[Crew and Companion Overhaul](https://www.nexusmods.com/starfield/mods/8878?tab=description) by [senterpat](https://www.nexusmods.com/starfield/users/4084671)
+
+## Features
+
+> Extends functionality of companions and crew, adding quality of life improvements and improved stat/skill levels for high-level gameplay.
+
+<details><summary>CLICK FOR MORE DETAILS</summary>
+## [General Changes](https://)
+
+- **More Crew** - Increases the default number of crew assignable to ships by 5.
+- **Better Ship Command** - Modifies the Ship Command perk to allow for 5 additional ship crew per level.
+- **Better Crew Stations** - Increases the number of crew allowed by crew stations to 5 per station.
+
+## [Companion and Elite Crew Changes](https://)
+
+- **Inventory Quick Access** - Activating a follower with your weapon drawn will allow you to quickly access companion inventory without going through dialogue.
+- **Companion Previews** - Viewing a companions inventory through dialogue or quick access will show their appearance in the menu rather than the players.
+- **Better Gifts** - Expands the levelled lists of gifts to give more/better gifts at higher levels.
+- **Better Gift System** - Rather than repeat "I have something for you." dozens of times until you break down and talk to them, the companion will say the dialogue once and add the item to their inventory, restarting the gift timer.
+- **Enhance! Support** - Taking a follower to an Enhance! location will give them a new dialogue option, allowing you to alter their appearance to your liking.
+- **Additional Skills** - Companions and Elite crew with less than 4 perks will have a chance for additional perks.
+- **Levelled Skills** - When loading a new game, each companion's skills will be randomly levelled up to rank 4.
+- **Improving skills** - Companions and hired crew members have a 5% chance to level a skill every week.
+- **Improved Outfits** - Makes companion's default outfits usable by the player and allows them to be removed from the companion.
+- **Outfit Mirroring** - When the player's suit and/or helmet are visible, the current followers will be as well.
+- **NG+ Improvements** - Grants access to the followers that typically become unavailable when skipping the main story: Heller, Lin, Moara, and Rafael.
+
+## [Generic Crew Changes](https://)
+
+- **More Crew** - Crew will have a higher chance of spawning additional recruitable crew in each location, and the timer to respawn them has been reduced to 2 of the planets days.
+- **More Locations** - Crew now spawn in additional locations, such as auto-generated civilian outposts.
+- Inventory Control - Crew inventories can be accessed and armor/weapons equipped using quick access or the dialogue option.
+- **More Skill Variety** - Potential list of crew members has been expanded, with higher level crews having stronger and/or more perks.
+- **More Appearance Variety** - Potential faces has been expanded to allow for more unique appearances.
+- **Named Crew** - Crew members are assigned random names. To help differentiate from elite crew in the menu, they only have a first name.
+- **More Skills** - Crew members will now have up to 3 additional perks, randomly assigned for each crew member. The higher a players level and number of NG+'s increase the chance for additional perks.
+- **Less Generic Outfits** - Crew members have been given better fashion sense, and should now wear a wider variety of clothes.
+- **Weapon Variety** - Crew can spawn with alternate weapons, rather than an across the board pistol.
+- **Higher Levels** - Crew now level up past level 5. Generic crew are roughly 75% of the players level and have improved health.
+- **Levelled** - Modified crew AI so that they will help in combat now, notably at outposts. The AI is set so that they should attack when the player or other crew is attacked, and flee if their health is low.
+
+## [Added Perks ](https://)
+
+These are perks that are new to crew and companions in general. There is a least one generic crew that can spawn with each, elite crew and companions have a chance to gain one or more of these skills based on their vanilla loadout.
+
+- **Armor Penetration** - Attacks ignore 15% of enemy armour per rank.
+- **Automated Weapons** - Automated ship weapons do 5% more damage and reduce all targeting mode costs by 5% per rank.
+- **Commerce** - Improves buying and selling by 3% per rank.
+- **Crippling** - Increases the chance of the enemy entering a bleed-out state by 10% and increases damage against enemies in bleed-out by 25% per rank.
+- **Duelling** - Increases melee damage 25% and reduces damage taken 10% while weilding melee per rank.
+- **Engine Systems** - Increases ship boost fuel by 5% and ship boost fuel recharge rate by 10% per rank.
+- **Gymnastics** - Reduces fall damage by 10% per rank, also increases jump height and speed by 10% per rank.
+- **Heavy Weapons** - Heavy weapons do +10% damage per rank.
+- **Incapacitation** - EM weapons do 5% more damage per rank.
+- **Rapid Reloading** - Companion reloads 25% faster per rank.
+- **Rejuvenation** - Companion restores 0.5 health per second per rank in or out of combat.
+- **Research Methods** - Increases all outpost production 2% per rank.
+- **Scanning** - Increases planet scan range by 4 light years per rank.
+- **Ship Command** - Functions the same as the leadership perk.
+- **Special Projects** - Increases production of exotic and unique resources by 10% per rank.
+- **Starship Design** - Improves ship efficiency +3% per rank (Repair Rate, Grav Jump Calculation Time, Weapon Recharge, Boost Recharge)
+- **Targeting** - Improves weapon accuracy and range by 5% per rank.
+- **Targeting Control Systems** - Increases the chance for a critical hit while locked onto a target by 3% per rank.
+- **Zoology** - Increases organic outpost production by 10% per rank.\\
+
+## [Expanded Perks](https://)
+
+Unlike most companion mods I've seen that modify companion perk levels, this mod adds additional effects for the levels, rather than just changing the number. The following crew perks have been edited to have 4 ranks each, following the levelling pattern set in place by the original levels.\\
+
+- Aneutronic Fusion
+- Demolitions
+- Energy Weapon Dissipation
+- Incapacitation
+- Marksmanship
+- Outpost Engineering
+- Outpost Management
+- Pain Tolerance
+- Pistol Certification
+- Ballistic Weapon Systems
+- EM Weapon Systems
+- Missile Weapon Systems
+- Shotgun Certification
+- Sniper Certification
+- Xenosociology
+- Weight Lifting - Increases carry bonus to +25 per rank.
+- Wellness - Increases health bonus to +20 per rank.\\
+
+## [Better Perks](https://)
+
+\
+These perks "control" the gifts a companion give you when following you, originally they had no actual effects, but they have been improved to expand their usefulness. Higher levels of the perk will also give additional/better gifts.
+
+- **Botany** - Increases organic outpost production by by 10% per rank.
+- **Chemistry** - Increases gas/liquid outpost production by by 10% per rank.
+- **Geology** - Increases solid outpost production by by 10% per rank.
+- **Scavenging** - Increases all outpost production by by 1% per rank.
+- **Medicine** - Increases aid items magnitude for the player by 10% for rank.
+</details>
+
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ![](https://s6.gifyu.com/images/S8W0M.png)
 
@@ -663,6 +749,11 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Prevents neutral NPCs and spaceships from turning hostile when you accidentally hit them.
 - Displays your current/next-level XP on loading screens.
 - Disable Yannick's activity (incl. its quest marker) that continuously and automatically appears in your missions log every once in a while.
+- Hides your spacesuit while inside of a sealed starship, including your home ship.
+- Hides your spacesuit while on a safe, breathable planet. For example, anywhere on Jemison outside of New Atlantis.
+- If you step into a sealed area on a world where you need a spacesuit, only your helmet will be hidden.
+- Follower spacesuit behaviour will be synced to yours a bit in those areas.
+- Followers no longer needlessly wear their helmets in breathable environments.
 - Reduced the time it takes for Vendors to refresh their inventory from 2 days to 1.
 - Reduced the jogging movement speed.
 - Increased FOV when in dialogue.
@@ -679,11 +770,12 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 > Many different improvements to the UI click below to see all the changes.
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
-- Smaller and moved **Location Text** and **XP Indicator**.
+- Smaller and moved Location Text and XP Indicator.
+- PS5 Controller Support. Playstations Icons Instead of Xbox.
+- Choose from 65 different cursors.
+- Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
 - Add a small icon in front of lootable items in the world and inventory, so it's easier to see what is what It also helps with inventory management.
-- The player's health bar dynamically changes color at 75%, 50%, and 25%.
-- Changes the player's boost bar color to blue and flashes cyan when fully recharged.
-- Enhance your dialogue experience with a wider, refined, and centered text area, and improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
+- Enhance your dialogue experience with a wider, refined, and centred text area, and improved text clarity featuring a subtle shadow for better readability — all without annoying transition animations.
 - Gives terminals and kiosks a darker theme, and makes the terminal startup less bright.
 - Gives mission boards a darker theme.
 - Removes the warning when opening the console for the first time in a session.
@@ -691,18 +783,19 @@ https://www.youtube.com/watch?v=Ti79tays4dc
 - Increased the viewable ship component items by 33%.
 - Increased the viewable mission menu so more items can be seen at once by 50%.
 - Increased the viewable crew menu so more items can be seen at once by 50%.
-- PS5 Controller Support. Playstations Icons Instead of Xbox.
-- Fixes the spaceship targeting reticle looking choppy as it's locked to 30fps by default.
-- Choose from 65 different cursors.
 - Better icons for weapons.
-- Better icons for the world Map.
+- Better icons for the World Map.
+- Changes enemy names to have standardized names instead of level-dependent variations.
+- Changes astronomical units (AU) into light years (LY).
+- Changes the player's boost bar colour to blue and flashes cyan when fully recharged.
+- Changes the colour of the player's health bar dynamically at 75%, 50%, and 25%.
 </details>
 
 ***
 
 ## StarUI
 
-![](https://s11.gifyu.com/images/S4CgB.jpg)StarUI Series by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
+![](https://s12.gifyu.com/images/StKG3.png)StarUI Series by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
 
 ### Features
 
@@ -848,7 +941,7 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - Open configuration API - Other mods can include a StarUI Configuration profile so you can configure other mods with StarUI Configurator too.
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ## ![](https://s6.gifyu.com/images/S8WCT.png)Features
 
@@ -871,7 +964,7 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 
 ## Console commands cheat list
 
-![](https://s11.gifyu.com/images/SgetX.jpg)[Console Commands Cheat List](https://www.nexusmods.com/starfield/mods/607) by [xRichyx](https://www.nexusmods.com/starfield/users/130875433)
+![](https://s12.gifyu.com/images/StKP2.png)[Console Commands Cheat List](https://www.nexusmods.com/starfield/mods/607) by [xRichyx](https://www.nexusmods.com/starfield/users/130875433)
 
 ### Features
 
@@ -966,7 +1059,7 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - Artifacts
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ## ![](https://s6.gifyu.com/images/S8WFb.png)Features
 
@@ -987,9 +1080,10 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - Make city info kiosk terminals in New Atlantis and Akila City useful by giving you directions to stores and other buildings.
 - Discharging firearms in settlements while not in combat causes NPCs to panic and is considered a crime.
 - Allows you to see your companion rather than the player when equipping them with gear.
+- Adds lights in the windows of buildings in New Atlantis.
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ## ![](https://s6.gifyu.com/images/S8WFp.png)Features
 
@@ -1000,6 +1094,8 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 
 - Friendly fire is enabled among allied NPCs.
 - Grenades become a more prominent part of NPC strategy- All changes affect all NPCs, including companions.
+- Allows EM weapons and Neurostrike fists to give you XP for knocking an enemy unconscious.
+- Adds a visual shaking effect (fake recoil) when firing a weapon, thus shooting a weapon feels more weightful and impactful. Comes with a configuration book from where you can tweak shake power and duration.
 - Removes the tint, dirt, and glare from all reflex sights, making it easier to see your target.
 - Reduced multiplier for how much light affects stealth.
 - Increased weapon reload speed by 25%.
@@ -1038,44 +1134,93 @@ https://www.youtube.com/watch?v=dE9x8gL9pCs
 <details><summary>CLICK FOR DETAILS</summary>
 TRIGGERS CINEMATIC KILLCAM with IMMERSIVE ZOOM IN and DEEP SLOWMOTION EFFECTS, TO SHOW OFF YOUR FINAL BLOW
 
-- Works on foot and while piloting the spaceship\\
+- Works on foot and while piloting the spaceship.
 
 [HAS SEVERAL MODES TO TRIGGER](https://)
 
-- \*\*Last Hostile: \*\*the triggers on the last target in the player's vicinity
-- \*\*One-Shot: \*\* triggers on unsuspected instantly killed targets
-- \*\*One-shot + Last Hostile: \*\* two first options together
-- \*\*Combat: \*\* triggers on any kill, but only in combat/alerted status
-- \*\*Always: \*\*kill-cam triggers on any kill and conditions\\
+- **Last Hostile** - the triggers on the last target in the player's vicinity.
+- **One-shot** - triggers on unsuspected instantly killed targets.
+- **One-shot** - two first options together.
+- **Combat** - triggers on any kill, but only in combat/alerted status.
+- **One shot** - kill-cam triggers on any kill and conditions.
 
 [SPECIAL VISUAL AND AUDIO FX](https://)
 
-- cam triggers\\
+- **Cam triggers**
 
 [CONFIGURATION BOOK WITH VARIOUS SETTINGS TO TWEAK](https://)
 
-- \*\*Modes >>>\*\*killcamera trigger modes
-- \*\*Camera Settings >>>\*\*various camera settings such as zoom in, zoom out, field of view, distance at which kill-cam triggers
-- \*\*Trigger Chance >>>\*\*probability of kill-cam triggering
-- \*\*Cooldown >>>\*\*killcam restrictor.Restricts kill-cam trigger for a specified duration, regardless of the conditions met
-- \*\*Special FX >>>\*\*additional options while kill-cam active such as MUSIC MUTE, AUDIO & VISUAL FX, Recoil, Player Invincibility
-- \*\*Properties >>>\*\*settings for power and duration of slow-motion effect
-- \*\*Races >>>\*\*active race types that can trigger the cinematic camera
+- **Kill camera** - kill camera trigger modes.
+- **Camera Settings** - various camera settings such as zoom in, zoom out, field of view, and distance at which kill-cam triggers.
+- **Trigger Chance** - the probability of kill-cam triggering.
+- **Cooldown** - killcam restrictor.Restricts kill-cam trigger for a specified duration, regardless of the conditions met.
+- **Special FX** - additional options while the kill-cam is active such as MUSIC MUTE, AUDIO & VISUAL FX, Recoil, and Player Invincibility.
+- **Properties** - settings for power and duration of slow-motion effect.
+- **Races** - active race types that can trigger the cinematic camera.
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+***
+
+## Proper Gravity Wave Power
+
+![](https://s10.gifyu.com/images/StK5D.png)[Proper Gravity Wave Power](https://www.nexusmods.com/starfield/mods/8566?tab=description) by [Deebz96](https://www.nexusmods.com/starfield/users/15339119)
+
+## Features
+
+> Turns Gravity Wave into a proper “force push” power, using ragdoll physics instead of the vanilla knockdown animations. Designed to be fair and balanced.
+
+<details><summary>View content</summary>
+## [ Features](https://)
+
+- No more knockdown animations. Just pure, proper ragdoll physics. This is a change across the entire game, but you will notice it the most with this power.
+- Magnitude and cost now scale with the power’s level. It will be significantly more powerful, and cheaper to cast, at higher levels. This is balanced with other vanilla powers.
+- Increases fall damage for NPCs while they are rag-dolled by this power specifically so that it is actually possible to kill them by blasting them off of a high enough surface.
+- Small improvements and fixes to the existing aspects of the power.
+
+## [Ragdoll Knockdowns](https://)
+
+The most important thing this mod does is disable the knockdown animations on humans, robots, and aliens. This allows for them to simply be ragdolled when they are knocked down. Not only does this look better, but it allows this power to actually “force push” an enemy away.\
+\
+This is a sweeping change across the entire game, but don’t worry. I have checked other sources of knockdowns, such as fuel tank explosions, and they look fine without any adjustments.\
+\
+The vanilla animations also only had "fall forwards" and "fall backward" versions, which means that hits from the side looked *entirely* wrong.
+
+## ![](https://i.ibb.co/qWXVMP2/animation-vs-ragdoll-sideways.gif)[Magnitude and Cost](https://)
+
+At level 1, this power will feel equivalent to vanilla. You will be able to knock enemies down, and might knock them off a nearby ledge, but you won’t be sending them flying.\
+\
+Magnitude will very slowly increase with each level, with a noticeable increase at level 5. Then another slow crawl up to levels 9 and 10, where it once again becomes noticeably more powerful.\
+\
+At level 10, it will be as powerful as a full Unrelenting Force shout from Skyrim. No really, I’m actually using the same magnitude value of 15 used by that shout. On a 1.0 G world, it looks pretty much the same as it did in that game. On lower G worlds, well… use it responsibly.
+
+![](https://i.ibb.co/ck57QrC/animation-vs-ragdoll-level1.gif)![](https://i.ibb.co/dfjcm0d/animation-vs-ragdoll-level10.gif)Cost will start at the baseline vanilla value of 25, and quickly decrease over the first several levels as you progress. Only small improvements come at later levels. At level 10, the power will cost 15 points to cast, which lets you fire it 4 times in a row.\
+\
+Here are some charts to illustrate exactly how the magnitude and cost scale with each level of the power. Just like the other vanilla powers, this one now becomes more powerful and cheaper to cast as it levels up too.
+
+## ![](https://i.ibb.co/5hv55GT/graphs.webp)[Fall Damage](https://)
+
+Vanilla fall damage is very weak. Almost to the point of being irrelevant. You could blast someone off of a 4-story watch tower... and down the cliff beside it... on a 1.34 G planet... and they’ll only lose 3/4 of their health. Ask me how I know.\
+\
+I can’t just increase fall damage globally though. So with this mod, while an NPC is ragdolled by the Gravity Wave power specifically, fall damage is 1250% higher than default.\
+\
+Yes, I know that sounds insane. In practice though, it really isn’t. It’s balanced out so that blasting enemies off of high ledges is just about as lethal as it was in Skyrim, in a 1.0 G environment. They still have to hit the ground pretty hard to die from the impact though, so don’t worry about it being overpowered.\
+\
+Fall damage is NOT increased in any other case. Again, it is ONLY increased for NPCs while they are being ragdolled by this power specifically.
+
+## ![](https://i.ibb.co/VDqBsZX/vanilla-vs-mod-falldamage.gif)[Smaller Things](https://)
+
+This mod fixes an oversight which caused NPCs who are supposed to be immune from this power (such as Sam and Sarah) to still receive the slowdown and yell out in pain when hit by it. They will now fully resist the power, as they are supposed to. The slowdown itself has not been touched, and still works the same as it originally did on NPCs who don’t resist the power.\
+\
+This mod also adds a "casting effect" to this power, which looks like a white flash from your palm. Makes it look a bit more intense. Additionally, the sound becomes a bit more intense when the power is at level 5 or higher, to signify the increasing magnitude of the power.
+</details>
+
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ## ![](https://s6.gifyu.com/images/S8WCi.png)Features
 
 > Enhanced body features+Custom sculpted bodys.
 
-<details><summary>CLICK FOR MORE DETAILS (NSFW)</summary>
-- Enhanced 4k player body.
-- Choose from different body styles.
-- Optional Tan lines.
-</details>
-
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdY.png)
 
 ## ![](https://s6.gifyu.com/images/S8W0o.png)Features
 
@@ -1083,11 +1228,9 @@ TRIGGERS CINEMATIC KILLCAM with IMMERSIVE ZOOM IN and DEEP SLOWMOTION EFFECTS, T
 
 <details><summary>CLICK FOR MORE DETAILS (NSFW)</summary>
 - Undress and unequip items from the player and any NPC.
-- No underwear for the player and any NPC.
-- Optional underwear lines.
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ![](https://s6.gifyu.com/images/S8WFq.png)
 
@@ -1180,7 +1323,7 @@ The **remote control** counts as a weapon, so you can:
 
 ## TN's Ship Modifications
 
-![](https://s9.gifyu.com/images/SVQuR.png)[TN's Ship Modifications](https://www.nexusmods.com/starfield/mods/6376) by [TheOGTennessee](https://www.nexusmods.com/starfield/users/105925403)
+![](https://s12.gifyu.com/images/StKe6.png)[TN's Ship Modifications](https://www.nexusmods.com/starfield/mods/6376) by [TheOGTennessee](https://www.nexusmods.com/starfield/users/105925403)
 
 ## Features
 
@@ -1206,7 +1349,7 @@ The **remote control** counts as a weapon, so you can:
 
 ## Ship Power Control Tweaks
 
-![](https://s6.gifyu.com/images/S6Ql1.jpg)[Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820) by [Stentorious](https://www.nexusmods.com/starfield/users/13373850)
+![](https://s12.gifyu.com/images/StN2U.png)[Ship Power Control Tweaks](https://www.nexusmods.com/starfield/mods/4820) by [Stentorious](https://www.nexusmods.com/starfield/users/13373850)
 
 ## Features
 
@@ -1268,7 +1411,7 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 - Powers down all systems keeping a single point in Engines.
 </details>
 
-![](https://s11.gifyu.com/images/SgFMA.jpg)
+![](https://s10.gifyu.com/images/StNdD.png)
 
 ![](https://s6.gifyu.com/images/S8W03.png)
 
@@ -1295,7 +1438,7 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 
 ## (CCL) Constellation Collection Loader.
 
-![](https://s6.gifyu.com/images/S8bda.jpg)[Constellation Collection Loader](https://www.nexusmods.com/starfield/mods/3553) by [2077v2](https://www.nexusmods.com/starfield/users/123334373)
+![](https://s10.gifyu.com/images/StNb0.png)[Constellation Collection Loader](https://www.nexusmods.com/starfield/mods/3553) by [2077v2](https://www.nexusmods.com/starfield/users/123334373)
 
 ## Features
 
@@ -1335,7 +1478,7 @@ You are all done Remember that upon Collection updates this file will be overwri
 
 ## Bethini Pie (Performance INI Editor)
 
-![](https://s11.gifyu.com/images/SgOuq.png)[Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631/?tab=description) by [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
+![](https://s10.gifyu.com/images/StNM8.png)[Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631/?tab=description) by [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
 
 ### Features
 
@@ -1458,7 +1601,7 @@ Below you will find the **DLSS** and **Frame Generation (FG)** options. These op
 - [NVIDIA PROFILE INSPECTOR](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
 </details>
 
-NOTE If you would like a more in-depth explanation of game settings please join our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) for the full performance guide.
+***NOTE*** If you would like a more in-depth explanation of game settings please join our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) for the full performance guide.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -1486,10 +1629,7 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support us 
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the [Nexus](https://discord.gg/nexusmods) and the [Starfield](https://discord.gg/starfieldmodding) modding Discords.
 
-- [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- DovaDigital
-- Fenrir
+- v2s Collections Team
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [IxionXVII](https://www.nexusmods.com/users/6922776)
