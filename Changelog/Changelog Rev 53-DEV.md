@@ -18,13 +18,21 @@
 
 STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU HAVE DONE SO
 
-- This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
 - Fixed Some Fomod Structures.
-
-### Changes
-
+- This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
 - After the update you may see a notification in Vortex for depreciated Fomods all you have to do is select "FIX".
 - If you see any errors relating to a mod in Vortex right-click the mod and select reinstall.
+
+### IMPORTANT!!! DO THE FOLLOWING BEFORE UPDATING THE COLLECTION IF YOU DONT DO THIS THEN YOUR SAVE MAY BE CORRUPTED
+1) Turn off the Starvegas Killcam mod with configuration book in-game by selecting the Debug menu and then uninstall.
+2) Save Game.
+3) Exit.
+4) Disable the Starvegas Killcam Mod in Vortex.
+5) Load Game again and accept that there is missing ESM.
+6) Save Game.
+7) Exit.
+8) Now you can update the collection.
+
 
 ## UPDATED
 
@@ -43,12 +51,14 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 - [Hide Empty Ship Habs (and StarUI Ship Builder Workaround)](https://www.nexusmods.com/starfield/mods/9336?tab=description)
 - [Slightly Better Map Icons](https://www.nexusmods.com/starfield/mods/4813?tab=description)
 - [Slightly Better Weapon Icons](https://www.nexusmods.com/starfield/mods/4798)
+- [Show Date When Waking Up](https://www.nexusmods.com/starfield/mods/9288?tab=description)
 ### OTHER
 - [Baka Quick Full Saves](https://www.nexusmods.com/starfield/mods/1750)
 - [Starfield Community Patch](https://www.nexusmods.com/starfield/mods/1)
 - [Discord Rich Presence (SFSE)](https://www.nexusmods.com/starfield/mods/2545)
 - [Landing Animation Reloaded](https://www.nexusmods.com/starfield/mods/7569?tab=description)
 - [Constellation Menu Backgrounds (Starfield Edition)](https://www.nexusmods.com/starfield/mods/222?tab=description)
+- [Starvegas - Cinematic Killcam](https://www.nexusmods.com/starfield/mods/8859)
 
 ## REMOVED
 

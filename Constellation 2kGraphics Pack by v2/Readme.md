@@ -1,4 +1,4 @@
-### **✅Compatible With Patch 1.11.36 on Steam**
+### **✅Compatible With Patch 1.12.36 on Steam**
 
 ### **⛔Not Compatible with the Gampass Edition**
 
@@ -304,15 +304,11 @@ If you enjoy this collection, **PLEASE** endorse our mods and collections.
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
 
-- [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
+- v2s Collections Team
+- Skypocalypse Team
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- Fenrir
-- Donavan
-- Starfox
 - [IxionXVII](https://www.nexusmods.com/users/6922776)
-- [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
 
 And all the teams and modders behind all the tools that make Starfield modding possible.
 
@@ -337,4 +333,4 @@ If you would like to support [Xilamonstrr](https://www.nexusmods.com/starfield/u
 - ⛔ I do not allow you to copy or clone this collection in any way.
 - © 2023 Bethesda Softworks LLC, a ZeniMax Media company. Trademarks belong to their respective owners.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/SVQQz.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/StLyy.png)

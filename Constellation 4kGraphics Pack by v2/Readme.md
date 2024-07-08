@@ -1,4 +1,4 @@
-### **✅Compatible With Patch 1.11.36 on Steam**
+### **✅Compatible With Patch 1.12.36 on Steam**
 
 ### **⛔Not Compatible with the Gampass Edition**
 
@@ -338,4 +338,4 @@ If you would like to support [Xilamonstrr](https://www.nexusmods.com/starfield/u
 - ⛔ I do not allow you to copy or clone this collection in any way.
 - © 2023 Bethesda Softworks LLC, a ZeniMax Media company. Trademarks belong to their respective owners.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/SVQQz.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/StLyy.png)

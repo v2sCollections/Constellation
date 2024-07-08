@@ -18,13 +18,10 @@
 
 CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU HAVE DONE SO
 
-- This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
-- Fixed Some Fomod Structures.
-
-### Changes
-
 - After the update you may see a notification in Vortex for depreciated Fomods all you have to do is select "FIX".
 - If you see any errors relating to a mod in Vortex right-click the mod and select reinstall.
+- This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
+- Fixed Some Fomod Structures.
 
 ## UPDATED
 
@@ -47,11 +44,16 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL 
 - [Constellation Menu Backgrounds (Star Wars Edition)](https://www.nexusmods.com/starfield/mods/4801?tab=description)
 - [Star Wars YT-1300 Millennium Falcon 1977](https://www.nexusmods.com/starfield/mods/8703?tab=description)
 - [Star wars T-65B X-Wing 1977](https://www.nexusmods.com/starfield/mods/8205?tab=description)
+- [UC Empire](https://www.nexusmods.com/starfield/mods/7223)
+- [BD-1 Vasco](https://www.nexusmods.com/starfield/mods/8235?tab=description)
+- [Aurebesh - Star Wars Conversion](https://www.nexusmods.com/starfield/mods/6032?tab=description)
+- [Play as a Chiss](https://www.nexusmods.com/starfield/mods/2547?tab=description)
+
 
 ## REMOVED
 
 - [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157)
-
+- [Imperial crest MAST Tower Logo Replacer](https://www.nexusmods.com/starfield/mods/4816)
 
 ## NEW MODS ADDED
 
