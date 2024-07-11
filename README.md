@@ -84,7 +84,11 @@ This collection is extensively tested with every new version, because we want to
 ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
 
 <details><summary>⛔DO NOT</summary>
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>⛔MAKE A BACKUP SAVE</summary>
@@ -100,6 +104,8 @@ https://www.youtube.com/watch?v=y4oWIJmgLrg
 ```
 C:\Users\[YOUR USERNAME]\Documents\My Games\Starfield\Saves
 ```
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>⛔HOW TO UPDATE</summary>
@@ -120,10 +126,12 @@ https://www.youtube.com/watch?v=TC0GbFmp6Kw
 </details>
 
 <details><summary>⛔LAUNCHING STARFIELD</summary>
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 - Make sure Steam is open.
 - Use Vortex to launch the game. (You cannot Launch from Steam)
 
-![](https://s11.gifyu.com/images/SgO30.jpg)
+![](https://s11.gifyu.com/images/SgO30.jpg)![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
@@ -210,17 +218,21 @@ https://www.youtube.com/watch?v=suCAprM6m94
 </details>
 
 <details><summary>5️⃣ ENABLING MODDING</summary>
+***
+
 ## StarfieldCustom.ini
 
 **1**) If your Starfield.ini isn't set up for modding you will see this Pop-Up in the top right-hand corner of Vortex select **"Fix"**.
 
-![](https://s6.gifyu.com/images/S8nhU.jpg)**2**)\*\* ⛔\*\*When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
+![](https://s6.gifyu.com/images/S8nhU.jpg)**2**) ⛔When you see the pop-up for the **"Folder Junction Recommendation"** in Vortex select **"More"** and then select **"Never Show me Again"**.
 
 ![](https://s6.gifyu.com/images/S8nkL.jpg)**3**) When you see the pop-up for **"Mods may not load correctly"** go to the following location and delete the Data folder.
 
 ```
 C:\Users\YOURUSERNAME\Documents\My Games\Starfield
 ```
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 <details><summary>6️⃣ INSTALLING THE COLLECTION</summary>
@@ -242,6 +254,8 @@ https://www.youtube.com/watch?v=9\_7bp8UkpBI
 </details>
 
 <details><summary>7️⃣ ENABLING PLUGINS</summary>
+***
+
 ### ESM Plugin Manager
 
 **1**) After the collection has finished installing select **"Load Order"** In the left-hand sidebar of **Vortex**.
@@ -290,6 +304,8 @@ I have added the Reshade below.
 </details>
 
 <details><summary>🎮 IN-GAME SETTINGS</summary>
+***
+
 To use the Console window use the **~** key on your keyboard to bring up the overlay here you can input commands to activate some of the Mods.
 
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)Ship Builder Tweaks
@@ -368,6 +384,8 @@ Power Presets
 ### ![img](https://s11.gifyu.com/images/Sgd38.jpg)CONVERT ESSENCE TO POWER
 
 - Numpad 9 = Covert Essence to Power
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
 </details>
 
 # &#x20;             ![](https://s11.gifyu.com/images/Sgd38.jpg)                                         NOW JOIN CONSTELLATION!!!
@@ -509,12 +527,12 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 - Constellation Tweaks Performance Boost.
 - 10+ Animated Main Menu Screens.
 - 20+ Splash Screens.
-- Removes the color filters from the game, making the colors more uniformly neutral with deeper blacks. Two options to choose from.
+- Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks. Two options to choose from.
 - Cropped and upscaled loading screens for ultrawide monitors
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
 - Removes the fog that trails your ship.
 
-## **Removes the vignette from the following**
+## Removes the vignette from the following
 
 - Quick (favorites) menu
 - Galaxy map
@@ -522,17 +540,17 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 - Pause menu
 - Data menu open/close animation
 
-## **Reshade**
+## colour
 
 - [Constellation Reshade](https://www.nexusmods.com/starfield/mods/103)
 
-## **Upscaled Animations**
+## Upscaled Animations
 
 - [UHD4k 60 FPS FMVs](https://www.nexusmods.com/starfield/mods/337/?tab=description)
 - [Ultrawide 60FPS FMVs](https://www.nexusmods.com/starfield/mods/2838)
 - [21x9 Loading Screens](https://www.nexusmods.com/starfield/mods/562)
 
-## **Upscaled MonstrrMagic Textures**
+## Upscaled MonstrrMagic Textures
 
 - [Artifacts Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/3672/?tab=description)
 - [Spacesuits Redone - MonstrrMagic Texture Series](https://www.nexusmods.com/starfield/mods/4035?tab=description)
@@ -800,9 +818,11 @@ These perks "control" the gifts a companion give you when following you, origina
 ### Features
 
 > So many things to list. Customize every part of your HUD and Menu in the game. Check the drop downs below for more infomation.
+>
+>
 
 <details><summary>STARUI INVENTORY</summary>
-**StarUI Inventory** improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category and subcategories as left sidebar. Many quality of life features!
+![](https://s12.gifyu.com/images/StqyM.png)[**StarUI Inventory**](https://www.nexusmods.com/starfield/mods/773) improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category and subcategories as left sidebar. Many quality of life features!
 
 - Much compacter overview of the category list and item list
 - Properties like mass, value, value/mass, mass of stack, value of stack, damage, DPS ("Burst DPS"), damage resistance, ammo type, ammo rounds, weapon type, item rarity, and many more are available as columns. Only a few are on by default - add as much as you like via INI!
@@ -833,7 +853,7 @@ These perks "control" the gifts a companion give you when following you, origina
 </details>
 
 <details><summary>STARUI HUD</summary>
-**StarUI HUD** gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolor or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
+![](https://s12.gifyu.com/images/StqOw.png)[**StarUI HUD**](https://www.nexusmods.com/starfield/mods/3444) gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolor or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items!
 
 - Change most widgets on the HUD to your liking:
 - - Change the position, the scale (size), the rotation and the color (color modifier or color overwrite available) individually per widget
@@ -876,10 +896,10 @@ These perks "control" the gifts a companion give you when following you, origina
 </details>
 
 <details><summary>STARUI WORKBENCH</summary>
-recoloring**StarUI Workbench** improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recoloring, dark mode, Quality-of-Life features, and more!
+![](https://s12.gifyu.com/images/Stqyu.png)[**StarUI Workbench**](https://www.nexusmods.com/starfield/mods/4966) improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, Quality-of-Life features, and more!
 
 - Much more compact design optimized for PC use
-- Additional information columns for all workbenches, including DPS for weapons, secondary resists for armor, cost and max craft-able amount for food/drugs/industrial items, and a treatment column for aid items.
+- Additional information columns for all workbenches, including DPS for weapons, secondary resists for armour, cost and max craft-able amount for food/drugs/industrial items, and a treatment column for aid items.
 - All columns are sort-able - Just click on the column header
 - Adds a tracking item for recipes/mods you are tracking
 - Adds a favorite heart icon for your quick slot weapons
@@ -901,7 +921,7 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 </details>
 
 <details><summary>STARUI OUTPOST</summary>
-**StarUI Outpost** Improves the outpost interface for PC. Add a comfortable build menu with separate lists for category, building and variation (and you only need 4 keys instead of 8 to navigate) . Changes the key bindings to be like most other interfaces. Adds a inspect label and button hints at the cursor. And many other quality-of-life additions.
+![](https://s12.gifyu.com/images/StqOz.png)[**StarUI Outpost**](https://) Improves the outpost interface for PC. Add a comfortable build menu with separate lists for category, building and variation (and you only need 4 keys instead of 8 to navigate) . Changes the key bindings to be like most other interfaces. Adds a inspect label and button hints at the cursor. And many other quality-of-life additions.
 
 - A much better-improved build menu with separate lists for categories, buildings and variants
 - - You no longer need 8 keys for the build menu navigation - 4 keys are enough
@@ -923,10 +943,37 @@ recoloring**StarUI Workbench** improves all workbenches with a more compact layo
 - Multilanguage - Supports all languages out of the box
 </details>
 
-<details><summary>STARUI CONFIGURATOR</summary>
-**StarUI Configurator** Easily configure all settings with a well aligned and easy to use interface. Provides help texts, sliders, dropdowns, toggle switcher and specialized column-picker and color-picker widgets to make individualizing your StarUI mod an ease.
+<details><summary>STARUI SHIP BUILDER</summary>
+![](https://s10.gifyu.com/images/StqyG.png)[**StarUI Ship Builder**](https://www.nexusmods.com/starfield/mods/6402) improves the ship builder for usage on PC. Compact style, sort-able columns, filter panel, category list, variant list, vertical upgrade list and many more Quality-of-Life additions.
 
-- Allows you to easily configure all settings from [**StarUI Inventory**](https://www.nexusmods.com/starfield/mods/773), [**StarUI HUD**](https://www.nexusmods.com/starfield/mods/3444), [**StarUI Workbench**](https://www.nexusmods.com/starfield/mods/4966) and **StarUI Outpost**.
+- Optimized for PC
+- Compact style - See more information at once
+- Adds data columns to the ship part list - Over 30 different data columns you can choose!
+- The standard config contains the most important columns for every category out-of-the-box
+- See the Damage Per Second and Damage Per Power point for all weapons
+- Sort any column with a simple click - Toggle asc/desc by another click
+- Adds a full functional vertical category list beside the main list - Navigate via click, Q/T, A/D keys or LShoulder/RShoulder buttons
+- Adds a variant list popup, showing you all ship part's variants in a well-aligned list at once - No need to go through them one-by-one any more!
+- Improved vertical upgrade list, now see what you can improve without the need to scroll vertically
+- Improved ship part item card comparison - Downgrading your components are now shown as red numbers!
+- Clipboard function for the color picker - Copy and paste the color set (all 3 colors) at once
+- Optimized key binds and added keys to many interface parts - making the interface just feels much more intuitive
+- Added button hints to show you available functions (like ship part multi-select and weapon assignment hidden in flight check)
+- Allows custom ship part icons for mods (For mod authors: You can find the [how-to here](https://www.nexusmods.com/starfield/articles/325) )
+- Increases the frame-rate to 60 fps - Optional variants in 30fps and 120fps are available too
+- Wide-screen support out-of-the-box
+- Various bug fixes of the vanilla interface code
+- Contain no plugins and no quests - Absolutely safe to install and uninstall at any time!
+- Doesn't affect the possibility to get Steam achievement
+- Works with Steam and Game Pass (X-Box) version
+- Partial controller support - You can see all features, but can't control the filter panel or use the variant list popup
+- Completely customizable - Customize with [StarUI Configurator](https://www.nexusmods.com/starfield/mods/5467) or via the full-commented INI file
+</details>
+
+<details><summary>STARUI CONFIGURATOR</summary>
+![](https://s10.gifyu.com/images/Stqy0.png)[**StarUI Configurator**](https://www.nexusmods.com/starfield/mods/5467)** **Easily configure all settings with a well aligned and easy to use interface. Provides help texts, sliders, dropdowns, toggle switcher and specialized column-picker and color-picker widgets to make individualizing your StarUI mod an ease.
+
+- Allows you to easily configure all settings from [**StarUI Inventory**](https://www.nexusmods.com/starfield/mods/773), [**StarUI HUD**](https://www.nexusmods.com/starfield/mods/3444), [**StarUI Workbench**](https://www.nexusmods.com/starfield/mods/4966) and [**StarUI Outpost**](https://www.nexusmods.com/starfield/mods/5766).
 - Supports individual inputs for number, boolean, or text values
 - Sliders have a min/max setting, so you can't input wrong values (but if you want you can still do that by using the slider text input field)
 - Contains help texts and images to help understand the configuration settings
