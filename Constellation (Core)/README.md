@@ -4,13 +4,13 @@
 
 **⛔ I**f you use our other Constellation Collections these mods are already included**⛔**
 
-![](https://s11.gifyu.com/images/S4CUN.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [Constellation](https://) for **Starfield**.
+![](https://s12.gifyu.com/images/SoH8R.png)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [Constellation](https://) for **Starfield**.
 
 This is a collection of the Main Core Mods needed to Mod Starfield. Download this collection and then add any mods you want yourself.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdA0.png)
+![](https://s10.gifyu.com/images/SoHnI.png)
 
 [![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 
@@ -25,13 +25,13 @@ This is a collection of the Main Core Mods needed to Mod Starfield. Download thi
 
 \<!---->
 
-- ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
+- ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s10.gifyu.com/images/SoHnq.png)(SFSE) Script Extender.
 - Achievement Enabler.
 - Bethini Pie (Performance INI Editor).
 - SF1Edit.
 
 \
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/SoHnR.png)
 
 <details><summary>⛔DO NOT</summary>
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=TC0GbFmp6Kw
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAq.png)
+![](https://s12.gifyu.com/images/SoHnl.png)
 
 <details><summary>⏰ INSTALL TIME</summary>
 ***
@@ -237,7 +237,7 @@ I have added the Reshade below.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
+![](https://s10.gifyu.com/images/SoHnd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
 - You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 - You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
@@ -284,7 +284,7 @@ The mod we use to enable Achievements while playing the modded version of the ga
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s6.gifyu.com/images/S8W03.png)
+![](https://s10.gifyu.com/images/SoHlW.png)
 
 ## Features
 
@@ -331,7 +331,7 @@ The mod we use to enable Achievements while playing the modded version of the ga
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAQ.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
+![](https://s12.gifyu.com/images/SoHnW.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 

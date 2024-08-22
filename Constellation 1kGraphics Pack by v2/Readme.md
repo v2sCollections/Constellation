@@ -2,13 +2,17 @@
 
 ### **⛔Not Compatible with the Gampass Edition**
 
+
+
+![](https://s12.gifyu.com/images/SoH8R.png)
+
 https://www.youtube.com/watch?v=PXXoIV0sdfw
 
 Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is The Constellation [Performance Graphics Pack](https://) for **Starfield**.
 
 Reduces the resolution of all textures in the game, with an extra reduction on some areas that hit harder than others. This will lower VRAM usage and improve FPS beyond the standard Constellation Collection for users with lower-end systems.
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s10.gifyu.com/images/SoHnq.png)
 
 - Easy to follow step-by-step installation guide.
 - Graphics mods to enhance Starfield on low-end systems.
@@ -21,7 +25,7 @@ Reduces the resolution of all textures in the game, with an extra reduction on s
 - and much much more Join our Discord for more information.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)\
-![](https://s11.gifyu.com/images/SgdAu.png)
+![](https://s12.gifyu.com/images/SoHnR.png)
 
 <details><summary>⛔DO NOT</summary>
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
@@ -53,7 +57,7 @@ https://www.youtube.com/watch?v=TC0GbFmp6Kw
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAq.png)
+![](https://s12.gifyu.com/images/SoHnl.png)
 
 > **READ THE INSTALL GUIDE**
 
@@ -229,7 +233,7 @@ You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collect
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
+![](https://s10.gifyu.com/images/SoHnd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
 - You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 - You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
@@ -261,7 +265,7 @@ For Skyrim I often will leave color/diffuse maps in higher resolution than other
 Read everything above and if it isn't clear, ask a friend or post in the comments. Likely answers are that it downscales more textures or is packaged differently.
 </details>
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s10.gifyu.com/images/SoHng.png)
 
 ## [Tweaks](https://www.nexusmods.com/starfield/mods/2624/?tab=description) by [v2](https://www.nexusmods.com/users/123334373)
 
@@ -292,7 +296,7 @@ After installation, the AIO texture pack will be enabled. If you don't see enoug
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAn.png)
+![](https://s10.gifyu.com/images/SoHn4.png)
 
 <details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
 ## Low-End Settings
@@ -319,7 +323,7 @@ Recommended In-game settings These settings will give a big increase to performa
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAQ.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
+![](https://s12.gifyu.com/images/SoHnW.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 

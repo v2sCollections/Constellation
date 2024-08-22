@@ -1,3 +1,29 @@
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)Hey guys
+
+**Starfield Patch 1.13.61 is here**
+
+The collections have been unlisted from Nexus while we work on the update to avoid users accidentally downloading a non-working collection.
+
+## 1) If you accidentally update:
+
+If you would like to continue playing the modded game you have 2 options
+
+**Option 1**)  Downgrade the version of the game through **Steam**.
+
+- **Downgrading** You can follow this Guide> [**TBA**]()
+
+**Option 2**) Download the downgraded files.
+
+- **Downloading** You can follow this Guide> [**TBA**]()
+
+## 2) Preventing Future Updates:
+
+- **Preventing Steam updates** You can follow this Guide> [**HERE**](https://github.com/v2sCollections/Constellation/blob/main/Guides.md#other-guides)
+
+Patch notes> [**HERE**](https://x.com/BethesdaStudios/status/1826009323342016643)
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 ### **✅Compatible With Patch 1.12.36 on Steam**
 
 ### **⛔Not Compatible with the Gampass Edition**
@@ -28,7 +54,7 @@ This collection is extensively tested with every new version, because we want to
 
 ## ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdA0.png)
+![](https://s10.gifyu.com/images/SoHnI.png)
 
 [![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 
@@ -48,13 +74,13 @@ This collection is extensively tested with every new version, because we want to
 
 \<!---->
 
-- ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)(SFSE) Script Extender.
+- ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s10.gifyu.com/images/SoHnq.png)(SFSE) Script Extender.
 - Custom Collection Loader.
 - 10+ Animated Star Wars Menu Backgrounds. (COMING SOON)
 - Support for other Modular Expansion Packs.
 
 \
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/SoHnR.png)
 
 <details><summary>⛔DO NOT</summary>
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
@@ -101,7 +127,7 @@ https://www.youtube.com/watch?v=TC0GbFmp6Kw
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAq.png)
+![](https://s12.gifyu.com/images/SoHnl.png)
 
 <details><summary>⏰ INSTALL TIME</summary>
 ***
@@ -349,7 +375,7 @@ Power Presets
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
+![](https://s10.gifyu.com/images/SoHnd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
 - You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 - You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
@@ -392,7 +418,7 @@ Sometimes you need to relink Vortex to a tool.
 **4**) Now select "target" and browse to where you have the tool installed this will be in the main Starfield directory.
 </details>
 
-### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
+### ![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s10.gifyu.com/images/SoHng.png)
 
 ### ![](https://s6.gifyu.com/images/S4AHU.jpg)![](https://s6.gifyu.com/images/S4Ozq.jpg)
 
@@ -638,11 +664,11 @@ https://www.youtube.com/watch?v=zc-ISjhfcIU
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAl.png)⛔ I recommend **NOT** installing extra mods that are not part of the collection but we have a dedicated channel in Discord for Altered Collections.
+![](https://s10.gifyu.com/images/SoHnc.png)⛔ I recommend **NOT** installing extra mods that are not part of the collection but we have a dedicated channel in Discord for Altered Collections.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAI.png)Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by us.
+![](https://s12.gifyu.com/images/SoHnu.png)Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by us.
 
 This Collection was created as an Add-On Pack for our [Main Constellation Collection](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection).
 
@@ -680,7 +706,7 @@ Install guide for our 1kGraphics Collection.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAQ.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
+![](https://s12.gifyu.com/images/SoHnW.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 
@@ -688,10 +714,7 @@ If you enjoy this collection, **PLEASE** endorse the mod authors and Support us 
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the [Nexus](https://discord.gg/nexusmods) and the [Starfield](https://discord.gg/starfieldmodding) modding Discords.
 
-- [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- DovaDigital
-- Fenrir
+- v2s Collections Team
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [IxionXVII](https://www.nexusmods.com/users/6922776)

@@ -10,7 +10,7 @@
 - **Storage** [=](https://) 75GB
 - **Storage Type** [=](https://) SSD
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAi.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s10.gifyu.com/images/SoHnq.png)
 
 - Easy to follow step-by-step installation guide.
 - 25+ Graphics mods to enhance Starfield.
@@ -24,7 +24,7 @@
 - and much much more Join our Discord for more information.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)\
-![](https://s11.gifyu.com/images/SgdAu.png)
+![](https://s12.gifyu.com/images/SoHnR.png)
 
 <details><summary>⛔DO NOT</summary>
 - Update any of the mods in this collection individually in Vortex when a mod gets updated we will update the collection.
@@ -56,7 +56,7 @@ https://www.youtube.com/watch?v=TC0GbFmp6Kw
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAq.png)
+![](https://s12.gifyu.com/images/SoHnl.png)
 
 > **READ THE INSTALL GUIDE**
 
@@ -234,7 +234,7 @@ You can find me in [v2's Starfield discord here](https://discord.gg/v2-s-collect
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
+![](https://s10.gifyu.com/images/SoHnd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
 - You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 - You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
@@ -257,9 +257,9 @@ There are programs out there that are fully led by AI software and will just tak
 In addition, I always provide a variety of resolution options for users to choose from so that they aren't forced into whatever I decide to be the best.
 </details>
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s10.gifyu.com/images/SoHng.png)
 
-## ![](https://s11.gifyu.com/images/SgFMA.jpg)**Reshade**
+## **Reshade**
 
 - [Constellation Reshade](https://www.nexusmods.com/starfield/mods/103)
 
@@ -299,7 +299,7 @@ In addition, I always provide a variety of resolution options for users to choos
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAQ.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
+![](https://s12.gifyu.com/images/SoHnW.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 
@@ -307,10 +307,8 @@ If you enjoy this collection, **PLEASE** endorse our mods and collections.
 
 Special thanks to these guys who helped make this collection what it is. And everyone on the Nexus and the Starfield modding Discords.
 
+- v2s Collections Team
 - [Xilamonstrr](https://www.nexusmods.com/starfield/users/126616023)
-- [FronkenZeepa](https://www.nexusmods.com/cyberpunk2077/users/72680523)
-- DovaDigital
-- Fenrir
 - [canliberk](https://www.nexusmods.com/users/5027009)
 - [Pickysaurus](https://www.nexusmods.com/site/users/31179975)
 - [IxionXVII](https://www.nexusmods.com/users/6922776)
