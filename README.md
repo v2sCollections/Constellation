@@ -1,3 +1,29 @@
+## ![](https://s11.gifyu.com/images/Sgd38.jpg)Hey guys
+
+**Starfield Patch 1.13.61 is here**
+
+The collections have been unlisted from Nexus while we work on the update to avoid users accidentally downloading a non-working collection.
+
+## 1) If you accidentally update:
+
+If you would like to continue playing the modded game you have 2 options
+
+**Option 1**)  Downgrade the version of the game through **Steam**.
+
+- **Downgrading** You can follow this Guide> [**TBA**]()
+
+**Option 2**) Download the downgraded files.
+
+- **Downloading** You can follow this Guide> [**TBA**]()
+
+## 2) Preventing Future Updates:
+
+- **Preventing Steam updates** You can follow this Guide> [**HERE**](https://github.com/v2sCollections/Constellation/blob/main/Guides.md#other-guides)
+
+Patch notes> [**HERE**](https://x.com/BethesdaStudios/status/1826009323342016643)
+
+![](https://s11.gifyu.com/images/Sgd38.jpg)
+
 ### **✅Compatible With Patch 1.12.36 on Steam**
 
 ### **⛔Not Compatible with the Gampass Edition**
@@ -38,7 +64,7 @@ This collection is extensively tested with every new version, because we want to
 
 ![](https://s5.gifyu.com/images/SiRKn.png)
 
-![](https://s11.gifyu.com/images/SgdA0.png)
+![](https://s10.gifyu.com/images/SoHnI.png)
 
 [![](https://s6.gifyu.com/images/S6n82.png)](https://www.youtube.com/channel/UC3Jkn28bHzHQVoVSyz4v8kA)
 
@@ -57,7 +83,7 @@ This collection is extensively tested with every new version, because we want to
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAi.png)
+![](https://s10.gifyu.com/images/SoHnq.png)
 
 - (SFSE) Script Extender.
 - (CCL) Constellation Collection Loader. &#x20;
@@ -81,7 +107,7 @@ This collection is extensively tested with every new version, because we want to
 - Support for other Modular Expansion Packs.
 
 \
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdAu.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s12.gifyu.com/images/SoHnR.png)
 
 <details><summary>⛔DO NOT</summary>
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
@@ -136,7 +162,7 @@ https://www.youtube.com/watch?v=TC0GbFmp6Kw
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAq.png)
+![](https://s12.gifyu.com/images/SoHnl.png)
 
 <details><summary>⏰ INSTALL TIME</summary>
 ***
@@ -394,7 +420,7 @@ Power Presets
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
+![](https://s10.gifyu.com/images/SoHnd.png)**⛔ STOP.** Do not try to remove or uninstall things by hand. Do not try to reinstall everything. Do not try to reinstall Vortex, Starfield, or the collection when you see errors on Vortex.
 
 - You can find the full Troubleshooting list on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Troubleshooting/FAQ](https://github.com/2077v2/Constellation/blob/main/Troubleshooting%20FAQ.md)&#x20;
 - You can find all our guides on our [Discord](https://discord.gg/v2-s-collections-1076179431195955290) and here [Guides](https://github.com/2077v2/Constellation/blob/main/Guides.md)
@@ -451,7 +477,7 @@ The mod we use to enable Achievements while playing the modded version of the ga
 **5**) Make sure **Steam** is always open before you launch the game from **Vortex**
 </details>
 
-![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s11.gifyu.com/images/SgdA7.png)
+![](https://s11.gifyu.com/images/Sgd38.jpg)![](https://s10.gifyu.com/images/SoHng.png)
 
 ### ![](https://s10.gifyu.com/images/StNdD.png)![](https://s6.gifyu.com/images/S4Ozq.jpg)
 
@@ -467,7 +493,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-## ![](https://s6.gifyu.com/images/S8WCf.png)Features
+## ![](https://s12.gifyu.com/images/SoHlI.png)Features
 
 > Buffs and Nerfs to balance the gameplay.
 
@@ -479,9 +505,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-![](https://s6.gifyu.com/images/S8WCk.png)
-
-## Features
+## ![](https://s12.gifyu.com/images/SoHlh.png)Features
 
 > Many fixes to vanilla game bugs.
 
@@ -513,9 +537,7 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-![](https://s6.gifyu.com/images/S8WCw.png)
-
-## Features
+## ![](https://s12.gifyu.com/images/SoHll.png)Features
 
 > The collection comes with many improvements to the graphics from upscaled textures to custom textures and our own reshade Starfield has never looked better. And if this isnt enough you can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end** **systems only).**
 >
@@ -594,9 +616,7 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-![](https://s6.gifyu.com/images/S8WCC.png)
-
-## Features
+## ![](https://s12.gifyu.com/images/SoHld.png)Features
 
 > The collection comes with many improvements and adjustments to the core gameplay of Starfield. This will suit all playstyles wether you want to cruise your way through the game or you want a hardcore experiance the collection has it all.
 
@@ -753,9 +773,7 @@ These perks "control" the gifts a companion give you when following you, origina
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-![](https://s6.gifyu.com/images/S8W0M.png)
-
-## Features
+## ![](https://s10.gifyu.com/images/SoHlQ.png)Features
 
 > The collection comes with many quality-of-life improvements.
 
@@ -783,7 +801,7 @@ These perks "control" the gifts a companion give you when following you, origina
 
 ***
 
-## ![](https://s6.gifyu.com/images/S8WFA.png)Features
+## ![](https://s12.gifyu.com/images/SoHln.png)Features
 
 > Many different improvements to the UI click below to see all the changes.
 
@@ -818,8 +836,6 @@ These perks "control" the gifts a companion give you when following you, origina
 ### Features
 
 > So many things to list. Customize every part of your HUD and Menu in the game. Check the drop downs below for more infomation.
->
->
 
 <details><summary>STARUI INVENTORY</summary>
 ![](https://s12.gifyu.com/images/StqyM.png)[**StarUI Inventory**](https://www.nexusmods.com/starfield/mods/773) improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category and subcategories as left sidebar. Many quality of life features!
@@ -971,7 +987,7 @@ These perks "control" the gifts a companion give you when following you, origina
 </details>
 
 <details><summary>STARUI CONFIGURATOR</summary>
-![](https://s10.gifyu.com/images/Stqy0.png)[**StarUI Configurator**](https://www.nexusmods.com/starfield/mods/5467)** **Easily configure all settings with a well aligned and easy to use interface. Provides help texts, sliders, dropdowns, toggle switcher and specialized column-picker and color-picker widgets to make individualizing your StarUI mod an ease.
+![](https://s10.gifyu.com/images/Stqy0.png)[**StarUI Configurator**](https://www.nexusmods.com/starfield/mods/5467)\*\* \*\*Easily configure all settings with a well aligned and easy to use interface. Provides help texts, sliders, dropdowns, toggle switcher and specialized column-picker and color-picker widgets to make individualizing your StarUI mod an ease.
 
 - Allows you to easily configure all settings from [**StarUI Inventory**](https://www.nexusmods.com/starfield/mods/773), [**StarUI HUD**](https://www.nexusmods.com/starfield/mods/3444), [**StarUI Workbench**](https://www.nexusmods.com/starfield/mods/4966) and [**StarUI Outpost**](https://www.nexusmods.com/starfield/mods/5766).
 - Supports individual inputs for number, boolean, or text values
@@ -990,7 +1006,7 @@ These perks "control" the gifts a companion give you when following you, origina
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-## ![](https://s6.gifyu.com/images/S8WCT.png)Features
+## ![](https://s12.gifyu.com/images/SoHlv.png)Features
 
 > Many Cheats allow for full customization of the following gameplay elements.
 
@@ -1108,7 +1124,7 @@ These perks "control" the gifts a companion give you when following you, origina
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-## ![](https://s6.gifyu.com/images/S8WFb.png)Features
+## ![](https://s12.gifyu.com/images/SoHlu.png)Features
 
 > Many immersive features added to the game. From NPC engagement to many new world features.
 
@@ -1132,7 +1148,7 @@ These perks "control" the gifts a companion give you when following you, origina
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-## ![](https://s6.gifyu.com/images/S8WFp.png)Features
+## ![](https://s10.gifyu.com/images/SoHl7.png)Features
 
 > The collection comes with many buffs and nerfs to combat and weapons to balance the game.
 
@@ -1263,13 +1279,13 @@ This mod also adds a "casting effect" to this power, which looks like a white fl
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-## ![](https://s6.gifyu.com/images/S8WCi.png)Features
+## ![](https://s12.gifyu.com/images/SoHlm.png)Features
 
 > Enhanced body features+Custom sculpted bodys.
 
 ![](https://s10.gifyu.com/images/StNdY.png)
 
-## ![](https://s6.gifyu.com/images/S8W0o.png)Features
+## ![](https://s12.gifyu.com/images/SoHlk.png)Features
 
 > Lite NSFW mods.&#x20;
 
@@ -1279,9 +1295,7 @@ This mod also adds a "casting effect" to this power, which looks like a white fl
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-![](https://s6.gifyu.com/images/S8WFq.png)
-
-## Features
+## ![](https://s12.gifyu.com/images/SoHlq.png)Features
 
 > A few new additions to ship building, pilioting and other ship parameters.
 
@@ -1460,9 +1474,7 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 
 ![](https://s10.gifyu.com/images/StNdD.png)
 
-![](https://s6.gifyu.com/images/S8W03.png)
-
-## Features
+## ![](https://gifyu.com/image/SoHlW)![](https://s10.gifyu.com/images/SoHlW.png)Features
 
 > We use a few tools in the collection to ensure that the collection is easy to use and user friendly.
 
@@ -1547,11 +1559,11 @@ You are all done Remember that upon Collection updates this file will be overwri
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAl.png)⛔ I recommend **NOT** installing extra mods that are not part of the collection but we have a dedicated channel in Discord for Altered Collections.
+![](https://s10.gifyu.com/images/SoHnc.png)⛔ I recommend **NOT** installing extra mods that are not part of the collection but we have a dedicated channel in Discord for Altered Collections.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAI.png)Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by us.
+![](https://s12.gifyu.com/images/SoHnu.png)Please do not forget that when you install any extra collections, it's your responsibility and they may not work as intended unless curated by us.
 
 You can use our 4k add-on graphics pack [HERE](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection) **(This is for high-end systems only**)
 
@@ -1593,7 +1605,7 @@ Install guide for our Constellation Star Wars Collection.
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAn.png)\
+![](https://s10.gifyu.com/images/SoHn4.png)\
 [Constellation Tweaks Performance Boost](https://www.nexusmods.com/starfield/mods/2624/?tab=description). Will improve performance on most systems. When in-game go to **"Settings"** and on the **"Display"** tab change the **"Graphics Preset"** to **"High"**.
 
 <details><summary>CLICK HERE TO SEE OUR PERFORMANCE GUIDE</summary>
@@ -1652,7 +1664,7 @@ Below you will find the **DLSS** and **Frame Generation (FG)** options. These op
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAW.png)&#x20;
+![](https://s12.gifyu.com/images/SoHnn.png)&#x20;
 
 <details><summary>CLICK FOR SYSTEM REQUIREMENTS</summary>
 - VRAM> 8GB
@@ -1668,7 +1680,7 @@ Below you will find the **DLSS** and **Frame Generation (FG)** options. These op
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
-![](https://s11.gifyu.com/images/SgdAQ.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
+![](https://s12.gifyu.com/images/SoHnW.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection I'm sure we can figure it out.
 
