@@ -316,7 +316,7 @@ I can overclock and stress test your **GPU**.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-## Downgrading from 1.12.30 to 1.11.36 10/06/2024
+## Downgrading from 1.13.61 to 1.12.36 23/08/2024
 
 To downgrade the game you will need to enter 2 codes, these need to be done one at a time
 
@@ -334,14 +334,13 @@ steam://open/console/
 **4**) Enter this command into the console and run it.
 ```
 download_depot 1716740 1716742
-2012050891308553085
-1972596657003378942 
+1116022521889542699 
 ```
 
 **5**) Now repeat the process with the following code
 ```
 download_depot 1716740 1716741
-6859384585110500667
+6313122791318761098
 ```
 
 **6**) Once both depots are downloaded, you can then navigate to
@@ -356,6 +355,18 @@ C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
 **7**) Copy what is inside of the folders named depot_# into the Starfield game folder and overwrite the files. Repeat for both folders.
 
 **8**) Once you have done both you can **Deploy** the Mods in **Vortex** and continue to play the Modded Version of the game.
+
+## Starfield Digital Premium Edition Upgrade
+```
+download_depot 1716740 2401180 1350450549444461803
+```
+***NOTE*** Starfield Digital Premium Edition Upgrade, required only if you own this.
+
+## Starfield Preorder Bonus
+```
+download_depot 1716740 2401181 9009164480135609609
+```
+***NOTE*** Starfield Preorder Bonus, required only if you own this.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
