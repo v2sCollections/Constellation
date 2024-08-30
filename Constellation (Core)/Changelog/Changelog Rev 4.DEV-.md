@@ -1,6 +1,6 @@
 ![img](https://s12.gifyu.com/images/SoH8R.png)
 
-## [HEY GUYS Rev 2 is HERE](https://)
+## [HEY GUYS Rev 4 is HERE](https://)
 
 ## HOW TO UPDATE
 
@@ -21,9 +21,8 @@ N/A
 ## UPDATED
 
 ### CORE
-- [Starfield Script Extender (SFSE)](https://www.nexusmods.com/starfield/mods/106)
-- [Address Library for SFSE Plugins](https://www.nexusmods.com/starfield/mods/3256)
-- [BetterConsole - Console Replacer and MOD Menu](https://www.nexusmods.com/starfield/mods/3683?tab=description)
+
+N/A
 
 ## NEW MODS ADDED
 
