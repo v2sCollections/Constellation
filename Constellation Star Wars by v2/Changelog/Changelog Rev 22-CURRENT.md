@@ -21,7 +21,6 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL 
 - After the update you may see a notification in Vortex for depreciated Fomods all you have to do is select "FIX".
 - If you see any errors relating to a mod in Vortex right-click the mod and select reinstall.
 - This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
-- Fixed Some Fomod Structures.
 
 ## UPDATED
 

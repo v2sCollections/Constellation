@@ -1,6 +1,6 @@
 ![img](https://s12.gifyu.com/images/SoH8R.png)
 
-## [HEY GUYS Rev 2 is HERE](https://)
+## [HEY GUYS Rev 3 is HERE](https://)
 
 ## HOW TO UPDATE
 
