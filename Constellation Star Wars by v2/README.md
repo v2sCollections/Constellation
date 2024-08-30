@@ -1,34 +1,8 @@
-## ![](https://s11.gifyu.com/images/Sgd38.jpg)Hey guys
-
-**Starfield Patch 1.13.61 is here**
-
-The collections have been unlisted from Nexus while we work on the update to avoid users accidentally downloading a non-working collection.
-
-## 1) If you accidentally update:
-
-If you would like to continue playing the modded game you have 2 options
-
-**Option 1**)  Downgrade the version of the game through **Steam**.
-
-- **Downgrading** You can follow this Guide> [**TBA**]()
-
-**Option 2**) Download the downgraded files.
-
-- **Downloading** You can follow this Guide> [**TBA**]()
-
-## 2) Preventing Future Updates:
-
-- **Preventing Steam updates** You can follow this Guide> [**HERE**](https://github.com/v2sCollections/Constellation/blob/main/Guides.md#other-guides)
-
-Patch notes> [**HERE**](https://x.com/BethesdaStudios/status/1826009323342016643)
-
-![](https://s11.gifyu.com/images/Sgd38.jpg)
-
-### **✅Compatible With Patch 1.12.36 on Steam**
+### **✅Compatible With Patch 1.13.61 on Steam**
 
 ### **⛔Not Compatible with the Gampass Edition**
 
-![](https://s6.gifyu.com/images/S4ATa.jpg)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
+![](https://s10.gifyu.com/images/SoHr4.png)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [CONSTELLATION Star Wars ](https://)for **Starfield**.
 
 <details><summary>ABOUT ME</summary>
 Hey Chooms! This is a little bit about me and why I started curating mod collections
