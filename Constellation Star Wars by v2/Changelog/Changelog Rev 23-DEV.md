@@ -1,6 +1,6 @@
-![img](https://s11.gifyu.com/images/SgCoI.png)
+![img](https://s12.gifyu.com/images/SoH8R.png)
 
-## [HEY GUYS Rev 22 is COMING SOON](https://)
+## [HEY GUYS Rev 23 is COMING SOON](https://)
 
 ## HOW TO UPDATE
 
@@ -21,7 +21,6 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL 
 - After the update you may see a notification in Vortex for depreciated Fomods all you have to do is select "FIX".
 - If you see any errors relating to a mod in Vortex right-click the mod and select reinstall.
 - This update requires you to run the Plugins Manager from Vortex and select the new ESM Mods that have been added.
-- Fixed Some Fomod Structures.
 
 ## UPDATED
 
@@ -31,44 +30,39 @@ CONSTELLATION USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL 
 - [Console Command Runner Updated](https://www.nexusmods.com/starfield/mods/7318)
 - [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658)
 - [BetterConsole - Console Replacer and MOD Menu](https://www.nexusmods.com/starfield/mods/3683?tab=description)
-### OTHER
-- [Coruscant Police Uniform (Neon and Ryujin Security Replacer)](https://www.nexusmods.com/starfield/mods/9313?tab=description)
-- [Leia Outfits (Star Wars)](https://www.nexusmods.com/starfield/mods/8998)
-- [Star Wars Melee Weapon Replacer](https://www.nexusmods.com/starfield/mods/9016)
-- [Boba Fett 1313 (Star Wars)](https://www.nexusmods.com/starfield/mods/9193)
-- [Immersive Sabers](https://www.nexusmods.com/starfield/mods/3795?tab=description)
-- [UC Empire](https://www.nexusmods.com/starfield/mods/7223?tab=description)
-- [Bossk and the Trandoshan Mercs](https://www.nexusmods.com/starfield/mods/8852)
-- [Star Wars Aliens](https://www.nexusmods.com/starfield/mods/8518?tab=description)
-- [Ahsoka Outfit](https://www.nexusmods.com/starfield/mods/8918?tab=description)
-- [Constellation Menu Backgrounds (Star Wars Edition)](https://www.nexusmods.com/starfield/mods/4801?tab=description)
-- [Star Wars YT-1300 Millennium Falcon 1977](https://www.nexusmods.com/starfield/mods/8703?tab=description)
-- [Star wars T-65B X-Wing 1977](https://www.nexusmods.com/starfield/mods/8205?tab=description)
-- [UC Empire](https://www.nexusmods.com/starfield/mods/7223)
-- [BD-1 Vasco](https://www.nexusmods.com/starfield/mods/8235?tab=description)
-- [Aurebesh - Star Wars Conversion](https://www.nexusmods.com/starfield/mods/6032?tab=description)
-- [Play as a Chiss](https://www.nexusmods.com/starfield/mods/2547?tab=description)
 
+### OTHER
+- [Star Wars Contraband Replacer](https://www.nexusmods.com/starfield/mods/7855?tab=description)
+- [Star Wars Data pads](https://www.nexusmods.com/starfield/mods/6844)
+- [Bespin Security Uniform (Trident Security Replacer)](https://www.nexusmods.com/starfield/mods/9325)
+- [Coruscant Police Uniform (Neon and Ryujin Security Replacer)](https://www.nexusmods.com/starfield/mods/9313)
+- [Outer Rim Artillery - Star Wars Weapon Replacer](https://www.nexusmods.com/starfield/mods/8903)
+- [Star Wars Bounty Hunter Pack (Boba Fett and Friends)](https://www.nexusmods.com/starfield/mods/9147)
+- [Boba Fett 1313 (Star Wars)](https://www.nexusmods.com/starfield/mods/9193)
+- [Star Wars Aliens](https://www.nexusmods.com/starfield/mods/8518?tab=description)
+- [Star Wars Aliens](https://www.nexusmods.com/starfield/mods/8518)
+- [Bossk and the Trandoshan Mercs](https://www.nexusmods.com/starfield/mods/8852)
+- [UC Empire](https://www.nexusmods.com/starfield/mods/7223)
+- [Star Wars The Mandalorian N-1 Starfighter 2021](https://www.nexusmods.com/starfield/mods/9232?tab=description)
+- [Aurebesh - Star Wars Conversion](https://www.nexusmods.com/starfield/mods/6032)
+- [Star Wars J-type 327 Nubian Royal Starship 1999](https://www.nexusmods.com/starfield/mods/8914?tab=description)
+- [Star Wars Naboo N-1 Starfighter 1999](https://www.nexusmods.com/starfield/mods/9063?tab=description)
+- [Star Wars TIE Advanced x1 1977](https://www.nexusmods.com/starfield/mods/9399?tab=description)
+- [Star Wars YT-1300 Millennium Falcon 1977](https://www.nexusmods.com/starfield/mods/8703?tab=description)
+- [Star Wars TIE Advanced x1 1977](https://www.nexusmods.com/starfield/mods/9399)
 
 ## REMOVED
-
-- [Plugins.txt Enabler](https://www.nexusmods.com/starfield/mods/4157)
-- [Imperial crest MAST Tower Logo Replacer](https://www.nexusmods.com/starfield/mods/4816)
+- [Star Wars Astromech mini bots](https://www.nexusmods.com/starfield/mods/5056)
 
 ## NEW MODS ADDED
-
-- [Grogu Plushie Remade](https://www.nexusmods.com/starfield/mods/10031?tab=description)
-- [Obi-Wan Robes](https://www.nexusmods.com/starfield/mods/6723?tab=description)
-- [The Mandalorian](https://www.nexusmods.com/starfield/mods/4450?tab=description)
-- [Hondo Ohnaka and the Crimson Fleet Pirates (Star Wars)](https://www.nexusmods.com/starfield/mods/10017?tab=description)
-- [Sith Cult Outfits (Standalone or Varuun Replacer)](https://www.nexusmods.com/starfield/mods/10193?tab=description)
-- [Star Wars - Darth Vader Outfit](https://www.nexusmods.com/starfield/mods/8921?tab=description)
-- [Star Wars - Scout trooper](https://www.nexusmods.com/starfield/mods/8904?tab=description)
-- [Star Wars - Mimban Stormrooper](https://www.nexusmods.com/starfield/mods/8965?tab=description)
-- [Star Wars - BB Echo Armor](https://www.nexusmods.com/starfield/mods/9118?tab=description)
-- [Star Wars - Shoretrooper](https://www.nexusmods.com/starfield/mods/8822?tab=description)
-- [Star Wars City additions](https://www.nexusmods.com/starfield/mods/9822?tab=description)
-- [Star Wars TIE Advanced x1 1977](https://www.nexusmods.com/starfield/mods/9399?tab=description)
+- [Star Wars Droids](https://www.nexusmods.com/starfield/mods/11302?tab=description)
+- [Star wars T-65B X-wing Starfighter (ElectioniStar) NEW](https://www.nexusmods.com/starfield/mods/11303?tab=description)
+- [Star Wars - Death Trooper](https://www.nexusmods.com/starfield/mods/10864?tab=description)
+- [Star Wars - Imperial Ground Crew](https://www.nexusmods.com/starfield/mods/10817?tab=description)
+- [Star Wars - Mudtrooper](https://www.nexusmods.com/starfield/mods/10765?tab=description)
+- [Star Wars - Juggernaut Pilot](https://www.nexusmods.com/starfield/mods/10674?tab=description)
+- [Star Wars - Tank Trooper](https://www.nexusmods.com/starfield/mods/10598?tab=description)
+- [Star Wars - Imperial Armored Commando](https://www.nexusmods.com/starfield/mods/11314?tab=description)
 
 ## BUGS
 
