@@ -26,6 +26,9 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 - If you see any errors relating to a mod in Vortex right-click the mod and select reinstall.
 - Collections have recieved a refresh with a new logo and icons.
 
+## CHANGES
+- NEW Body mod
+
 
 ## UPDATED
 
@@ -75,6 +78,7 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 - [Rabbit's Real Lights Gagarin](https://www.nexusmods.com/starfield/mods/11076)
 - [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093)
 - [Capital Planet Desktop Globes](https://www.nexusmods.com/starfield/mods/10134)
+- [Useful Brigs](https://www.nexusmods.com/starfield/mods/8139)
 
 ## REMOVED
 - [Baka NPCs Always Drop Their Equipped Armor](https://www.nexusmods.com/starfield/mods/723)
@@ -84,6 +88,11 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 - [See Distances in Light Years](https://www.nexusmods.com/starfield/mods/8449)
 - [Improved Follower Behavior](https://www.nexusmods.com/starfield/mods/9510?tab=description)
 - [StarUI HUD Rev-8 Patch](https://www.nexusmods.com/starfield/mods/11116?tab=description)
+- [Hide Empty Ship Habs (and StarUI Ship Builder Workaround)](https://www.nexusmods.com/starfield/mods/9336?tab=description)
+- [Flashlight texture swap](https://www.nexusmods.com/starfield/mods/402)
+- [Legendary Effect Modification](https://www.nexusmods.com/starfield/mods/4114)
+- [Better Vanilla Nude Bodies](https://www.nexusmods.com/starfield/mods/5808?tab=description)
+- [Female Underwear Replacement](https://www.nexusmods.com/starfield/mods/4997)
 
 ## NEW MODS ADDED
 - [Accurate Aiming](https://www.nexusmods.com/starfield/mods/5558?tab=description)
@@ -92,10 +101,8 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 - [CINE FIDELITY LUTS](https://www.nexusmods.com/starfield/mods/3767?tab=description)
 - [Rabbit's Real Lights Cydonia](https://www.nexusmods.com/starfield/mods/11224)
 - [Rabbit's Real Lights HopeTown](https://www.nexusmods.com/starfield/mods/11381)
-- [Rabbits's Real Lights HopeTown expanded](https://www.nexusmods.com/starfield/mods/11410)
 - [Rabbit's Real Lights Neon](https://www.nexusmods.com/starfield/mods/11498)
 - [Rabbit's Real Lights Landing Pads](https://www.nexusmods.com/starfield/mods/11541)
-- [Rabbit's Real Lights New Homestead](https://www.nexusmods.com/starfield/mods/11590)
 - [Rabbit's Real Lights Paradiso](https://www.nexusmods.com/starfield/mods/11701)
 - [Rabbit's Real Lights Dazra](https://www.nexusmods.com/starfield/mods/11933)
 - [Rabbit's Real Lights Eleos Retreat](https://www.nexusmods.com/starfield/mods/12636)
@@ -103,6 +110,12 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 - [Landing Bay Cargo Access](https://www.nexusmods.com/starfield/mods/11972)
 - [Sarah Morgan Dialogue Enhanced](https://www.nexusmods.com/starfield/mods/12381)
 - [Configurable Level Limit](https://www.nexusmods.com/starfield/mods/12661)
+- [Luxor's realistic Flashlight HD](https://www.nexusmods.com/starfield/mods/11036?tab=description)
+- [Luxor's Green Grass](https://www.nexusmods.com/starfield/mods/10955?tab=description)
+- [Flying leaves fix](https://www.nexusmods.com/starfield/mods/10333?tab=description)
+- [CharGenMenu](https://www.nexusmods.com/starfield/mods/6850?tab=description)
+- [ZBB - ZoNEs Beautiful Body](https://www.nexusmods.com/starfield/mods/11832)
+- [STARQUEEN - Female Skin Textures - BBL - ZBB - VBB - CRT](https://www.nexusmods.com/starfield/mods/6293)
 
 ## BUGS
 
