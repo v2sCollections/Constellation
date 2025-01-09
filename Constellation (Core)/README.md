@@ -1,4 +1,4 @@
-**✅Compatible With Patch 1.13.61 on Steam**
+### **✅Compatible With Patch 1.14.74 on Steam**
 
 ### **⛔Not Compatible with the Gampass Edition**
 
