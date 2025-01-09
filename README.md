@@ -1,11 +1,11 @@
-### **✅Compatible With Patch 1.13.61 on Steam**
+**✅Compatible With Patch 1.14.74 on Steam**
 
 ### **⛔Not Compatible with the Gampass Edition**
 
 ![](https://s12.gifyu.com/images/SoH8R.png)Hey, Guys [v2](https://www.nexusmods.com/users/123334373) here this is [Constellation](https://) for **Starfield**.
 
 <details><summary>ABOUT ME</summary>
-Hey Chooms! This is a little bit about me and why I started curating mod collections
+![](https://s10.gifyu.com/images/StNdD.png)Hey Chooms! This is a little bit about me and why I started curating mod collections
 
 Back in the 90s, I was a young kid, and I never slowed down for more than two seconds.&#x20;
 
@@ -18,16 +18,54 @@ Skip forward 10 years and games like Red Dead Redemption, GTA Vice City and Need
 Skip forward to the current day. The time when we can create new experiences in the games that we already love what could be better than this? Modding is really a cool way to add so much more. But it's not always easy to get all those cool mods to work together with no issues. This inspired me to combine my passion for helping people, with a desire to make games that use mods and work as seamlessly as they can.
 
 So join us choombah and come along for the ride.
+
+![](https://s10.gifyu.com/images/StNdD.png)
 </details>
 
 <details><summary>MY VISION FOR THIS COLLECTION</summary>
-This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Starfield** experience possible.
+![](https://s10.gifyu.com/images/StNdD.png)This isn't just a mod list we have slapped together this is a whole new world of **Starfield** with hundreds of hours spent building, configuring, modding, and testing to create the best **Starfield** experience possible.
 
 My Vision for all my Collections is for you to be able to play the game any way you want. I won't force you to play a certain way I want you to have the tools to create your own experience so you can get the most out of your game.\
 \
 Constellation is the Ultimate experience you have access to everything you could ever need or want. Whether it's taking screenshots in photo mode, playing the most extreme difficulty, or cheating your way through Starfield this collection has it all and I mean all.\
 \
 And that's it I hope to see you in the Cosmos but now it's time for me to go.
+
+![](https://s10.gifyu.com/images/StNdD.png)
+</details>
+
+<details><summary>CLICK HERE FOR MORE COLLECTIONS IN THE SERIES</summary>
+![](https://s12.gifyu.com/images/Soqj6.png)![](https://s10.gifyu.com/images/StNdD.png)
+
+### [**Constellation**](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)&#x20;
+
+**🎮 The largest & most comprehensive Collection for Starfield ⭐**
+
+### [**Constellation Star Wars**](https://next.nexusmods.com/starfield/collections/smp1fz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)&#x20;
+
+**🎮Full Star Wars Overhaul 💀 Add to our main Collection or Standalone ⭐**
+
+### [**Constellation 4k Graphics Pack**](https://next.nexusmods.com/starfield/collections/7ou329?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)&#x20;
+
+**💻4k Pack by XilaMonstrr & v2 for our Constellation Collections🎮 But is also great alongside any mod collection⭐**
+
+### [**Constellation 2k Graphics Pack**](https://next.nexusmods.com/starfield/collections/n4hb8v?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)&#x20;
+
+**🎮 2k Pack by XilaMonstrr & v2 ⭐**
+
+*⛔ If you use our main *[*Constellation collection*](https://next.nexusmods.com/starfield/collections/npk3lv?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)* these mods are already included⛔*
+
+### [**Constellation 1k Graphics Pack**](https://next.nexusmods.com/starfield/collections/j5uhmz?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)&#x20;
+
+**💻1k Performance Pack Created for our Constellation Collections💪 But is also great alongside any mod Collection⭐**
+
+### [**Constellation (Core)**](https://next.nexusmods.com/starfield/collections/7otut2?utm_source=copy\&utm_medium=social\&utm_campaign=share_collection)
+
+**🎮Main Core Mods needed to Mod Starfield 🔮**
+
+*⛔ All of our collections already contain these mods⛔*
+
+![](https://s10.gifyu.com/images/StNdD.png)
 </details>
 
 ### [Collection not working ❓](https://)
@@ -47,7 +85,7 @@ This collection is extensively tested with every new version, because we want to
 - These are the best mods from the most talented mod authors and are a must-have to immerse yourself in **Starfield**.
 - The most extensive mod collection on Nexus for **Starfield**.
 - Easy to follow step-by-step installation guide.
-- Only-[5](https://)Gb in download size for [170](https://)+ Mods. Optional Mods add another [10](https://)Gb
+- Only-[5](https://)Gb in download size for [180](https://)+ Mods. Optional Mods add another [10](https://)Gb
 - Mods specifically created for the collection.
 - Setup Video- [HERE](https://youtu.be/4T8pOWYWu5Q?si=27GVbgBmVvDWOdm_)
 - Continuous Support in Comments and on [Discord](https://discord.gg/v2-s-collections-1076179431195955290).
@@ -1575,7 +1613,7 @@ Install guide for our Constellation Star Wars Collection.
 **2**) Add to your existing Constellation Collection Profile.
 </details>
 
-![](https://s6.gifyu.com/images/S4ewH.png)
+![](https://s12.gifyu.com/images/Soqj6.png)
 
 ![](https://s11.gifyu.com/images/Sgd38.jpg)
 
