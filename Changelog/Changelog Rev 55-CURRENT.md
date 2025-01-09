@@ -56,9 +56,7 @@ STAR WARS USERS MAKE SURE YOU UPDATE BOTH PACKS. IGNORE VORTEX ERRORS UNTIL YOU 
 - [No Galaxy Map Vignette](https://www.nexusmods.com/starfield/mods/1268)
 - [No Pause Menu Vignette](https://www.nexusmods.com/starfield/mods/3684)
 - [60 FPS - Smooth UI](https://www.nexusmods.com/starfield/mods/350)
- -[Show Date When Waking Up](https://www.nexusmods.com/starfield/mods/9288)
-
-### NPC
+-[Show Date When Waking Up](https://www.nexusmods.com/starfield/mods/9288)
 
 ### OTHER
 - [Landing Animation Reloaded](https://www.nexusmods.com/starfield/mods/7569)
