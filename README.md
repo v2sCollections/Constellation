@@ -1,4 +1,4 @@
-**✅Compatible With Patch 1.14.74 on Steam**
+### **✅Compatible With Patch 1.14.74 on Steam**
 
 ### **⛔Not Compatible with the Gampass Edition**
 
@@ -529,6 +529,7 @@ Prepare for an adventure like no other, where the stars themselves rewrite their
 - Fixes an issue with NPCs taking too long to blink.
 - Fixes the mantling animation.
 - Fixes a bug in third person where the player's head is permanently stuck facing the left or right after jumping while sprinting.
+- Fixes the flying leaves in-game.
 
 ### [Starfield Community Patch](https://)
 
@@ -557,26 +558,28 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 
 <details><summary>CLICK FOR MORE DETAILS</summary>
 - Reshade included.
-- Reshade Preset.
+- [Constellation Reshade](https://www.nexusmods.com/starfield/mods/103) Preset.
 - Constellation Tweaks Performance Boost.
 - 10+ Animated Main Menu Screens.
 - 20+ Splash Screens.
-- Removes the colour filters from the game, making the colours more uniformly neutral with deeper blacks. Two options to choose from.
 - Cropped and upscaled loading screens for ultrawide monitors
 - Removes photo mode boundaries, and enhances sliders - for ultimate space screen-archery!
 - Removes the fog that trails your ship.
+- Over 1500 new Lights have been retextured in many locations of the game.
+- Retextured grass.
+- Retextured flashlight.
 
-## Removes the vignette from the following
+## Custom LUT and Custom INI
+
+- We have included a custom LUT and INI file that completely changes the visual quality of **Starfield**, paired with our Reshade the game looks incredible, check out the pictures below.
+
+## ![](https://s7.gifyu.com/images/SX5u5.png)Removes the vignette from the following
 
 - Quick (favorites) menu
 - Galaxy map
 - Scanner
 - Pause menu
 - Data menu open/close animation
-
-## colour
-
-- [Constellation Reshade](https://www.nexusmods.com/starfield/mods/103)
 
 ## Upscaled Animations
 
@@ -621,6 +624,13 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 - [Fires](https://www.nexusmods.com/starfield/mods/340)
 - [Ambient fx like fog, dust, wisps, auras, smoke etc](https://www.nexusmods.com/starfield/mods/340)
 - [Prop fx like electric arcs, force fields, animated bits, etc](https://www.nexusmods.com/starfield/mods/340)
+- [Rabbit's Real Lights Cydonia](https://www.nexusmods.com/starfield/mods/11224)
+- [Rabbit's Real Lights HopeTown](https://www.nexusmods.com/starfield/mods/11381)
+- [Rabbit's Real Lights Neon](https://www.nexusmods.com/starfield/mods/11498)
+- [Rabbit's Real Lights Landing Pads](https://www.nexusmods.com/starfield/mods/11541)
+- [Rabbit's Real Lights Paradiso](https://www.nexusmods.com/starfield/mods/11701)
+- [Rabbit's Real Lights Dazra](https://www.nexusmods.com/starfield/mods/11933)
+- [Rabbit's Real Lights Eleos Retreat](https://www.nexusmods.com/starfield/mods/12636)
 </details>
 
 - ⛔**NOTE** Our main Collection comes with some optional 2k Textures. If you add the 4k Collection on top of this Collection make sure to disable the optional 2k Textures included in this Collection.
@@ -637,9 +647,11 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 - Reduced the sound of footsteps.
 - Increased the travel distance of the horizontal boost.
 - You can now tweak how fast you can climb on ladders and other objects (mantle) to your preference.
-- You can now Tactical Sprint similar to Call of Duty.
+- You can now use Tactical Sprint similar to Call of Duty.
 - You can now disable aim assist on a controller.
-- You can now convert 10 Essence to Power or Power Ranks using a hotkey. (Hotkey)Numpad9
+- You can now convert 10 Essence to Power or Power Ranks using a hotkey. (Hotkey) Numpad9
+- You can now set Gameplay Options that grant you bonus XP and bonus Skill Points per level.
+- You can now set a cap on player-level progression using the gameplay options menu.
 
 ### [Followers](https://)
 
@@ -653,6 +665,7 @@ You can see the current changelog [HERE](https://www.starfieldpatch.dev/changelo
 - Followers will no longer stop to bully the local wildlife.
 - Followers now stick close to you (1.5 meters) while you are in an airlock doorway.
 - Followers will now attempt to find a seat near you and use it. If they can't find one, they will sandbox randomly instead. They should no longer just stand and stare at you.
+- Enhances and fixes some of Sarah Morgan's dialogue in a light weight, thoughtful, lore-friendly way.
 
 ### [NPC](https://)
 
@@ -843,7 +856,7 @@ These perks "control" the gifts a companion give you when following you, origina
 
 ## StarUI
 
-![](https://s12.gifyu.com/images/StKG3.png)StarUI Series by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
+![](https://s7.gifyu.com/images/SX5RN.png)StarUI Series by [m8r98a4f2](https://www.nexusmods.com/starfield/users/13457320)
 
 ### Features
 
@@ -1155,7 +1168,7 @@ These perks "control" the gifts a companion give you when following you, origina
 - Make city info kiosk terminals in New Atlantis and Akila City useful by giving you directions to stores and other buildings.
 - Discharging firearms in settlements while not in combat causes NPCs to panic and is considered a crime.
 - Allows you to see your companion rather than the player when equipping them with gear.
-- Adds lights in the windows of buildings in New Atlantis.
+- Adds a small variety of lore-friendly and easy to use in-game music players to the decoration menu.
 </details>
 
 ![](https://s10.gifyu.com/images/StNdD.png)
@@ -1173,6 +1186,7 @@ These perks "control" the gifts a companion give you when following you, origina
 - Adds a visual shaking effect (fake recoil) when firing a weapon, thus shooting a weapon feels more weightful and impactful. Comes with a configuration book from where you can tweak shake power and duration.
 - Removes the tint, dirt, and glare from all reflex sights, making it easier to see your target.
 - Reduced multiplier for how much light affects stealth.
+- Reduced bullet spread while ADS or aiming in 3rd person by 50%, Keeps spread bonuses for using semi-auto/burst weapons.
 - Increased weapon reload speed by 25%.
 - Increased the speed of equipping weapons. It comes with various speed multipliers for you to choose from.
 - Increased the firing speed of the micro gun.
@@ -1192,6 +1206,7 @@ These perks "control" the gifts a companion give you when following you, origina
 - Reduced enemy detection in exteriors slightly.
 - Reduced the cost of Melee stamina by 25%.
 - Increases the combat slide distance. Multiple versions to choose from.
+- Prevents neutral NPCs and spaceships from turning hostile when you accidentally hit them.
 </details>
 
 ***
@@ -1316,6 +1331,7 @@ This mod also adds a "casting effect" to this power, which looks like a white fl
 - Increased the Distance at which you can transfer items from Player to Ship.
 - You can increase the number of custom landing sites you can have saved simultaneously, increasing it from the vanilla 3 sites.
 - You can sit in the pilot seat to add the captured ship to your fleet. No need to make it your home ship.
+- Adds an interactive cargo panel to each landing bay module, allowing you to access your ship's cargo hold remotely - at your ship, but outside your ship.
 
 ## [Ship Building](https://)
 
@@ -1509,7 +1525,7 @@ This mod utilizes whatever in-game Quick-Key keybinds you have set up.\\
 
 ## (CCL) Constellation Collection Loader.
 
-![](https://s10.gifyu.com/images/StNb0.png)[Constellation Collection Loader](https://www.nexusmods.com/starfield/mods/3553) by [2077v2](https://www.nexusmods.com/starfield/users/123334373)
+![](https://s13.gifyu.com/images/SX56I.png)[Constellation Collection Loader](https://www.nexusmods.com/starfield/mods/3553) by [2077v2](https://www.nexusmods.com/starfield/users/123334373)
 
 ## Features
 
@@ -1549,7 +1565,7 @@ You are all done Remember that upon Collection updates this file will be overwri
 
 ## Bethini Pie (Performance INI Editor)
 
-![](https://s10.gifyu.com/images/StNM8.png)[Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631/?tab=description) by [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
+![](https://s7.gifyu.com/images/SX56C.png)[Bethini Pie (Performance INI Editor)](https://www.nexusmods.com/site/mods/631/?tab=description) by [DoubleYouC](https://www.nexusmods.com/site/users/5045901)
 
 ### Features
 
