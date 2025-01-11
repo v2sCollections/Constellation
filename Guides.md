@@ -333,14 +333,12 @@ steam://open/console/
 
 **4**) Enter this command into the console and run it.
 ```
-download_depot 1716740 1716742
-1116022521889542699 
+TBS
 ```
 
 **5**) Now repeat the process with the following code
 ```
-download_depot 1716740 1716741
-6313122791318761098
+TBA
 ```
 
 **6**) Once both depots are downloaded, you can then navigate to
@@ -358,13 +356,13 @@ C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
 
 ## Starfield Digital Premium Edition Upgrade
 ```
-download_depot 1716740 2401180 1350450549444461803
+TBA
 ```
 ***NOTE*** Starfield Digital Premium Edition Upgrade, required only if you own this.
 
 ## Starfield Preorder Bonus
 ```
-download_depot 1716740 2401181 9009164480135609609
+TBA
 ```
 ***NOTE*** Starfield Preorder Bonus, required only if you own this.
 
@@ -378,7 +376,7 @@ download_depot 1716740 2401181 9009164480135609609
 
 To downgrade the game you will need to download the downgraded files.
 
-**1**) Navagate to the following link [Constellation Mod Remover](https://www.nexusmods.com/starfield/mods/5052)
+**1**) Navagate to the following link TBA
 
 **2**) In the optional files section, download the **Constellation Backup Files 1.11.36**.
 
