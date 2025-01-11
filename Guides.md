@@ -79,7 +79,7 @@ showlooksmenu player 1
 
 
 <details>
-<summary>Ship Power Control Tweaks (KBM)</summary>
+<summary>How to Use Ship Power Control Tweaks (KBM)</summary>
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
@@ -126,7 +126,34 @@ Stealth Power Preset
 </details>
 
 
+<details>
+<summary>How to Use Immersive Landing Ramps)</summary>
 
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+# How to Use [Immersive Landing Ramps](https://www.nexusmods.com/starfield/mods/8093?tab=description)
+
+## Description
+Whenever you land your ship at a new landing zone - or at any landing zone at which the full ship landing animation plays - your ship's landing ramp will now remain closed until you decide to open it yourself. When you land your ship at a previously known location - any landing zone at which you spawn outside your ship - your ship's landing ramp will automatically open itself so as not to trap you outside.
+
+Your ship's landing ramp can now be controlled through a variety of means:
+
+## Landing Bay Control Panels
+After installation*,  an interactive control panel will appear inside your ship's landing bay. Activating it will automatically open or close your ship's ramp. Control panel locations inside each bay vary by landing bay model. Please refer to the attached images or the list below for control panel locations.
+
+## Landing Ramp Remote
+The remote control item will be automatically deposited into your ship's cargo hold after the first time a ramp control panel as appeared inside your landing bay. The remote control is a weapon item that automatically opens and closes your ship's ramp(s) as necessary when equipped. It automatically unequips itself immediately after performing its function for easy reuse. It is classified as weapon type "other," which means it will not interfere with any guns, cutters, melee weapons, etc. you may also have equipped. The remote control can be used at any distance from your ship, as long as your ship is currently loaded. If you lose your landing ramp remote or would like to acquire another, they're also available for purchase from Henrik Zuran at Apex Electronics in the Well. If you'd like to use a console command to acquire the remote, type into your console: 'player.additem FE---82C'
+
+## Vasco Dialogue
+If you've hired Vasco to your ship's crew, you can also ask him to operate your ship's ramp for you. The dialogue prompt will appear at the top level of his dialogue tree, just underneath his trade prompt. Vasco will respond with a random line from a pool of affirmative responses I've selected, and then open or close your ship's ramp(s) as necessary. The dialogue prompt will only appear in Vasco's tree if you're within 40 meters of your ship.
+
+## Console Command
+You can use this command to emulate the functionality of the remote: cqf FE---829 "AutoOpenOrCloseLandingBay" Remember to replace the hyphens in the 8-digit quest ID in the command above with your specific index for this mod. This is different for everyone and can be found by typing 'help SP2 4 QUST' into your console and looking for the appropriate QUST ID ending in FE---829.
+
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
 
 
 ## Learning to Troubleshoot
