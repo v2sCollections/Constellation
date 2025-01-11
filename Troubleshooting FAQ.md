@@ -103,6 +103,24 @@ On the first installation, you will be able to choose your background from the i
 </details>
 
 
+<details>
+<summary>How do i open the Ship Landing Ramp</summary>
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+We use a mod for opening and closing the landing ramps on ships, this adds an immersive touch to landing your ship.
+
+You can open the landing ramp in two ways.
+
+**1**) **Control Panel** - An interactive control panel will appear inside your ship's landing bay. Activating it will automatically open or close your ship's ramp. Control panel locations inside each bay vary by landing bay model.
+
+**2**) **Landing Ramp Remote** - The remote control item will be automatically deposited into your ship's cargo hold after the first time a ramp control panel as appeared inside your landing bay. The remote control is a weapon item that automatically opens and closes your ship's ramp(s) as necessary when equipped. It automatically unequips itself immediately after performing its function for easy reuse. It is classified as weapon type "other," which means it will not interfere with any guns, cutters, melee weapons, etc. you may also have equipped. The remote control can be used at any distance from your ship, as long as your ship is currently loaded. If you lose your landing ramp remote or would like to acquire another, they're also available for purchase from Henrik Zuran at Apex Electronics in the Well. If you'd like to use a console command to acquire the remote, type into your console: 'player.additem FE---82C'
+
+![img](https://s11.gifyu.com/images/Sgd38.jpg)
+
+</details>
+
+
 
 
 ## Bugs
