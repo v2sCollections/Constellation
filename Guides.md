@@ -343,7 +343,7 @@ I can overclock and stress test your **GPU**.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-## Downgrading from 1.13.61 to 1.12.36 23/08/2024
+## Downgrading from 1.15.216 to 1.13.61 Guide Updated 23/05/2025
 
 To downgrade the game you will need to enter 2 codes, these need to be done one at a time
 
@@ -360,12 +360,12 @@ steam://open/console/
 
 **4**) Enter this command into the console and run it.
 ```
-TBS
+download_depot 1716740 1716741 7505067040770585928 
 ```
 
 **5**) Now repeat the process with the following code
 ```
-TBA
+download_depot 1716740 1716742 8815570247023315305
 ```
 
 **6**) Once both depots are downloaded, you can then navigate to
@@ -383,41 +383,15 @@ C:\Program Files (x86)\Steam\steamapps\content\app_1716740\depot_1716742
 
 ## Starfield Digital Premium Edition Upgrade
 ```
-TBA
+download_depot 1716740 2401180 1350450549444461803
 ```
 ***NOTE*** Starfield Digital Premium Edition Upgrade, required only if you own this.
 
 ## Starfield Preorder Bonus
 ```
-TBA
+download_depot 1716740 2401181 9009164480135609609
 ```
 ***NOTE*** Starfield Preorder Bonus, required only if you own this.
-
-![img](https://s11.gifyu.com/images/Sgd38.jpg)
-
-</details>
-
-
-<details>
-<summary>How to downgrade Starfield (Download Method)</summary>
-
-To downgrade the game you will need to download the downgraded files.
-
-**1**) Navagate to the following link TBA
-
-**2**) In the optional files section, download the **Constellation Backup Files 1.11.36**.
-
-**3**) Extract the the file with 7zip/WinRar
-
-**4**) Copy the contents of the **Constellation Backup Files** into your main **Starfield** directory located below
-
-```
-DRIVE LETTER:\steamapps\common\Starfield
-```
-
-**5**) Open **Vortex** and select **"Deploy"**.
-
-**6**) Launch the game.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
