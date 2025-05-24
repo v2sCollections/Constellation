@@ -343,7 +343,7 @@ I can overclock and stress test your **GPU**.
 
 ![img](https://s11.gifyu.com/images/Sgd38.jpg)
 
-## Downgrading from 1.15.216 to 1.13.61 Guide Updated 23/05/2025
+## Downgrading from 1.15.216 to 1.14.74 Guide Updated 24/05/2025
 
 To downgrade the game you will need to enter 2 codes, these need to be done one at a time
 
@@ -360,12 +360,12 @@ steam://open/console/
 
 **4**) Enter this command into the console and run it.
 ```
-download_depot 1716740 1716741 7505067040770585928 
+download_depot 1716740 1716741 751978938301675949
 ```
 
 **5**) Now repeat the process with the following code
 ```
-download_depot 1716740 1716742 8815570247023315305
+download_depot 1716740 1716742 7986310915959292882
 ```
 
 **6**) Once both depots are downloaded, you can then navigate to
